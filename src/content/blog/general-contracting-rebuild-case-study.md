@@ -17,6 +17,7 @@ faq: [{"question": "Does the same company that does water or fire mitigation als
 published_at: "2026-09-29"
 services: []
 rendered: true
+author: "Terry Robinson"
 ---
 When a home needs rebuilding after storm, water, or fire damage, the mitigation crew is only half the job. The other half, framing walls back in, hanging drywall, laying new flooring, painting, matching trim, is construction work. That's the phase where a homeowner finds out whether the company they hired can actually build, not just demolish and dry.
 

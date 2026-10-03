@@ -16,6 +16,7 @@ faq: [{"question": "How long does it take for mold to grow after a burst pipe?",
 published_at: "2026-07-17"
 services: ["water-damage-restoration", "appliance-leak-cleanup"]
 rendered: true
+author: "Terry Robinson"
 ---
 A burst pipe can dump hundreds of gallons of water into your home in under an hour. The moment you hear rushing water behind a wall, see a ceiling bulging, or step onto a floor that squishes underfoot, your first move is the same every time: **find your main water shutoff valve and turn it off**. Everything else on this checklist follows from that one action.
 

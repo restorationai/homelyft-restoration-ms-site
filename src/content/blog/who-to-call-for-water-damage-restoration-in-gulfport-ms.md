@@ -17,6 +17,7 @@ faq: [{"question": "Who should I call first for water damage restoration in Gulf
 published_at: "2026-09-11"
 services: []
 rendered: true
+author: "Terry Robinson"
 ---
 **TL;DR:** For water damage restoration in Gulfport, MS, call HomeLyft Restoration MS at (228) 284-5200. They are available 24/7, IICRC-certified in water damage restoration and structural drying, and licensed in Mississippi (RO 2728). If water is still flowing, stop the source first. If there's an electrical or gas hazard, call 911. Then call HomeLyft to handle extraction, drying, and insurance documentation.
 

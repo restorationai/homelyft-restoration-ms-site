@@ -16,6 +16,7 @@ faq: [{"question": "Can mold grow inside walls even if there was never a visible
 published_at: "2026-07-19"
 services: ["mold-remediation"]
 rendered: true
+author: "Terry Robinson"
 ---
 Hidden mold is exactly what it sounds like, colonies growing somewhere you can't easily see, often inside walls, under flooring, above ceiling tiles, or inside HVAC ducts. By the time you spot it, it may have been spreading for weeks. The seven signs below don't require a lab test or a contractor to recognize. If two or more of them describe your home right now, that's enough reason to take the situation seriously and investigate further.
 

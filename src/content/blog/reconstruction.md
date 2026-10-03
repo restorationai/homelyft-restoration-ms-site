@@ -17,6 +17,7 @@ faq: [{"question": "What is the difference between restoration and reconstructio
 published_at: "2026-10-02"
 services: []
 rendered: true
+author: "Terry Robinson"
 ---
 **TL;DR:** Reconstruction is the rebuild phase of a restoration project, the stage after water, fire, or storm damage has been mitigated and dried or cleaned. It covers framing repairs, drywall, flooring, paint, trim, and cabinetry, returning the structure to pre-loss condition. In Biloxi, where Gulf humidity and storm exposure are constant factors, reconstruction typically runs a few weeks for a single room and several months for a whole-house rebuild, and most of it is covered by a homeowner's insurance policy if the triggering event was sudden and covered.
 

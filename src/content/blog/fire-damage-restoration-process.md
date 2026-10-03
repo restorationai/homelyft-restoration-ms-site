@@ -16,6 +16,7 @@ faq: [{"question": "How long does fire damage restoration typically take from st
 published_at: "2026-07-26"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "Terry Robinson"
 ---
 Fire damage rarely stops at the burn marks. By the time the flames are out and the fire department clears the scene, a second wave of damage is already underway, smoke residue is settling into walls and ductwork, soot is reacting with moisture in the air, and the water used to fight the fire is soaking into subfloors and insulation. Understanding the restoration process from start to finish helps you ask the right questions, make faster decisions, and avoid costly mistakes while you're still in shock.
 

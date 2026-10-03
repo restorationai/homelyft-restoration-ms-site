@@ -16,6 +16,7 @@ faq: [{"question": "Does homeowners insurance cover water damage from a leaking 
 published_at: "2026-07-15"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Terry Robinson"
 ---
 Homeowners insurance *usually* covers water damage, but the word "usually" is doing a lot of work in that sentence. Whether your claim gets approved depends almost entirely on **how the water got in**, not how bad the damage is. A pipe that bursts suddenly while you're at work is almost always covered. A slow drip behind the vanity that rotted the subfloor over two years almost never is. Understanding that single distinction, sudden and accidental versus gradual and preventable, will tell you more about your policy than reading the declarations page twice.
 

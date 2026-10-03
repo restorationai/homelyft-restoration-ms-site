@@ -18,6 +18,7 @@ published_at: "2026-09-18"
 updated_at: "2026-10-03"
 services: []
 rendered: true
+author: "Terry Robinson"
 ---
 **TL;DR:** Water damage restoration in Gulfport, MS follows a four-phase process: emergency water extraction, structural drying (typically 3-5 days), moisture verification, and repair. The Gulf Coast's high humidity makes the drying phase especially critical, without proper equipment and monitoring, secondary mold growth can begin within 24-48 hours. If you have standing water or soaked building materials right now, the clock is already running.
 

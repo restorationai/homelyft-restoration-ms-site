@@ -16,6 +16,7 @@ faq: [{"question": "Can I test for black mold myself at home?", "answer": "DIY m
 published_at: "2026-07-19"
 services: ["mold-remediation"]
 rendered: true
+author: "Terry Robinson"
 ---
 Most mold you find in a home is not the toxic black mold you've heard about, but that doesn't mean it's harmless. The short answer: color alone cannot tell you whether mold is dangerous. "Black mold" is a nickname for *Stachybotrys chartarum*, a specific species that is genuinely less common than people fear. Meanwhile, dozens of other mold types, green, gray, white, even black-colored, can cause allergic reactions, respiratory irritation, and structural damage. What matters most is not the color on the wall but the moisture problem feeding it and how much surface area it has colonized.
 

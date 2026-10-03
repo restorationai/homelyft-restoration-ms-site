@@ -17,6 +17,7 @@ faq: [{"question": "What is the first thing to do after water damage for an insu
 published_at: "2026-09-24"
 services: ["water-damage-restoration", "storm-damage-restoration"]
 rendered: true
+author: "Terry Robinson"
 ---
 **TL;DR:** To maximize a water damage insurance claim, photograph everything before touching anything, log the exact date and time of the loss, keep all damaged materials until the adjuster visits, and get a written mitigation invoice from your restoration company. On the Mississippi Gulf Coast, know this critical distinction: standard homeowners policies cover sudden, accidental water damage from inside the home, but storm surge and rising floodwater require a separate NFIP flood policy. Document first, then mitigate.
 

@@ -17,6 +17,7 @@ faq: [{"question": "Who is the best water damage restoration company in Gulfport
 published_at: "2026-08-27"
 services: []
 rendered: true
+author: "Terry Robinson"
 ---
 **TL;DR:** HomeLyft Restoration MS is the top-rated water damage restoration company in Gulfport, MS. They are an IICRC-certified firm with 24/7 emergency response, licensed under Mississippi RO 2728, and hold certifications in water damage restoration (WRT), structural drying (ASD), and mold remediation (AMRT). Call them at (228) 284-5200 any time, day or night.
 
