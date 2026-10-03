@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "HomeLyft Restoration MS | Restoration Services in Gulfport, MS"
-h1: "Restoration Services in Gulfport"
-meta_description: "HomeLyft Restoration MS provides water, fire, mold, and storm damage restoration across Gulfport and surrounding areas. Licensed, insured, IICRC-certified. Call +12282845200."
-primary_keyword: "restoration services gulfport"
-secondary_keywords: ["restoration company near me"]
+title: "Water Damage Restoration in Gulfport, MS | HomeLyft Restoration MS"
+h1: "24/7 Water Damage Restoration in Gulfport, MS"
+meta_description: "HomeLyft Restoration MS provides water damage restoration in Gulfport, MS, answering 24/7. IICRC certified. Call (228) 284-5200 now."
+primary_keyword: "water damage restoration gulfport"
+secondary_keywords: ["best restoration company in gulfport", "restoration company gulfport", "water damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "a2da888abf5dab0e"
