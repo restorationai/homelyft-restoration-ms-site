@@ -65,7 +65,7 @@ export const brand = {
   certifications: ["IICRC Certified Firm", "IICRC WRT (Water)", "IICRC ASD (Structural Drying)", "EPA Lead-Safe Certified", "IICRC FSRT (Fire & Smoke)", "IICRC AMRT (Mold)", "OSHA Trained", "Fortified-Building-Roofing-MS-WindStorm-Certified"] as string[],
   trustBadges: ["IICRC Certified Firm", "Licensed & Insured", "24/7 Emergency Service", "Locally Owned & Operated"] as string[],
   jobPhotos: [] as string[],
-  sameAsUrls: ["https://maps.google.com/maps?cid=2198109827142676174", "https://www.homelyft.net/"] as string[],
+  sameAsUrls: ["https://www.homelyft.net/", "https://maps.google.com/maps?cid=2198109827142676174", "https://www.facebook.com/61560770035871/mentions/", "https://www.facebook.com/p/HomeLyft-Restoration-61560770035871/", "https://www.yellowpages.com/gulfport-ms/bpp/homelyft-restoration-581659752"] as string[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
