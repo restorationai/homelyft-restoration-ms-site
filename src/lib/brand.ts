@@ -69,7 +69,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "63",
+  gbpReviewCount: "64",
   gbpReviews: [
     { author: "Daniel", rating: 5, text: "Responsive and easy to work with! Took care of everything from start to finish when our house flooded due to a busted pipe. Even worked with the insurance company to make sure everything was covered.", when: "October 2026" },
     { author: "Tara", rating: 5, text: "HomeLyft was professional and courteous with each interaction, every step of my rebuild and tear out was explained and executed. The gentleman that installed my flooring was impressive especially because he had to match ceramic tiles that was damaged by the previous contractor. The craftsman ship…", when: "September 2026" },
