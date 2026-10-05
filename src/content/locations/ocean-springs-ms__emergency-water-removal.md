@@ -17,7 +17,7 @@ area_slug: "ocean-springs-ms"
 service_slug: "emergency-water-removal"
 city: "Ocean Springs"
 state: "MS"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Water damage emergency in Ocean Springs? Call now, we answer 24/7.** Standing water in a slab home or a crawlspace soaking up groundwater from the Biloxi Bay shoreline both need extraction fast, and both get worse the longer they sit. Whether it's a burst supply line, a failed water heater, or storm water that found its way through a roof flashing, HomeLyft Restoration MS pulls water, dries structure, and documents the loss for your insurer so the claim moves instead of stalling.

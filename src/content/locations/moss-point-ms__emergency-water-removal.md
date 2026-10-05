@@ -17,7 +17,7 @@ area_slug: "moss-point-ms"
 service_slug: "emergency-water-removal"
 city: "Moss Point"
 state: "MS"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Water pooling in your Moss Point home or business right now?** Call HomeLyft Restoration MS and we answer 24/7, any day of the week, because standing water in Jackson County's humid Gulf Coast air starts causing secondary damage, swollen baseboards, lifting flooring, musty odor within hours, not days. We bring truck-mounted extraction and industrial drying equipment calibrated for the coast's moisture load, not generic gear pulled from a shelf.

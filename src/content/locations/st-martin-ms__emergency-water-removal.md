@@ -17,7 +17,7 @@ area_slug: "st-martin-ms"
 service_slug: "emergency-water-removal"
 city: "St. Martin"
 state: "MS"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Standing water spreading across your St. Martin floors right now?** Call HomeLyft Restoration MS and we answer 24/7, because in Harrison County a soaked subfloor doesn't wait for business hours to start warping or growing mold. Whether it's a burst supply line under a slab, a washing machine hose failure, or runoff from a summer storm rolling in off the Mississippi Sound, the first few hours determine whether you're looking at a quick dry-out or a full flooring and drywall replacement.

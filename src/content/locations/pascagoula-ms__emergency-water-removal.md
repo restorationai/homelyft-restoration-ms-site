@@ -17,7 +17,7 @@ area_slug: "pascagoula-ms"
 service_slug: "emergency-water-removal"
 city: "Pascagoula"
 state: "MS"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Water pooling in your Pascagoula home or business?** We answer 24/7, and our crews come equipped for the kind of water intrusion Jackson County sees most: storm surge push, wind-driven rain through roof flashing, and slab homes that sit low enough to take on water during a heavy summer downpour. Call before the water sits long enough to reach the subfloor, because on the Mississippi Gulf Coast that window is shorter than most homeowners expect.

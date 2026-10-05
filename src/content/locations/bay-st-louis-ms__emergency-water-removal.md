@@ -17,7 +17,7 @@ area_slug: "bay-st-louis-ms"
 service_slug: "emergency-water-removal"
 city: "Bay St. Louis"
 state: "MS"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Water damage emergency in Bay St. Louis?** We answer 24/7, so call now rather than waiting to see if a wet subfloor or soaked drywall dries on its own. Hancock County's water table sits close to the surface along the Bay of St. Louis, and a slow leak here behaves differently than it would further inland: water wicks sideways through sandy soil and slab foundations faster than most homeowners expect, turning a small plumbing failure into a full-room extraction job within a day.

@@ -17,7 +17,7 @@ area_slug: "laurel-ms"
 service_slug: "smoke-damage-restoration"
 city: "Laurel"
 state: "MS"
-service_display: "smoke-damage-restoration"
+service_display: "Smoke Damage Restoration"
 rendered: true
 ---
 **Smoke damage emergency in Laurel?** Call now at +12282845200. We answer 24/7, and the sooner soot and smoke residue are addressed, the less they etch into plaster, wood trim, and fabric. Laurel's older housing stock, much of it built during the city's lumber-boom era, soaks up smoke odor fast through porous wood lath and original heart pine flooring, which is exactly why a few hours of delay can turn a one-room fire into a whole-house odor problem.

@@ -17,7 +17,7 @@ area_slug: "long-beach-ms"
 service_slug: "emergency-water-removal"
 city: "Long Beach"
 state: "MS"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Water pooling under your flooring in Long Beach right now?** Call HomeLyft Restoration MS and we answer 24/7, no after-hours voicemail, no waiting until Monday. Long Beach sits low and flat along the Mississippi Sound, and when a pipe bursts or a storm surge pushes water inland, that water doesn't drain, it sits, and it starts working into subfloor, insulation, and drywall within hours. Standing water in a Gulf Coast home behaves differently than it does further north, and how fast you act changes what gets saved.

@@ -17,7 +17,7 @@ area_slug: "biloxi-ms"
 service_slug: "emergency-water-removal"
 city: "Biloxi"
 state: "MS"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Water pooling in your Biloxi home or business right now?** We answer 24/7, and every minute standing water sits on drywall, baseboards, or subflooring raises the odds you're paying for mold remediation on top of extraction. HomeLyft Restoration MS runs IICRC-trained crews out of Gulfport, and we size our equipment loads for the specific way Gulf Coast humidity and slab construction behave once water gets in, not a generic drying playbook built for a drier climate.

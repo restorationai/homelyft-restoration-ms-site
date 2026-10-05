@@ -17,7 +17,7 @@ area_slug: "diamondhead-ms"
 service_slug: "emergency-water-removal"
 city: "Diamondhead"
 state: "MS"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Water damage emergency in Diamondhead?** We answer 24/7, so call as soon as you spot standing water, a burst supply line, or water creeping under baseboards. Diamondhead's flat, canal-threaded terrain means water from a failed pipe or storm surge off the Bay of St. Louis has nowhere fast to go, and in a slab-on-grade home that water sits against the foundation and wicks into drywall and flooring within hours, not days.

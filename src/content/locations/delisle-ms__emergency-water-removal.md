@@ -17,7 +17,7 @@ area_slug: "delisle-ms"
 service_slug: "emergency-water-removal"
 city: "DeLisle"
 state: "MS"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Water damage emergency in DeLisle?** Call HomeLyft Restoration MS now at +1 (228) 284-5200. We answer 24/7, and our crews work out of Gulfport, so a burst supply line, failed sump pump, or storm surge backup in DeLisle doesn't sit overnight waiting on a callback. DeLisle's low-lying ground along the Wolf River estuary means standing water rarely drains on its own, and the clock on mold growth starts the moment carpet pad or subfloor stays wet.

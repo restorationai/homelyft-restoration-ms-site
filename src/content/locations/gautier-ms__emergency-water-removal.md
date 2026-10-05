@@ -17,7 +17,7 @@ area_slug: "gautier-ms"
 service_slug: "emergency-water-removal"
 city: "Gautier"
 state: "MS"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Standing water in your Gautier home after a storm, a burst pipe, or an overflowing appliance?** Call now, we answer 24/7 and dispatch a crew trained to pull water fast before it works into subfloors, baseboards, and insulation. Gautier's flat terrain and proximity to the Pascagoula River mean water rarely drains on its own, it sits, and every hour it sits is an hour closer to warped flooring and the start of mold growth in wall cavities.

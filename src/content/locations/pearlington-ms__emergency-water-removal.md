@@ -17,7 +17,7 @@ area_slug: "pearlington-ms"
 service_slug: "emergency-water-removal"
 city: "Pearlington"
 state: "MS"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Standing water in your Pearlington home after a storm or burst pipe?** We answer 24/7 and dispatch a crew for emergency water removal and cleanup across Hancock County. Pearlington sits low along the Pearl River, and when water gets into a house out here, it rarely stays in one room. It travels under floors, soaks into crawlspace insulation, and sits against pier foundations until someone pulls it out with the right equipment.

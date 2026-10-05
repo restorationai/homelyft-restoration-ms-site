@@ -17,7 +17,7 @@ area_slug: "henderson-point-ms"
 service_slug: "emergency-water-removal"
 city: "Henderson Point"
 state: "MS"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Water spreading across your floors in Henderson Point after a burst pipe, supply line failure, or storm surge backflow?** Call HomeLyft Restoration MS at (228) 284-5200. We answer 24/7, and every hour standing water sits against drywall, subflooring, or crawlspace framing is an hour closer to warping, mold colonization, and a bigger repair bill.

@@ -17,7 +17,7 @@ area_slug: "pass-christian-ms"
 service_slug: "emergency-water-removal"
 city: "Pass Christian"
 state: "MS"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Standing water in your Pass Christian home or business?** Call HomeLyft Restoration MS now, we answer 24/7 and send an IICRC-trained crew to start extraction before a burst pipe, roof leak, or storm surge backup turns into a mold problem. Pass Christian's close proximity to the Gulf and its mix of raised historic cottages and newer elevated construction both create their own water removal challenges, and the sooner a crew pulls standing water from flooring and wall cavities, the less structural drying you'll need later.

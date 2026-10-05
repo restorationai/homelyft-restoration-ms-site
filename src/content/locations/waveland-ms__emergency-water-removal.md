@@ -17,7 +17,7 @@ area_slug: "waveland-ms"
 service_slug: "emergency-water-removal"
 city: "Waveland"
 state: "MS"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Water pooling in your Waveland home after a storm surge, burst pipe, or overflowing tub?** We answer 24/7 and dispatch a crew to start extraction before the water migrates deeper into subflooring, drywall, and insulation. Waveland sits low along the Mississippi Sound and the Jourdan River, which means standing water rarely stays contained to one room, and every hour it sits is an hour closer to mold colonization.

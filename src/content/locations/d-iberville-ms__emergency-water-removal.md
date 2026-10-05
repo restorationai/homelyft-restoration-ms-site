@@ -17,7 +17,7 @@ area_slug: "d-iberville-ms"
 service_slug: "emergency-water-removal"
 city: "D'Iberville"
 state: "MS"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Water damage emergency in D'Iberville?** Call HomeLyft Restoration MS now and we'll get a crew moving. We answer 24/7, and if you're standing in ankle-deep water wondering whether the subfloor underneath your carpet is already soaking it up, the honest answer in a Harrison County slab home is usually yes. D'Iberville's mix of newer slab construction and older pier-and-beam homes near the Tchoutacabouffa River means water behaves differently from one street to the next, which changes how fast extraction needs to happen.

@@ -17,7 +17,7 @@ area_slug: "kiln-ms"
 service_slug: "emergency-water-removal"
 city: "Kiln"
 state: "MS"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Standing water in your Kiln home after a storm rolled through Hancock County?** Call now for emergency water removal and cleanup, we answer 24/7. Kiln sits on low, flat terrain between the Jourdan River and its feeder creeks, and when the rain comes fast, it has nowhere quick to go. Whether a pipe let go under the house or last night's downpour backed up under the slab, the clock on structural drying starts the moment the water stops moving.
