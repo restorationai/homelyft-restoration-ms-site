@@ -44,7 +44,7 @@ The estimate should specify:
 - **Equipment being deployed** (number of dehumidifiers, air movers, negative air machines) and how long it's expected to run.
 - **The drying standard they're working toward.** Reputable water damage companies dry to the IICRC S500 standard, which means reaching specific moisture content targets in structural materials, not just running fans until things feel dry.
 - **What materials will be removed vs. dried in place.** Drywall, insulation, and flooring often need to come out. If a company tells you they can dry everything in place without moisture mapping, ask why.
-- **A timeline.** Water damage mitigation typically runs 3–5 days. Mold remediation timelines vary based on affected area and material type. Fire and smoke restoration can take weeks depending on how deep the odor has penetrated.
+- **A timeline.** Water damage mitigation typically runs 3–5 days. [Mold remediation](/services/mold-remediation/) timelines vary based on affected area and material type. Fire and smoke restoration can take weeks depending on how deep the odor has penetrated.
 
 For mold remediation specifically, ask whether they'll provide a post-remediation verification (PRV) test, an independent air quality test after the work is done. A company that resists independent verification is a company worth walking away from.
 

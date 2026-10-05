@@ -50,7 +50,7 @@ Insurance policies are written for lawyers, not homeowners. A few things worth k
 
 **Service line coverage**, Damage to the supply line running from the city main to your house is often excluded from standard policies but can be added as an endorsement. Mississippi American Water customers in the Gulfport area sometimes assume this is bundled in, it usually isn't.
 
-**Mold as a secondary claim**, If a covered water event leads to mold growth, many policies will cover mold remediation *up to a sublimit*, often $5,000–$10,000. That sublimit can disappear fast on a larger job. Document everything before remediation begins.
+**Mold as a secondary claim**, If a covered water event leads to mold growth, many policies will cover [mold remediation](/services/mold-remediation/) *up to a sublimit*, often $5,000–$10,000. That sublimit can disappear fast on a larger job. Document everything before remediation begins.
 
 **Personal property vs. dwelling coverage**, Your structure (dwelling) and your belongings (personal property) are covered under separate portions of your policy, sometimes with different deductibles. A flooded living room might involve both.
 

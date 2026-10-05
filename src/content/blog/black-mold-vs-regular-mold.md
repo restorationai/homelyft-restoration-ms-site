@@ -69,7 +69,7 @@ Some situations are genuinely DIY-manageable. A small patch of surface mold on b
 - The growth followed a flood, a burst pipe, or any water intrusion event that soaked materials for more than 24–48 hours
 - You've cleaned visible mold and it has returned within a few weeks
 
-A certified mold assessment can include air sampling, surface sampling, and moisture mapping with a thermal camera, tools that reveal what your eyes can't. If testing confirms *Stachybotrys* or another toxigenic species, or if the colony is large enough to require containment and negative air pressure, that work falls under professional mold remediation.
+A certified mold assessment can include air sampling, surface sampling, and moisture mapping with a thermal camera, tools that reveal what your eyes can't. If testing confirms *Stachybotrys* or another toxigenic species, or if the colony is large enough to require containment and negative air pressure, that work falls under professional [mold remediation](/services/mold-remediation/).
 
 In the Gulf Coast region, the combination of high humidity, frequent storm events, and older housing stock (many Gulfport homes have crawl spaces and pier-and-beam foundations that trap moisture) means mold problems here tend to move faster than in drier climates. A leak that might take two weeks to produce visible mold in Phoenix can produce it in four to five days in a Mississippi summer.
 

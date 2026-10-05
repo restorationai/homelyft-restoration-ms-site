@@ -65,7 +65,7 @@ If the affected area is manageable (a bathroom, a laundry room, a section of hal
 
 Do not use a standard household vacuum. Do not use a hair dryer or space heater near standing water.
 
-If the water covers more than one room, has soaked into walls, or came from a source that may have mixed with sewage (a pipe near a toilet or drain line), stop and call a water damage restoration professional. The extraction equipment and drying protocols required go beyond what DIY tools can accomplish.
+If the water covers more than one room, has soaked into walls, or came from a source that may have mixed with sewage (a pipe near a toilet or drain line), stop and call a [water damage restoration](/services/water-damage-restoration/) professional. The extraction equipment and drying protocols required go beyond what DIY tools can accomplish.
 
 ---
 

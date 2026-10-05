@@ -34,7 +34,7 @@ Surface swab kits are slightly more useful, you're sampling a specific stain or 
 
 ## What a Professional Mold Inspection Actually Involves
 
-A professional mold inspection is a systematic investigation, not just a sample collection. A qualified inspector will:
+A professional [mold inspection](/services/mold-inspection-testing/) is a systematic investigation, not just a sample collection. A qualified inspector will:
 
 1. **Walk the property looking for moisture sources**, not just visible mold. They're checking under sinks, around window frames, in crawlspaces, at the base of exterior walls, and anywhere a previous water event might have left elevated moisture.
 2. **Use a moisture meter and thermal imaging camera** to find wet building materials that aren't visibly damaged yet. Drywall can feel dry to the touch and still read 25–30% moisture content, well above the threshold where mold colonizes (typically above 60% relative humidity sustained over 24–48 hours).

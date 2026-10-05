@@ -47,7 +47,7 @@ This is also the phase where contents, furniture, clothing, documents, electroni
 
 It sounds counterintuitive, but water damage is one of the most common secondary problems after a structure fire. A single fire hose can discharge 150 to 250 gallons per minute. That water saturates flooring, wicks up wall cavities, and pools in crawlspaces. In a slab-on-grade home common in coastal Mississippi, it has nowhere to drain.
 
-If this water isn't extracted and dried within 48 to 72 hours, mold colonization becomes a near certainty, and mold remediation adds weeks and cost to an already difficult recovery.
+If this water isn't extracted and dried within 48 to 72 hours, mold colonization becomes a near certainty, and [mold remediation](/services/mold-remediation/) adds weeks and cost to an already difficult recovery.
 
 Restoration crews use the same equipment for fire-related water damage that they use for flood and burst-pipe jobs: truck-mounted extractors, desiccant or refrigerant dehumidifiers, and axial air movers positioned to create a drying envelope around wet materials. Moisture readings are logged daily until materials reach their target dryness levels, which are defined by the IICRC S500 standard.
 

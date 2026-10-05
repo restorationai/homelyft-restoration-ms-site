@@ -47,7 +47,7 @@ This one is easy to dismiss as a cleaning problem, but grout that re-darkens wit
 
 Don't start tearing into walls yet. Here's a methodical approach:
 
-1. **Identify and stop the moisture source first.** Mold remediation without fixing the underlying moisture problem is temporary. Check for slow drips under sinks, condensation on supply lines, and any roof or window flashing that may have failed.
+1. **Identify and stop the moisture source first.** [Mold remediation](/services/mold-remediation/) without fixing the underlying moisture problem is temporary. Check for slow drips under sinks, condensation on supply lines, and any roof or window flashing that may have failed.
 2. **Document everything with photos.** Photograph any visible discoloration, warped materials, or rust. Note which rooms smell and at what times of day. This documentation matters if you file a homeowner's insurance claim.
 3. **Increase ventilation temporarily.** Run bathroom exhaust fans continuously and keep HVAC filters clean. This won't kill mold, but it slows the spread while you decide on next steps.
 4. **Avoid disturbing suspected mold areas.** Don't scrub, sand, or cut into drywall you suspect contains mold without containment in place. Disturbing a colony releases spores into the air and can spread contamination to unaffected rooms.
