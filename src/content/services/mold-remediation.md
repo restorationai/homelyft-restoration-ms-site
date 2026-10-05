@@ -69,6 +69,6 @@ Post-hurricane and post-tropical-storm losses are the highest-risk scenario. Hom
 
 ## Service area
 
-HomeLyft Restoration MS is based in Gulfport and serves communities throughout the Gulf Coast region, including Biloxi, Long Beach, Pass Christian, D'Iberville, Ocean Springs, Gautier, Moss Point, and surrounding Harrison and Jackson County areas. Each city-specific mold remediation page links back here for the full technical detail on how the work is done.
+HomeLyft Restoration MS is based in Gulfport and serves communities throughout the Gulf Coast region, including Biloxi, Long Beach, [Pass Christian](/service-areas/pass-christian-ms/mold-remediation/), [D'Iberville](/service-areas/d-iberville-ms/mold-remediation/), [Ocean Springs](/service-areas/ocean-springs-ms/mold-remediation/), Gautier, Moss Point, and surrounding Harrison and Jackson County areas. Each city-specific mold remediation page links back here for the full technical detail on how the work is done.
 
 If you can smell it, see it, or just had a water loss that was not dried within 48 hours, the time to act is now, mold does not pause while you think it over. Call (228) 284-5200 to request an air quality assessment and get a written scope before any work begins.

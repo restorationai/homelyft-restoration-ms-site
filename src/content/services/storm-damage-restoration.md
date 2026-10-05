@@ -73,6 +73,6 @@ Gulfport's proximity to the Gulf also means post-storm humidity levels routinely
 
 ## Service area
 
-HomeLyft Restoration MS is based in Gulfport and serves communities throughout the Mississippi Gulf Coast and surrounding region, including Biloxi, Pascagoula, Hattiesburg, Long Beach, Pass Christian, Bay St. Louis, Waveland, and Ocean Springs. Individual service-area pages for each city link back to this page for full service details.
+HomeLyft Restoration MS is based in Gulfport and serves communities throughout the Mississippi Gulf Coast and surrounding region, including Biloxi, Pascagoula, Hattiesburg, Long Beach, [Pass Christian](/service-areas/pass-christian-ms/storm-damage-restoration/), [Bay St. Louis](/service-areas/bay-st-louis-ms/storm-damage-restoration/), Waveland, and [Ocean Springs](/service-areas/ocean-springs-ms/storm-damage-restoration/). Individual service-area pages for each city link back to this page for full service details.
 
 If a storm has compromised your roof, walls, or interior, call **(228) 284-5200** to get a damage assessment scheduled and stop the loss from getting worse.

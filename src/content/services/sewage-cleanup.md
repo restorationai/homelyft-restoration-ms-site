@@ -73,6 +73,6 @@ High ambient humidity along the coast (averaging above 70% relative humidity for
 
 ## Service area
 
-HomeLyft Restoration MS is based in Gulfport and provides sewage backup cleanup and sanitization services throughout the Mississippi Gulf Coast, including Biloxi, Long Beach, Pass Christian, D'Iberville, Ocean Springs, Moss Point, and surrounding communities. Each city-specific service page links back here for full technical detail on how this work is performed.
+HomeLyft Restoration MS is based in Gulfport and provides sewage backup cleanup and sanitization services throughout the Mississippi Gulf Coast, including Biloxi, Long Beach, [Pass Christian](/service-areas/pass-christian-ms/sewage-cleanup/), [D'Iberville](/service-areas/d-iberville-ms/sewage-cleanup/), [Ocean Springs](/service-areas/ocean-springs-ms/sewage-cleanup/), Moss Point, and surrounding communities. Each city-specific service page links back here for full technical detail on how this work is performed.
 
 If your drain is backing up, your floor is wet, or the smell is already in the walls, call HomeLyft Restoration MS at +12282845200 to schedule your sewage contamination assessment and get a written scope before any work begins.

@@ -75,6 +75,6 @@ Older housing stock in neighborhoods like North Gulfport and along the Back Bay 
 
 ## Service Area
 
-HomeLyft Restoration MS is based in Gulfport and serves communities throughout the Mississippi Gulf Coast, including Biloxi, Long Beach, Pass Christian, D'Iberville, Ocean Springs, Moss Point, Pascagoula, and surrounding Harrison and Jackson County areas. Each city-specific page covers local considerations in more detail, this page covers the full scope of what water damage restoration involves regardless of location.
+HomeLyft Restoration MS is based in Gulfport and serves communities throughout the Mississippi Gulf Coast, including Biloxi, Long Beach, [Pass Christian](/service-areas/pass-christian-ms/water-damage-restoration/), [D'Iberville](/service-areas/d-iberville-ms/water-damage-restoration/), [Ocean Springs](/service-areas/ocean-springs-ms/water-damage-restoration/), Moss Point, Pascagoula, and surrounding Harrison and Jackson County areas. Each city-specific page covers local considerations in more detail, this page covers the full scope of what water damage restoration involves regardless of location.
 
 If you are seeing water in your home right now, call **(228) 284-5200** to schedule your moisture assessment. The sooner extraction and drying begin, the smaller the scope of damage, and the simpler the recovery.
