@@ -69,7 +69,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "66",
+  gbpReviewCount: "67",
   gbpReviews: [
     { author: "Amy", rating: 5, text: "Our experience with HomeLyft was fantastic! Terry and his crew were very professional, fair, fast and easy to work with. I would, and have, recommend HomeLyft to others in the area.", when: "October 2026" },
     { author: "Trey", rating: 5, text: "HomeLyft got us back to normal as soon as possible! Great crew to work with and no headaches!", when: "October 2026" },
