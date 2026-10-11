@@ -58,7 +58,7 @@ The category of water determines how aggressively the crew must respond and what
 - **Category 2 (gray water):** Dishwasher or washing machine overflow, toilet overflow without solids, sump pump failure. Moderate contamination. Porous materials (carpet pad, drywall below the waterline) are typically removed.
 - **Category 3 (black water):** Sewage backup, floodwater from outside the structure (including storm surge), any water that has been standing long enough to harbor bacteria. Highest contamination risk. Requires removal of all affected porous materials and antimicrobial treatment of the structure.
 
-Gulfport homeowners near the waterfront or in low-lying areas around the Back Bay should be aware that storm-related flooding almost always qualifies as Category 3, regardless of how clean the water looks. The [EPA's guidance on flood cleanup](https://www.epa.gov/mold/flood-cleanup-avoiding-indoor-air-quality-problems) covers the health rationale for this classification.
+Gulfport homeowners near the waterfront or in low-lying areas around the Back Bay should be aware that storm-related flooding almost always qualifies as Category 3, regardless of how clean the water looks. The [EPA's guidance on flood cleanup](https://www.epa.gov/flooded-homes) covers the health rationale for this classification.
 
 ## Will homeowners insurance cover water damage in Gulfport?
 

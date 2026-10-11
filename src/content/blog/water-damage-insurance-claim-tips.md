@@ -52,7 +52,7 @@ When you call, have ready:
 
 Write down the claim number, the adjuster's name, and their direct phone number. Every conversation after this should be followed by a brief email confirming what was discussed. Paper trails protect you.
 
-Most carriers allow you to begin emergency mitigation before the adjuster arrives, and you should. Mold can begin colonizing wet building materials in as little as 24 to 48 hours under [IICRC S500 Standard](https://www.iicrc.org/page/IICRCS500) conditions. Waiting for an adjuster appointment before extracting standing water is not required and is not recommended.
+Most carriers allow you to begin emergency mitigation before the adjuster arrives, and you should. Mold can begin colonizing wet building materials in as little as 24 to 48 hours under [IICRC S500 Standard](https://iicrc.org/s500/) conditions. Waiting for an adjuster appointment before extracting standing water is not required and is not recommended.
 
 ## Why should you keep damaged materials instead of throwing them away?
 
@@ -93,7 +93,7 @@ When you hire a restoration company, ask for:
 - Line-item billing that separates extraction, drying equipment, antimicrobial treatment, and demolition
 - Daily moisture readings logged by room and material, showing the drying curve from wet to dry
 - Equipment placement logs (which air movers and dehumidifiers were placed where, and for how many days)
-- A final moisture report confirming materials were dried to [IICRC S500](https://www.iicrc.org/page/IICRCS500) standard before reconstruction begins
+- A final moisture report confirming materials were dried to [IICRC S500](https://iicrc.org/s500/) standard before reconstruction begins
 
 This documentation is what protects you if the carrier tries to reduce the mitigation payment. It also protects you from a future mold claim being denied on the grounds that drying was incomplete.
 

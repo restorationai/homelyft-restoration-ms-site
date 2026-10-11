@@ -49,7 +49,7 @@ Here is how the per-square-foot math plays out in practice:
 
 - **Category 1 (clean water):** $3.75 - $5.00 per sq ft. Drywall and flooring can often be dried in place if caught within 24-48 hours.
 - **Category 2 (gray water):** $5.00 - $7.00 per sq ft. Porous materials (carpet, drywall below the flood cut) usually require removal.
-- **Category 3 (black water):** $7.00 - $12.00+ per sq ft. All porous materials in the affected zone are typically removed per [IICRC S500](https://www.iicrc.org/page/IICRCS500) guidelines. Full PPE, containment, and antimicrobial treatment are required.
+- **Category 3 (black water):** $7.00 - $12.00+ per sq ft. All porous materials in the affected zone are typically removed per [IICRC S500](https://iicrc.org/s500/) guidelines. Full PPE, containment, and antimicrobial treatment are required.
 
 On the Gulf Coast, the humidity factor matters. Gulfport and Biloxi average 75-80% relative humidity in summer months, which slows structural drying and can add equipment days to the job, meaning the per-square-foot cost can run toward the top of these ranges in August and September compared to a drier climate.
 
