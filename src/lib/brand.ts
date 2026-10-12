@@ -69,14 +69,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "67",
+  gbpReviewCount: "70",
   gbpReviews: [
+    { author: "Sheryl", rating: 5, text: "Homelyft Restoration did an outstanding job! They were knowledgeable, reasonable, and very efficient. I highly recommend them!!", when: "October 2026" },
+    { author: "Lynne", rating: 5, text: "My floors were re-leveled and new VLP was put down. Floors are great and they did a wonderful job.", when: "October 2026" },
     { author: "Amy", rating: 5, text: "Our experience with HomeLyft was fantastic! Terry and his crew were very professional, fair, fast and easy to work with. I would, and have, recommend HomeLyft to others in the area.", when: "October 2026" },
     { author: "Trey", rating: 5, text: "HomeLyft got us back to normal as soon as possible! Great crew to work with and no headaches!", when: "October 2026" },
     { author: "Daniel", rating: 5, text: "Responsive and easy to work with! Took care of everything from start to finish when our house flooded due to a busted pipe. Even worked with the insurance company to make sure everything was covered.", when: "October 2026" },
     { author: "Tara", rating: 5, text: "HomeLyft was professional and courteous with each interaction, every step of my rebuild and tear out was explained and executed. The gentleman that installed my flooring was impressive especially because he had to match ceramic tiles that was damaged by the previous contractor. The craftsman ship…", when: "September 2026" },
-    { author: "Joshua", rating: 5, text: "Very knowledgeable and professional.", when: "September 2026" },
-    { author: "Danny", rating: 5, text: "Terry helped me at my business and my home and would happily use him again. Thanks for the great work.", when: "September 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Gulfport, MS.",
   ctaLabel: "24/7 Emergency Line",
