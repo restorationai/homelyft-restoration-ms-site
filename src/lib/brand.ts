@@ -69,7 +69,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "73",
+  gbpReviewCount: "74",
   gbpReviews: [
     { author: "Stephanie", rating: 5, text: "We are pleased with how family oriented the mitigation experience was. It was nice to have management actually care about our home, and it not be just another jobsite. They can be trusted to stand by word, which means a lot. Workers are skilled and respectful and the managers are engaged to ensure…", when: "October 2026" },
     { author: "Laura", rating: 5, text: "Thank you for your hard work. Everything went well thank you🙏", when: "October 2026" },
