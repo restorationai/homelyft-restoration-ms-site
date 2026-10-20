@@ -46,6 +46,24 @@ HomeLyft Restoration MS operates as a licensed contractor under Mississippi stat
 
 If a dispute arises from services provided under a signed work-authorization form, both parties agree to first attempt resolution through good-faith written communication. If informal resolution fails, disputes will be governed by the laws of the State of Mississippi, with venue in Harrison County. These terms do not waive any rights you hold under applicable state consumer protection statutes.
 
+## SMS Program Terms
+
+**Program name.** HomeLyft Restoration MS SMS Program, operated by Homelyft Restoration LLC.
+
+**Program description.** When you opt in, Homelyft Restoration LLC sends SMS text messages about appointment reminders, service updates, and customer care related to your restoration project. You opt in by checking the SMS consent box on our website forms or by giving us your consent directly. Consent to receive text messages is not a condition of purchasing any service.
+
+**Message frequency.** Message frequency varies based on your project and your requests.
+
+**Costs.** Message and data rates may apply.
+
+**Help.** Reply HELP to any message for help. You can also reach our customer care team at (228) 284-5200 or info@homelyft.net.
+
+**Opt out.** Reply STOP to any message to opt out, and we will stop sending you text messages unless you opt in again.
+
+**Carrier liability.** Mobile carriers are not liable for delayed or undelivered messages.
+
+**Privacy.** Your mobile information is handled as described in our [Privacy Policy](/privacy/). No mobile information or SMS opt-in data is shared with third parties or affiliates for marketing or promotional purposes.
+
 ## Contact
 
 Questions about these terms can be directed to:
