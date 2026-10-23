@@ -51,7 +51,7 @@ const {
       {brand.smsConsentEntity && (
         <label class="flex items-start gap-2.5 text-xs leading-snug text-white/70 cursor-pointer">
           <input type="checkbox" name="sms_consent" value="yes" class="mt-0.5 h-4 w-4 shrink-0 rounded border-white/30 accent-primary-600" />
-          <span>By checking this box, I consent to receive SMS messages from {brand.smsConsentEntity} related to Customer care or Marketing at the phone number provided above. The SMS frequency may vary. Data rates may apply. For assistance reply HELP. Reply STOP to opt out of receiving text messages. Please review our <a href="/privacy/" class="underline">Privacy Policy</a> and <a href="/terms/" class="underline">Terms &amp; Conditions</a>.</span>
+          <span>By checking this box, I consent to receive SMS messages from {brand.smsConsentEntity} related to customer care (appointment reminders and updates about my request) at the phone number provided above. The SMS frequency may vary. Data rates may apply. For assistance reply HELP. Reply STOP to opt out of receiving text messages. Please review our <a href="/privacy/" class="underline">Privacy Policy</a> and <a href="/terms/" class="underline">Terms &amp; Conditions</a>.</span>
         </label>
       )}
       <button type="submit" class="inline-flex items-center justify-center font-bold px-6 py-3 rounded-md transition-all text-base shadow-lg bg-primary-600 text-white hover:bg-primary-700 disabled:opacity-60 disabled:cursor-not-allowed">
@@ -149,7 +149,7 @@ const {
           <input type="checkbox" name="sms_consent" value="yes"
             class="mt-1 h-4 w-4 rounded border-white/30 bg-white/5 accent-primary-600" />
           {brand.smsConsentEntity ? (
-            <span class="text-xs leading-snug">By checking this box, I consent to receive SMS messages from {brand.smsConsentEntity} related to Customer care or Marketing at the phone number provided above. The SMS frequency may vary. Data rates may apply. For assistance reply HELP. Reply STOP to opt out of receiving text messages. Please review our <a href="/privacy/" class="underline">Privacy Policy</a> and <a href="/terms/" class="underline">Terms &amp; Conditions</a>.</span>
+            <span class="text-xs leading-snug">By checking this box, I consent to receive SMS messages from {brand.smsConsentEntity} related to customer care (appointment reminders and updates about my request) at the phone number provided above. The SMS frequency may vary. Data rates may apply. For assistance reply HELP. Reply STOP to opt out of receiving text messages. Please review our <a href="/privacy/" class="underline">Privacy Policy</a> and <a href="/terms/" class="underline">Terms &amp; Conditions</a>.</span>
           ) : (
             <span>It's OK to text me about my request. Message &amp; data rates may apply; reply STOP to opt out.</span>
           )}
