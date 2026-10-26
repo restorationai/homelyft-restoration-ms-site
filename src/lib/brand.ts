@@ -69,14 +69,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "74",
+  gbpReviewCount: "75",
   gbpReviews: [
+    { author: "Lien", rating: 4, text: "Homelyft service was great ! I highly recommend .", when: "October 2026" },
     { author: "Stephanie", rating: 5, text: "We are pleased with how family oriented the mitigation experience was. It was nice to have management actually care about our home, and it not be just another jobsite. They can be trusted to stand by word, which means a lot. Workers are skilled and respectful and the managers are engaged to ensure…", when: "October 2026" },
     { author: "Laura", rating: 5, text: "Thank you for your hard work. Everything went well thank you🙏", when: "October 2026" },
     { author: "Sheryl", rating: 5, text: "Homelyft Restoration did an outstanding job! They were knowledgeable, reasonable, and very efficient. I highly recommend them!!", when: "October 2026" },
     { author: "Lynne", rating: 5, text: "My floors were re-leveled and new VLP was put down. Floors are great and they did a wonderful job.", when: "October 2026" },
     { author: "Amy", rating: 5, text: "Our experience with HomeLyft was fantastic! Terry and his crew were very professional, fair, fast and easy to work with. I would, and have, recommend HomeLyft to others in the area.", when: "October 2026" },
-    { author: "Trey", rating: 5, text: "HomeLyft got us back to normal as soon as possible! Great crew to work with and no headaches!", when: "October 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Gulfport, MS.",
   ctaLabel: "24/7 Emergency Line",
