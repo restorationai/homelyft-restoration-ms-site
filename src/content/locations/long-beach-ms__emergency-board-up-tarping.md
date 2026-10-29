@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Long Beach, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in Long Beach, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in Long Beach"
 meta_description: "24/7 emergency board-up and tarping in Long Beach, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping long beach"
@@ -48,4 +48,4 @@ Most homeowners' policies in Mississippi cover sudden and accidental damage to t
 
 One thing that catches out-of-area contractors in Long Beach is the speed at which a second weather system can arrive after the first. The Gulf doesn't give much buffer time between events during peak season, and a tarp that's adequate for a calm overnight can fail spectacularly if a secondary squall arrives before the roofer does. When we tarp in Long Beach, we over-engineer the anchor points specifically because of this pattern, adding extra cap strips at the ridge and eaves rather than just the field of the tarp. It adds 20 minutes to the job and meaningfully reduces the chance of a re-breach before permanent repairs begin.
 
-If your Long Beach home or commercial property has been breached by storm, fire, or impact damage, call HomeLyft Restoration MS at +12282845200. The sooner the structure is secured, the smaller the repair scope, and the stronger your insurance documentation.
+If your Long Beach home or commercial property has been breached by storm, fire, or impact damage, call HomeLyft Restoration Gulfport at +12282845200. The sooner the structure is secured, the smaller the repair scope, and the stronger your insurance documentation.

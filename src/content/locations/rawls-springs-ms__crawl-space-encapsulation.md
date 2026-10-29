@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Rawls Springs, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Rawls Springs, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Rawls Springs"
 meta_description: "Crawl space encapsulation in Rawls Springs, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation rawls springs"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Crawl Space Encapsulation"
 rendered: true
 ---
-Rawls Springs sits in Forrest County where Mississippi's humid subtropical climate means crawl spaces rarely get a break, summer humidity regularly pushes past 90%, and the heavy clay soils common across this part of the Pine Belt hold moisture against foundation walls long after a rainstorm moves through. That combination turns an unencapsulated crawl space into a slow-motion problem: wood rot, elevated indoor humidity, musty odors migrating up through subfloors, and eventually mold colonies that don't announce themselves until the damage is already expensive. HomeLyft Restoration MS installs full crawl space encapsulation systems designed specifically for the conditions homes in and around Rawls Springs actually face.
+Rawls Springs sits in Forrest County where Mississippi's humid subtropical climate means crawl spaces rarely get a break, summer humidity regularly pushes past 90%, and the heavy clay soils common across this part of the Pine Belt hold moisture against foundation walls long after a rainstorm moves through. That combination turns an unencapsulated crawl space into a slow-motion problem: wood rot, elevated indoor humidity, musty odors migrating up through subfloors, and eventually mold colonies that don't announce themselves until the damage is already expensive. HomeLyft Restoration Gulfport installs full crawl space encapsulation systems designed specifically for the conditions homes in and around Rawls Springs actually face.
 
 ## Why Rawls Springs Properties See Crawl Space Problems
 
@@ -48,4 +48,4 @@ The IICRC AMRT certification our team holds means the same technicians who under
 
 Homes in the Rawls Springs area that were built on pier-and-beam foundations, common in this part of Forrest County through the 1970s, often have crawl spaces with irregular heights and multiple access points that complicate liner installation. Low-clearance sections require hand-fitting liner panels rather than rolling them out in long runs, and sealing around the base of piers takes extra attention because those are the spots where vapor barriers most often fail over time. If your home has this foundation type, plan for the encapsulation work to take longer than a standard job, cutting corners on pier seals is where cheaper installations break down within a few years.
 
-If you're noticing soft spots in your floors, a persistent musty smell, or higher-than-expected energy bills in your Rawls Springs home, the crawl space is a logical first place to look. Call HomeLyft Restoration MS at +12282845200 to schedule an inspection, we'll tell you exactly what's happening under your home and what it will take to fix it for the long term.
+If you're noticing soft spots in your floors, a persistent musty smell, or higher-than-expected energy bills in your Rawls Springs home, the crawl space is a logical first place to look. Call HomeLyft Restoration Gulfport at +12282845200 to schedule an inspection, we'll tell you exactly what's happening under your home and what it will take to fix it for the long term.

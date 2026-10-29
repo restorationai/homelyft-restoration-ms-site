@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Roofing Installation and Replacement in Biloxi, MS | HomeLyft Restoration MS"
+title: "Roofing Installation and Replacement in Biloxi, MS | HomeLyft Restoration Gulfport"
 h1: "Roofing Installation and Replacement in Biloxi"
 meta_description: "24/7 roofing installation and replacement in Biloxi, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "roofing installation and replacement biloxi"
@@ -42,4 +42,4 @@ Wind and hail damage claims are common along this stretch of coast, and adjuster
 
 One detail that catches first-time roof-replacement customers off guard here: Mississippi's coastal counties require roofing systems to meet specific wind-uplift ratings that go beyond what's standard in most of the rest of the state, which means a shingle or underlayment that's perfectly code-compliant an hour inland may not pass inspection in Biloxi. We check the current coastal wind zone requirements against the proposed materials before we ever submit a permit, so the job doesn't stall waiting on a re-order.
 
-If your roof is showing granule loss in the gutters, curling at the edges, or daylight around a vent boot, it's worth having it looked at before the next named storm puts it to the test. HomeLyft Restoration MS handles roofing installation and replacement across Biloxi as a licensed Mississippi contractor (#RO 2728), with crews that understand what coastal wind code and salt exposure actually do to a roof over time. Call +1 (228) 284-5200 to schedule an inspection and get a straightforward estimate for your roof.
+If your roof is showing granule loss in the gutters, curling at the edges, or daylight around a vent boot, it's worth having it looked at before the next named storm puts it to the test. HomeLyft Restoration Gulfport handles roofing installation and replacement across Biloxi as a licensed Mississippi contractor (#RO 2728), with crews that understand what coastal wind code and salt exposure actually do to a roof over time. Call +1 (228) 284-5200 to schedule an inspection and get a straightforward estimate for your roof.

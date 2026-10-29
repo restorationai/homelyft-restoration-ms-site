@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Vancleave, MS | HomeLyft Restoration MS"
+title: "Post-Construction and Specialty Cleaning in Vancleave, MS | HomeLyft Restoration Gulfport"
 h1: "Post-Construction and Specialty Cleaning in Vancleave"
 meta_description: "Post-construction and specialty cleaning in Vancleave, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "post-construction and specialty cleaning vancleave"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Post-Construction and Specialty Cleaning"
 rendered: true
 ---
-Vancleave sits in a stretch of Jackson County where new construction and gut renovations move fast, custom homes on wooded lots, additions tacked onto older ranch-style houses, and the occasional commercial build-out along the Highway 57 corridor. When the last subcontractor walks out, what's left behind is a layer of drywall dust that settles into every horizontal surface, adhesive residue on window glass, and construction debris tracked through rooms that are supposed to be move-in ready. HomeLyft Restoration MS handles that transition, the detailed, methodical cleaning that turns a job site back into a livable space.
+Vancleave sits in a stretch of Jackson County where new construction and gut renovations move fast, custom homes on wooded lots, additions tacked onto older ranch-style houses, and the occasional commercial build-out along the Highway 57 corridor. When the last subcontractor walks out, what's left behind is a layer of drywall dust that settles into every horizontal surface, adhesive residue on window glass, and construction debris tracked through rooms that are supposed to be move-in ready. HomeLyft Restoration Gulfport handles that transition, the detailed, methodical cleaning that turns a job site back into a livable space.
 
 ## Why Vancleave Properties Present Unique Post-Construction Cleaning Challenges
 
@@ -58,4 +58,4 @@ For Vancleave projects with significant square footage, large custom homes or co
 
 One thing that comes up on Vancleave renovation jobs more than in some other parts of the Gulf Coast: the combination of pine subfloors and high humidity during construction means subfloor surfaces sometimes show light mold or mildew growth in areas that were left open to the elements during framing. By the time post-construction cleaning begins, that growth may be visually subtle, a faint discoloration under where a cabinet will sit. HomeLyft's IICRC-certified team is trained to flag those areas during the initial walk-through rather than clean over them, so a homeowner doesn't discover a mold issue six months after move-in.
 
-If you're a general contractor or homeowner in Vancleave ready to schedule the final clean on a new build or renovation, call HomeLyft Restoration MS at +12282845200. We'll confirm scope, crew size, and timing so your project closes on schedule.
+If you're a general contractor or homeowner in Vancleave ready to schedule the final clean on a new build or renovation, call HomeLyft Restoration Gulfport at +12282845200. We'll confirm scope, crew size, and timing so your project closes on schedule.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Big Point, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in Big Point, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in Big Point"
 meta_description: "24/7 emergency board-up and tarping in Big Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping big point"
@@ -38,7 +38,7 @@ All work is documented per IICRC FSRT standards for fire and smoke-related breac
 
 ## Reaching Big Point from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, which puts the crew on US-90 east and then north through Jackson County to reach Big Point. The route is straightforward in clear conditions, though after a major storm event the same roads that serve Big Point can carry debris or localized flooding, the crew monitors conditions and communicates estimated arrival times directly. Because the local context here is rural and addresses can be spread across unpaved county roads, callers should be ready to provide cross-street references or GPS coordinates if the property is off a named state route. That small step saves time when every minute of exposure counts.
+HomeLyft Restoration Gulfport operates out of Gulfport, which puts the crew on US-90 east and then north through Jackson County to reach Big Point. The route is straightforward in clear conditions, though after a major storm event the same roads that serve Big Point can carry debris or localized flooding, the crew monitors conditions and communicates estimated arrival times directly. Because the local context here is rural and addresses can be spread across unpaved county roads, callers should be ready to provide cross-street references or GPS coordinates if the property is off a named state route. That small step saves time when every minute of exposure counts.
 
 ## Big Point Insurance and Documentation Coordination
 
@@ -48,4 +48,4 @@ Most homeowner policies in Mississippi cover emergency protective measures, boar
 
 One thing the crew has learned working Jackson County properties: the sandy, loamy soil common in the Big Point area drains quickly after rain, but the same soil composition means that outbuildings, detached garages, and older pier-and-beam structures shift more than slab-on-grade homes during wet-dry cycles. When a storm damages the roof of a pier-and-beam structure, the decking geometry can be slightly racked, meaning a standard rectangular tarp won't lie flat without adjustment. The crew accounts for this by measuring actual opening dimensions rather than assuming square corners, which produces a tighter seal and prevents the tarp edges from lifting in the next weather system.
 
-If your home or property in Big Point has sustained storm damage, fire damage, or any breach that's leaving the structure exposed, call HomeLyft Restoration MS at +12282845200. The team will assess the damage, install protective measures that hold through the next weather event, and hand you documentation ready for your insurance carrier, so you can focus on what comes next rather than what's getting worse right now.
+If your home or property in Big Point has sustained storm damage, fire damage, or any breach that's leaving the structure exposed, call HomeLyft Restoration Gulfport at +12282845200. The team will assess the damage, install protective measures that hold through the next weather event, and hand you documentation ready for your insurance carrier, so you can focus on what comes next rather than what's getting worse right now.

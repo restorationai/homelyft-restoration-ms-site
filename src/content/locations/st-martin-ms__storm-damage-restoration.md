@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in St. Martin, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Storm Damage Restoration in St. Martin, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Storm Damage Restoration in St. Martin"
 meta_description: "24/7 emergency storm damage restoration in St. Martin, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "storm damage restoration st. martin"
@@ -61,4 +61,4 @@ We photograph and document every affected surface before work begins, produce a 
 
 One pattern that shows up repeatedly in St. Martin storm work: homes with attached carports or screen enclosures that were added after original construction often have roof tie-ins that weren't permitted or inspected. When a storm peels back that addition, the damage to the main roofline underneath is sometimes worse than the addition itself, and the repair triggers a permit that surfaces the unpermitted work. We flag this early in the assessment so homeowners aren't surprised mid-project when the Jackson County building department gets involved. It's not a problem we create; it's one we'd rather surface before demo than after.
 
-If your St. Martin home took storm damage, whether it's a tree through the roof, wind-driven water in the walls, or a flooded garage from a backed-up drainage ditch, call HomeLyft Restoration MS at **+1 (228) 284-5200**. We'll assess the full scope, document it for your insurer, and get the drying and repairs moving before secondary damage compounds the loss.
+If your St. Martin home took storm damage, whether it's a tree through the roof, wind-driven water in the walls, or a flooded garage from a backed-up drainage ditch, call HomeLyft Restoration Gulfport at **+1 (228) 284-5200**. We'll assess the full scope, document it for your insurer, and get the drying and repairs moving before secondary damage compounds the loss.

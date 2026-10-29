@@ -120,10 +120,10 @@ If you are standing in a wet room reading this, here is the sequence:
 
 If the loss involves storm surge or rising water, pull out your NFIP flood policy alongside your homeowners policy before you call.
 
-HomeLyft Restoration MS handles [water damage restoration](/services/water-damage-restoration/) across the Gulf Coast from Gulfport to Pascagoula and up through Hattiesburg. The team is IICRC WRT and ASD certified and produces the moisture logs and Xactimate-compatible documentation that insurance adjusters need. To schedule an emergency assessment, call (228) 284-5200.
+HomeLyft Restoration Gulfport handles [water damage restoration](/services/water-damage-restoration/) across the Gulf Coast from Gulfport to Pascagoula and up through Hattiesburg. The team is IICRC WRT and ASD certified and produces the moisture logs and Xactimate-compatible documentation that insurance adjusters need. To schedule an emergency assessment, call (228) 284-5200.
 
 ---
 
-**About HomeLyft Restoration MS**
+**About HomeLyft Restoration Gulfport**
 
-HomeLyft Restoration MS is an IICRC Certified Firm serving Gulfport, Mississippi and the surrounding Gulf Coast since 2022 (license RO 2728). The company holds IICRC certifications in Water Damage Restoration (WRT), Applied Structural Drying (ASD), Fire and Smoke Restoration (FSRT), and Applied Microbial Remediation (AMRT), along with EPA Lead-Safe and OSHA training credentials. Services include water damage restoration, storm damage restoration, mold remediation, fire damage restoration, sewage cleanup, contents restoration, emergency board-up and tarping, roofing, and general contracting across Harrison, Hancock, Jackson, Lamar, and Forrest counties.
+HomeLyft Restoration Gulfport is an IICRC Certified Firm serving Gulfport, Mississippi and the surrounding Gulf Coast since 2022 (license RO 2728). The company holds IICRC certifications in Water Damage Restoration (WRT), Applied Structural Drying (ASD), Fire and Smoke Restoration (FSRT), and Applied Microbial Remediation (AMRT), along with EPA Lead-Safe and OSHA training credentials. Services include water damage restoration, storm damage restoration, mold remediation, fire damage restoration, sewage cleanup, contents restoration, emergency board-up and tarping, roofing, and general contracting across Harrison, Hancock, Jackson, Lamar, and Forrest counties.

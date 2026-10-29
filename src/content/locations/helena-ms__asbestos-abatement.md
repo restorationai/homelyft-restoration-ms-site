@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in Helena, MS | HomeLyft Restoration MS"
+title: "Asbestos Abatement in Helena, MS | HomeLyft Restoration Gulfport"
 h1: "Asbestos Abatement in Helena"
 meta_description: "Asbestos abatement in Helena, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "asbestos abatement helena"
@@ -40,7 +40,7 @@ After abatement, the containment zone is HEPA-vacuumed, wiped, and visually insp
 
 ## Reaching Helena from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport, and we serve Helena by scheduling project mobilizations in advance, asbestos abatement is not an emergency-response service in the same way water extraction is, and responsible abatement requires proper planning, permitting, and material staging regardless of where a project is located. When you call to discuss a Helena property, we'll coordinate an inspection visit, review the scope, and provide a written timeline before any work begins. Properties in and around Helena are reached via I-55 north and connecting routes through the Delta, our project coordinators account for drive time when scheduling inspection and abatement crews.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and we serve Helena by scheduling project mobilizations in advance, asbestos abatement is not an emergency-response service in the same way water extraction is, and responsible abatement requires proper planning, permitting, and material staging regardless of where a project is located. When you call to discuss a Helena property, we'll coordinate an inspection visit, review the scope, and provide a written timeline before any work begins. Properties in and around Helena are reached via I-55 north and connecting routes through the Delta, our project coordinators account for drive time when scheduling inspection and abatement crews.
 
 ## Local Note
 
@@ -50,4 +50,4 @@ One pattern our team has observed in Phillips County and the surrounding Delta r
 
 Asbestos abatement is not always a covered loss under standard homeowner's insurance, coverage depends heavily on whether the discovery is tied to a covered peril (such as storm damage that disturbs existing materials) or is a pre-existing condition identified during a voluntary renovation. We document all findings thoroughly, including photographs, laboratory reports, and scope-of-work records, so that property owners have the paperwork needed to submit a claim or dispute a denial. For commercial property owners in Helena, environmental liability riders and contractor's pollution liability policies sometimes apply, we recommend reviewing those policy documents with your broker before assuming abatement is out-of-pocket.
 
-If you own or manage a property in Helena and have reason to believe asbestos-containing materials are present, whether you're planning a renovation, responding to storm damage, or preparing a property for sale, call HomeLyft Restoration MS at +12282845200 to schedule an inspection. Knowing what's in your building is the first step toward handling it safely and legally.
+If you own or manage a property in Helena and have reason to believe asbestos-containing materials are present, whether you're planning a renovation, responding to storm damage, or preparing a property for sale, call HomeLyft Restoration Gulfport at +12282845200 to schedule an inspection. Knowing what's in your building is the first step toward handling it safely and legally.

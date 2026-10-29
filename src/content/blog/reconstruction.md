@@ -66,10 +66,10 @@ A contractor without a current state license can't legally pull building permits
 
 If your property is near Keesler Air Force Base or further along Beach Boulevard where salt air and humidity are constant, ask how the rebuild plan addresses moisture resistance in the materials selected, not just matching what was there before. A straight like-for-like rebuild in a high-humidity coastal zone can set you up for the same problem again in a few years.
 
-HomeLyft Restoration MS handles reconstruction as part of our general contracting scope, picking up where water, fire, and storm damage mitigation ends. If you're at the point where demolition is done and you need a written rebuild scope for your adjuster, request a reconstruction estimate and we'll walk the property with you before any work starts.
+HomeLyft Restoration Gulfport handles reconstruction as part of our general contracting scope, picking up where water, fire, and storm damage mitigation ends. If you're at the point where demolition is done and you need a written rebuild scope for your adjuster, request a reconstruction estimate and we'll walk the property with you before any work starts.
 
 ---
 
-**About HomeLyft Restoration MS**
+**About HomeLyft Restoration Gulfport**
 
-HomeLyft Restoration MS is an IICRC Certified Firm serving Gulfport, Biloxi, and the Mississippi Gulf Coast since 2022 (license RO 2728). Their technicians hold IICRC credentials in water restoration, structural drying, fire and smoke restoration, and mold remediation, along with EPA Lead-Safe certification and Fortified roofing certification for Mississippi windstorm standards. The company operates 24/7 and coordinates mitigation and reconstruction under one scope of work for residential and commercial properties across the region.
+HomeLyft Restoration Gulfport is an IICRC Certified Firm serving Gulfport, Biloxi, and the Mississippi Gulf Coast since 2022 (license RO 2728). Their technicians hold IICRC credentials in water restoration, structural drying, fire and smoke restoration, and mold remediation, along with EPA Lead-Safe certification and Fortified roofing certification for Mississippi windstorm standards. The company operates 24/7 and coordinates mitigation and reconstruction under one scope of work for residential and commercial properties across the region.

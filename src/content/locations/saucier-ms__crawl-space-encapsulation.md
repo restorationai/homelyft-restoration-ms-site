@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Saucier, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Saucier, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Saucier"
 meta_description: "Crawl space encapsulation in Saucier, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation saucier"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Crawl Space Encapsulation"
 rendered: true
 ---
-Saucier sits in the piney woods of Harrison County where the Gulf Coast's humidity doesn't let up, even miles inland, summer air moisture routinely pushes into the 80–90% relative humidity range, and that moisture finds its way under pier-and-beam and block-foundation homes before most homeowners realize anything is wrong. Crawl spaces in this part of Mississippi aren't just damp in rainy season; they stay damp, and that persistent ground moisture is exactly the condition that turns bare dirt subfloors into breeding grounds for mold, wood rot, and pest harborage. HomeLyft Restoration MS, operating out of Gulfport, brings IICRC-certified encapsulation work to Saucier properties before a moisture problem becomes a structural one.
+Saucier sits in the piney woods of Harrison County where the Gulf Coast's humidity doesn't let up, even miles inland, summer air moisture routinely pushes into the 80–90% relative humidity range, and that moisture finds its way under pier-and-beam and block-foundation homes before most homeowners realize anything is wrong. Crawl spaces in this part of Mississippi aren't just damp in rainy season; they stay damp, and that persistent ground moisture is exactly the condition that turns bare dirt subfloors into breeding grounds for mold, wood rot, and pest harborage. HomeLyft Restoration Gulfport, operating out of Gulfport, brings IICRC-certified encapsulation work to Saucier properties before a moisture problem becomes a structural one.
 
 ## Why Saucier Properties Are Especially Vulnerable to Crawl Space Moisture
 
@@ -38,10 +38,10 @@ All drying and encapsulation work follows IICRC S500 and S520 standards, and bec
 
 ## Reaching Saucier from Our Gulfport Base
 
-HomeLyft Restoration MS is headquartered in Gulfport, and Saucier is a straightforward run up US-49 North, a route our crews travel regularly for Harrison County work. We schedule Saucier jobs with realistic drive time built in and confirm arrival windows directly with homeowners, so you're not waiting on a vague four-hour window. If you're calling about a moisture situation that's been developing, soft spots in flooring, a musty smell in the living area, or condensation on ductwork, prompt scheduling means we can assess and begin work before conditions worsen through another humid stretch.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and Saucier is a straightforward run up US-49 North, a route our crews travel regularly for Harrison County work. We schedule Saucier jobs with realistic drive time built in and confirm arrival windows directly with homeowners, so you're not waiting on a vague four-hour window. If you're calling about a moisture situation that's been developing, soft spots in flooring, a musty smell in the living area, or condensation on ductwork, prompt scheduling means we can assess and begin work before conditions worsen through another humid stretch.
 
 ## Local Note
 
 One thing that comes up repeatedly on Saucier properties: homes here often have HVAC ductwork running through the crawl space rather than the attic, which is common in this part of Harrison County. When those ducts are sitting in an unencapsulated crawl space, they're not just sweating, they're actively pulling conditioned air through leaky connections into a moisture-saturated environment, which drives up energy bills and accelerates mold growth on the duct exterior. During encapsulation assessments, we flag duct condition as part of the inspection because sealing the vapor barrier without addressing leaky ducts leaves a significant moisture source in place. It's a detail that often surprises homeowners but makes a real difference in long-term performance.
 
-If your Saucier home has a crawl space that smells musty, shows signs of pest activity, or has floors that feel soft or springy in spots, those are signals worth acting on before the next rainy season compounds the damage. Call HomeLyft Restoration MS at +12282845200 to schedule a crawl space assessment, we'll tell you exactly what's under your home and what it will take to protect it.
+If your Saucier home has a crawl space that smells musty, shows signs of pest activity, or has floors that feel soft or springy in spots, those are signals worth acting on before the next rainy season compounds the damage. Call HomeLyft Restoration Gulfport at +12282845200 to schedule a crawl space assessment, we'll tell you exactly what's under your home and what it will take to protect it.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Removal & Cleanup in DeLisle, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Water Removal & Cleanup in DeLisle, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Water Removal & Cleanup in DeLisle"
 meta_description: "24/7 emergency water removal & cleanup in DeLisle, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency water removal & cleanup delisle"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
-**Water damage emergency in DeLisle?** Call HomeLyft Restoration MS now at +1 (228) 284-5200. We answer 24/7, and our crews work out of Gulfport, so a burst supply line, failed sump pump, or storm surge backup in DeLisle doesn't sit overnight waiting on a callback. DeLisle's low-lying ground along the Wolf River estuary means standing water rarely drains on its own, and the clock on mold growth starts the moment carpet pad or subfloor stays wet.
+**Water damage emergency in DeLisle?** Call HomeLyft Restoration Gulfport now at +1 (228) 284-5200. We answer 24/7, and our crews work out of Gulfport, so a burst supply line, failed sump pump, or storm surge backup in DeLisle doesn't sit overnight waiting on a callback. DeLisle's low-lying ground along the Wolf River estuary means standing water rarely drains on its own, and the clock on mold growth starts the moment carpet pad or subfloor stays wet.
 
 ## Why DeLisle Properties See Water Damage
 
@@ -38,4 +38,4 @@ We're based in Gulfport, a short run up Highway 49 and Highway 90 corridor into 
 
 A lot of DeLisle homes on septic systems sit close enough to the water table that heavy rain saturates the drain field before it ever reaches the house, which means what looks like a plumbing backup is sometimes groundwater pressure pushing wastewater back up through low drains. We check this early in the inspection because it changes both the cleanup approach and whether the loss gets treated as clean water or contaminated water under IICRC guidelines, which affects what gets removed versus dried in place.
 
-If water is sitting in your DeLisle home right now, don't wait to see if it recedes on its own. Call HomeLyft Restoration MS at +1 (228) 284-5200 for emergency water removal and cleanup, and we'll get extraction equipment moving toward your address while we talk through what you're seeing.
+If water is sitting in your DeLisle home right now, don't wait to see if it recedes on its own. Call HomeLyft Restoration Gulfport at +1 (228) 284-5200 for emergency water removal and cleanup, and we'll get extraction equipment moving toward your address while we talk through what you're seeing.

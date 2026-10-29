@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Pearlington, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Pearlington, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Pearlington"
 meta_description: "Carpet cleaning in Pearlington, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning pearlington"
@@ -50,4 +50,4 @@ For commercial properties, rental units, small offices, or any multi-room job, w
 
 One pattern we've noticed consistently in Pearlington: homes that sit on the lower-lying streets closest to the Pearl River tend to have carpet pad that retains moisture even when the surface carpet feels dry to the touch. Homeowners sometimes assume a quick dry time means the job is done, but a moisture reading at the pad level tells a different story. We always check pad moisture before packing equipment, and if readings are elevated, we extend drying time rather than sign off on a job that will smell musty by the following weekend. It's a small step that makes a significant difference in how long a cleaning result actually holds in this environment.
 
-If your home or property in Pearlington is dealing with ground-in soil, post-storm residue, pet odors, or carpets that just haven't smelled right since the last rainy season, call HomeLyft Restoration MS at +12282845200 to schedule a professional assessment. We'll tell you honestly what the carpet needs, and whether cleaning is the right answer or whether the pad or subfloor needs attention first.
+If your home or property in Pearlington is dealing with ground-in soil, post-storm residue, pet odors, or carpets that just haven't smelled right since the last rainy season, call HomeLyft Restoration Gulfport at +12282845200 to schedule a professional assessment. We'll tell you honestly what the carpet needs, and whether cleaning is the right answer or whether the pad or subfloor needs attention first.

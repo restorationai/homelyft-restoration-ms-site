@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Henderson Point, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Henderson Point, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Henderson Point"
 meta_description: "24/7 upholstery cleaning in Henderson Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning henderson point"
@@ -38,4 +38,4 @@ Our crews run out of Gulfport, and the drive down toward Pass Christian and Hend
 
 One thing that trips up a lot of Henderson Point homeowners: furniture positioned near windows or sunrooms facing the water tends to collect a fine layer of salt residue over time, even when it looks visually clean. That residue attracts moisture from the air, which is part of why upholstery near coastal-facing windows can feel perpetually damp no matter how often it's vacuumed. We treat those pieces a little differently, with an extra rinse pass to pull the salt out before extraction, rather than just cleaning over it.
 
-Whether it's a leather sectional that's started to feel stiff in the salt air or a fabric sofa holding onto a mildew smell no amount of febreze will fix, we schedule upholstery cleaning appointments throughout Henderson Point and the surrounding Pass Christian area. Call HomeLyft Restoration MS at (228) 284-5200 to get a piece looked at before the humidity does more damage to the padding underneath.
+Whether it's a leather sectional that's started to feel stiff in the salt air or a fabric sofa holding onto a mildew smell no amount of febreze will fix, we schedule upholstery cleaning appointments throughout Henderson Point and the surrounding Pass Christian area. Call HomeLyft Restoration Gulfport at (228) 284-5200 to get a piece looked at before the humidity does more damage to the padding underneath.

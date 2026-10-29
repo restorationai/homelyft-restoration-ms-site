@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in Hattiesburg, MS | HomeLyft Restoration MS"
+title: "Contents Restoration and Storage in Hattiesburg, MS | HomeLyft Restoration Gulfport"
 h1: "Contents Restoration and Storage in Hattiesburg"
 meta_description: "Contents restoration and storage in Hattiesburg, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "contents restoration and storage hattiesburg"
@@ -38,7 +38,7 @@ Our team holds IICRC certifications in fire and smoke restoration (FSRT) and wat
 
 ## Reaching Hattiesburg from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport and serves the Hattiesburg market via US-49 North, which connects the two cities in roughly 75 miles. When you call to schedule, our team will confirm availability and give you a realistic arrival window based on current crew scheduling and distance. We do not promise response times in minutes, the drive is honest, and we would rather give you an accurate expectation than an optimistic one that leaves you waiting.
+HomeLyft Restoration Gulfport is headquartered in Gulfport and serves the Hattiesburg market via US-49 North, which connects the two cities in roughly 75 miles. When you call to schedule, our team will confirm availability and give you a realistic arrival window based on current crew scheduling and distance. We do not promise response times in minutes, the drive is honest, and we would rather give you an accurate expectation than an optimistic one that leaves you waiting.
 
 For properties in different parts of the metro, access logistics can vary. Coordinating a pack-out from a residential neighborhood requires clear driveway access for our transport vehicle, and we ask customers to let us know in advance if there are any access considerations, narrow streets, gated entries, or shared driveways, so we can plan accordingly.
 
@@ -52,4 +52,4 @@ If your policy includes additional living expenses (ALE) coverage, the cost of c
 
 Hattiesburg's proximity to the Leaf River and the area's heavy clay soils mean that flood events, even from localized storms rather than named hurricanes, can push water into lower-level rooms faster than many homeowners expect. Clay soil does not absorb runoff quickly, so surface water from a heavy rain event can enter a crawl-space or slab-on-grade home before the storm has even passed. We have handled pack-outs in Hattiesburg where the water event lasted less than two hours but left behind enough moisture in rugs, upholstered furniture, and stored boxes to require full contents restoration. If you have a lower level or a home with minimal elevation above grade, it is worth knowing that the timeline for mold colonization on organic materials, cardboard, fabric, wood, can begin in as little as 24 to 48 hours under Hattiesburg's ambient humidity conditions.
 
-If your home has been affected by water, fire, smoke, or mold damage and your belongings need professional attention, call HomeLyft Restoration MS at +12282845200. We will assess what can be restored, what needs specialized cleaning, and how to keep your possessions protected while your home is being repaired, so that when you move back in, your things come with you.
+If your home has been affected by water, fire, smoke, or mold damage and your belongings need professional attention, call HomeLyft Restoration Gulfport at +12282845200. We will assess what can be restored, what needs specialized cleaning, and how to keep your possessions protected while your home is being repaired, so that when you move back in, your things come with you.

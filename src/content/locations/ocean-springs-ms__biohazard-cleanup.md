@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Biohazard Cleanup in Ocean Springs, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Biohazard Cleanup in Ocean Springs, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Biohazard Cleanup in Ocean Springs"
 meta_description: "24/7 emergency biohazard cleanup in Ocean Springs, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "biohazard cleanup ocean springs"
@@ -58,4 +58,4 @@ If your property is in a flood zone, common in low-lying parts of Ocean Springs 
 
 One thing that comes up specifically in Ocean Springs: a number of the older homes here have pier-and-beam foundations with open or partially open crawl spaces beneath the living area. If a biohazard situation has involved any seepage or drainage toward that crawl space, something the coastal topography and older plumbing layouts can allow, the contamination footprint may be larger than what is visible from inside the home. We always assess the crawl space as part of our initial evaluation on pier-and-beam properties, because missing that area means the job is not actually finished.
 
-If you are dealing with a difficult situation at a property in Ocean Springs, you do not have to figure out the logistics on your own. HomeLyft Restoration MS handles the cleanup, the documentation, and the coordination with your insurance carrier, discreetly, thoroughly, and in compliance with Mississippi environmental regulations. Call +12282845200 to speak with someone who can walk you through the next steps.
+If you are dealing with a difficult situation at a property in Ocean Springs, you do not have to figure out the logistics on your own. HomeLyft Restoration Gulfport handles the cleanup, the documentation, and the coordination with your insurance carrier, discreetly, thoroughly, and in compliance with Mississippi environmental regulations. Call +12282845200 to speak with someone who can walk you through the next steps.

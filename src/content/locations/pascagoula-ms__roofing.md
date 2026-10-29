@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Roofing Installation and Replacement in Pascagoula, MS | HomeLyft Restoration MS"
+title: "Roofing Installation and Replacement in Pascagoula, MS | HomeLyft Restoration Gulfport"
 h1: "Roofing Installation and Replacement in Pascagoula"
 meta_description: "24/7 roofing installation and replacement in Pascagoula, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "roofing installation and replacement pascagoula"
@@ -38,4 +38,4 @@ Most roof replacement work on the coast gets paid for one of two ways: a homeown
 
 One thing that catches homeowners off guard on the Mississippi coast: a roof that passed a visual inspection two years ago can still be hiding corroded fastener heads at the ridge and hip lines, because salt air attacks exposed metal long before it shows as a visible leak. We check those high-wear points specifically on every Pascagoula inspection, since that's usually where wind gets its first grip during a tropical system.
 
-A roof replacement on the coast is a bigger decision than picking a shingle color. It is wind design, deck integrity, and fastening method working together against a climate that does not give a roof system much room for error. If you're weighing a new roof installation, a repair that's turned into something bigger, or you just want a straight answer on whether your current roof would hold up to the next named storm, call HomeLyft Restoration MS at (228) 284-5200. We're licensed in Mississippi under #RO 2728 and available 24/7 for roofing and storm-related work across Pascagoula and the rest of Jackson County.
+A roof replacement on the coast is a bigger decision than picking a shingle color. It is wind design, deck integrity, and fastening method working together against a climate that does not give a roof system much room for error. If you're weighing a new roof installation, a repair that's turned into something bigger, or you just want a straight answer on whether your current roof would hold up to the next named storm, call HomeLyft Restoration Gulfport at (228) 284-5200. We're licensed in Mississippi under #RO 2728 and available 24/7 for roofing and storm-related work across Pascagoula and the rest of Jackson County.

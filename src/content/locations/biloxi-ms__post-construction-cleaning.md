@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Biloxi, MS | HomeLyft Restoration MS"
+title: "Post-Construction and Specialty Cleaning in Biloxi, MS | HomeLyft Restoration Gulfport"
 h1: "Post-Construction and Specialty Cleaning in Biloxi"
 meta_description: "Post-construction and specialty cleaning in Biloxi, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "post-construction and specialty cleaning biloxi"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Post-Construction and Specialty Cleaning"
 rendered: true
 ---
-Biloxi's coastal humidity doesn't clock out when a renovation crew does. By the time the last subcontractor leaves a remodeled Gulf-front condo or a newly built home off Pass Road, fine construction dust has already begun absorbing moisture from the salt air, settling into HVAC vents, coating window tracks, and filming over every hard surface. That's the starting condition HomeLyft Restoration MS walks into for post-construction and specialty cleaning jobs in Biloxi, and it shapes every step of how we work.
+Biloxi's coastal humidity doesn't clock out when a renovation crew does. By the time the last subcontractor leaves a remodeled Gulf-front condo or a newly built home off Pass Road, fine construction dust has already begun absorbing moisture from the salt air, settling into HVAC vents, coating window tracks, and filming over every hard surface. That's the starting condition HomeLyft Restoration Gulfport walks into for post-construction and specialty cleaning jobs in Biloxi, and it shapes every step of how we work.
 
 ## Why Biloxi Construction Sites Present Unique Cleaning Challenges
 
@@ -54,4 +54,4 @@ Standard janitorial equipment isn't built for post-construction conditions. We b
 
 One thing that surprises property owners doing their first post-construction walkthrough in Biloxi: the fine white haze on newly installed windows isn't always construction dust. Salt aerosol from Gulf breezes can deposit on glass and frames within days of installation, especially on properties east of downtown toward the Back Bay. It looks like calcium or silica residue and responds to the same acidic cleaning approach, but if a crew treats it as ordinary dust and uses an alkaline all-purpose cleaner, they'll smear it rather than lift it. Knowing the difference is the kind of detail that comes from working the Gulf Coast regularly, not from a national franchise playbook.
 
-When your Biloxi renovation or new build is ready for its final clean, call HomeLyft Restoration MS at +12282845200. We'll assess the scope, give you a straight timeline, and leave the property ready for photography, inspection, or move-in, without the dust, debris, or salt haze that the Gulf Coast air tends to leave behind.
+When your Biloxi renovation or new build is ready for its final clean, call HomeLyft Restoration Gulfport at +12282845200. We'll assess the scope, give you a straight timeline, and leave the property ready for photography, inspection, or move-in, without the dust, debris, or salt haze that the Gulf Coast air tends to leave behind.

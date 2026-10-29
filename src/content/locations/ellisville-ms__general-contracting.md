@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Ellisville, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Ellisville, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Ellisville"
 meta_description: "Renovations, remodels and general contracting in Ellisville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting ellisville"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Ellisville sits in the heart of Jones County, where the humidity climbs fast in summer, pine-country soils shift with seasonal moisture, and a significant share of the housing stock dates back decades, conditions that shape every renovation decision from foundation to roofline. Whether you're rebuilding after storm or water damage, modernizing a mid-century ranch, or expanding a commercial space along Highway 11, HomeLyft Restoration MS brings licensed general contracting experience (license #RO 2728) that accounts for what Mississippi's climate actually does to buildings over time.
+Ellisville sits in the heart of Jones County, where the humidity climbs fast in summer, pine-country soils shift with seasonal moisture, and a significant share of the housing stock dates back decades, conditions that shape every renovation decision from foundation to roofline. Whether you're rebuilding after storm or water damage, modernizing a mid-century ranch, or expanding a commercial space along Highway 11, HomeLyft Restoration Gulfport brings licensed general contracting experience (license #RO 2728) that accounts for what Mississippi's climate actually does to buildings over time.
 
 ## Why Ellisville Homes Present Unique Renovation Challenges
 

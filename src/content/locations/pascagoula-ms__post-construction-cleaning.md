@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Pascagoula, MS | HomeLyft Restoration MS"
+title: "Post-Construction and Specialty Cleaning in Pascagoula, MS | HomeLyft Restoration Gulfport"
 h1: "Post-Construction and Specialty Cleaning in Pascagoula"
 meta_description: "Post-construction and specialty cleaning in Pascagoula, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "post-construction and specialty cleaning pascagoula"
@@ -55,6 +55,6 @@ Contractors working in Pascagoula's waterfront corridors, particularly propertie
 
 ## Getting to Pascagoula from Our Gulfport Base
 
-HomeLyft Restoration MS operates out of Gulfport and reaches Pascagoula via US-90 East through Biloxi and Ocean Springs, a straightforward run along the coast that keeps our crew time predictable. We schedule Pascagoula jobs with enough lead time to account for traffic through the Biloxi corridor during peak hours. When you call to schedule, we'll confirm a realistic arrival window based on the day and time rather than give you a number that doesn't hold up in practice.
+HomeLyft Restoration Gulfport operates out of Gulfport and reaches Pascagoula via US-90 East through Biloxi and Ocean Springs, a straightforward run along the coast that keeps our crew time predictable. We schedule Pascagoula jobs with enough lead time to account for traffic through the Biloxi corridor during peak hours. When you call to schedule, we'll confirm a realistic arrival window based on the day and time rather than give you a number that doesn't hold up in practice.
 
-When you're ready to schedule a post-construction or specialty clean for your Pascagoula property, call HomeLyft Restoration MS at +12282845200. We'll walk through the scope, confirm the surface types involved, and give you a clear picture of what the clean will cover and how long it will take, no guesswork, no surprises on site.
+When you're ready to schedule a post-construction or specialty clean for your Pascagoula property, call HomeLyft Restoration Gulfport at +12282845200. We'll walk through the scope, confirm the surface types involved, and give you a clear picture of what the clean will cover and how long it will take, no guesswork, no surprises on site.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in Bay St. Louis, MS | HomeLyft Restoration MS"
+title: "Asbestos Abatement in Bay St. Louis, MS | HomeLyft Restoration Gulfport"
 h1: "Asbestos Abatement in Bay St. Louis"
 meta_description: "Asbestos abatement in Bay St. Louis, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "asbestos abatement bay st. louis"
@@ -36,7 +36,7 @@ Every project starts with a thorough inspection and bulk sampling before a singl
 
 For removal projects, the work area is isolated with negative air pressure containment using HEPA-filtered air scrubbers. Workers wear full PPE per OSHA standards. Wet methods are used throughout to suppress fiber release during material removal. All waste is double-bagged in labeled, sealed poly bags and transported to a licensed disposal facility, Mississippi requires asbestos waste to go to approved Class I or Class II landfills, and we handle that chain of custody documentation.
 
-After removal, a final air clearance test is conducted before containment is broken. That test result, not our word, is what clears the space for re-occupancy or continued renovation. HomeLyft Restoration MS holds EPA Lead-Safe Certification and OSHA training, and our team operates under license #RO 2728.
+After removal, a final air clearance test is conducted before containment is broken. That test result, not our word, is what clears the space for re-occupancy or continued renovation. HomeLyft Restoration Gulfport holds EPA Lead-Safe Certification and OSHA training, and our team operates under license #RO 2728.
 
 ## Reaching Bay St. Louis from Gulfport
 
@@ -52,4 +52,4 @@ Asbestos abatement is sometimes a covered line item under homeowner's insurance 
 
 One pattern we see specifically along the Bay St. Louis waterfront corridor: homes that were elevated on new pilings after Katrina sometimes had their original pier-and-beam substructure removed, but the original duct boots and floor tile adhesive from the pre-storm slab were occasionally left in place beneath the elevated structure or incorporated into the rebuild. If your home went through a post-Katrina elevation project, it's worth having those transition areas inspected before any future work disturbs them. It's a detail that doesn't show up in standard pre-purchase disclosures and catches a lot of homeowners off guard.
 
-If you're planning a renovation, addition, or full gut-rehab anywhere in Bay St. Louis, an asbestos inspection before demo day is the step that protects your timeline, your crew, and your budget. Contact HomeLyft Restoration MS at +1 (228) 284-5200 to schedule sampling and get a clear picture of what you're working with before the first wall comes down.
+If you're planning a renovation, addition, or full gut-rehab anywhere in Bay St. Louis, an asbestos inspection before demo day is the step that protects your timeline, your crew, and your budget. Contact HomeLyft Restoration Gulfport at +1 (228) 284-5200 to schedule sampling and get a clear picture of what you're working with before the first wall comes down.

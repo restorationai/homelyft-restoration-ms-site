@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Ocean Springs, MS | HomeLyft Restoration MS"
+title: "Post-Construction and Specialty Cleaning in Ocean Springs, MS | HomeLyft Restoration Gulfport"
 h1: "Post-Construction and Specialty Cleaning in Ocean Springs"
 meta_description: "Post-construction and specialty cleaning in Ocean Springs, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "post-construction and specialty cleaning ocean springs"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Post-Construction and Specialty Cleaning"
 rendered: true
 ---
-Ocean Springs has been on a quiet building boom, coastal cottages getting gut renovations, older bungalows near the downtown arts district being converted into short-term rentals, and new infill construction popping up throughout the city. When the last subcontractor walks off a job site here, what's left behind is rarely just a little sawdust. Gulf Coast humidity means drywall dust clings to surfaces, concrete dust settles into HVAC returns, and caulk overspray hardens faster than it would in a drier climate. HomeLyft Restoration MS handles the full post-construction and specialty cleaning process so that Ocean Springs homeowners and contractors hand off a space that's genuinely move-in ready.
+Ocean Springs has been on a quiet building boom, coastal cottages getting gut renovations, older bungalows near the downtown arts district being converted into short-term rentals, and new infill construction popping up throughout the city. When the last subcontractor walks off a job site here, what's left behind is rarely just a little sawdust. Gulf Coast humidity means drywall dust clings to surfaces, concrete dust settles into HVAC returns, and caulk overspray hardens faster than it would in a drier climate. HomeLyft Restoration Gulfport handles the full post-construction and specialty cleaning process so that Ocean Springs homeowners and contractors hand off a space that's genuinely move-in ready.
 
 ## Why Ocean Springs Properties Present Unique Post-Construction Cleaning Challenges
 
@@ -42,7 +42,7 @@ In Ocean Springs, we build extra time into the schedule for humidity-related iss
 
 ## Reaching Ocean Springs from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport, which puts Ocean Springs within a straightforward drive east on US-90 along the coast. The route through Biloxi connects directly into Ocean Springs, making scheduling efficient for both residential and commercial projects throughout the city. We serve properties across Ocean Springs and coordinate directly with general contractors to schedule cleaning phases around final inspections and certificate-of-occupancy timelines.
+HomeLyft Restoration Gulfport is based in Gulfport, which puts Ocean Springs within a straightforward drive east on US-90 along the coast. The route through Biloxi connects directly into Ocean Springs, making scheduling efficient for both residential and commercial projects throughout the city. We serve properties across Ocean Springs and coordinate directly with general contractors to schedule cleaning phases around final inspections and certificate-of-occupancy timelines.
 
 For larger commercial projects or multi-phase residential renovations, we can stage equipment and schedule crew in advance so that the cleaning phase doesn't become the bottleneck holding up a project closeout.
 
@@ -50,4 +50,4 @@ For larger commercial projects or multi-phase residential renovations, we can st
 
 One pattern that comes up repeatedly in Ocean Springs renovation work: homes built in the 1960s and 1970s in this area often used a textured ceiling finish, sometimes called "popcorn" or acoustic texture, that was applied with asbestos-containing material before the late 1970s. When a renovation disturbs or removes that ceiling texture, the post-construction cleaning phase needs to account for potential residual particulate. We don't perform asbestos abatement, but we coordinate with licensed abatement contractors when a project has already addressed the material and needs a certified cleaning crew to follow. Homeowners in Ocean Springs who are renovating homes from this era should confirm that abatement is complete and documented before scheduling a final clean.
 
-If you're wrapping up a renovation or new build in Ocean Springs and need a crew that understands Gulf Coast conditions, lead-safe protocols, and the sequencing that actually produces a clean result, call HomeLyft Restoration MS at +12282845200. We'll walk through the scope of your project and schedule the cleaning phase around your contractor's timeline.
+If you're wrapping up a renovation or new build in Ocean Springs and need a crew that understands Gulf Coast conditions, lead-safe protocols, and the sequencing that actually produces a clean result, call HomeLyft Restoration Gulfport at +12282845200. We'll walk through the scope of your project and schedule the cleaning phase around your contractor's timeline.

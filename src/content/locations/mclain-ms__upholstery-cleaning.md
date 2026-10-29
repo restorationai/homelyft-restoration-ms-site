@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in McLain, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in McLain, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in McLain"
 meta_description: "24/7 upholstery cleaning in McLain, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning mclain"
@@ -38,4 +38,4 @@ Our crews travel north out of Gulfport to reach McLain and the surrounding Green
 
 One thing that catches people off guard: furniture stored in a detached garage or hunting camp outbuilding in this area often has a different moisture profile than furniture kept in the main house, even after it's brought back inside. Unconditioned outbuildings in Greene County run humid nearly year-round, and fabric or leather that's sat out there for a season can carry moisture deep in the padding that isn't obvious from the surface. We check for that before cleaning, because running standard extraction on already-damp padding can trap moisture instead of releasing it.
 
-If your upholstery in McLain is holding onto odors, stains, or that faint mustiness that never seems to air out, call HomeLyft Restoration MS at (228) 284-5200. We schedule crews for McLain and the rest of Greene County and bring the right process for fabric or leather, not a one-size-fits-all rinse.
+If your upholstery in McLain is holding onto odors, stains, or that faint mustiness that never seems to air out, call HomeLyft Restoration Gulfport at (228) 284-5200. We schedule crews for McLain and the rest of Greene County and bring the right process for fabric or leather, not a one-size-fits-all rinse.

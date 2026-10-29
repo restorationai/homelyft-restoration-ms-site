@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Gulf Park Estates, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Gulf Park Estates, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Gulf Park Estates"
 meta_description: "Carpet cleaning in Gulf Park Estates, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning gulf park estates"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-Gulf Park Estates sits right along the Mississippi Gulf Coast, where the air carries salt, humidity climbs into the 90s for months at a stretch, and afternoon thunderstorms roll in fast enough to soak a doormat before you can close a window. That coastal moisture doesn't stay outside, it works its way into carpet fibers, feeds mildew, and turns ordinary tracked-in Gulf Coast sand and clay into a grinding compound that wears pile down from the inside out. HomeLyft Restoration MS brings professional carpet cleaning to Gulf Park Estates with methods calibrated to that specific environment, not a one-size-fits-all approach borrowed from somewhere inland.
+Gulf Park Estates sits right along the Mississippi Gulf Coast, where the air carries salt, humidity climbs into the 90s for months at a stretch, and afternoon thunderstorms roll in fast enough to soak a doormat before you can close a window. That coastal moisture doesn't stay outside, it works its way into carpet fibers, feeds mildew, and turns ordinary tracked-in Gulf Coast sand and clay into a grinding compound that wears pile down from the inside out. HomeLyft Restoration Gulfport brings professional carpet cleaning to Gulf Park Estates with methods calibrated to that specific environment, not a one-size-fits-all approach borrowed from somewhere inland.
 
 ## Why Gulf Park Estates Carpets Face Harder Wear Than Most
 
@@ -52,4 +52,4 @@ One thing that comes up repeatedly in Gulf Park Estates is the combination of sl
 
 For homeowners who notice recurring mustiness between cleanings, the underlying moisture issue may warrant a separate conversation about vapor barriers or subfloor treatment, something the HomeLyft team can assess during the visit.
 
-If your carpet has been holding onto the Gulf Coast's salt, sand, and humidity longer than it should, call HomeLyft Restoration MS at +12282845200. We work out of Gulfport and serve Gulf Park Estates with the same IICRC-certified standards we apply across Harrison County, because carpet cleaning here isn't the same job it is somewhere else, and it shouldn't be treated that way.
+If your carpet has been holding onto the Gulf Coast's salt, sand, and humidity longer than it should, call HomeLyft Restoration Gulfport at +12282845200. We work out of Gulfport and serve Gulf Park Estates with the same IICRC-certified standards we apply across Harrison County, because carpet cleaning here isn't the same job it is somewhere else, and it shouldn't be treated that way.

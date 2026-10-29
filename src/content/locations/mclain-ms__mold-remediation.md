@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in McLain, MS | HomeLyft Restoration MS"
+title: "Mold Remediation in McLain, MS | HomeLyft Restoration Gulfport"
 h1: "Mold Remediation in McLain"
 meta_description: "Mold remediation in McLain, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "mold remediation mclain"
@@ -48,4 +48,4 @@ If your policy has a mold sublimit, common in Mississippi policies issued after 
 
 One thing that comes up repeatedly in Greene County homes with pier-and-beam construction: the crawl space access hatch is often small, sometimes as narrow as 18 inches, and positioned in a corner of the home that's difficult to reach with equipment. In McLain-area properties especially, we factor extra time into the initial inspection for crawl space access and, when needed, bring a smaller-profile HEPA vacuum and flexible ducting so we can treat floor joist bays without having to enlarge the hatch. It's a detail that sounds minor until you're three hours into a job and realize the standard equipment won't fit.
 
-If you're dealing with mold in your McLain home, whether it's a faint smell you can't locate or visible growth you've already found, call HomeLyft Restoration MS at +12282845200 to schedule an assessment. We'll tell you honestly what we find, what it will take to fix it, and what your options are before any work begins.
+If you're dealing with mold in your McLain home, whether it's a faint smell you can't locate or visible growth you've already found, call HomeLyft Restoration Gulfport at +12282845200 to schedule an assessment. We'll tell you honestly what we find, what it will take to fix it, and what your options are before any work begins.

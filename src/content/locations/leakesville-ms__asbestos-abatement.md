@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in Leakesville, MS | HomeLyft Restoration MS"
+title: "Asbestos Abatement in Leakesville, MS | HomeLyft Restoration Gulfport"
 h1: "Asbestos Abatement in Leakesville"
 meta_description: "Asbestos abatement in Leakesville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "asbestos abatement leakesville"
@@ -32,11 +32,11 @@ Greene County's heat and humidity accelerate the aging of building materials. Re
 
 Every project begins with a thorough inspection of the affected areas. Suspect materials are sampled and sent to an accredited laboratory, results typically return within 24 to 48 hours. Once the presence of asbestos is confirmed, the work area is sealed with heavy-gauge polyethylene sheeting and placed under negative air pressure using HEPA-filtered air scrubbers. This containment prevents cross-contamination to adjacent rooms and keeps fibers from migrating through the HVAC system.
 
-Abatement technicians work in full personal protective equipment and follow Mississippi Department of Environmental Quality (MDEQ) regulations governing the handling, packaging, and disposal of asbestos waste. All removed material is double-bagged in labeled, leak-tight containers and transported to a licensed disposal facility, not a general landfill. After removal is complete, a final air clearance test confirms fiber levels are below the threshold before containment is broken and the space is returned to use. Because HomeLyft Restoration MS holds EPA Lead-Safe Certification and IICRC credentials, the same crew can address co-occurring lead paint concerns in older Leakesville homes without requiring a second contractor.
+Abatement technicians work in full personal protective equipment and follow Mississippi Department of Environmental Quality (MDEQ) regulations governing the handling, packaging, and disposal of asbestos waste. All removed material is double-bagged in labeled, leak-tight containers and transported to a licensed disposal facility, not a general landfill. After removal is complete, a final air clearance test confirms fiber levels are below the threshold before containment is broken and the space is returned to use. Because HomeLyft Restoration Gulfport holds EPA Lead-Safe Certification and IICRC credentials, the same crew can address co-occurring lead paint concerns in older Leakesville homes without requiring a second contractor.
 
 ## Reaching Leakesville from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, and Leakesville is reachable via US-49 North through Wiggins and Lucedale before connecting to MS-57 and then MS-63 into Greene County. The route is straightforward, though rural stretches mean scheduling matters, we coordinate arrival windows with property owners in advance so there is no waiting around on a workday. For projects that require multiple days of containment and abatement, equipment staging is arranged to minimize disruption to the property and any neighboring structures.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Leakesville is reachable via US-49 North through Wiggins and Lucedale before connecting to MS-57 and then MS-63 into Greene County. The route is straightforward, though rural stretches mean scheduling matters, we coordinate arrival windows with property owners in advance so there is no waiting around on a workday. For projects that require multiple days of containment and abatement, equipment staging is arranged to minimize disruption to the property and any neighboring structures.
 
 ## Local Note
 
@@ -46,4 +46,4 @@ One pattern that comes up repeatedly in older Leakesville homes is the combinati
 
 Asbestos abatement is not always a covered loss under standard homeowners policies, but when asbestos disturbance is tied to a covered peril, a storm that damages a roof containing asbestos felt, or a pipe burst that soaks asbestos floor tile, the remediation costs may be partially or fully reimbursable. The HomeLyft team documents the scope of work with photographs, written reports, and laboratory results in a format that supports insurance claims. We communicate directly with adjusters to reduce the back-and-forth that often delays project approval, and we can clarify what the Mississippi regulatory requirements mandate so adjusters understand why certain steps are not optional.
 
-If you have discovered suspect materials in a Leakesville property, whether you are preparing for a renovation, dealing with storm damage, or simply buying or selling a home built before 1980, call HomeLyft Restoration MS at +12282845200 to schedule an inspection. Getting a confirmed answer about what you are dealing with is always the right first step.
+If you have discovered suspect materials in a Leakesville property, whether you are preparing for a renovation, dealing with storm damage, or simply buying or selling a home built before 1980, call HomeLyft Restoration Gulfport at +12282845200 to schedule an inspection. Getting a confirmed answer about what you are dealing with is always the right first step.

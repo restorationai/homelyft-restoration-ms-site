@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in D'Iberville, MS | HomeLyft Restoration MS"
+title: "Asbestos Abatement in D'Iberville, MS | HomeLyft Restoration Gulfport"
 h1: "Asbestos Abatement in D'Iberville"
 meta_description: "Asbestos abatement in D'Iberville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "asbestos abatement d'iberville"
@@ -34,7 +34,7 @@ Every project starts with a thorough inspection, visual assessment followed by b
 
 Containment comes next. We seal the work area with poly sheeting and establish negative air pressure using HEPA-filtered air scrubbers so that disturbed fibers cannot migrate into adjacent rooms or HVAC systems. Removal follows strict Mississippi Department of Environmental Quality (MDEQ) protocols and EPA NESHAP standards, materials are wetted to suppress fiber release, bagged in labeled, double-sealed containers, and transported to a licensed disposal facility. Final air clearance sampling is conducted before containment is removed. Nothing is signed off on a visual pass alone.
 
-Because HomeLyft Restoration MS holds EPA Lead-Safe Certification and operates as an IICRC Certified Firm, our technicians are trained to handle the overlap that commonly appears in older D'Iberville properties, asbestos and lead-based paint often coexist in pre-1978 homes, and disturbing one without accounting for the other creates compounding liability.
+Because HomeLyft Restoration Gulfport holds EPA Lead-Safe Certification and operates as an IICRC Certified Firm, our technicians are trained to handle the overlap that commonly appears in older D'Iberville properties, asbestos and lead-based paint often coexist in pre-1978 homes, and disturbing one without accounting for the other creates compounding liability.
 
 ## Reaching D'Iberville from Gulfport
 
@@ -48,4 +48,4 @@ Asbestos abatement costs are sometimes covered under homeowner policies when the
 
 One pattern we see repeatedly in D'Iberville's older residential pockets near the Back Bay: properties that flooded during Katrina and were subsequently lifted on new pier foundations sometimes had their original subfloor assemblies left in place beneath the elevated structure. Those original subfloors frequently contain 9×9 or 12×12 vinyl tiles with asbestos-bearing mastic. When homeowners later add skirting, enclosures, or HVAC equipment in the crawl space, they risk disturbing those tiles without realizing they're there. An inspection before any under-home work is a low-cost way to avoid a much larger problem.
 
-If you're planning a renovation, handling storm damage, or simply buying an older property in D'Iberville and want to understand what you're working with, call HomeLyft Restoration MS at +12282845200. We'll walk you through the inspection process, explain what the lab results mean in plain language, and give you a clear scope before any work begins.
+If you're planning a renovation, handling storm damage, or simply buying an older property in D'Iberville and want to understand what you're working with, call HomeLyft Restoration Gulfport at +12282845200. We'll walk you through the inspection process, explain what the lab results mean in plain language, and give you a clear scope before any work begins.

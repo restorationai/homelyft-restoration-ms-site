@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Hurley, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Storm Damage Restoration in Hurley, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Storm Damage Restoration in Hurley"
 meta_description: "24/7 emergency storm damage restoration in Hurley, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "storm damage restoration hurley"
@@ -55,4 +55,4 @@ Most storm damage claims in Mississippi involve a wind/hail deductible that is c
 
 One pattern that comes up repeatedly in the rural Jackson County area: after a storm, homeowners sometimes wait several days to call because the exterior damage looks manageable, a few missing shingles, a bent gutter. But in pier-and-beam homes with wood subfloors, even a modest roof breach can channel water down interior wall cavities into the floor system, where it sits on top of the vapor barrier in the crawl space. By the time visible staining appears on the ceiling or floor feels soft underfoot, the structural drying timeline has already stretched significantly. An early inspection costs nothing and can tell you whether you're dealing with a surface repair or a deeper drying job before the framing tells you itself.
 
-If a storm has hit your property in Hurley or the surrounding Jackson County area, call HomeLyft Restoration MS at +12282845200. We'll assess the damage honestly, document it completely, and walk you through every step of the restoration so there are no surprises on your end or your insurer's.
+If a storm has hit your property in Hurley or the surrounding Jackson County area, call HomeLyft Restoration Gulfport at +12282845200. We'll assess the damage honestly, document it completely, and walk you through every step of the restoration so there are no surprises on your end or your insurer's.

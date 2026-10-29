@@ -88,4 +88,4 @@ Remediation is not the same as mold testing. Some companies do both; others spec
 
 ---
 
-If you've found growth you can't confidently identify, or if you're dealing with the aftermath of a water event in your home, the safest next step is a professional assessment before the problem expands. HomeLyft Restoration MS handles mold remediation in Gulfport and the surrounding Gulf Coast area, give the team a call at (228) 284-5200 to talk through what you're seeing.
+If you've found growth you can't confidently identify, or if you're dealing with the aftermath of a water event in your home, the safest next step is a professional assessment before the problem expands. HomeLyft Restoration Gulfport handles mold remediation in Gulfport and the surrounding Gulf Coast area, give the team a call at (228) 284-5200 to talk through what you're seeing.

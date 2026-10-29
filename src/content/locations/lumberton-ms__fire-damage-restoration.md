@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Lumberton, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Fire Damage Restoration in Lumberton, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Fire Damage Restoration in Lumberton"
 meta_description: "24/7 emergency fire damage restoration in Lumberton, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "fire damage restoration lumberton"
@@ -47,7 +47,7 @@ The first step on any fire job is stabilization, boarding windows, tarping compr
 
 ## Reaching Lumberton from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport and reaches Lumberton via US-98 West through Hattiesburg and into Lamar County. The drive runs roughly 60 miles depending on the specific address in the area. When you call +12282845200, the team will confirm scheduling and give you an honest arrival window based on current conditions, no inflated promises about response times.
+HomeLyft Restoration Gulfport operates out of Gulfport and reaches Lumberton via US-98 West through Hattiesburg and into Lamar County. The drive runs roughly 60 miles depending on the specific address in the area. When you call +12282845200, the team will confirm scheduling and give you an honest arrival window based on current conditions, no inflated promises about response times.
 
 ## Lumberton Insurance Coordination
 
@@ -57,4 +57,4 @@ Fire claims in Mississippi typically involve an adjuster visit, a scope of work 
 
 Homes in and around Lumberton that were built before the mid-1980s frequently have pier-and-beam foundations with open crawl spaces. After a fire, firefighting water and foam runoff can pool under the structure, and that moisture, combined with the heat already in the subfloor, creates conditions for mold colonization within 48 to 72 hours. On jobs in this area, the crawl space inspection is never skipped, even when the fire was contained to upper floors. A thermal camera and moisture meter go under the house on day one.
 
-If fire has damaged your Lumberton property, the longer the soot and smoke residue sit, the deeper they penetrate and the more surfaces become permanently stained or corroded. Call HomeLyft Restoration MS at +12282845200 to schedule an assessment and get the documentation process started before the damage compounds.
+If fire has damaged your Lumberton property, the longer the soot and smoke residue sit, the deeper they penetrate and the more surfaces become permanently stained or corroded. Call HomeLyft Restoration Gulfport at +12282845200 to schedule an assessment and get the documentation process started before the damage compounds.

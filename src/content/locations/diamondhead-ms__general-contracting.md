@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Diamondhead, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Diamondhead, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Diamondhead"
 meta_description: "Renovations, remodels and general contracting in Diamondhead, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting diamondhead"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Diamondhead sits in a stretch of Hancock County where Gulf Coast humidity never really lets up, and the housing stock, much of it built during the community's planned-development boom in the 1970s and expanded steadily since, carries its own set of renovation quirks that a generic contractor from out of the region simply won't anticipate. Whether you're updating a kitchen that still has original cabinetry from three decades ago, rebuilding after storm damage, or finally converting that screened porch into conditioned living space, HomeLyft Restoration MS brings licensed general contracting (RO #2728) and hands-on coastal Mississippi experience to every project.
+Diamondhead sits in a stretch of Hancock County where Gulf Coast humidity never really lets up, and the housing stock, much of it built during the community's planned-development boom in the 1970s and expanded steadily since, carries its own set of renovation quirks that a generic contractor from out of the region simply won't anticipate. Whether you're updating a kitchen that still has original cabinetry from three decades ago, rebuilding after storm damage, or finally converting that screened porch into conditioned living space, HomeLyft Restoration Gulfport brings licensed general contracting (RO #2728) and hands-on coastal Mississippi experience to every project.
 
 ## Why Diamondhead Homes Present Unique Renovation Challenges
 
@@ -46,4 +46,4 @@ Our team operates out of Gulfport, which puts Diamondhead roughly 30 miles west 
 
 One detail that catches out-of-area contractors in Diamondhead: the community's internal road network was designed as a private system, and some sections have weight or access restrictions that affect material delivery trucks and dumpster placement. We've worked in the area long enough to plan around those logistics in advance, scheduling deliveries during appropriate windows and coordinating staging so a 40-foot flatbed doesn't end up blocked at an interior intersection on pour day. It's the kind of thing that doesn't show up in a permit application but can cost a project a full day if nobody plans for it.
 
-If your Diamondhead home is ready for a renovation, whether it's a long-overdue kitchen remodel, a bathroom update, a full addition, or a post-storm rebuild, call HomeLyft Restoration MS at +12282845200. We'll walk the property, give you a straight assessment of what the scope actually involves in a coastal Mississippi climate, and build a plan that holds up long after the last nail is driven.
+If your Diamondhead home is ready for a renovation, whether it's a long-overdue kitchen remodel, a bathroom update, a full addition, or a post-storm rebuild, call HomeLyft Restoration Gulfport at +12282845200. We'll walk the property, give you a straight assessment of what the scope actually involves in a coastal Mississippi climate, and build a plan that holds up long after the last nail is driven.

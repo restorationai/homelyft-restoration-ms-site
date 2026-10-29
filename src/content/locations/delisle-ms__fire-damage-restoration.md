@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in DeLisle, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Fire Damage Restoration in DeLisle, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Fire Damage Restoration in DeLisle"
 meta_description: "24/7 emergency fire damage restoration in DeLisle, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "fire damage restoration delisle"
@@ -41,7 +41,7 @@ Structural drying runs concurrently with smoke remediation on any job where supp
 
 ## Reaching DeLisle from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, putting DeLisle well within our regular service corridor along the Harrison County coast. The US-90 and MS-53 corridors give us straightforward access to properties throughout the area. When you call +12282845200, you'll speak with someone who can schedule a prompt assessment, not a call center routing you to a regional dispatcher.
+HomeLyft Restoration Gulfport operates out of Gulfport, putting DeLisle well within our regular service corridor along the Harrison County coast. The US-90 and MS-53 corridors give us straightforward access to properties throughout the area. When you call +12282845200, you'll speak with someone who can schedule a prompt assessment, not a call center routing you to a regional dispatcher.
 
 ## DeLisle Insurance Coordination
 
@@ -53,4 +53,4 @@ If your policy includes code-upgrade coverage (sometimes called Ordinance or Law
 
 One pattern we see repeatedly in DeLisle and the surrounding Harrison County corridor: homes with metal roofing, increasingly common after Hurricane Katrina rebuilds, trap heat in attic spaces that were already compromised by fire. That superheated attic environment drives smoke odor deeper into blown-in insulation and makes standard thermal fogging less effective on its own. On these properties, we combine fogging with attic-specific HEPA air scrubbing and, in severe cases, full insulation removal and replacement. It's a step that adds time but prevents the odor from returning six months later when summer heat peaks.
 
-If your DeLisle home has been through a fire, call HomeLyft Restoration MS at +12282845200 to schedule an on-site assessment. We'll document the full scope of damage, walk you through the restoration sequence in plain language, and coordinate directly with your insurance carrier so the process moves forward without you managing every detail alone.
+If your DeLisle home has been through a fire, call HomeLyft Restoration Gulfport at +12282845200 to schedule an on-site assessment. We'll document the full scope of damage, walk you through the restoration sequence in plain language, and coordinate directly with your insurance carrier so the process moves forward without you managing every detail alone.

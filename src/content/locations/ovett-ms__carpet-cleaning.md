@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Ovett, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Ovett, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Ovett"
 meta_description: "Carpet cleaning in Ovett, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning ovett"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-Ovett sits in the piney woods of Jones County, where humidity rarely takes a day off and red clay soil tracks in on boots year-round. That combination, sticky Gulf-influenced air pushing north from the coast and iron-rich clay that bonds stubbornly to carpet fibers, means carpets in Ovett homes and businesses work harder than those in drier climates, and they show it faster. HomeLyft Restoration MS brings IICRC-certified carpet cleaning to this corner of Jones County with methods calibrated to what the local environment actually does to flooring.
+Ovett sits in the piney woods of Jones County, where humidity rarely takes a day off and red clay soil tracks in on boots year-round. That combination, sticky Gulf-influenced air pushing north from the coast and iron-rich clay that bonds stubbornly to carpet fibers, means carpets in Ovett homes and businesses work harder than those in drier climates, and they show it faster. HomeLyft Restoration Gulfport brings IICRC-certified carpet cleaning to this corner of Jones County with methods calibrated to what the local environment actually does to flooring.
 
 ## Why Ovett Carpets Face a Tougher Fight
 
@@ -42,7 +42,7 @@ For sanitization, particularly relevant in homes with pets, young children, or a
 
 ## Reaching Ovett from Our Gulfport Base
 
-HomeLyft Restoration MS operates out of Gulfport and schedules service throughout Jones County and the surrounding region. Ovett is accessible via US-11 north through Hattiesburg and into Jones County, a route our crews run regularly for restoration work across this part of Mississippi. When you call to schedule, we'll confirm the best access point for your address and give you a realistic arrival window so you're not waiting without information.
+HomeLyft Restoration Gulfport operates out of Gulfport and schedules service throughout Jones County and the surrounding region. Ovett is accessible via US-11 north through Hattiesburg and into Jones County, a route our crews run regularly for restoration work across this part of Mississippi. When you call to schedule, we'll confirm the best access point for your address and give you a realistic arrival window so you're not waiting without information.
 
 For commercial carpet cleaning, offices, rental properties, or small retail spaces in the Ovett area, we can coordinate scheduling to minimize disruption, including early-morning start times when the property is unoccupied.
 
@@ -50,4 +50,4 @@ For commercial carpet cleaning, offices, rental properties, or small retail spac
 
 One thing that surprises homeowners in this part of Jones County: pier-and-beam homes with crawl spaces often have carpet pad that retains moisture from below-floor humidity even when the carpet surface feels dry. We've found pad moisture readings of 20–25% in homes where the occupant had no idea there was a moisture issue. If your home sits on a pier-and-beam foundation and you're noticing musty odors that return a few weeks after cleaning, it's worth having the crawl space humidity checked, the carpet isn't the source, and no amount of surface cleaning will permanently eliminate the odor until the subfloor environment is addressed.
 
-If you're dealing with carpets that feel dingy despite regular vacuuming, carry persistent odors, or have stains that previous cleaning didn't fully lift, call HomeLyft Restoration MS at +12282845200 to schedule professional carpet cleaning in Ovett. We'll assess what your specific flooring needs and put together a cleaning plan that accounts for what Jones County's climate actually does to carpet over time.
+If you're dealing with carpets that feel dingy despite regular vacuuming, carry persistent odors, or have stains that previous cleaning didn't fully lift, call HomeLyft Restoration Gulfport at +12282845200 to schedule professional carpet cleaning in Ovett. We'll assess what your specific flooring needs and put together a cleaning plan that accounts for what Jones County's climate actually does to carpet over time.

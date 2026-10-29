@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Ocean Springs, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in Ocean Springs, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in Ocean Springs"
 meta_description: "24/7 emergency board-up and tarping in Ocean Springs, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping ocean springs"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Need an emergency board-up in Ocean Springs? We answer 24/7.** Call now and our crew heads out to secure broken windows, doors and roofs.
 
-Ocean Springs sits squarely in the path of Gulf Coast weather that can shift from sunny to destructive in hours, a fast-moving thunderstorm, a tornado warning, or the outer bands of a named storm can leave a roof open to the sky or a storefront window shattered before a homeowner even knows what hit them. When that happens, the gap between the damage event and a proper board-up or tarp installation is the gap where water, wind, and opportunistic entry do their worst. HomeLyft Restoration MS responds out of Gulfport to secure properties across Ocean Springs before secondary damage compounds the original loss.
+Ocean Springs sits squarely in the path of Gulf Coast weather that can shift from sunny to destructive in hours, a fast-moving thunderstorm, a tornado warning, or the outer bands of a named storm can leave a roof open to the sky or a storefront window shattered before a homeowner even knows what hit them. When that happens, the gap between the damage event and a proper board-up or tarp installation is the gap where water, wind, and opportunistic entry do their worst. HomeLyft Restoration Gulfport responds out of Gulfport to secure properties across Ocean Springs before secondary damage compounds the original loss.
 
 ## Why Ocean Springs Properties Face Elevated Board-Up and Tarping Needs
 
@@ -59,4 +59,4 @@ HomeLyft provides that documentation package as a standard part of every job, fo
 
 One thing that catches property owners off guard in Ocean Springs specifically: the city's proximity to the Back Bay and the tidal wetlands to the north means that after a significant storm, standing water on low-lying lots can persist for 12–24 hours even after rain stops. If a breach in the structure is at or near grade, a kicked-in door, a broken basement window well, a compromised crawl-space vent, that pooled exterior water can continue pushing into the structure long after the storm passes. During board-up assessments on properties near the bay side of town, we check grade-level openings as carefully as roof and window breaches, because a perfectly tarped roof doesn't help if water is wicking in at the foundation perimeter.
 
-When your Ocean Springs property has been breached by storm, fire, or impact, the clock starts immediately. Call HomeLyft Restoration MS at (228) 284-5200 to get a crew moving toward your address, every hour of exposure matters on the Gulf Coast.
+When your Ocean Springs property has been breached by storm, fire, or impact, the clock starts immediately. Call HomeLyft Restoration Gulfport at (228) 284-5200 to get a crew moving toward your address, every hour of exposure matters on the Gulf Coast.

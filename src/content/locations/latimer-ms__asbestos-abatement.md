@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in Latimer, MS | HomeLyft Restoration MS"
+title: "Asbestos Abatement in Latimer, MS | HomeLyft Restoration Gulfport"
 h1: "Asbestos Abatement in Latimer"
 meta_description: "Asbestos abatement in Latimer, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "asbestos abatement latimer"
@@ -46,4 +46,4 @@ Homeowners insurance rarely covers elective asbestos abatement, but the picture 
 
 One pattern we've seen repeatedly in Harrison County homes built in the 1950s and 1960s is asbestos-containing floor tile installed directly over a concrete slab, a construction method common in the Gulf South because slab-on-grade foundations were the standard response to the region's high water table and expansive clay soils. That tile is often still intact beneath carpet or vinyl that was laid over it in later decades. Homeowners planning to install new flooring frequently don't know it's there until the carpet is pulled. If your Latimer home was built before 1975 and has never had a formal asbestos inspection, it's worth scheduling one before any flooring work begins, disturbing intact tile during a DIY project can release fibers that would otherwise remain safely encapsulated.
 
-If you're dealing with a renovation, a recent storm loss, or simply an older home that's never been assessed, call HomeLyft Restoration MS at +12282845200 to schedule an asbestos inspection in Latimer. We'll walk you through what the process looks like for your specific property and give you a clear picture of what comes next before any work begins.
+If you're dealing with a renovation, a recent storm loss, or simply an older home that's never been assessed, call HomeLyft Restoration Gulfport at +12282845200 to schedule an asbestos inspection in Latimer. We'll walk you through what the process looks like for your specific property and give you a clear picture of what comes next before any work begins.

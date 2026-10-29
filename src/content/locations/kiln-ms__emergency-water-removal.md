@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Removal & Cleanup in Kiln, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Water Removal & Cleanup in Kiln, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Water Removal & Cleanup in Kiln"
 meta_description: "24/7 emergency water removal & cleanup in Kiln, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency water removal & cleanup kiln"
@@ -42,4 +42,4 @@ Most of Kiln falls outside the kind of HOA-governed subdivisions you'd find clos
 
 On properties with a septic system, a water emergency inside the house can mean the drain field is already saturated from the same rain event that caused the problem, which changes how we manage extracted water on site rather than just running it out the nearest low point in the yard. It's a detail that doesn't come up on a municipal sewer system, but it matters here, and it's the kind of thing you only catch by working Hancock County properties regularly.
 
-Water sitting under a Kiln home doesn't wait for business hours, and neither do we. If you've got a soaked subfloor, a flooded crawlspace, or standing water from a burst pipe or storm backup, call HomeLyft Restoration MS and we'll get extraction equipment moving toward you right away.
+Water sitting under a Kiln home doesn't wait for business hours, and neither do we. If you've got a soaked subfloor, a flooded crawlspace, or standing water from a burst pipe or storm backup, call HomeLyft Restoration Gulfport and we'll get extraction equipment moving toward you right away.

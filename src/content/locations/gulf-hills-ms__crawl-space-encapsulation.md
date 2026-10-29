@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Gulf Hills, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Gulf Hills, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Gulf Hills"
 meta_description: "Crawl space encapsulation in Gulf Hills, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation gulf hills"
@@ -47,7 +47,7 @@ The result is a crawl space that behaves more like a conditioned room, stable hu
 
 ## Reaching Gulf Hills from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, and Gulf Hills is a straightforward service run east along U.S. 90 or via I-10 to the Ocean Springs exits, depending on the specific address in Jackson County. We schedule Gulf Hills jobs with the same priority as our core Gulfport service area. When you call +12282845200, we can typically confirm a same-day or next-day inspection appointment and give you an honest timeline before any work begins.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Gulf Hills is a straightforward service run east along U.S. 90 or via I-10 to the Ocean Springs exits, depending on the specific address in Jackson County. We schedule Gulf Hills jobs with the same priority as our core Gulfport service area. When you call +12282845200, we can typically confirm a same-day or next-day inspection appointment and give you an honest timeline before any work begins.
 
 ## Local Note: What Gulf Hills Contractors Know About Pier-and-Beam Homes Here
 
@@ -57,4 +57,4 @@ Homes in the Gulf Hills area that were built before the widespread adoption of c
 
 Standard homeowners insurance does not typically cover encapsulation as a standalone improvement, but the situation changes when encapsulation is part of a documented water damage or mold remediation claim. If your crawl space moisture problem traces back to a covered loss, a plumbing failure, storm-driven water intrusion, or a roof leak that tracked down into the subfloor, the remediation portion of the work may be billable to your carrier. We document conditions thoroughly with photographs and moisture readings, which gives your adjuster the evidence needed to evaluate the claim accurately. We work with most major carriers and can walk you through what to expect before you file.
 
-Call HomeLyft Restoration MS at +12282845200 to schedule a crawl space inspection in Gulf Hills. We will tell you exactly what we find, what it will take to fix it, and what it will cost, before any work begins.
+Call HomeLyft Restoration Gulfport at +12282845200 to schedule a crawl space inspection in Gulf Hills. We will tell you exactly what we find, what it will take to fix it, and what it will cost, before any work begins.

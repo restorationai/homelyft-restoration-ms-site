@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in State Line, MS | HomeLyft Restoration MS"
+title: "Post-Construction and Specialty Cleaning in State Line, MS | HomeLyft Restoration Gulfport"
 h1: "Post-Construction and Specialty Cleaning in State Line"
 meta_description: "Post-construction and specialty cleaning in State Line, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "post-construction and specialty cleaning state line"
@@ -40,7 +40,7 @@ The detail clean follows: wiping every cabinet interior and exterior, cleaning l
 
 ## Reaching State Line from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, and State Line is a meaningful drive north. We schedule State Line jobs with that geography in mind, coordinating arrival windows directly with contractors and property owners so the clean happens at the right point in the project sequence, not as an afterthought squeezed between other trades. We ask for at least 48 hours of lead time on new project bookings so we can staff the crew appropriately for the square footage and scope. Call us at +12282845200 to get on the schedule.
+HomeLyft Restoration Gulfport operates out of Gulfport, and State Line is a meaningful drive north. We schedule State Line jobs with that geography in mind, coordinating arrival windows directly with contractors and property owners so the clean happens at the right point in the project sequence, not as an afterthought squeezed between other trades. We ask for at least 48 hours of lead time on new project bookings so we can staff the crew appropriately for the square footage and scope. Call us at +12282845200 to get on the schedule.
 
 ## Equipment and Methods We Use for Post-Construction Cleaning
 
@@ -52,4 +52,4 @@ For adhesive residue on tile, glass, and trim, we use citrus-based solvents that
 
 One thing that catches out-of-area cleaning crews in this part of Mississippi: the pine pollen season here runs earlier and harder than in coastal areas, and if a construction project wraps up in March or April with windows open for ventilation, a visible yellow film can coat every interior horizontal surface within 24 hours. We've learned to schedule State Line final cleans with a same-day window close after the detail phase, or to add a second pass on horizontal surfaces if the project timeline forced windows open during peak pollen. It's a small detail that makes a measurable difference in how the space presents at handoff.
 
-When your State Line project is ready for its final clean, whether it's a full gut renovation in an older farmhouse-style home or a new addition on a slab, call HomeLyft Restoration MS at +12282845200. We'll walk the scope with you, confirm the sequence with your contractor, and deliver a space that's genuinely ready for occupancy.
+When your State Line project is ready for its final clean, whether it's a full gut renovation in an older farmhouse-style home or a new addition on a slab, call HomeLyft Restoration Gulfport at +12282845200. We'll walk the scope with you, confirm the sequence with your contractor, and deliver a space that's genuinely ready for occupancy.

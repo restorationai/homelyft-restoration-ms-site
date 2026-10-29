@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Hurley, MS | HomeLyft Restoration MS"
+title: "Post-Construction and Specialty Cleaning in Hurley, MS | HomeLyft Restoration Gulfport"
 h1: "Post-Construction and Specialty Cleaning in Hurley"
 meta_description: "Post-construction and specialty cleaning in Hurley, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "post-construction and specialty cleaning hurley"
@@ -44,10 +44,10 @@ For exterior flatwork and driveways, hot-water pressure washing removes concrete
 
 ## Reaching Hurley from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport and regularly serves Jackson County communities including Hurley. The typical route runs east on US-90 through Pascagoula and then north into the Hurley area, a straightforward drive that keeps scheduling predictable. We coordinate arrival windows directly with homeowners, contractors, or property managers so the clean fits the construction handoff timeline rather than disrupting it.
+HomeLyft Restoration Gulfport operates out of Gulfport and regularly serves Jackson County communities including Hurley. The typical route runs east on US-90 through Pascagoula and then north into the Hurley area, a straightforward drive that keeps scheduling predictable. We coordinate arrival windows directly with homeowners, contractors, or property managers so the clean fits the construction handoff timeline rather than disrupting it.
 
 ## Local Note
 
 One pattern that comes up repeatedly on Hurley renovation projects: homes with metal roofing, common in this part of Jackson County, generate fine metallic shavings and roofing tape adhesive residue that end up inside the structure through attic vents and open framing during construction. That debris is easy to miss on a standard final clean but shows up later as dark speckling on light-colored interior surfaces. We specifically check attic access points, ceiling fans, and HVAC returns on any project where metal roofing work was part of the scope.
 
-If your renovation or new build in Hurley is approaching the finish line, call HomeLyft Restoration MS at +12282845200 to schedule a post-construction clean that accounts for what this climate and this housing stock actually demand, not a generic sweep that leaves the real work undone.
+If your renovation or new build in Hurley is approaching the finish line, call HomeLyft Restoration Gulfport at +12282845200 to schedule a post-construction clean that accounts for what this climate and this housing stock actually demand, not a generic sweep that leaves the real work undone.

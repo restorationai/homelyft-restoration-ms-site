@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Picayune, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Picayune, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Picayune"
 meta_description: "Renovations, remodels and general contracting in Picayune, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting picayune"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Picayune sits in Pearl River County at the edge of Mississippi's piney woods, where the humid subtropical climate, long, wet summers and mild but damp winters, works on homes year after year. Wood framing swells and settles, older crawl-space foundations shift with the clay-heavy soils, and storm seasons leave behind damage that too often gets patched rather than properly rebuilt. Whether you're restoring a house after a weather event, updating a kitchen that hasn't been touched since the 1980s, or taking on a full structural remodel, HomeLyft Restoration MS brings licensed general contracting (RO #2728) and hands-on construction experience from Gulfport to Picayune and the surrounding Pearl River County communities.
+Picayune sits in Pearl River County at the edge of Mississippi's piney woods, where the humid subtropical climate, long, wet summers and mild but damp winters, works on homes year after year. Wood framing swells and settles, older crawl-space foundations shift with the clay-heavy soils, and storm seasons leave behind damage that too often gets patched rather than properly rebuilt. Whether you're restoring a house after a weather event, updating a kitchen that hasn't been touched since the 1980s, or taking on a full structural remodel, HomeLyft Restoration Gulfport brings licensed general contracting (RO #2728) and hands-on construction experience from Gulfport to Picayune and the surrounding Pearl River County communities.
 
 ## Why Picayune Homes Present Unique Renovation Challenges
 
@@ -42,4 +42,4 @@ Our crews travel US-11 and I-59 north to reach Picayune regularly, it's a route 
 
 Pearl River County's combination of high annual rainfall and clay-heavy soil means crawl spaces in Picayune accumulate ground moisture faster than coastal slab-on-grade homes do. During any renovation that opens up a crawl space, adding a bathroom, running new HVAC lines, sistering floor joists, our crews inspect the vapor barrier condition and check for wood rot at the sill plates. It's common to find the original 6-mil poly has deteriorated or been disturbed by previous work, and replacing it during a remodel costs a fraction of what a mold remediation job runs after the fact. We treat crawl-space encapsulation as a standard line item to evaluate, not an upsell.
 
-If your project involves a bathroom remodel, kitchen update, addition, or full post-damage rebuild in Picayune, call HomeLyft Restoration MS at +12282845200. We'll schedule a walkthrough, give you a written scope, and handle the project from permit to punch list, so you're not managing a revolving door of subcontractors on your own.
+If your project involves a bathroom remodel, kitchen update, addition, or full post-damage rebuild in Picayune, call HomeLyft Restoration Gulfport at +12282845200. We'll schedule a walkthrough, give you a written scope, and handle the project from permit to punch list, so you're not managing a revolving door of subcontractors on your own.

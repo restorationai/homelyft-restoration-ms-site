@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Pascagoula, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Pascagoula, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Pascagoula"
 meta_description: "24/7 upholstery cleaning in Pascagoula, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning pascagoula"
@@ -38,4 +38,4 @@ We run scheduled upholstery cleaning appointments out to Pascagoula regularly al
 
 One pattern we watch for in Pascagoula specifically: furniture placed against exterior walls in older homes near the water tends to pick up more ambient moisture than furniture on interior walls, simply because those exterior walls run cooler and more humid during summer months. If a sofa or chair has been sitting against an exterior wall for years, we check the back cushions and frame more carefully for mildew that hasn't reached the surface yet, even when the front of the piece looks completely normal.
 
-If your sofa, sectional, or leather recliner has started holding onto odors, feeling damp, or showing salt-air dulling that regular vacuuming won't touch, HomeLyft Restoration MS handles upholstery cleaning throughout Pascagoula with the same moisture-aware approach we use on water restoration jobs. Call +1 (228) 284-5200 to get a cleaning scheduled or ask questions about whether a piece is worth cleaning versus replacing.
+If your sofa, sectional, or leather recliner has started holding onto odors, feeling damp, or showing salt-air dulling that regular vacuuming won't touch, HomeLyft Restoration Gulfport handles upholstery cleaning throughout Pascagoula with the same moisture-aware approach we use on water restoration jobs. Call +1 (228) 284-5200 to get a cleaning scheduled or ask questions about whether a piece is worth cleaning versus replacing.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Biohazard Cleanup in Henderson Point, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Biohazard Cleanup in Henderson Point, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Biohazard Cleanup in Henderson Point"
 meta_description: "24/7 emergency biohazard cleanup in Henderson Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "biohazard cleanup henderson point"
@@ -38,11 +38,11 @@ Every job begins with a confidential assessment. A certified technician evaluate
 
 From there, the process follows a structured sequence: personal protective equipment is donned before entry, affected materials are removed and packaged according to regulated medical waste protocols, and all surfaces are treated with EPA-registered hospital-grade disinfectants. Sharps and needle cleanup requires puncture-resistant containment and specific disposal pathways, our OSHA-trained team handles this as a distinct protocol, not an afterthought. Once cleaning and disinfection are complete, the space is deodorized and clearance testing is conducted to confirm the area is safe for re-occupancy. Documentation is provided for insurance and, when applicable, for property management records.
 
-HomeLyft Restoration MS holds IICRC certification and is EPA Lead-Safe Certified, relevant here because older Henderson Point homes may have lead-based paint on surfaces that require disturbance during remediation, adding a layer of regulatory compliance that not every local contractor is equipped to handle.
+HomeLyft Restoration Gulfport holds IICRC certification and is EPA Lead-Safe Certified, relevant here because older Henderson Point homes may have lead-based paint on surfaces that require disturbance during remediation, adding a layer of regulatory compliance that not every local contractor is equipped to handle.
 
 ## Reaching Henderson Point from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, and Henderson Point is accessible via US-90 east through Long Beach and Pass Christian, then south on Henderson Point Road. The peninsula's single primary access road is worth noting for logistics: during peak summer weekends and following storm events, traffic on that corridor can slow significantly. Our team accounts for this when scheduling and coordinating arrival, and we communicate proactively with property contacts about estimated on-site timing so there are no surprises.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Henderson Point is accessible via US-90 east through Long Beach and Pass Christian, then south on Henderson Point Road. The peninsula's single primary access road is worth noting for logistics: during peak summer weekends and following storm events, traffic on that corridor can slow significantly. Our team accounts for this when scheduling and coordinating arrival, and we communicate proactively with property contacts about estimated on-site timing so there are no surprises.
 
 For properties where discretion is a priority, and in biohazard situations, it almost always is, we arrive in unmarked vehicles and work without signage that would draw attention from neighbors.
 
@@ -54,4 +54,4 @@ Biohazard cleanup is often a covered loss under homeowner's or renter's insuranc
 
 One thing that comes up specifically in Henderson Point is the combination of crawl space construction and the area's seasonal rental market. A number of properties here sit vacant for stretches of the year, and an undetected biohazard situation in a crawl space or enclosed utility area can go unnoticed until a tenant or owner returns, sometimes weeks later. In that heat and humidity, the remediation scope expands considerably compared to a situation addressed within hours. If you are a property manager or owner of a seasonal home on the peninsula, a periodic walkthrough protocol is worth building into your management routine.
 
-When something has happened at your Henderson Point property and you need a team that will respond with discretion, follow proper disposal protocols, and handle the insurance paperwork alongside the physical cleanup, call HomeLyft Restoration MS at +12282845200. This is not a call anyone wants to make, but having the right team on-site quickly makes a measurable difference in what can be salvaged and how soon the space can be returned to normal.
+When something has happened at your Henderson Point property and you need a team that will respond with discretion, follow proper disposal protocols, and handle the insurance paperwork alongside the physical cleanup, call HomeLyft Restoration Gulfport at +12282845200. This is not a call anyone wants to make, but having the right team on-site quickly makes a measurable difference in what can be salvaged and how soon the space can be returned to normal.

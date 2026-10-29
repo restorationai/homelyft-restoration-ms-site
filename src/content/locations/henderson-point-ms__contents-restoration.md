@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in Henderson Point, MS | HomeLyft Restoration MS"
+title: "Contents Restoration and Storage in Henderson Point, MS | HomeLyft Restoration Gulfport"
 h1: "Contents Restoration and Storage in Henderson Point"
 meta_description: "Contents restoration and storage in Henderson Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "contents restoration and storage henderson point"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Contents Restoration and Storage"
 rendered: true
 ---
-Henderson Point sits at the end of a narrow peninsula between St. Louis Bay and the open Gulf, which means homes here face a double-sided moisture threat that most Mississippi communities never deal with, salt-laden air from the south and bay humidity from the north working on your belongings year-round. When a storm surge, burst pipe, or kitchen fire forces you out of your home, the contents inside, furniture, clothing, electronics, family heirlooms, start absorbing that ambient moisture and smoke residue within hours. HomeLyft Restoration MS handles the full cycle: careful pack-out, professional cleaning, climate-controlled storage, and return delivery once your home is ready.
+Henderson Point sits at the end of a narrow peninsula between St. Louis Bay and the open Gulf, which means homes here face a double-sided moisture threat that most Mississippi communities never deal with, salt-laden air from the south and bay humidity from the north working on your belongings year-round. When a storm surge, burst pipe, or kitchen fire forces you out of your home, the contents inside, furniture, clothing, electronics, family heirlooms, start absorbing that ambient moisture and smoke residue within hours. HomeLyft Restoration Gulfport handles the full cycle: careful pack-out, professional cleaning, climate-controlled storage, and return delivery once your home is ready.
 
 ## Why Henderson Point Homes Are Hard on Belongings
 
@@ -48,4 +48,4 @@ Contents restoration is one of the more contested line items in a coastal Missis
 
 One thing that catches homeowners off guard in Henderson Point: the salt air that settles on belongings during a loss event does not stop working just because the storm passed. We have seen furniture that looked cosmetically fine two weeks after a surge event show accelerated finish failure and hardware corrosion a month later, because residual salt was never neutralized. Part of our cleaning protocol here specifically includes a salt-residue rinse step on wood and metal surfaces, something that would be unnecessary in a landlocked city but is standard practice for any coastal Gulf job we run.
 
-If your home on the Henderson Point peninsula has been through a water, fire, or storm event, the sooner belongings are out of that salt-air environment and into a controlled setting, the better the outcome. Call HomeLyft Restoration MS at +12282845200 to schedule a pack-out assessment, we will walk through the property, give you an honest inventory of what can be restored, and get your contents into safe storage while your home is brought back.
+If your home on the Henderson Point peninsula has been through a water, fire, or storm event, the sooner belongings are out of that salt-air environment and into a controlled setting, the better the outcome. Call HomeLyft Restoration Gulfport at +12282845200 to schedule a pack-out assessment, we will walk through the property, give you an honest inventory of what can be restored, and get your contents into safe storage while your home is brought back.

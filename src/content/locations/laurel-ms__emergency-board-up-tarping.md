@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Laurel, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in Laurel, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in Laurel"
 meta_description: "24/7 emergency board-up and tarping in Laurel, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping laurel"
@@ -33,7 +33,7 @@ Fire damage is the other common trigger. A kitchen fire or electrical fire in a 
 
 ## Our Emergency Board-Up and Tarping Process in Laurel
 
-When HomeLyft Restoration MS is dispatched to a Laurel property, the crew arrives with a truck stocked for the full range of structural openings, not just standard window dimensions. The process runs in a consistent sequence:
+When HomeLyft Restoration Gulfport is dispatched to a Laurel property, the crew arrives with a truck stocked for the full range of structural openings, not just standard window dimensions. The process runs in a consistent sequence:
 
 **Assessment first.** Before a single sheet of plywood goes up, a technician walks the perimeter and documents every breach, photographing each opening against a measuring reference. That documentation feeds directly into the insurance claim file, which matters when adjusters review scope.
 
@@ -45,7 +45,7 @@ When HomeLyft Restoration MS is dispatched to a Laurel property, the crew arrive
 
 ## Reaching Laurel from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport, and Laurel is a regular part of our Mississippi service area. The primary route from Gulfport runs north on US-49, a corridor our crews travel frequently for storm-response work across the Pine Belt region. Jones County dispatch and local fire departments are familiar contacts, when a structure fire or storm event generates multiple calls in the same area, coordination with first responders on scene access matters, and we've navigated that process in Laurel before. If you're calling about a property in the eastern part of the city near the industrial corridor or closer to the downtown core, let the dispatcher know your cross street so we can route efficiently.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and Laurel is a regular part of our Mississippi service area. The primary route from Gulfport runs north on US-49, a corridor our crews travel frequently for storm-response work across the Pine Belt region. Jones County dispatch and local fire departments are familiar contacts, when a structure fire or storm event generates multiple calls in the same area, coordination with first responders on scene access matters, and we've navigated that process in Laurel before. If you're calling about a property in the eastern part of the city near the industrial corridor or closer to the downtown core, let the dispatcher know your cross street so we can route efficiently.
 
 ## Insurance Coordination for Laurel Claims
 
@@ -57,4 +57,4 @@ If your property is managed under an HOA or a commercial lease, we can copy the 
 
 Laurel's older downtown-adjacent homes frequently have decorative wood soffits and wide overhangs that look intact from the ground but have hidden rot from years of Gulf humidity cycling through the wood. When we're installing roof tarps on these properties, we probe the soffit framing before anchoring, a batten screwed into rotted wood gives false security and can pull loose in the next wind event. If we find compromised framing, we note it in the documentation and anchor into sound material further up the rafter. It adds fifteen minutes to the job and occasionally surprises homeowners who didn't know the rot was there, but it's the difference between a tarp that holds through the next storm and one that ends up in a neighbor's yard.
 
-If your Laurel home or commercial property has taken storm or fire damage and you need openings secured before the next rain, call HomeLyft Restoration MS at +12282845200. We'll document the damage, secure the structure, and hand you a file your insurance adjuster can work with.
+If your Laurel home or commercial property has taken storm or fire damage and you need openings secured before the next rain, call HomeLyft Restoration Gulfport at +12282845200. We'll document the damage, secure the structure, and hand you a file your insurance adjuster can work with.

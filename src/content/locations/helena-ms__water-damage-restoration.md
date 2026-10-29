@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Helena, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Water Damage Restoration in Helena, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Water Damage Restoration in Helena"
 meta_description: "24/7 emergency water damage restoration in Helena, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "water damage restoration helena"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Water damage emergency in Helena? We answer 24/7.** Call now and our crew heads out to stop the water and start drying your property.
 
-Helena sits in the Mississippi Delta lowlands where the ground stays saturated for weeks after a heavy rain, and when water finds its way into a home, through a failed supply line, a backed-up floor drain, or a roof breach during a Gulf-driven storm system, it moves fast through the older housing stock that defines much of this town. The clay-heavy soils common throughout Phillips County don't drain quickly, which means water that pools against a foundation keeps pressing inward long after the rain stops. HomeLyft Restoration MS responds to those calls with IICRC-certified technicians trained specifically in water damage restoration and structural drying.
+Helena sits in the Mississippi Delta lowlands where the ground stays saturated for weeks after a heavy rain, and when water finds its way into a home, through a failed supply line, a backed-up floor drain, or a roof breach during a Gulf-driven storm system, it moves fast through the older housing stock that defines much of this town. The clay-heavy soils common throughout Phillips County don't drain quickly, which means water that pools against a foundation keeps pressing inward long after the rain stops. HomeLyft Restoration Gulfport responds to those calls with IICRC-certified technicians trained specifically in water damage restoration and structural drying.
 
 ## Why Helena Properties See Water Damage Differently Than Other Mississippi Towns
 
@@ -53,4 +53,4 @@ HomeLyft technicians photograph and document the source, the migration path, and
 
 One pattern we've seen in Helena's older residential areas: homes with original cast-iron drain stacks and clay tile lateral lines are prone to slow drain backups that go unnoticed until a toilet or tub overflows during a heavy-use period. That water is Category 2 or Category 3 contaminated, it carries bacteria and requires a different protocol than a clean-water pipe burst. If you're not sure what caused your water loss, tell us what you saw and smelled when you found it. The source determines the cleanup method, and getting that wrong creates health risks that outlast the visible damage.
 
-If standing water in Helena has reached your floors, walls, or crawl space, call HomeLyft Restoration MS at +12282845200. The longer saturated materials sit, the deeper the damage goes, and in this climate, mold doesn't wait.
+If standing water in Helena has reached your floors, walls, or crawl space, call HomeLyft Restoration Gulfport at +12282845200. The longer saturated materials sit, the deeper the damage goes, and in this climate, mold doesn't wait.

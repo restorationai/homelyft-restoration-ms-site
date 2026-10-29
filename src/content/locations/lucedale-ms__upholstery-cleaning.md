@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Lucedale, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Lucedale, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Lucedale"
 meta_description: "24/7 upholstery cleaning in Lucedale, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning lucedale"
@@ -38,4 +38,4 @@ We run out of Gulfport and schedule upholstery appointments across George County
 
 One thing crews notice repeatedly in George County: furniture stored in detached garages, barns, or hunting camps for part of the year often comes back inside with mold spores already established in the padding, even when the fabric surface looks fine. A surface clean in those cases can mask the smell temporarily without addressing what's inside the cushion, so we recommend a full inspection before cleaning any piece that's spent time in an unconditioned outbuilding.
 
-If your sofa's holding onto last spring's pollen, a leather recliner's starting to crack near the armrest, or a fabric sectional just smells a little off no matter how many times you vacuum it, call HomeLyft Restoration MS at (228) 284-5200. We're licensed (#RO 2728) and insured, and we'll walk through what your specific upholstery needs before we ever bring in equipment.
+If your sofa's holding onto last spring's pollen, a leather recliner's starting to crack near the armrest, or a fabric sectional just smells a little off no matter how many times you vacuum it, call HomeLyft Restoration Gulfport at (228) 284-5200. We're licensed (#RO 2728) and insured, and we'll walk through what your specific upholstery needs before we ever bring in equipment.

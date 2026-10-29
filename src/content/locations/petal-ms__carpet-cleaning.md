@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Petal, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Petal, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Petal"
 meta_description: "Carpet cleaning in Petal, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning petal"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-Petal sits in the Pine Belt, where warm, humid summers and a clay-heavy soil profile create conditions that push dirt, pollen, and moisture deep into carpet fibers faster than most homeowners expect. That combination, high ambient humidity from late spring through September, red-clay tracked in from yards and driveways, and the kind of pine pollen that settles like a fine yellow dust on every surface, means carpets here work harder than carpets in drier climates. HomeLyft Restoration MS brings IICRC-certified cleaning methods calibrated to exactly that environment, so your carpet isn't just surface-clean, it's actually clean.
+Petal sits in the Pine Belt, where warm, humid summers and a clay-heavy soil profile create conditions that push dirt, pollen, and moisture deep into carpet fibers faster than most homeowners expect. That combination, high ambient humidity from late spring through September, red-clay tracked in from yards and driveways, and the kind of pine pollen that settles like a fine yellow dust on every surface, means carpets here work harder than carpets in drier climates. HomeLyft Restoration Gulfport brings IICRC-certified cleaning methods calibrated to exactly that environment, so your carpet isn't just surface-clean, it's actually clean.
 
 ## Why Petal Carpets Face Tougher Conditions
 
@@ -48,4 +48,4 @@ Sanitization is available as an add-on for households with allergy concerns or f
 
 Something that comes up specifically in Petal and the surrounding Forrest County area: a number of homes in established residential sections were built with carpet installed directly over concrete slab without a moisture barrier between the pad and the slab. Over years, that slab absorbs ground moisture and slowly releases it upward into the pad. When we clean those carpets, we factor in longer dry times and sometimes recommend leaving air movers running an additional two to three hours beyond what a comparable home with a wood subfloor would need. If you've noticed your carpets feel slightly damp in summer even without a spill, that slab-to-pad moisture migration is often the reason, and it's worth knowing before scheduling any cleaning service.
 
-For questions or to schedule service in Petal, call HomeLyft Restoration MS at +1 (228) 284-5200. We'll talk through what your carpet needs and get you on the schedule.
+For questions or to schedule service in Petal, call HomeLyft Restoration Gulfport at +1 (228) 284-5200. We'll talk through what your carpet needs and get you on the schedule.

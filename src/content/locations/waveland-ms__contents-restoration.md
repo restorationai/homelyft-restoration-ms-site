@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in Waveland, MS | HomeLyft Restoration MS"
+title: "Contents Restoration and Storage in Waveland, MS | HomeLyft Restoration Gulfport"
 h1: "Contents Restoration and Storage in Waveland"
 meta_description: "Contents restoration and storage in Waveland, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "contents restoration and storage waveland"
@@ -48,4 +48,4 @@ Contents losses are frequently the most disputed portion of a property insurance
 
 One thing our technicians have learned working along the Waveland shoreline: homes within a half-mile of the Gulf often have salt crystallization inside wall cavities and on the back sides of furniture pushed against exterior walls, damage that isn't visible from the front but accelerates deterioration after any moisture event. When we conduct a contents assessment in a Waveland home, we check the backs and undersides of furniture near exterior walls before determining whether a piece can be restored or needs to be flagged for the insurance adjuster. It's a small step that prevents surprises weeks after a job is closed.
 
-If water, fire, smoke, or storm damage has put your belongings at risk in Waveland, call HomeLyft Restoration MS at +12282845200. We'll inventory what you have, protect it during the restoration process, and return it to you in documented, restored condition, with the paper trail your insurance claim needs.
+If water, fire, smoke, or storm damage has put your belongings at risk in Waveland, call HomeLyft Restoration Gulfport at +12282845200. We'll inventory what you have, protect it during the restoration process, and return it to you in documented, restored condition, with the paper trail your insurance claim needs.

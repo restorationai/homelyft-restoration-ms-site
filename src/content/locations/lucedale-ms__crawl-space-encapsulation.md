@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Lucedale, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Lucedale, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Lucedale"
 meta_description: "Crawl space encapsulation in Lucedale, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation lucedale"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Crawl Space Encapsulation"
 rendered: true
 ---
-George County's humidity doesn't just linger in the air, it settles under your house. In Lucedale, where long, wet summers push ground moisture through sandy-loam soils and into crawl spaces with almost no resistance, an unencapsulated crawl space isn't a minor inconvenience. It's an active threat to floor joists, HVAC ductwork, and the air your family breathes every day. HomeLyft Restoration MS brings IICRC-certified encapsulation work down from Gulfport to address exactly what the local soil and climate demand.
+George County's humidity doesn't just linger in the air, it settles under your house. In Lucedale, where long, wet summers push ground moisture through sandy-loam soils and into crawl spaces with almost no resistance, an unencapsulated crawl space isn't a minor inconvenience. It's an active threat to floor joists, HVAC ductwork, and the air your family breathes every day. HomeLyft Restoration Gulfport brings IICRC-certified encapsulation work down from Gulfport to address exactly what the local soil and climate demand.
 
 ## Why Lucedale Properties See Crawl Space Moisture Problems
 
@@ -45,7 +45,7 @@ In George County's climate, we consistently recommend the closed-system approach
 
 ## Reaching Lucedale from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport and serves the Lucedale area via US-98, a route our crews run regularly for jobs throughout George County. Scheduling is handled during business hours, call **+1 (228) 284-5200** to get an inspection on the calendar. Because encapsulation is a planned project rather than an emergency extraction, most Lucedale homeowners find that a scheduled site visit within a few business days works well for getting an accurate scope and quote.
+HomeLyft Restoration Gulfport operates out of Gulfport and serves the Lucedale area via US-98, a route our crews run regularly for jobs throughout George County. Scheduling is handled during business hours, call **+1 (228) 284-5200** to get an inspection on the calendar. Because encapsulation is a planned project rather than an emergency extraction, most Lucedale homeowners find that a scheduled site visit within a few business days works well for getting an accurate scope and quote.
 
 ## Local Note
 
@@ -55,4 +55,4 @@ One pattern we see consistently in Lucedale and the surrounding George County ar
 
 Standard homeowners insurance policies generally treat crawl space encapsulation as a preventive improvement rather than a covered loss repair, meaning it typically comes out of pocket. However, if moisture intrusion or mold damage in the crawl space is tied to a covered peril (a plumbing leak, storm-driven water intrusion), portions of the remediation work may qualify for a claim. HomeLyft documents conditions thoroughly with photos and moisture data, which gives your adjuster the clearest possible picture of cause and extent. We recommend calling your carrier before work begins if there's any chance a covered event contributed to the problem.
 
-Reach out to HomeLyft Restoration MS to schedule a crawl space inspection in Lucedale. A single visit gives you current moisture readings, a clear scope of what encapsulation requires in your specific home, and honest guidance on whether additional remediation is needed before the barrier goes in.
+Reach out to HomeLyft Restoration Gulfport to schedule a crawl space inspection in Lucedale. A single visit gives you current moisture readings, a clear scope of what encapsulation requires in your specific home, and honest guidance on whether additional remediation is needed before the barrier goes in.

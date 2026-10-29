@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Biloxi, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Storm Damage Restoration in Biloxi, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Storm Damage Restoration in Biloxi"
 meta_description: "24/7 emergency storm damage restoration in Biloxi, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "storm damage restoration biloxi"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Storm damage emergency in Biloxi? We answer 24/7.** Call now and our crew heads out to secure the property and stop further damage.
 
-Biloxi sits on a narrow peninsula jutting into the Mississippi Sound, which means Gulf storms don't just arrive here, they arrive with a running start. When a tropical system or severe thunderstorm makes landfall along this stretch of the Coast, properties in Biloxi face a combination of wind-driven rain, storm surge, and airborne debris that is genuinely different from what inland Mississippi communities experience. HomeLyft Restoration MS responds to storm damage calls across Biloxi and the surrounding Gulf Coast, working from our Gulfport base to get crews on-site quickly after the weather clears.
+Biloxi sits on a narrow peninsula jutting into the Mississippi Sound, which means Gulf storms don't just arrive here, they arrive with a running start. When a tropical system or severe thunderstorm makes landfall along this stretch of the Coast, properties in Biloxi face a combination of wind-driven rain, storm surge, and airborne debris that is genuinely different from what inland Mississippi communities experience. HomeLyft Restoration Gulfport responds to storm damage calls across Biloxi and the surrounding Gulf Coast, working from our Gulfport base to get crews on-site quickly after the weather clears.
 
 ## Why Biloxi Properties Are Especially Vulnerable to Storm Damage
 
@@ -59,4 +59,4 @@ Most homeowner policies covering Biloxi properties include separate wind and flo
 
 One thing that catches Biloxi homeowners off guard after a major storm: the city's permitting office can experience a significant backlog when multiple properties in the same area sustain structural damage simultaneously. Reconstruction permits that normally process in a few days can take two to three weeks after a widespread event. The practical implication is that temporary protective measures, roof tarps, board-ups, dehumidification equipment, need to be maintained and monitored during that waiting period, not just installed and left. We keep equipment running and check in on active jobs during permit delays so that drying progress doesn't stall while paperwork catches up.
 
-If your Biloxi home or commercial property has taken storm damage, call HomeLyft Restoration MS at +12282845200. We'll assess the damage, explain what the restoration process looks like for your specific situation, and get work started as soon as it's safe to do so.
+If your Biloxi home or commercial property has taken storm damage, call HomeLyft Restoration Gulfport at +12282845200. We'll assess the damage, explain what the restoration process looks like for your specific situation, and get work started as soon as it's safe to do so.

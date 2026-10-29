@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in Hattiesburg, MS | HomeLyft Restoration MS"
+title: "Asbestos Abatement in Hattiesburg, MS | HomeLyft Restoration Gulfport"
 h1: "Asbestos Abatement in Hattiesburg"
 meta_description: "Asbestos abatement in Hattiesburg, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "asbestos abatement hattiesburg"
@@ -36,7 +36,7 @@ Containment is established before any material is disturbed. We use heavy-gauge 
 
 ## Reaching Hattiesburg from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport, and Hattiesburg is a regular service area reached via US-49 North. The drive through Forrest County is straightforward, and our crews are familiar with the city's layout, from the older residential streets near the University of Southern Mississippi to the commercial corridors along Hardy Street. Scheduling is handled during business hours; call **+1 (228) 284-5200** to discuss your timeline and arrange an inspection visit.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and Hattiesburg is a regular service area reached via US-49 North. The drive through Forrest County is straightforward, and our crews are familiar with the city's layout, from the older residential streets near the University of Southern Mississippi to the commercial corridors along Hardy Street. Scheduling is handled during business hours; call **+1 (228) 284-5200** to discuss your timeline and arrange an inspection visit.
 
 ## Hattiesburg Insurance & Coordination
 
@@ -46,4 +46,4 @@ Asbestos abatement costs vary significantly depending on the material type, loca
 
 One pattern that comes up repeatedly in Hattiesburg's older neighborhoods is the combination of original asbestos floor tile beneath multiple layers of vinyl flooring installed in later decades. Homeowners often discover this during kitchen or bathroom remodels when they pull up the top layer and find a darker, harder 9×9-inch tile underneath, a near-certain indicator of pre-1980 asbestos-containing composition tile. Because the tile is often encapsulated and in good condition, abatement options may include encapsulation rather than full removal, which can reduce both cost and project time. A proper inspection determines which approach is appropriate and defensible under MDEQ guidelines.
 
-If you've uncovered suspect materials in a Hattiesburg property, or you're planning a renovation and want to know what you're working with before demo begins, reach out to HomeLyft Restoration MS. Our EPA Lead-Safe Certified and OSHA-trained team handles the inspection, abatement, and documentation so your project can move forward safely and on schedule. Call **+1 (228) 284-5200** to schedule an assessment.
+If you've uncovered suspect materials in a Hattiesburg property, or you're planning a renovation and want to know what you're working with before demo begins, reach out to HomeLyft Restoration Gulfport. Our EPA Lead-Safe Certified and OSHA-trained team handles the inspection, abatement, and documentation so your project can move forward safely and on schedule. Call **+1 (228) 284-5200** to schedule an assessment.

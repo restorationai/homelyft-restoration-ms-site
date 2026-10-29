@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Lead Paint Abatement in Hattiesburg, MS | HomeLyft Restoration MS"
+title: "Lead Paint Abatement in Hattiesburg, MS | HomeLyft Restoration Gulfport"
 h1: "Lead Paint Abatement in Hattiesburg"
 meta_description: "24/7 lead paint abatement in Hattiesburg, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "lead paint abatement hattiesburg"
@@ -38,4 +38,4 @@ Lead abatement is rarely a straightforward insurance claim unless it's tied to a
 
 One thing we watch for on older Hattiesburg homes: exterior paint that looks fine from the ground but is heavily alligatored up near the soffits and second-story trim, where sun exposure and humidity cycles hit hardest. Homeowners often underestimate how much dust that higher, less visible paint sheds during routine gutter cleaning or pressure washing, so we recommend testing those areas even when the ground-floor trim looks solid.
 
-If you're planning a renovation on a pre-1978 Hattiesburg property, or a rental inspection flagged deteriorating paint, call HomeLyft Restoration MS to schedule EPA Lead-Safe Certified testing and abatement before work begins.
+If you're planning a renovation on a pre-1978 Hattiesburg property, or a rental inspection flagged deteriorating paint, call HomeLyft Restoration Gulfport to schedule EPA Lead-Safe Certified testing and abatement before work begins.

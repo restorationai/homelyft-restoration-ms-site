@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Leakesville, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Leakesville, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Leakesville"
 meta_description: "Renovations, remodels and general contracting in Leakesville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting leakesville"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Greene County's humid subtropical climate does a number on older homes in Leakesville, wood framing swells and shrinks with the seasons, crawl spaces trap moisture year-round, and the kind of storm damage that follows Gulf Coast weather systems often leaves homeowners staring at a house that needs far more than a coat of paint. Whether you're rebuilding after water or fire damage, updating a kitchen that hasn't been touched since the 1980s, or finally addressing deferred structural repairs, HomeLyft Restoration MS brings licensed general contracting work (License #RO 2728) to Leakesville with the same rigor we apply across South Mississippi.
+Greene County's humid subtropical climate does a number on older homes in Leakesville, wood framing swells and shrinks with the seasons, crawl spaces trap moisture year-round, and the kind of storm damage that follows Gulf Coast weather systems often leaves homeowners staring at a house that needs far more than a coat of paint. Whether you're rebuilding after water or fire damage, updating a kitchen that hasn't been touched since the 1980s, or finally addressing deferred structural repairs, HomeLyft Restoration Gulfport brings licensed general contracting work (License #RO 2728) to Leakesville with the same rigor we apply across South Mississippi.
 
 ## Why Leakesville Homes Present Unique Renovation Challenges
 
@@ -48,4 +48,4 @@ A meaningful share of the renovation work we do in Greene County follows an insu
 
 One thing that catches out-of-area contractors in Greene County: the local soil, a mix of sandy loam and clay common to the Chickasawhay watershed, can shift pier-and-beam foundations seasonally in ways that aren't obvious until you open up a floor. We've seen kitchen remodels in this part of Mississippi where the subfloor looked level on a quick visual inspection but showed a two-inch drop over twelve feet once we got a laser level on it. Correcting that before laying new flooring isn't optional, it's the difference between a remodel that holds up for twenty years and one that starts showing cracks and gaps within two. We assess foundation levelness as part of every renovation scope in this region, not as an add-on.
 
-If your Leakesville home needs renovation work done right, from a single bathroom update to a full post-damage rebuild, call HomeLyft Restoration MS at +12282845200 to schedule a project consultation. We'll walk the property with you, give you a straight assessment, and put together a scope that reflects what the house actually needs.
+If your Leakesville home needs renovation work done right, from a single bathroom update to a full post-damage rebuild, call HomeLyft Restoration Gulfport at +12282845200 to schedule a project consultation. We'll walk the property with you, give you a straight assessment, and put together a scope that reflects what the house actually needs.

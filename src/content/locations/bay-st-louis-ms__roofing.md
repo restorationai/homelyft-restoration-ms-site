@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Roofing Installation and Replacement in Bay St. Louis, MS | HomeLyft Restoration MS"
+title: "Roofing Installation and Replacement in Bay St. Louis, MS | HomeLyft Restoration Gulfport"
 h1: "Roofing Installation and Replacement in Bay St. Louis"
 meta_description: "24/7 roofing installation and replacement in Bay St. Louis, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "roofing installation and replacement bay st. louis"
@@ -38,4 +38,4 @@ Most of our Bay St. Louis roofing work runs through a homeowner's insurance clai
 
 A detail that surprises a lot of homeowners here: on older Bay St. Louis homes built up on piers, the roof deck often ties into a ridge structure that was never designed to modern wind-load fastening patterns, even if the shingles on top look newer. We check the decking and truss connections before quoting a straight tear-off and replace, because installing a wind-rated roof system over an unreinforced older frame doesn't actually buy you the protection or the insurance credit you're paying for.
 
-If your roof took on storm damage, is past its service life, or just wasn't built for what the Mississippi Sound throws at it, HomeLyft Restoration MS handles roofing installation and replacement across Bay St. Louis as a licensed contractor (#RO 2728), from the first inspection through insurance documentation to final walkthrough. Call +1 (228) 284-5200 to get a crew scheduled.
+If your roof took on storm damage, is past its service life, or just wasn't built for what the Mississippi Sound throws at it, HomeLyft Restoration Gulfport handles roofing installation and replacement across Bay St. Louis as a licensed contractor (#RO 2728), from the first inspection through insurance documentation to final walkthrough. Call +1 (228) 284-5200 to get a crew scheduled.

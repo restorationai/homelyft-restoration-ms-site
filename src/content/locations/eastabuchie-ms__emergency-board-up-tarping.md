@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Eastabuchie, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in Eastabuchie, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in Eastabuchie"
 meta_description: "24/7 emergency board-up and tarping in Eastabuchie, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping eastabuchie"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Emergency Board-Up and Tarping"
 rendered: true
 ---
-Eastabuchie sits in the pine-heavy interior of Jones County, where Gulf-driven storm systems can roll through with little warning, leaving roofs torn open and windows shattered before a homeowner has time to call their insurance agent. When that happens, the hours between damage and protection matter, exposed framing soaks up humidity fast in Mississippi's subtropical climate, and secondary damage from rain intrusion or opportunistic entry can compound the original loss within a single afternoon. HomeLyft Restoration MS provides emergency board-up and tarping to Eastabuchie properties, responding from our Gulfport base with the materials and equipment to close off a structure before conditions get worse.
+Eastabuchie sits in the pine-heavy interior of Jones County, where Gulf-driven storm systems can roll through with little warning, leaving roofs torn open and windows shattered before a homeowner has time to call their insurance agent. When that happens, the hours between damage and protection matter, exposed framing soaks up humidity fast in Mississippi's subtropical climate, and secondary damage from rain intrusion or opportunistic entry can compound the original loss within a single afternoon. HomeLyft Restoration Gulfport provides emergency board-up and tarping to Eastabuchie properties, responding from our Gulfport base with the materials and equipment to close off a structure before conditions get worse.
 
 ## Why Eastabuchie Properties Face Elevated Board-Up and Tarping Needs
 
@@ -50,4 +50,4 @@ Most homeowner policies cover emergency protective measures like board-up and ta
 
 If you're unsure whether your policy covers emergency board-up, call us anyway, we can walk through what documentation you'll need and help you understand what to ask your agent before we arrive.
 
-If a storm, fire, or impact event has left your Eastabuchie property exposed, the window for preventing secondary damage is short. Call HomeLyft Restoration MS at +12282845200 to get a crew moving toward Jones County with the materials to close off your structure and protect what's inside.
+If a storm, fire, or impact event has left your Eastabuchie property exposed, the window for preventing secondary damage is short. Call HomeLyft Restoration Gulfport at +12282845200 to get a crew moving toward Jones County with the materials to close off your structure and protect what's inside.

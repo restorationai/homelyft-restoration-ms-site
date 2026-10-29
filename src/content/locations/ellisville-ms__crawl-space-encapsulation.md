@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Ellisville, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Ellisville, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Ellisville"
 meta_description: "Crawl space encapsulation in Ellisville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation ellisville"
@@ -54,4 +54,4 @@ One pattern we've observed in older Ellisville-area homes is that the crawl spac
 
 If you're dealing with visible mold on joists or insulation in addition to the moisture problem, that work is handled before encapsulation, our IICRC AMRT-certified technicians can assess and remediate mold in the same crawl space without requiring a separate contractor.
 
-HomeLyft Restoration MS operates out of Gulfport and serves Jones County, including Ellisville, on a scheduled basis. Call **+1 (228) 284-5200** to set up an inspection, we'll assess your crawl space, give you a clear picture of what's driving the problem, and walk you through what encapsulation will and won't solve for your specific home.
+HomeLyft Restoration Gulfport operates out of Gulfport and serves Jones County, including Ellisville, on a scheduled basis. Call **+1 (228) 284-5200** to set up an inspection, we'll assess your crawl space, give you a clear picture of what's driving the problem, and walk you through what encapsulation will and won't solve for your specific home.

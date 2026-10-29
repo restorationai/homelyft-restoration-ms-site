@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Henderson Point, MS | HomeLyft Restoration MS"
+title: "Post-Construction and Specialty Cleaning in Henderson Point, MS | HomeLyft Restoration Gulfport"
 h1: "Post-Construction and Specialty Cleaning in Henderson Point"
 meta_description: "Post-construction and specialty cleaning in Henderson Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "post-construction and specialty cleaning henderson point"
@@ -42,7 +42,7 @@ For specialty cleaning requests, appliance deep cleans after installation, post-
 
 ## Reaching Henderson Point from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, which puts Henderson Point within a straightforward drive along US-90 west through Long Beach and into the Bay St. Louis area. The peninsula's single access road means scheduling matters, we confirm arrival windows with property owners and contractors in advance so there's no waiting at the gate or coordinating around active delivery traffic on the job site. For projects with tight contractor handoff timelines, call ahead so we can align our crew arrival with the builder's final walkthrough.
+HomeLyft Restoration Gulfport operates out of Gulfport, which puts Henderson Point within a straightforward drive along US-90 west through Long Beach and into the Bay St. Louis area. The peninsula's single access road means scheduling matters, we confirm arrival windows with property owners and contractors in advance so there's no waiting at the gate or coordinating around active delivery traffic on the job site. For projects with tight contractor handoff timelines, call ahead so we can align our crew arrival with the builder's final walkthrough.
 
 ## Local Note
 
@@ -52,4 +52,4 @@ One thing that catches out-of-area cleaning crews working Henderson Point for th
 
 HEPA-rated vacuums with fine-dust bags are non-negotiable for drywall dust, standard shop vacs recirculate particles smaller than 1 micron back into the air, which defeats the purpose of cleaning and creates an air quality problem in a freshly finished space. We use commercial-grade HEPA units alongside microfiber flat mops, extension dusters for high ceilings common in newer elevated coastal builds, and pH-neutral cleaners that won't dull new grout sealers or strip factory finishes from cabinetry. For exterior work, concrete washing, deck cleaning, window exterior wipe-down, we bring pressure washing equipment calibrated for the surface type, since the salt air deposits a film on exterior glass and masonry that standard rinsing won't remove.
 
-When you're ready to hand off a Henderson Point project and need it genuinely clean, not just swept, call HomeLyft Restoration MS at +12282845200. We'll walk through the scope with you, confirm a schedule that works around your contractor timeline, and deliver a property that's ready for its first residents or its first showing.
+When you're ready to hand off a Henderson Point project and need it genuinely clean, not just swept, call HomeLyft Restoration Gulfport at +12282845200. We'll walk through the scope with you, confirm a schedule that works around your contractor timeline, and deliver a property that's ready for its first residents or its first showing.

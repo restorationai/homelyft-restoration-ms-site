@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Kiln, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Kiln, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Kiln"
 meta_description: "Crawl space encapsulation in Kiln, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation kiln"
@@ -45,7 +45,7 @@ Our team holds IICRC certification in Applied Structural Drying and Mold Remedia
 
 ## Reaching Kiln from Our Gulfport Base
 
-HomeLyft Restoration MS operates out of Gulfport, and Kiln is a straightforward run up US-603 through Waveland and Bay St. Louis, a route our crews know well from working throughout Hancock County. Scheduling is handled directly at **+12282845200**, and we coordinate arrival windows that account for the drive so you're not left waiting with an open crawl space access and questions unanswered.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Kiln is a straightforward run up US-603 through Waveland and Bay St. Louis, a route our crews know well from working throughout Hancock County. Scheduling is handled directly at **+12282845200**, and we coordinate arrival windows that account for the drive so you're not left waiting with an open crawl space access and questions unanswered.
 
 ## What Encapsulation Costs and Whether Insurance Applies in Kiln
 
@@ -55,4 +55,4 @@ Crawl space encapsulation is typically a preventive or remediation-driven improv
 
 One thing that comes up specifically in the Kiln area: homes on larger rural lots often have longer crawl space access points set well away from the main structure, detached pier-and-beam additions, enclosed porches with their own sub-grade spaces, or older utility rooms that weren't tied into the main foundation. These secondary spaces are easy to overlook during a standard inspection but can undermine an otherwise well-sealed main crawl space if they're left unaddressed. When we assess a Kiln property, we walk the full perimeter and probe every access point, not just the primary hatch, before finalizing the scope.
 
-If your home in Kiln has been holding on to that damp, earthy smell that gets worse in summer, or if you've noticed your floors feeling softer than they used to, the crawl space is almost always where the answer lives. Call HomeLyft Restoration MS at **+12282845200** to schedule an inspection and get a clear picture of what's happening beneath your home.
+If your home in Kiln has been holding on to that damp, earthy smell that gets worse in summer, or if you've noticed your floors feeling softer than they used to, the crawl space is almost always where the answer lives. Call HomeLyft Restoration Gulfport at **+12282845200** to schedule an inspection and get a clear picture of what's happening beneath your home.

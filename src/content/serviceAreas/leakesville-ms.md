@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Leakesville, MS | HomeLyft Restoration MS"
+title: "Restoration Services in Leakesville, MS | HomeLyft Restoration Gulfport"
 h1: "Restoration Services in Leakesville"
 meta_description: "Serving Leakesville, MS with water, fire, mold, and storm damage restoration. IICRC-certified team. Call +12282845200."
 primary_keyword: "restoration services leakesville"
@@ -19,7 +19,7 @@ state: "MS"
 primary: false
 rendered: true
 ---
-When a pipe bursts behind a wall or a summer storm pushes water under a door, Leakesville property owners need a restoration crew that understands Greene County's housing stock, not a national call center routing a ticket. HomeLyft Restoration MS dispatches from Gulfport to handle water damage, fire and smoke cleanup, mold remediation, and full reconstruction for homes and commercial properties throughout Leakesville, documenting every step for your insurance carrier and working to get the structure dry, clean, and livable again.
+When a pipe bursts behind a wall or a summer storm pushes water under a door, Leakesville property owners need a restoration crew that understands Greene County's housing stock, not a national call center routing a ticket. HomeLyft Restoration Gulfport dispatches from Gulfport to handle water damage, fire and smoke cleanup, mold remediation, and full reconstruction for homes and commercial properties throughout Leakesville, documenting every step for your insurance carrier and working to get the structure dry, clean, and livable again.
 
 ## Restoration emergencies common in Leakesville
 
@@ -55,4 +55,4 @@ Plumbing vintage matters as much as framing. Expect galvanized supply and cast i
 
 For structural repair or rebuild, confirm whether your address falls inside the town limits or under Greene County before scoping. Federal flood rules on substantial improvement can also apply near the river.
 
-If you're dealing with water, fire, or mold damage at a Leakesville property, call HomeLyft Restoration MS at (228) 284-5200. The sooner we can assess the damage, the more material and cost we can typically save, and we handle the insurance paperwork so you're not navigating that process alone.
+If you're dealing with water, fire, or mold damage at a Leakesville property, call HomeLyft Restoration Gulfport at (228) 284-5200. The sooner we can assess the damage, the more material and cost we can typically save, and we handle the insurance paperwork so you're not navigating that process alone.

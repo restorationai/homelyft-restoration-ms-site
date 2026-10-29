@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Helena, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Helena, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Helena"
 meta_description: "Renovations, remodels and general contracting in Helena, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting helena"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Helena sits in Phillips County along the Mississippi River, where the Delta's humidity, clay-heavy soils, and a housing stock that skews older than most of Mississippi create a renovation environment that demands more planning, and more local knowledge, than a standard remodel elsewhere in the state. Whether you're updating a century-old craftsman near the historic downtown corridor, converting a storm-damaged structure into livable space, or rebuilding after water or fire loss, HomeLyft Restoration MS brings licensed general contracting (RO 2728) and IICRC-certified restoration expertise together under one crew.
+Helena sits in Phillips County along the Mississippi River, where the Delta's humidity, clay-heavy soils, and a housing stock that skews older than most of Mississippi create a renovation environment that demands more planning, and more local knowledge, than a standard remodel elsewhere in the state. Whether you're updating a century-old craftsman near the historic downtown corridor, converting a storm-damaged structure into livable space, or rebuilding after water or fire loss, HomeLyft Restoration Gulfport brings licensed general contracting (RO 2728) and IICRC-certified restoration expertise together under one crew.
 
 ## Why Helena's Building Stock Shapes Every Renovation
 
@@ -46,4 +46,4 @@ HomeLyft's home base is Gulfport, and Helena is a meaningful drive north. For em
 
 One pattern that surprises contractors new to Phillips County: Helena's older homes near the riverfront and downtown blocks were frequently built on pier-and-beam foundations with minimal clearance to grade. When renovation work involves adding a bathroom or relocating a kitchen drain, the under-floor access that looks straightforward on a plan can require hand-digging or partial foundation work to meet current code slope requirements for drain lines. We factor that into scope before demo begins, not as a change order after the subfloor is already open.
 
-If you're planning a kitchen remodel, bathroom update, post-damage rebuild, or whole-home renovation in Helena, call HomeLyft Restoration MS at +12282845200. We'll schedule a site visit, walk the property with you, and put together a written scope that reflects what this specific house, and this specific climate, actually requires.
+If you're planning a kitchen remodel, bathroom update, post-damage rebuild, or whole-home renovation in Helena, call HomeLyft Restoration Gulfport at +12282845200. We'll schedule a site visit, walk the property with you, and put together a written scope that reflects what this specific house, and this specific climate, actually requires.

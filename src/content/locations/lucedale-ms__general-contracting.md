@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Lucedale, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Lucedale, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Lucedale"
 meta_description: "Renovations, remodels and general contracting in Lucedale, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting lucedale"
@@ -42,7 +42,7 @@ Final inspections and punch-list walkthroughs are done with the homeowner presen
 
 ## Reaching Lucedale from Our Gulfport Base
 
-HomeLyft Restoration MS operates out of Gulfport, with Lucedale accessible via US-98 heading north through the Pine Belt. The drive puts our crews into George County for scheduled project work, site assessments, and coordination meetings. For renovation and remodeling projects, scheduling is handled during business hours, call +12282845200 to discuss your project timeline and get a site visit on the calendar.
+HomeLyft Restoration Gulfport operates out of Gulfport, with Lucedale accessible via US-98 heading north through the Pine Belt. The drive puts our crews into George County for scheduled project work, site assessments, and coordination meetings. For renovation and remodeling projects, scheduling is handled during business hours, call +12282845200 to discuss your project timeline and get a site visit on the calendar.
 
 Because we work across South Mississippi, our material sourcing and subcontractor relationships extend into the Lucedale area, which helps keep project timelines tighter than they would be for a contractor unfamiliar with regional suppliers.
 
@@ -52,4 +52,4 @@ One thing that catches homeowners off guard in George County: the clay-heavy soi
 
 If your home has been through a renovation before and you're seeing recurring cracks in the same locations, that pattern is worth investigating before the next project starts.
 
-When you're ready to talk through a kitchen remodel, bathroom update, addition, or post-damage rebuild in Lucedale, the team at HomeLyft Restoration MS is ready to walk the property and give you a clear picture of what the work involves. Call +12282845200 to schedule your assessment.
+When you're ready to talk through a kitchen remodel, bathroom update, addition, or post-damage rebuild in Lucedale, the team at HomeLyft Restoration Gulfport is ready to walk the property and give you a clear picture of what the work involves. Call +12282845200 to schedule your assessment.

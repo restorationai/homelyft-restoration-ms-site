@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in Petal, MS | HomeLyft Restoration MS"
+title: "Contents Restoration and Storage in Petal, MS | HomeLyft Restoration Gulfport"
 h1: "Contents Restoration and Storage in Petal"
 meta_description: "Contents restoration and storage in Petal, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "contents restoration and storage petal"
@@ -36,7 +36,7 @@ Items that cannot be restored immediately, or that need to stay out of the home 
 
 ## Reaching Petal from Our Operations
 
-HomeLyft Restoration MS operates out of Gulfport and dispatches crews across south Mississippi. Petal is accessible via US-98 heading north through Hattiesburg, putting the city within reasonable driving distance for our team. When you call +12282845200, our scheduling team works to get a crew to your Petal address as promptly as conditions allow. We coordinate arrival times directly with you so you are not left waiting without information.
+HomeLyft Restoration Gulfport operates out of Gulfport and dispatches crews across south Mississippi. Petal is accessible via US-98 heading north through Hattiesburg, putting the city within reasonable driving distance for our team. When you call +12282845200, our scheduling team works to get a crew to your Petal address as promptly as conditions allow. We coordinate arrival times directly with you so you are not left waiting without information.
 
 ## Insurance Coordination for Petal Homeowners
 
@@ -46,4 +46,4 @@ Contents restoration and storage is one of the more documentation-intensive part
 
 One pattern we have seen repeatedly in Petal: homes that experienced previous flooding, even minor events years ago, often have furniture legs and lower cabinet frames with latent moisture damage that was never fully dried. When a new loss event occurs, those already-weakened materials absorb water faster and deteriorate more quickly than the homeowner expects. During our initial contents assessment, we check for those pre-existing conditions and document them separately so they do not get conflated with the current claim, protecting both the homeowner's interests and the accuracy of the insurance record.
 
-If smoke, water, or storm damage has put your belongings at risk in Petal, the sooner contents are packed out and assessed, the better the odds of saving what matters most. Call HomeLyft Restoration MS at +12282845200 to schedule a contents evaluation for your Petal property.
+If smoke, water, or storm damage has put your belongings at risk in Petal, the sooner contents are packed out and assessed, the better the odds of saving what matters most. Call HomeLyft Restoration Gulfport at +12282845200 to schedule a contents evaluation for your Petal property.

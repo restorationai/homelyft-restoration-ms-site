@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in Hurley, MS | HomeLyft Restoration MS"
+title: "Contents Restoration and Storage in Hurley, MS | HomeLyft Restoration Gulfport"
 h1: "Contents Restoration and Storage in Hurley"
 meta_description: "Contents restoration and storage in Hurley, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "contents restoration and storage hurley"
@@ -48,4 +48,4 @@ Our operations run out of Gulfport, and Hurley is a regular part of our Jackson 
 
 One thing that catches out-of-area contractors off guard in Hurley is the combination of high ambient humidity and the prevalence of older wood-framed pier-and-beam homes: contents stored under beds or in low closets can show active mold growth even when the visible water damage appears minor. We've learned to check beneath furniture and inside closed wardrobes as a standard step during every pack-out in this part of Jackson County, what looks like a contained spill on the surface often has a larger footprint underneath. If you've had any water event in your home, even one that seemed to dry on its own, it's worth having the contents in those lower areas evaluated before mold becomes a secondary claim.
 
-If you're dealing with damage to your belongings in Hurley, whether from a storm, a plumbing failure, a fire, or a mold event, call HomeLyft Restoration MS at +12282845200. We'll assess what can be saved, get it out of harm's way, and walk you through every step of the restoration and return process. Your belongings matter, and in this climate, time is the one thing you can't afford to waste.
+If you're dealing with damage to your belongings in Hurley, whether from a storm, a plumbing failure, a fire, or a mold event, call HomeLyft Restoration Gulfport at +12282845200. We'll assess what can be saved, get it out of harm's way, and walk you through every step of the restoration and return process. Your belongings matter, and in this climate, time is the one thing you can't afford to waste.

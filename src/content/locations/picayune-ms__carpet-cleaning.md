@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Picayune, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Picayune, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Picayune"
 meta_description: "Carpet cleaning in Picayune, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning picayune"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-Picayune sits in Pearl River County where the Gulf Coast's subtropical humidity never really lets up, even in January, indoor relative humidity can hover high enough that carpet fibers stay damp longer than you'd expect after a spill or a cleaning gone wrong. That persistent moisture, combined with the fine reddish-brown clay soil common to this part of south Mississippi, means carpets in Picayune homes and businesses pick up a particular kind of ground-in grime that surface-level vacuuming simply can't touch. HomeLyft Restoration MS brings IICRC-certified deep cleaning methods specifically calibrated to these conditions, not a one-size-fits-all approach borrowed from a drier climate.
+Picayune sits in Pearl River County where the Gulf Coast's subtropical humidity never really lets up, even in January, indoor relative humidity can hover high enough that carpet fibers stay damp longer than you'd expect after a spill or a cleaning gone wrong. That persistent moisture, combined with the fine reddish-brown clay soil common to this part of south Mississippi, means carpets in Picayune homes and businesses pick up a particular kind of ground-in grime that surface-level vacuuming simply can't touch. HomeLyft Restoration Gulfport brings IICRC-certified deep cleaning methods specifically calibrated to these conditions, not a one-size-fits-all approach borrowed from a drier climate.
 
 ## Why Picayune Properties See Stubborn Carpet Problems
 
@@ -45,10 +45,10 @@ For offices, retail spaces, and multi-unit properties in the Picayune area, carp
 
 ## Reaching Picayune from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport and serves Picayune via US-49 North through Wiggins, a route our crews run regularly for restoration and cleaning work across Pearl River County. Scheduling is handled by phone at +12282845200; call to confirm availability and get a same-week appointment on most residential jobs.
+HomeLyft Restoration Gulfport is based in Gulfport and serves Picayune via US-49 North through Wiggins, a route our crews run regularly for restoration and cleaning work across Pearl River County. Scheduling is handled by phone at +12282845200; call to confirm availability and get a same-week appointment on most residential jobs.
 
 ## Local Note
 
 One thing that catches Picayune homeowners off guard: the longleaf and loblolly pines that shade so many yards in this part of Pearl River County drop fine needle debris and a sticky resin that tracks inside on shoes and pet paws. That pine resin is an oil-based contaminant, and water-based cleaning chemistry alone won't cut it. When we see that amber-tinted, slightly tacky soiling near exterior doorways, which is very common in Picayune, we switch to a solvent-based spotter before the hot-water extraction pass. Skipping that step leaves a residue that re-soils within weeks and makes homeowners think the cleaning didn't work.
 
-If your carpets have been holding onto odors, ground-in clay soil, or stains that came back after a previous cleaning, a call to HomeLyft Restoration MS is the right next step. Reach us at +12282845200 to schedule carpet cleaning in Picayune, we'll assess the fiber type, the soil load, and the humidity conditions before we start, so the result actually lasts.
+If your carpets have been holding onto odors, ground-in clay soil, or stains that came back after a previous cleaning, a call to HomeLyft Restoration Gulfport is the right next step. Reach us at +12282845200 to schedule carpet cleaning in Picayune, we'll assess the fiber type, the soil load, and the humidity conditions before we start, so the result actually lasts.

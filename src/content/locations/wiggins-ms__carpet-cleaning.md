@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Wiggins, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Wiggins, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Wiggins"
 meta_description: "Carpet cleaning in Wiggins, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning wiggins"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-Wiggins sits in the heart of Stone County, where the combination of Gulf Coast humidity, sandy loam soil, and long stretches of pine pollen season creates conditions that push deep into carpet fibers faster than most homeowners expect. That red-clay-tinged dirt tracked in from unpaved driveways, the stubborn mildew odor that settles into low-pile carpet after a summer rainstorm, the pollen film that coats everything from March through May, these are the specific challenges that make carpet cleaning in Wiggins different from a routine job anywhere else in Mississippi. HomeLyft Restoration MS brings IICRC-certified cleaning methods to Stone County homes and businesses, calibrated for what this region actually throws at your floors.
+Wiggins sits in the heart of Stone County, where the combination of Gulf Coast humidity, sandy loam soil, and long stretches of pine pollen season creates conditions that push deep into carpet fibers faster than most homeowners expect. That red-clay-tinged dirt tracked in from unpaved driveways, the stubborn mildew odor that settles into low-pile carpet after a summer rainstorm, the pollen film that coats everything from March through May, these are the specific challenges that make carpet cleaning in Wiggins different from a routine job anywhere else in Mississippi. HomeLyft Restoration Gulfport brings IICRC-certified cleaning methods to Stone County homes and businesses, calibrated for what this region actually throws at your floors.
 
 ## Why Wiggins Properties See Carpet Wear Differently
 
@@ -42,10 +42,10 @@ For commercial properties, offices, rental units, or retail spaces in the Wiggin
 
 ## Reaching Wiggins from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport, and the Wiggins service area is a straightforward run up US-49 North through Stone County. We schedule appointments with enough lead time to account for the rural stretches between the coast and Wiggins, and we confirm arrival windows when the job is booked so you're not waiting around. For Stone County residents farther from the US-49 corridor, we ask that you mention your road access when you call, some rural routes in the area require coordinating equipment staging, and knowing that in advance keeps the job on schedule.
+HomeLyft Restoration Gulfport is based in Gulfport, and the Wiggins service area is a straightforward run up US-49 North through Stone County. We schedule appointments with enough lead time to account for the rural stretches between the coast and Wiggins, and we confirm arrival windows when the job is booked so you're not waiting around. For Stone County residents farther from the US-49 corridor, we ask that you mention your road access when you call, some rural routes in the area require coordinating equipment staging, and knowing that in advance keeps the job on schedule.
 
 ## Local Note
 
 One thing that comes up regularly in Wiggins and the surrounding Stone County area: pine straw. It's everywhere, on porches, in carports, tracked inside on shoes and pet paws. Dry pine needles seem harmless, but their tannins leach a brownish stain into light-colored carpet fibers over time, especially in homes where the front door opens directly onto a pine-shaded yard. Standard pre-spray doesn't always break tannin bonds efficiently; an acidic rinse step is often needed as a follow-up. If you've noticed a yellowish-brown cast developing near your entryways and can't trace it to a specific spill, pine tannin is the likely culprit, and it responds well to targeted treatment before it sets permanently.
 
-If your carpets are carrying the weight of a Stone County summer, the humidity, the pollen, the red dirt, the pine straw, call HomeLyft Restoration MS at +12282845200 to schedule a professional carpet cleaning in Wiggins. We'll assess the fiber type, identify what's actually embedded in the pile, and leave your floors looking and smelling like the season hasn't won.
+If your carpets are carrying the weight of a Stone County summer, the humidity, the pollen, the red dirt, the pine straw, call HomeLyft Restoration Gulfport at +12282845200 to schedule a professional carpet cleaning in Wiggins. We'll assess the fiber type, identify what's actually embedded in the pile, and leave your floors looking and smelling like the season hasn't won.

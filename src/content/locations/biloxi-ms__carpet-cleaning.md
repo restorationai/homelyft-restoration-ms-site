@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Biloxi, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Biloxi, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Biloxi"
 meta_description: "Carpet cleaning in Biloxi, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning biloxi"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-Biloxi's Gulf Coast humidity doesn't just make summers uncomfortable, it works its way into carpet fibers year-round, creating a slow-building problem that most homeowners don't notice until the musty smell is already there. Salt air blowing in off the Mississippi Sound, fine silica sand tracked in from the beach, and the kind of sticky subtropical moisture that never fully dries between rainstorms combine to make carpet maintenance here genuinely different from anywhere inland. HomeLyft Restoration MS, based out of Gulfport, brings IICRC-certified cleaning methods calibrated to those exact conditions.
+Biloxi's Gulf Coast humidity doesn't just make summers uncomfortable, it works its way into carpet fibers year-round, creating a slow-building problem that most homeowners don't notice until the musty smell is already there. Salt air blowing in off the Mississippi Sound, fine silica sand tracked in from the beach, and the kind of sticky subtropical moisture that never fully dries between rainstorms combine to make carpet maintenance here genuinely different from anywhere inland. HomeLyft Restoration Gulfport, based out of Gulfport, brings IICRC-certified cleaning methods calibrated to those exact conditions.
 
 ## Why Biloxi Carpets Take a Harder Hit Than Most
 
@@ -46,4 +46,4 @@ Truck-mounted extraction systems generate significantly more heat and suction th
 
 One pattern the team has noticed specifically in Biloxi properties close to the waterfront: carpet installed over concrete slab, which is extremely common in this part of the Gulf Coast, where pier-and-beam construction is less prevalent than it is further north in Mississippi, holds moisture against the slab face after any saturation event. Concrete is slow to release that moisture upward, which means the carpet can feel dry to the touch while the backing and pad are still well above safe humidity thresholds. A moisture meter reading at the slab level is standard practice on any job where water exposure is part of the history, not just a visual check of the surface.
 
-If your carpets have been through a storm season, a slow leak, or just years of Gulf Coast living, a call to (228) 284-5200 is the straightforward next step. HomeLyft Restoration MS handles carpet cleaning across Biloxi with the equipment and process that coastal conditions actually require, not a one-size approach built for a drier climate.
+If your carpets have been through a storm season, a slow leak, or just years of Gulf Coast living, a call to (228) 284-5200 is the straightforward next step. HomeLyft Restoration Gulfport handles carpet cleaning across Biloxi with the equipment and process that coastal conditions actually require, not a one-size approach built for a drier climate.

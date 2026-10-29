@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Ovett, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Ovett, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Ovett"
 meta_description: "Renovations, remodels and general contracting in Ovett, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting ovett"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Ovett sits in the piney woods of Jones County, where high humidity, clay-heavy soils, and a housing stock that skews toward mid-century wood-frame construction create a renovation environment that rewards contractors who actually know the territory. Whether you're updating a kitchen that's been unchanged since the 1970s, rebuilding after storm or water damage, or tackling a full addition on a lot where the ground shifts seasonally, HomeLyft Restoration MS brings licensed general contracting (RO #2728) and IICRC-certified expertise to every project, from initial scope to final walkthrough.
+Ovett sits in the piney woods of Jones County, where high humidity, clay-heavy soils, and a housing stock that skews toward mid-century wood-frame construction create a renovation environment that rewards contractors who actually know the territory. Whether you're updating a kitchen that's been unchanged since the 1970s, rebuilding after storm or water damage, or tackling a full addition on a lot where the ground shifts seasonally, HomeLyft Restoration Gulfport brings licensed general contracting (RO #2728) and IICRC-certified expertise to every project, from initial scope to final walkthrough.
 
 ## Why Ovett Homes Present Unique Renovation Challenges
 
@@ -43,7 +43,7 @@ From there, the process moves through:
 
 ## Reaching Ovett from Our Gulfport Base
 
-HomeLyft Restoration MS is headquartered in Gulfport, and our crews make the drive into Jones County regularly for both restoration and renovation work. The most direct route from the coast runs US-49 north through Hattiesburg and into the Laurel area before connecting to the roads that reach Ovett. Scheduling is straightforward, call +12282845200 to discuss your project timeline and we'll coordinate a site visit that works around your availability.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and our crews make the drive into Jones County regularly for both restoration and renovation work. The most direct route from the coast runs US-49 north through Hattiesburg and into the Laurel area before connecting to the roads that reach Ovett. Scheduling is straightforward, call +12282845200 to discuss your project timeline and we'll coordinate a site visit that works around your availability.
 
 For post-damage rebuilds where timing matters, we prioritize getting eyes on the property quickly so the scope is defined and materials can be ordered before delays compound.
 
@@ -51,4 +51,4 @@ For post-damage rebuilds where timing matters, we prioritize getting eyes on the
 
 In Ovett and the surrounding Jones County communities, a large share of the older housing stock sits on pier-and-beam foundations with open or vented crawl spaces. What contractors who work here regularly understand, and out-of-area crews sometimes miss, is that Mississippi's humidity means an "encapsulated" crawl space isn't just a nice upgrade; it's often the reason a kitchen or bathroom remodel holds up long-term. Vapor intrusion from below can buckle new hardwood floors and promote mold behind fresh cabinetry within a few seasons if the crawl space isn't addressed as part of the renovation scope. We factor that into project planning from the start, not as an add-on after the floors are already installed.
 
-If your renovation project in Ovett is ready to move from idea to permit, or if storm or water damage has left you needing a rebuild you can trust, call HomeLyft Restoration MS at +12282845200. We'll assess the site, give you a clear scope, and handle the project from demolition to final inspection, no subcontracting the work out to crews you've never met.
+If your renovation project in Ovett is ready to move from idea to permit, or if storm or water damage has left you needing a rebuild you can trust, call HomeLyft Restoration Gulfport at +12282845200. We'll assess the site, give you a clear scope, and handle the project from demolition to final inspection, no subcontracting the work out to crews you've never met.

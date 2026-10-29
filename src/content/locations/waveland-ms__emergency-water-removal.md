@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Removal & Cleanup in Waveland, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Water Removal & Cleanup in Waveland, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Water Removal & Cleanup in Waveland"
 meta_description: "24/7 emergency water removal & cleanup in Waveland, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency water removal & cleanup waveland"
@@ -42,4 +42,4 @@ Most Waveland homeowners we work with are filing a claim through a homeowner's p
 
 Homes built or rebuilt after Katrina on pilings often route plumbing and HVAC lines through an open or lattice-enclosed crawlspace rather than a sealed basement, which means a slow leak can run for days before it ever shows up as a stain on an interior ceiling. When we're called to one of these elevated Waveland homes, we check the crawlspace plumbing runs and insulation batts first, even if the visible damage is limited to one room, because the leak's source is frequently several feet away from where the water became visible.
 
-If water is spreading across your floors right now, don't wait for it to find its own stopping point. Call HomeLyft Restoration MS and we'll get extraction equipment running in your Waveland home and start the drying process the same day we arrive.
+If water is spreading across your floors right now, don't wait for it to find its own stopping point. Call HomeLyft Restoration Gulfport and we'll get extraction equipment running in your Waveland home and start the drying process the same day we arrive.

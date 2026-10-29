@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Hattiesburg, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Hattiesburg, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Hattiesburg"
 meta_description: "Renovations, remodels and general contracting in Hattiesburg, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting hattiesburg"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Hattiesburg's humid subtropical climate, long, wet summers and the kind of ground moisture that never fully leaves the Piney Woods soil, puts older homes through a slow, relentless stress test. Whether you're rebuilding a kitchen after a pipe finally gave way, converting a spare room in a mid-century ranch near the University of Southern Mississippi, or tackling a full gut-renovation on a craftsman bungalow, the conditions here demand a general contractor who understands what's behind the walls before the first board comes down. HomeLyft Restoration MS holds Mississippi contractor license #RO 2728 and brings that same restoration-informed eye to every remodel and new-build project in the Hattiesburg area.
+Hattiesburg's humid subtropical climate, long, wet summers and the kind of ground moisture that never fully leaves the Piney Woods soil, puts older homes through a slow, relentless stress test. Whether you're rebuilding a kitchen after a pipe finally gave way, converting a spare room in a mid-century ranch near the University of Southern Mississippi, or tackling a full gut-renovation on a craftsman bungalow, the conditions here demand a general contractor who understands what's behind the walls before the first board comes down. HomeLyft Restoration Gulfport holds Mississippi contractor license #RO 2728 and brings that same restoration-informed eye to every remodel and new-build project in the Hattiesburg area.
 
 ## Why Hattiesburg's Housing Stock Shapes Every Renovation
 
@@ -46,4 +46,4 @@ One thing that catches homeowners off guard during Hattiesburg renovations: the 
 
 ## Closing
 
-If you're planning a kitchen remodel, bathroom renovation, room addition, or a full post-damage rebuild anywhere in the Hattiesburg area, call HomeLyft Restoration MS at +12282845200 to schedule a project walkthrough. We'll assess what the structure is telling us, build a scope that accounts for local conditions, and manage the project through to a finished result, no handoffs, no gaps in accountability.
+If you're planning a kitchen remodel, bathroom renovation, room addition, or a full post-damage rebuild anywhere in the Hattiesburg area, call HomeLyft Restoration Gulfport at +12282845200 to schedule a project walkthrough. We'll assess what the structure is telling us, build a scope that accounts for local conditions, and manage the project through to a finished result, no handoffs, no gaps in accountability.

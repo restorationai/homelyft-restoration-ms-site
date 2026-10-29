@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Kiln, MS | HomeLyft Restoration MS"
+title: "Post-Construction and Specialty Cleaning in Kiln, MS | HomeLyft Restoration Gulfport"
 h1: "Post-Construction and Specialty Cleaning in Kiln"
 meta_description: "Post-construction and specialty cleaning in Kiln, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "post-construction and specialty cleaning kiln"
@@ -42,7 +42,7 @@ Every post-construction clean starts with a walk-through to map the scope: which
 
 ## Reaching Kiln from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport and serves Kiln and the broader Hancock County area regularly. The primary route runs north on Highway 603, which connects the coast to Kiln's core in a straightforward drive. Scheduling is handled by phone at +12282845200, the team coordinates arrival windows that work around active job sites, delivery schedules, or property management handoffs, so the clean doesn't become a logistical conflict with your contractor's punch-list work.
+HomeLyft Restoration Gulfport is based in Gulfport and serves Kiln and the broader Hancock County area regularly. The primary route runs north on Highway 603, which connects the coast to Kiln's core in a straightforward drive. Scheduling is handled by phone at +12282845200, the team coordinates arrival windows that work around active job sites, delivery schedules, or property management handoffs, so the clean doesn't become a logistical conflict with your contractor's punch-list work.
 
 ## Equipment and Methods We Use for Post-Construction Cleaning
 

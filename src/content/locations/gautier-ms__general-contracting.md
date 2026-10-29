@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Gautier, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Gautier, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Gautier"
 meta_description: "Renovations, remodels and general contracting in Gautier, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting gautier"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Gautier sits in a humid subtropical belt where salt-laden Gulf air, clay-heavy soils, and the kind of seasonal moisture swings that warp door frames and blister paint make renovation work more nuanced than a simple cosmetic refresh. Whether you're gutting a storm-worn kitchen near the Singing River corridor, converting a sunroom that took on water last hurricane season, or rebuilding after a fire loss, HomeLyft Restoration MS brings licensed general contracting (RO #2728) and IICRC-certified restoration expertise together so your project doesn't fall through the cracks between two separate contractors.
+Gautier sits in a humid subtropical belt where salt-laden Gulf air, clay-heavy soils, and the kind of seasonal moisture swings that warp door frames and blister paint make renovation work more nuanced than a simple cosmetic refresh. Whether you're gutting a storm-worn kitchen near the Singing River corridor, converting a sunroom that took on water last hurricane season, or rebuilding after a fire loss, HomeLyft Restoration Gulfport brings licensed general contracting (RO #2728) and IICRC-certified restoration expertise together so your project doesn't fall through the cracks between two separate contractors.
 
 ## Why Gautier Homes Present Unique Renovation Challenges
 
@@ -50,4 +50,4 @@ For homeowners rebuilding after a covered loss, fire, water, storm, the renovati
 
 If your neighborhood has an HOA with architectural review requirements, we help prepare the submission package, material samples, exterior color callouts, site plans, before work begins, so approvals don't stall your project start date.
 
-When you're ready to move forward on a kitchen remodel, bathroom renovation, addition, or post-damage rebuild in Gautier, HomeLyft Restoration MS is the contractor that handles both the restoration science and the finish carpentry under one license. Call +12282845200 to schedule your on-site assessment.
+When you're ready to move forward on a kitchen remodel, bathroom renovation, addition, or post-damage rebuild in Gautier, HomeLyft Restoration Gulfport is the contractor that handles both the restoration science and the finish carpentry under one license. Call +12282845200 to schedule your on-site assessment.

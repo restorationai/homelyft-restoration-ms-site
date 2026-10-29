@@ -40,7 +40,7 @@ The Gulf Coast's climate makes timing especially critical. Gulfport's average hu
 | Storm surge or flood affecting crawl space + living area | $6,000 - $15,000+ |
 | Whole-house loss with structural damage and mold | $15,000 - $40,000+ |
 
-These are typical industry ranges. Every loss is different, and HomeLyft Restoration MS provides a written scope before any work begins, so you know the number before crews start.
+These are typical industry ranges. Every loss is different, and HomeLyft Restoration Gulfport provides a written scope before any work begins, so you know the number before crews start.
 
 ## What Factors Drive the Cost Up or Down?
 
@@ -66,7 +66,7 @@ Knowing the steps helps you understand the invoice when it arrives.
 4. **Demolition of unsalvageable materials.** Wet drywall, insulation, and flooring that cannot be dried in place are removed. This is called a "flood cut" when it involves cutting drywall to the affected height.
 5. **Antimicrobial treatment.** Applied to structural surfaces after demolition to prevent mold growth during the drying phase.
 6. **Daily monitoring.** Moisture readings are logged each day. Drying is complete when materials reach target moisture content, not on a fixed schedule.
-7. **Reconstruction.** Once the structure is dry and cleared, rebuild begins: drywall, insulation, flooring, paint. HomeLyft Restoration MS handles [general contracting](/services/general-contracting/) so homeowners deal with one company from loss to livable.
+7. **Reconstruction.** Once the structure is dry and cleared, rebuild begins: drywall, insulation, flooring, paint. HomeLyft Restoration Gulfport handles [general contracting](/services/general-contracting/) so homeowners deal with one company from loss to livable.
 
 For a step-by-step breakdown of the first 24 hours specifically, see [What To Do in the First 24 Hours After Water Damage](/blog/what-to-do-first-24-hours-water-damage/).
 
@@ -94,10 +94,10 @@ Call a restoration company before you call your insurance company. This is count
 
 Remove standing water from electronics, documents, and irreplaceable items yourself if it is safe to do so. Do not run fans and open windows as a substitute for professional drying equipment. Residential fans move surface moisture into the air; they do not remove it from wall cavities or subfloors, and they can actually spread mold spores if mold is already present.
 
-HomeLyft Restoration MS is available 24/7 and holds IICRC WRT (Water Restoration Technician) and IICRC ASD (Applied Structural Drying) certifications, along with Mississippi contractor license RO 2728. Their crews serve Gulfport and communities across the Gulf Coast from Waveland to Pascagoula. [Request a water damage assessment](/contact/) or call (228) 284-5200 to reach the team directly.
+HomeLyft Restoration Gulfport is available 24/7 and holds IICRC WRT (Water Restoration Technician) and IICRC ASD (Applied Structural Drying) certifications, along with Mississippi contractor license RO 2728. Their crews serve Gulfport and communities across the Gulf Coast from Waveland to Pascagoula. [Request a water damage assessment](/contact/) or call (228) 284-5200 to reach the team directly.
 
 ---
 
-**About HomeLyft Restoration MS**
+**About HomeLyft Restoration Gulfport**
 
-HomeLyft Restoration MS is an IICRC-certified firm serving Gulfport, Mississippi and the surrounding Gulf Coast since 2022 (license RO 2728, insured). Their certified crews handle water damage restoration, mold remediation, fire and smoke damage, storm damage, sewage cleanup, biohazard cleanup, asbestos abatement, emergency board-up and tarping, contents restoration, crawl space encapsulation, carpet cleaning, post-construction cleaning, and general contracting across Harrison, Hancock, Jackson, and Forrest counties. HomeLyft Restoration MS provides written scopes before work begins and handles insurance documentation from first call through final inspection.
+HomeLyft Restoration Gulfport is an IICRC-certified firm serving Gulfport, Mississippi and the surrounding Gulf Coast since 2022 (license RO 2728, insured). Their certified crews handle water damage restoration, mold remediation, fire and smoke damage, storm damage, sewage cleanup, biohazard cleanup, asbestos abatement, emergency board-up and tarping, contents restoration, crawl space encapsulation, carpet cleaning, post-construction cleaning, and general contracting across Harrison, Hancock, Jackson, and Forrest counties. HomeLyft Restoration Gulfport provides written scopes before work begins and handles insurance documentation from first call through final inspection.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Escatawpa, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Escatawpa, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Escatawpa"
 meta_description: "Crawl space encapsulation in Escatawpa, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation escatawpa"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Crawl Space Encapsulation"
 rendered: true
 ---
-Escatawpa sits in a low-lying pocket of Jackson County where Gulf Coast humidity rarely lets up, and the soil beneath older homes holds moisture like a sponge long after a rainstorm passes. That combination, saturated clay soil, high ambient humidity that routinely pushes into the 80–90% relative range, and crawl spaces that were never designed with vapor control in mind, means that without a proper encapsulation system, a home's underside can become a staging ground for wood rot, mold colonization, and pest intrusion within a single humid season. HomeLyft Restoration MS works across the region and understands what crawl spaces in this part of Mississippi actually face.
+Escatawpa sits in a low-lying pocket of Jackson County where Gulf Coast humidity rarely lets up, and the soil beneath older homes holds moisture like a sponge long after a rainstorm passes. That combination, saturated clay soil, high ambient humidity that routinely pushes into the 80–90% relative range, and crawl spaces that were never designed with vapor control in mind, means that without a proper encapsulation system, a home's underside can become a staging ground for wood rot, mold colonization, and pest intrusion within a single humid season. HomeLyft Restoration Gulfport works across the region and understands what crawl spaces in this part of Mississippi actually face.
 
 ## Why Escatawpa Properties See Crawl Space Problems
 
@@ -44,10 +44,10 @@ Encapsulation in this climate isn't a one-size product install, it's a sequenced
 
 ## Reaching Escatawpa from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport and serves communities across the Mississippi Gulf Coast and into Jackson County. Escatawpa is accessible via I-10 east through Pascagoula, a straightforward route that the crew travels regularly for jobs in this part of the county. Scheduling is handled by phone at +12282845200, call to discuss your crawl space situation and get an inspection on the calendar.
+HomeLyft Restoration Gulfport is based in Gulfport and serves communities across the Mississippi Gulf Coast and into Jackson County. Escatawpa is accessible via I-10 east through Pascagoula, a straightforward route that the crew travels regularly for jobs in this part of the county. Scheduling is handled by phone at +12282845200, call to discuss your crawl space situation and get an inspection on the calendar.
 
 ## Local Note
 
 One thing that comes up repeatedly in Escatawpa and the surrounding Jackson County area: homes built on pier-and-beam foundations in the 1950s through 1970s often have crawl space heights that vary dramatically from one end of the house to the other because the ground was graded by hand rather than by machine. A crew that hasn't worked under these houses before can underestimate the labor involved in running liner across an uneven floor with low clearance in spots. It matters for scheduling and for making sure the liner is properly overlapped and sealed at grade changes rather than left loose where the floor dips, a loose seam in a low spot is exactly where ground moisture finds its way back in.
 
-If your home in Escatawpa has a damp smell coming through the floors, visible staining on floor joists, or insulation that's sagging and discolored, those are signs the crawl space needs attention before the next Gulf Coast summer compounds the damage. Call HomeLyft Restoration MS at +12282845200 to schedule an inspection and get a clear picture of what's happening beneath your home.
+If your home in Escatawpa has a damp smell coming through the floors, visible staining on floor joists, or insulation that's sagging and discolored, those are signs the crawl space needs attention before the next Gulf Coast summer compounds the damage. Call HomeLyft Restoration Gulfport at +12282845200 to schedule an inspection and get a clear picture of what's happening beneath your home.

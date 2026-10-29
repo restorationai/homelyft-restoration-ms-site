@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Removal & Cleanup in Biloxi, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Water Removal & Cleanup in Biloxi, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Water Removal & Cleanup in Biloxi"
 meta_description: "24/7 emergency water removal & cleanup in Biloxi, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency water removal & cleanup biloxi"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
-**Water pooling in your Biloxi home or business right now?** We answer 24/7, and every minute standing water sits on drywall, baseboards, or subflooring raises the odds you're paying for mold remediation on top of extraction. HomeLyft Restoration MS runs IICRC-trained crews out of Gulfport, and we size our equipment loads for the specific way Gulf Coast humidity and slab construction behave once water gets in, not a generic drying playbook built for a drier climate.
+**Water pooling in your Biloxi home or business right now?** We answer 24/7, and every minute standing water sits on drywall, baseboards, or subflooring raises the odds you're paying for mold remediation on top of extraction. HomeLyft Restoration Gulfport runs IICRC-trained crews out of Gulfport, and we size our equipment loads for the specific way Gulf Coast humidity and slab construction behave once water gets in, not a generic drying playbook built for a drier climate.
 
 ## Why Biloxi Properties See Water Damage
 
@@ -42,4 +42,4 @@ A lot of Biloxi water losses split across two different policies: a standard hom
 
 One thing only a coastal Mississippi crew tends to catch: during the humid months, a slab home that's been closed up with the AC off for even a day or two after a leak will show musty odor long before visible mold appears, because the trapped humidity accelerates microbial growth faster than it would in a vented, drier climate. We treat that odor as a signal to extend drying time and recheck wall cavities, not just run a fan and call it done.
 
-If water is sitting in your Biloxi home or business right now, don't wait for it to find its way into the subfloor or the slab. Call HomeLyft Restoration MS and we'll get extraction equipment moving toward you the same way we'd move toward a call in Gulfport, fast and without guessing at how Gulf Coast conditions are going to affect the dry-out.
+If water is sitting in your Biloxi home or business right now, don't wait for it to find its way into the subfloor or the slab. Call HomeLyft Restoration Gulfport and we'll get extraction equipment moving toward you the same way we'd move toward a call in Gulfport, fast and without guessing at how Gulf Coast conditions are going to affect the dry-out.

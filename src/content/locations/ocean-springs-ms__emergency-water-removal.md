@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Removal & Cleanup in Ocean Springs, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Water Removal & Cleanup in Ocean Springs, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Water Removal & Cleanup in Ocean Springs"
 meta_description: "24/7 emergency water removal & cleanup in Ocean Springs, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency water removal & cleanup ocean springs"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
-**Water damage emergency in Ocean Springs? Call now, we answer 24/7.** Standing water in a slab home or a crawlspace soaking up groundwater from the Biloxi Bay shoreline both need extraction fast, and both get worse the longer they sit. Whether it's a burst supply line, a failed water heater, or storm water that found its way through a roof flashing, HomeLyft Restoration MS pulls water, dries structure, and documents the loss for your insurer so the claim moves instead of stalling.
+**Water damage emergency in Ocean Springs? Call now, we answer 24/7.** Standing water in a slab home or a crawlspace soaking up groundwater from the Biloxi Bay shoreline both need extraction fast, and both get worse the longer they sit. Whether it's a burst supply line, a failed water heater, or storm water that found its way through a roof flashing, HomeLyft Restoration Gulfport pulls water, dries structure, and documents the loss for your insurer so the claim moves instead of stalling.
 
 ## Why Ocean Springs Properties See Water Damage
 
@@ -42,4 +42,4 @@ Most Ocean Springs water losses we see get submitted as homeowner's insurance cl
 
 One thing that catches a lot of Ocean Springs homeowners off guard: a pier-and-beam home can look completely dry from inside after a leak, while the crawlspace underneath stays saturated for days because ventilation down there is limited and Gulf Coast humidity won't let wood framing release moisture on its own. We check crawlspace moisture on every pier-built home we work, even when the visible flooring reads dry, because that hidden moisture is exactly what mold needs to get started within 24 to 48 hours.
 
-If water is spreading under a slab, pooling in a crawlspace, or soaking into flooring anywhere in Ocean Springs, don't wait for it to look worse before calling. HomeLyft Restoration MS is licensed (#RO 2728) and answers 24/7 for emergency water removal and cleanup across Ocean Springs and the surrounding Jackson County coastline.
+If water is spreading under a slab, pooling in a crawlspace, or soaking into flooring anywhere in Ocean Springs, don't wait for it to look worse before calling. HomeLyft Restoration Gulfport is licensed (#RO 2728) and answers 24/7 for emergency water removal and cleanup across Ocean Springs and the surrounding Jackson County coastline.

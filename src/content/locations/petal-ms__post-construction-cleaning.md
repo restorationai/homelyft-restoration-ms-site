@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Petal, MS | HomeLyft Restoration MS"
+title: "Post-Construction and Specialty Cleaning in Petal, MS | HomeLyft Restoration Gulfport"
 h1: "Post-Construction and Specialty Cleaning in Petal"
 meta_description: "Post-construction and specialty cleaning in Petal, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "post-construction and specialty cleaning petal"
@@ -38,10 +38,10 @@ For specialty cleaning needs, post-fire odor neutralization on a renovation that
 
 ## Reaching Petal from Our Gulfport Base
 
-HomeLyft Restoration MS operates out of Gulfport and dispatches to Petal and the broader Forrest County area. The route up US-49 to Petal is a straightforward drive, and scheduling is handled directly by phone at +12282845200. Because post-construction cleaning is typically a planned engagement rather than an emergency call, we coordinate arrival windows that work around contractor punch-list visits and final inspections, so the cleaning crew isn't walking through while a plumber is still commissioning fixtures.
+HomeLyft Restoration Gulfport operates out of Gulfport and dispatches to Petal and the broader Forrest County area. The route up US-49 to Petal is a straightforward drive, and scheduling is handled directly by phone at +12282845200. Because post-construction cleaning is typically a planned engagement rather than an emergency call, we coordinate arrival windows that work around contractor punch-list visits and final inspections, so the cleaning crew isn't walking through while a plumber is still commissioning fixtures.
 
 ## Local Note
 
 One pattern that comes up repeatedly on Petal renovation jobs: contractors working on slab-on-grade homes, which are common in the subdivisions that expanded south and east of downtown Petal over the last two decades, often leave a fine concrete dust haze on every horizontal surface after cutting or grinding the slab for new plumbing rough-ins. That dust is alkaline and abrasive, and it reacts differently with cleaning solutions than drywall dust does. Using the wrong pH chemistry on polished concrete or glazed tile in those areas can etch the surface. The HomeLyft crew identifies slab-cut residue during the walk-through and adjusts chemistry accordingly, it's a small detail that prevents an expensive callback.
 
-When your Petal project is ready for its final clean, whether it's a new build, a full gut-renovation, or a specialty situation that came up mid-project, call HomeLyft Restoration MS at +12282845200 to schedule an on-site assessment. We'll confirm the scope, set a timeline that fits your occupancy date, and leave the property genuinely move-in ready.
+When your Petal project is ready for its final clean, whether it's a new build, a full gut-renovation, or a specialty situation that came up mid-project, call HomeLyft Restoration Gulfport at +12282845200 to schedule an on-site assessment. We'll confirm the scope, set a timeline that fits your occupancy date, and leave the property genuinely move-in ready.

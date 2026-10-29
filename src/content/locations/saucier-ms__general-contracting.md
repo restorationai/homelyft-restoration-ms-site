@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Saucier, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Saucier, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Saucier"
 meta_description: "Renovations, remodels and general contracting in Saucier, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting saucier"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Saucier sits in the piney woods of Harrison County where Gulf Coast humidity doesn't let up, even inland, summer moisture readings routinely push above 80 percent, and the clay-heavy soil shifts enough with seasonal wet-dry cycles to stress foundations, door frames, and tile work over time. That combination of atmospheric humidity and expansive soil makes renovation and remodeling work here a different animal than a dry-climate build. Whether you're updating a ranch-style home on a wooded lot, converting a storm-damaged structure into something better than it was before, or tackling a full kitchen and bathroom overhaul, HomeLyft Restoration MS brings licensed general contracting (RO #2728) and hands-on restoration experience from our Gulfport base directly to Saucier properties.
+Saucier sits in the piney woods of Harrison County where Gulf Coast humidity doesn't let up, even inland, summer moisture readings routinely push above 80 percent, and the clay-heavy soil shifts enough with seasonal wet-dry cycles to stress foundations, door frames, and tile work over time. That combination of atmospheric humidity and expansive soil makes renovation and remodeling work here a different animal than a dry-climate build. Whether you're updating a ranch-style home on a wooded lot, converting a storm-damaged structure into something better than it was before, or tackling a full kitchen and bathroom overhaul, HomeLyft Restoration Gulfport brings licensed general contracting (RO #2728) and hands-on restoration experience from our Gulfport base directly to Saucier properties.
 
 ## Why Saucier Properties Present Unique Renovation Challenges
 
@@ -46,4 +46,4 @@ Our crews travel US-49 north out of Gulfport to reach Saucier and the surroundin
 
 One thing that catches homeowners off guard during bathroom and kitchen remodels in Saucier's older homes: the clay-heavy soil beneath slab foundations causes subtle seasonal movement that can crack grout lines and, over years, compromise tile adhesion. When we install new tile in a slab-on-grade home here, we use a crack-isolation membrane between the substrate and tile rather than skipping straight to thinset, it's a step that adds a day to the schedule but dramatically extends the life of the finished floor in this specific soil environment. It's the kind of detail that separates a renovation that holds up for twenty years from one that needs rework in five.
 
-If your Saucier home is ready for a renovation that accounts for what the local climate and soil actually do to a structure, call HomeLyft Restoration MS at +12282845200. We'll walk the property, give you a clear scope, and build it right the first time under Mississippi general contractor license RO #2728.
+If your Saucier home is ready for a renovation that accounts for what the local climate and soil actually do to a structure, call HomeLyft Restoration Gulfport at +12282845200. We'll walk the property, give you a clear scope, and build it right the first time under Mississippi general contractor license RO #2728.

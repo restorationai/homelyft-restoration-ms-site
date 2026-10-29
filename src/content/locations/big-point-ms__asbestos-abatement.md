@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in Big Point, MS | HomeLyft Restoration MS"
+title: "Asbestos Abatement in Big Point, MS | HomeLyft Restoration Gulfport"
 h1: "Asbestos Abatement in Big Point"
 meta_description: "Asbestos abatement in Big Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "asbestos abatement big point"
@@ -38,7 +38,7 @@ For popcorn ceiling asbestos removal specifically, we take extra care in older B
 
 ## Reaching Big Point from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, putting our team well-positioned to serve Jackson County communities including Big Point. The drive along US-90 and connecting county roads keeps us close enough to schedule prompt site visits for inspections and to mobilize abatement crews without the delays that come with contractors based further inland. When you call to schedule an asbestos inspection or discuss a removal project, we can typically arrange a site visit within a practical timeframe that fits your renovation or sale timeline.
+HomeLyft Restoration Gulfport operates out of Gulfport, putting our team well-positioned to serve Jackson County communities including Big Point. The drive along US-90 and connecting county roads keeps us close enough to schedule prompt site visits for inspections and to mobilize abatement crews without the delays that come with contractors based further inland. When you call to schedule an asbestos inspection or discuss a removal project, we can typically arrange a site visit within a practical timeframe that fits your renovation or sale timeline.
 
 ## Insurance and Documentation for Big Point Asbestos Projects
 
@@ -50,4 +50,4 @@ If you're selling a home in the Big Point area, buyers' lenders increasingly req
 
 One pattern we see consistently in older coastal Mississippi construction, and Big Point is no exception, is asbestos-containing transite board used as exterior siding or as a backer behind bathroom tile. Transite looks similar to fiber cement board and is sometimes mistaken for it during renovation planning. Contractors who aren't familiar with Gulf South building materials from the 1960s and 1970s can inadvertently cut or sand it, releasing fibers before anyone realizes what they're dealing with. If your home was built before 1980 and you're planning any exterior work or a bathroom gut-out, get the material tested before any cutting or demolition starts, it's a low-cost step that prevents a much more serious problem.
 
-If your Big Point property has untested materials from the pre-1980 era, or if a contractor has already disturbed something that might contain asbestos, call HomeLyft Restoration MS at +12282845200 to schedule an inspection. We'll walk you through what testing involves, what abatement looks like for your specific situation, and how to keep the project on track, whether you're renovating, selling, or just trying to understand what's in your home.
+If your Big Point property has untested materials from the pre-1980 era, or if a contractor has already disturbed something that might contain asbestos, call HomeLyft Restoration Gulfport at +12282845200 to schedule an inspection. We'll walk you through what testing involves, what abatement looks like for your specific situation, and how to keep the project on track, whether you're renovating, selling, or just trying to understand what's in your home.

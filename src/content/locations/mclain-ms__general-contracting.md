@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in McLain, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in McLain, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in McLain"
 meta_description: "Renovations, remodels and general contracting in McLain, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting mclain"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-McLain sits in Greene County where the gulf humidity never really lets go, even inland, and that persistent moisture, combined with a housing stock that leans heavily on older wood-frame construction, means renovation work here demands a different kind of attention than a cookie-cutter remodel in a newer suburb. Whether you're rebuilding after storm damage, gutting a kitchen that's been holding onto decades of deferred maintenance, or finally converting that screened porch into conditioned living space, HomeLyft Restoration MS brings licensed general contracting (RO #2728) and restoration-grade craftsmanship to McLain and the surrounding Greene County communities.
+McLain sits in Greene County where the gulf humidity never really lets go, even inland, and that persistent moisture, combined with a housing stock that leans heavily on older wood-frame construction, means renovation work here demands a different kind of attention than a cookie-cutter remodel in a newer suburb. Whether you're rebuilding after storm damage, gutting a kitchen that's been holding onto decades of deferred maintenance, or finally converting that screened porch into conditioned living space, HomeLyft Restoration Gulfport brings licensed general contracting (RO #2728) and restoration-grade craftsmanship to McLain and the surrounding Greene County communities.
 
 ## Why McLain Homes Present Unique Renovation Challenges
 
@@ -38,10 +38,10 @@ For kitchen and bathroom remodels specifically, we coordinate plumbing and elect
 
 ## Reaching McLain from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport, and McLain is roughly a two-hour drive north via US-98 through Hattiesburg. That distance means we schedule McLain projects with dedicated crew days rather than trying to squeeze in a rural job between coastal calls. When you contact us, we'll give you an honest timeline for the initial site visit and a realistic project schedule, not a same-day promise that falls apart on the back end. For post-damage rebuilds where insurance timelines are already creating pressure, we work with your adjuster directly to align our schedule with their documentation requirements so nothing stalls the claim.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and McLain is roughly a two-hour drive north via US-98 through Hattiesburg. That distance means we schedule McLain projects with dedicated crew days rather than trying to squeeze in a rural job between coastal calls. When you contact us, we'll give you an honest timeline for the initial site visit and a realistic project schedule, not a same-day promise that falls apart on the back end. For post-damage rebuilds where insurance timelines are already creating pressure, we work with your adjuster directly to align our schedule with their documentation requirements so nothing stalls the claim.
 
 ## Local Note: What McLain's Older Wood-Frame Homes Tell You Before Demolition
 
 Contractors who work primarily in newer construction sometimes underestimate what a McLain-area farmhouse or older bungalow will reveal once demo begins. Balloon-frame construction, common in homes built before World War II in rural Greene County, runs wall studs continuously from foundation to roofline without the fire blocking you'd find in platform-frame homes. That affects how you run new electrical, how you insulate during a remodel, and how you handle any remediation work that needs to go inside those wall cavities. Knowing that going in changes the bid, the timeline, and the permitting conversation. It's the kind of thing that doesn't show up on a satellite view of the property but becomes obvious the moment the first wall comes down.
 
-If you're planning a renovation in McLain, whether it's a kitchen overhaul, a bathroom update, a full post-storm rebuild, or a structural repair that's been on the list too long, call HomeLyft Restoration MS at +12282845200. We'll schedule a site visit, walk the property with you, and put together a scope that reflects what your home actually needs rather than what a template estimate assumes.
+If you're planning a renovation in McLain, whether it's a kitchen overhaul, a bathroom update, a full post-storm rebuild, or a structural repair that's been on the list too long, call HomeLyft Restoration Gulfport at +12282845200. We'll schedule a site visit, walk the property with you, and put together a scope that reflects what your home actually needs rather than what a template estimate assumes.

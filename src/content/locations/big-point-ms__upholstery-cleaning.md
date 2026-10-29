@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Big Point, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Big Point, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Big Point"
 meta_description: "24/7 upholstery cleaning in Big Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning big point"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Upholstery Cleaning"
 rendered: true
 ---
-Salt air and long summer humidity don't just wear on roofs and siding in Big Point, they work their way into fabric fibers and leather upholstery too. If your sofa smells faintly musty after a wet week, or your leather recliner feels tacky to the touch, that's coastal moisture doing exactly what it does to furniture throughout Jackson County. HomeLyft Restoration MS cleans both fabric and leather upholstery for homes in this area, with methods calibrated for Gulf Coast humidity rather than a drier inland climate.
+Salt air and long summer humidity don't just wear on roofs and siding in Big Point, they work their way into fabric fibers and leather upholstery too. If your sofa smells faintly musty after a wet week, or your leather recliner feels tacky to the touch, that's coastal moisture doing exactly what it does to furniture throughout Jackson County. HomeLyft Restoration Gulfport cleans both fabric and leather upholstery for homes in this area, with methods calibrated for Gulf Coast humidity rather than a drier inland climate.
 
 ## Why Big Point Homes See Upholstery Issues Sooner
 
@@ -38,4 +38,4 @@ Our crews run out of Gulfport, and the drive out to Big Point and the surroundin
 
 One thing that catches homeowners off guard: furniture stored in a garage, workshop, or detached structure for even a short stretch, common when a house is mid-renovation or between tenants, picks up moisture and odor faster than furniture that stayed in a conditioned living room. If a sofa or recliner has spent any time in an unconditioned space in Big Point, we usually recommend cleaning it before it goes back into the house, not after, since it's easier to address mildew odor while it's still surface-level rather than after it's re-acclimated to indoor humidity and settled deeper into the cushion fill.
 
-If your upholstery in Big Point is holding onto odor, feeling damp to the touch, or just hasn't been cleaned since it arrived in the house, a call to HomeLyft Restoration MS gets a technician scheduled to assess fabric or leather condition and clean it using methods built for this coastal climate, not a generic inland approach.
+If your upholstery in Big Point is holding onto odor, feeling damp to the touch, or just hasn't been cleaned since it arrived in the house, a call to HomeLyft Restoration Gulfport gets a technician scheduled to assess fabric or leather condition and clean it using methods built for this coastal climate, not a generic inland approach.

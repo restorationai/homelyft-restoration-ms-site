@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Bay St. Louis, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Bay St. Louis, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Bay St. Louis"
 meta_description: "Crawl space encapsulation in Bay St. Louis, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation bay st. louis"
@@ -44,4 +44,4 @@ For homes where moisture readings on structural wood are elevated, we bring in c
 
 One pattern we see consistently in Bay St. Louis and the surrounding Hancock County coastline: homes that were elevated or rebuilt after Hurricane Katrina sometimes have crawl spaces that look structurally sound but have vapor barriers that were installed hastily during post-storm reconstruction and have since degraded or shifted. If your home was repaired or rebuilt between 2005 and 2010, it's worth having the liner inspected even if no obvious moisture problems are visible yet, those early post-Katrina barriers are now approaching the end of their useful life in this climate.
 
-Schedule a crawl space assessment with HomeLyft Restoration MS by calling **+1 (228) 284-5200**. We serve Bay St. Louis and the broader Hancock County area out of our Gulfport location, and we'll give you a straight assessment of what's actually happening under your home, no upselling, just an honest look at what the space needs to stay dry and stable through the next Gulf Coast storm season.
+Schedule a crawl space assessment with HomeLyft Restoration Gulfport by calling **+1 (228) 284-5200**. We serve Bay St. Louis and the broader Hancock County area out of our Gulfport location, and we'll give you a straight assessment of what's actually happening under your home, no upselling, just an honest look at what the space needs to stay dry and stable through the next Gulf Coast storm season.

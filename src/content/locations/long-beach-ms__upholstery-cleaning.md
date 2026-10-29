@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Long Beach, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Long Beach, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Long Beach"
 meta_description: "24/7 upholstery cleaning in Long Beach, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning long beach"
@@ -38,4 +38,4 @@ For everyday fabric sofas and loveseats, low-moisture encapsulation cleaning wor
 
 One thing that catches Long Beach homeowners off guard: a sofa that feels dry to the touch an hour after cleaning can still have damp padding underneath, because the same coastal humidity that slows laundry on the line slows furniture drying too. We've found that pieces near windows or in sunrooms along the Gulf side of a house often need an extra hour or two of air movement compared to furniture in a closed, air-conditioned den, even in the same home. If you're planning to clean upholstery yourself between our visits, running a dehumidifier or ceiling fan nearby for a few hours afterward makes a real difference in whether that musty smell comes back.
 
-If your sofa, sectional, or leather furniture in Long Beach is holding onto odors, stains, or that faint mildew smell that humidity brings on, HomeLyft Restoration MS can get it professionally cleaned and dried the right way. Call +1 (228) 284-5200 to schedule, we're an IICRC-certified firm and we answer around the clock even for non-emergency scheduling questions.
+If your sofa, sectional, or leather furniture in Long Beach is holding onto odors, stains, or that faint mildew smell that humidity brings on, HomeLyft Restoration Gulfport can get it professionally cleaned and dried the right way. Call +1 (228) 284-5200 to schedule, we're an IICRC-certified firm and we answer around the clock even for non-emergency scheduling questions.

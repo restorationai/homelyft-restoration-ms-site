@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Petal, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Petal, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Petal"
 meta_description: "24/7 upholstery cleaning in Petal, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning petal"
@@ -38,4 +38,4 @@ Leather upholstery needs a different approach entirely. We clean with pH-balance
 
 One thing that catches a lot of Petal homeowners off guard: furniture stored on screened porches or in detached garages for part of the year, common with the area's indoor-outdoor living setups, often needs a different pretreatment than furniture that's stayed inside. Pine sap and pollen bond to fabric fibers in a way that plain water extraction won't fully break down, so we use a citrus-based pretreatment on porch furniture before the main cleaning pass. Skipping that step is the most common reason a DIY steam cleaner rental leaves outdoor-adjacent furniture looking cleaner but still slightly stiff or dull.
 
-If your sofa, sectional, or leather recliner needs more than a surface refresh, call HomeLyft Restoration MS at (228) 284-5200. We're licensed in Mississippi (RO 2728) and our technicians work from IICRC-based cleaning standards, and we schedule around your household rather than asking you to work around us. A same-week appointment in Petal is usually easy to arrange, and we'll walk through fiber type and soil level with you before we ever bring equipment inside.
+If your sofa, sectional, or leather recliner needs more than a surface refresh, call HomeLyft Restoration Gulfport at (228) 284-5200. We're licensed in Mississippi (RO 2728) and our technicians work from IICRC-based cleaning standards, and we schedule around your household rather than asking you to work around us. A same-week appointment in Petal is usually easy to arrange, and we'll walk through fiber type and soil level with you before we ever bring equipment inside.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in Hattiesburg, MS | HomeLyft Restoration MS"
+title: "Emergency Sewage Cleanup and Sanitization in Hattiesburg, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Hattiesburg"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Hattiesburg, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "sewage cleanup and sanitization hattiesburg"
@@ -41,7 +41,7 @@ Final air scrubbing with HEPA filtration runs throughout the job to capture aero
 
 ## Reaching Hattiesburg from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport and serves the Hattiesburg area via US-49 North, a route our crews know well. Scheduling is handled during business hours, call **+1 (228) 284-5200** to reach a live person who can assess your situation, confirm scope, and get a crew dispatched. If you're describing active sewage backup, be ready to tell us whether the source is an interior floor drain, a toilet overflow, or an exterior cleanout, that detail helps us arrive with the right extraction equipment the first time rather than making a second trip.
+HomeLyft Restoration Gulfport is headquartered in Gulfport and serves the Hattiesburg area via US-49 North, a route our crews know well. Scheduling is handled during business hours, call **+1 (228) 284-5200** to reach a live person who can assess your situation, confirm scope, and get a crew dispatched. If you're describing active sewage backup, be ready to tell us whether the source is an interior floor drain, a toilet overflow, or an exterior cleanout, that detail helps us arrive with the right extraction equipment the first time rather than making a second trip.
 
 For properties in areas served by the Hattiesburg Public Works utility system, we can also help you understand how to report the backup to the city if the blockage originates in the municipal main rather than your private lateral, a distinction that matters significantly for who bears the remediation cost.
 
@@ -55,4 +55,4 @@ Regardless of your coverage status, thorough documentation from the start protec
 
 In Hattiesburg, many homes built during the postwar expansion of the 1950s and 1960s were constructed on pier-and-beam foundations with unsealed crawl spaces, a design that made sense for ventilation in the humid Mississippi climate but creates a significant complication during sewage events. When a sewer line backs up under that type of foundation, contaminated water often travels laterally through the crawl space before it surfaces inside the home, meaning the visible damage in a bathroom or utility room is frequently just a fraction of the actual affected area. Crews working these jobs need to inspect the full crawl space perimeter before scoping the loss, not just the room where the backup was first noticed.
 
-If you're dealing with sewage backup in Hattiesburg, whether it's a municipal sewer line failure, a private lateral collapse, or a septic overflow, call HomeLyft Restoration MS at **+1 (228) 284-5200**. Prompt action limits how far contamination spreads and keeps the remediation scope, and the cost, from growing with every hour the material stays wet.
+If you're dealing with sewage backup in Hattiesburg, whether it's a municipal sewer line failure, a private lateral collapse, or a septic overflow, call HomeLyft Restoration Gulfport at **+1 (228) 284-5200**. Prompt action limits how far contamination spreads and keeps the remediation scope, and the cost, from growing with every hour the material stays wet.

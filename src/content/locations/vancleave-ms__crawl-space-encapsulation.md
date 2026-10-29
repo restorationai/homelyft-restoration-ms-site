@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Vancleave, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Vancleave, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Vancleave"
 meta_description: "Crawl space encapsulation in Vancleave, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation vancleave"
@@ -38,7 +38,7 @@ Our team is IICRC certified in water damage restoration and applied structural d
 
 ## Reaching Vancleave from Our Gulfport Location
 
-HomeLyft Restoration MS operates out of Gulfport, and Vancleave is a regular service area for our crews. The typical route runs north on US-49 through Saucier and into Jackson County, or east on I-10 to connect with local roads depending on the specific address. Jackson County's rural road network means some properties sit well off the main corridors, so we confirm access details when scheduling, particularly for homes on unpaved drives where equipment trailers need to maneuver.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Vancleave is a regular service area for our crews. The typical route runs north on US-49 through Saucier and into Jackson County, or east on I-10 to connect with local roads depending on the specific address. Jackson County's rural road network means some properties sit well off the main corridors, so we confirm access details when scheduling, particularly for homes on unpaved drives where equipment trailers need to maneuver.
 
 We schedule crawl space encapsulation jobs in advance rather than as emergency calls, so the focus is on getting the right crew and the right materials staged for your specific square footage. Larger crawl spaces in older ranch-style homes common to this part of the county may require a full day or more to complete properly.
 
@@ -46,4 +46,4 @@ We schedule crawl space encapsulation jobs in advance rather than as emergency c
 
 One thing that comes up specifically in Vancleave and the surrounding Jackson County areas: homes that were built in the 1970s and 1980s often have fiberglass batt insulation stapled between the floor joists rather than against the foundation walls. That insulation acts like a sponge in high-humidity conditions, it holds moisture against the wood it was meant to protect. Before encapsulation makes sense, that saturated insulation typically needs to come out. Homeowners are sometimes surprised by this step, but leaving wet insulation in place and sealing over it traps the problem rather than solving it. It's a detail that matters more here than in drier climates.
 
-If you're dealing with soft floors, persistent musty odors, or you've recently had a plumber under the house who flagged moisture concerns, a crawl space assessment in Vancleave is the right next step. Call HomeLyft Restoration MS at +12282845200 to schedule an inspection and get a clear picture of what's happening beneath your home before the next Gulf Coast summer makes it worse.
+If you're dealing with soft floors, persistent musty odors, or you've recently had a plumber under the house who flagged moisture concerns, a crawl space assessment in Vancleave is the right next step. Call HomeLyft Restoration Gulfport at +12282845200 to schedule an inspection and get a clear picture of what's happening beneath your home before the next Gulf Coast summer makes it worse.

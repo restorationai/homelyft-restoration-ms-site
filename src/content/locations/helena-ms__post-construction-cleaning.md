@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Helena, MS | HomeLyft Restoration MS"
+title: "Post-Construction and Specialty Cleaning in Helena, MS | HomeLyft Restoration Gulfport"
 h1: "Post-Construction and Specialty Cleaning in Helena"
 meta_description: "Post-construction and specialty cleaning in Helena, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "post-construction and specialty cleaning helena"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Post-Construction and Specialty Cleaning"
 rendered: true
 ---
-Renovation dust doesn't just settle on surfaces, in Helena's humid Delta climate, it bonds to them. The moisture that rolls off the Mississippi bottomlands and through Phillips County for much of the year means that drywall dust, silica particles, and construction adhesive residue left after a remodel or new build can harden into a film that standard janitorial cleaning won't touch. HomeLyft Restoration MS brings industrial-grade post-construction and specialty cleaning to Helena properties, working through the fine-detail work that builders leave behind so your space is genuinely move-in or open-for-business ready.
+Renovation dust doesn't just settle on surfaces, in Helena's humid Delta climate, it bonds to them. The moisture that rolls off the Mississippi bottomlands and through Phillips County for much of the year means that drywall dust, silica particles, and construction adhesive residue left after a remodel or new build can harden into a film that standard janitorial cleaning won't touch. HomeLyft Restoration Gulfport brings industrial-grade post-construction and specialty cleaning to Helena properties, working through the fine-detail work that builders leave behind so your space is genuinely move-in or open-for-business ready.
 
 ## Why Helena Properties Present Unique Post-Construction Cleaning Challenges
 
@@ -51,10 +51,10 @@ Post-construction cleaning sometimes uncovers, or leads directly into, specialty
 
 ## Reaching Helena from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport and dispatches crews statewide. Helena is a meaningful drive, roughly three to three-and-a-half hours via US-49 North and US-61, so scheduling is coordinated in advance rather than as a same-day drop-in. For commercial contractors managing a construction timeline in Helena, that means calling us as you approach the final week of your punch list, not the morning of your certificate-of-occupancy inspection. We schedule arrival windows, confirm access with your site supervisor, and bring everything needed to complete the job in a single mobilization rather than multiple trips.
+HomeLyft Restoration Gulfport is headquartered in Gulfport and dispatches crews statewide. Helena is a meaningful drive, roughly three to three-and-a-half hours via US-49 North and US-61, so scheduling is coordinated in advance rather than as a same-day drop-in. For commercial contractors managing a construction timeline in Helena, that means calling us as you approach the final week of your punch list, not the morning of your certificate-of-occupancy inspection. We schedule arrival windows, confirm access with your site supervisor, and bring everything needed to complete the job in a single mobilization rather than multiple trips.
 
 ## Local Note
 
 One thing crews learn quickly working in Helena: the Delta's clay-heavy soil tracks differently than sandy coastal soil. During active construction, foot traffic through a Helena job site deposits a reddish-brown clay residue on subfloors and concrete slabs that doesn't vacuum up cleanly, it smears. The correct approach is to let it dry completely, then dry-scrape before any wet mopping begins. Crews that mop wet clay mud on a Helena slab end up grinding it deeper into the concrete pores, creating a stain that requires grinding or acid washing to remove. It's a small detail, but it's the kind of thing that separates a clean slab from a permanently discolored one.
 
-If your Helena renovation or new construction is approaching the finish line, call HomeLyft Restoration MS at +12282845200 to schedule your post-construction clean. We'll coordinate directly with your contractor, work around your occupancy timeline, and leave the property in the condition your clients or tenants expect to walk into.
+If your Helena renovation or new construction is approaching the finish line, call HomeLyft Restoration Gulfport at +12282845200 to schedule your post-construction clean. We'll coordinate directly with your contractor, work around your occupancy timeline, and leave the property in the condition your clients or tenants expect to walk into.

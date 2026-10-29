@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Moselle, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Storm Damage Restoration in Moselle, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Storm Damage Restoration in Moselle"
 meta_description: "24/7 emergency storm damage restoration in Moselle, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "storm damage restoration moselle"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Storm damage emergency in Moselle? We answer 24/7.** Call now and our crew heads out to secure the property and stop further damage.
 
-Moselle sits in Jones County at the crossroads of two weather realities: the Gulf-fed humidity that pushes up from the south and the tornado-prone corridor that cuts through central Mississippi with little warning. When a severe storm rolls through, whether it's a fast-moving line of thunderstorms in spring or a hurricane remnant spinning inland from the Gulf, the damage it leaves behind in Moselle can range from a handful of lifted shingles to a tree through the living room and a house full of standing water. HomeLyft Restoration MS responds to that full spectrum, dispatching from Gulfport with the equipment and certifications to handle whatever the storm left behind.
+Moselle sits in Jones County at the crossroads of two weather realities: the Gulf-fed humidity that pushes up from the south and the tornado-prone corridor that cuts through central Mississippi with little warning. When a severe storm rolls through, whether it's a fast-moving line of thunderstorms in spring or a hurricane remnant spinning inland from the Gulf, the damage it leaves behind in Moselle can range from a handful of lifted shingles to a tree through the living room and a house full of standing water. HomeLyft Restoration Gulfport responds to that full spectrum, dispatching from Gulfport with the equipment and certifications to handle whatever the storm left behind.
 
 ## Why Moselle Properties Are Especially Vulnerable to Storm Damage
 
@@ -56,4 +56,4 @@ Most storm damage claims in Mississippi involve wind and water components, and i
 
 One pattern we've seen repeatedly in the Moselle area: homes with metal roofing, a popular choice in rural Jones County for its durability, sometimes sustain fastener-backed panel lifts during high-wind events that aren't visible from the ground. The panels look intact, but the seam has opened enough to allow wind-driven rain into the attic space. By the time a homeowner notices a ceiling stain, the insulation and decking may have been wet for days. If your home has a standing-seam or corrugated metal roof and you've had a storm come through, a close inspection of the fastener lines and ridge cap is worth doing before writing the event off as a near-miss.
 
-If a storm has left your Moselle property with a breached roof, water in places it shouldn't be, or a tree where your carport used to be, call HomeLyft Restoration MS at +12282845200. We'll assess the damage, document it thoroughly, and get the work moving so your home is closed up and dry before the next system rolls through Jones County.
+If a storm has left your Moselle property with a breached roof, water in places it shouldn't be, or a tree where your carport used to be, call HomeLyft Restoration Gulfport at +12282845200. We'll assess the damage, document it thoroughly, and get the work moving so your home is closed up and dry before the next system rolls through Jones County.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Hattiesburg, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Hattiesburg, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Hattiesburg"
 meta_description: "24/7 upholstery cleaning in Hattiesburg, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning hattiesburg"
@@ -42,4 +42,4 @@ Hot water extraction is our default for most fabric upholstery because it flushe
 
 Hattiesburg's pine pollen season, typically running from March into April across the Pine Belt, coats porch furniture and anything left near open windows with a fine yellow-green film that ordinary vacuuming doesn't fully lift. It looks like surface dust, but the resin in pine pollen binds to fabric fibers, which is why pieces that get a quick wipe-down in spring often still smell faintly sharp or look dingy by summer. A proper wet extraction pass pulls that resin out instead of just redistributing it, which is worth timing before the humidity climbs into peak summer levels and locks the smell in further.
 
-If your sofa, sectional, or leather furniture in Hattiesburg is holding onto odor, stains, or that tacky, never-quite-dry feeling, a cleaning built around this area's humidity rather than a generic routine will get further. Call HomeLyft Restoration MS to get on the schedule.
+If your sofa, sectional, or leather furniture in Hattiesburg is holding onto odor, stains, or that tacky, never-quite-dry feeling, a cleaning built around this area's humidity rather than a generic routine will get further. Call HomeLyft Restoration Gulfport to get on the schedule.

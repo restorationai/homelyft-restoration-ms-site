@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in Moss Point, MS | HomeLyft Restoration MS"
+title: "Contents Restoration and Storage in Moss Point, MS | HomeLyft Restoration Gulfport"
 h1: "Contents Restoration and Storage in Moss Point"
 meta_description: "Contents restoration and storage in Moss Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "contents restoration and storage moss point"
@@ -50,4 +50,4 @@ Our team operates out of Gulfport and reaches Moss Point via US-90 East through 
 
 One pattern we see specifically in Moss Point and the surrounding Pascagoula River basin: homes that have experienced any previous flood event, even a minor one, often have residual moisture trapped inside wall cavities and under flooring. When a second loss event occurs, belongings in those rooms absorb moisture faster than expected because the ambient air inside the home is already saturated at the wall level. If your home has flooded before, let us know when you call, it changes how we prioritize which rooms to pack out first and how aggressively we treat soft contents for mold inhibition before they go into storage.
 
-If your belongings have been caught in a loss event in Moss Point, call HomeLyft Restoration MS at +12282845200. We will schedule an on-site assessment, walk you through the pack-out process, and make sure every item is accounted for from the moment it leaves your home to the day it comes back.
+If your belongings have been caught in a loss event in Moss Point, call HomeLyft Restoration Gulfport at +12282845200. We will schedule an on-site assessment, walk you through the pack-out process, and make sure every item is accounted for from the moment it leaves your home to the day it comes back.

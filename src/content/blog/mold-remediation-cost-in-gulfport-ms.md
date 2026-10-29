@@ -26,7 +26,7 @@ If you just got a mold inspection report back, or you found a musty smell coming
 
 ## How Much Does Mold Remediation Cost in Gulfport, MS?
 
-Most mold remediation jobs in the Gulfport area fall between $500 for a small, contained spot and $10,000+ for a whole-house job with structural removal. The table below reflects typical industry ranges for jobs of this type on the Mississippi Gulf Coast; every property is different, and HomeLyft Restoration MS provides a written scope after an inspection rather than a phone quote.
+Most mold remediation jobs in the Gulfport area fall between $500 for a small, contained spot and $10,000+ for a whole-house job with structural removal. The table below reflects typical industry ranges for jobs of this type on the Mississippi Gulf Coast; every property is different, and HomeLyft Restoration Gulfport provides a written scope after an inspection rather than a phone quote.
 
 | Scope | Typical Cost Range |
 |---|---|
@@ -79,10 +79,10 @@ The crew seals off the work area with poly sheeting and runs a negative-air mach
 
 If you're not sure whether what you're looking at is actual mold or just surface discoloration, our [black mold vs regular mold](/blog/black-mold-vs-regular-mold/) guide and our [signs of hidden mold](/blog/signs-of-hidden-mold/) post both walk through what to look for before you call anyone.
 
-Mold doesn't wait for a convenient time, and in a humid Gulf Coast climate, a small patch found near Jones Park or off Pass Road this month can spread through a wall cavity by spring if the moisture source isn't fixed. [Call HomeLyft Restoration MS at (228) 284-5200](tel:+12282845200) to schedule a mold inspection and get a written scope before any work starts.
+Mold doesn't wait for a convenient time, and in a humid Gulf Coast climate, a small patch found near Jones Park or off Pass Road this month can spread through a wall cavity by spring if the moisture source isn't fixed. [Call HomeLyft Restoration Gulfport at (228) 284-5200](tel:+12282845200) to schedule a mold inspection and get a written scope before any work starts.
 
 ---
 
-**About HomeLyft Restoration MS**
+**About HomeLyft Restoration Gulfport**
 
-HomeLyft Restoration MS is an IICRC Certified Firm serving Gulfport, Mississippi since 2022 (license RO 2728), holding IICRC AMRT mold remediation certification along with WRT and ASD water restoration credentials. Their crews handle mold remediation, mold inspection and testing, crawl space encapsulation, water damage restoration, fire damage restoration, and reconstruction across the Mississippi Gulf Coast, and the company holds a 5.0 Google rating across 74 reviews.
+HomeLyft Restoration Gulfport is an IICRC Certified Firm serving Gulfport, Mississippi since 2022 (license RO 2728), holding IICRC AMRT mold remediation certification along with WRT and ASD water restoration credentials. Their crews handle mold remediation, mold inspection and testing, crawl space encapsulation, water damage restoration, fire damage restoration, and reconstruction across the Mississippi Gulf Coast, and the company holds a 5.0 Google rating across 74 reviews.

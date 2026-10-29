@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in State Line, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Fire Damage Restoration in State Line, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Fire Damage Restoration in State Line"
 meta_description: "24/7 emergency fire damage restoration in State Line, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "fire damage restoration state line"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Fire damage emergency in State Line? We answer 24/7.** Call now and our crew heads out to secure the property and start the recovery.
 
-A house fire in State Line hits differently than in a larger metro, when the smoke clears and the fire department pulls away, you're left in a small, tight-knit community on the Mississippi-Alabama border with fewer immediate resources nearby and a long road to recovery ahead. The humid, subtropical climate that defines this corner of Greene County means smoke odor and soot don't just linger, they absorb into porous materials faster than in drier climates, and any moisture introduced during firefighting efforts can accelerate secondary damage within hours. HomeLyft Restoration MS responds to fire damage calls in State Line with an IICRC FSRT-certified team trained specifically in fire and smoke restoration.
+A house fire in State Line hits differently than in a larger metro, when the smoke clears and the fire department pulls away, you're left in a small, tight-knit community on the Mississippi-Alabama border with fewer immediate resources nearby and a long road to recovery ahead. The humid, subtropical climate that defines this corner of Greene County means smoke odor and soot don't just linger, they absorb into porous materials faster than in drier climates, and any moisture introduced during firefighting efforts can accelerate secondary damage within hours. HomeLyft Restoration Gulfport responds to fire damage calls in State Line with an IICRC FSRT-certified team trained specifically in fire and smoke restoration.
 
 ## Why State Line Properties Face Distinct Fire Damage Challenges
 
@@ -47,7 +47,7 @@ Where structural materials are beyond cleaning, charred framing, compromised dry
 
 ## Reaching State Line from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport and dispatches crews across Mississippi. State Line sits in the northeastern corner of Greene County, accessible via US-98 and MS-63, routes our crews travel regularly for jobs throughout the Pine Belt region. We schedule assessments promptly and communicate arrival windows clearly so you're not waiting without information during an already stressful situation.
+HomeLyft Restoration Gulfport operates out of Gulfport and dispatches crews across Mississippi. State Line sits in the northeastern corner of Greene County, accessible via US-98 and MS-63, routes our crews travel regularly for jobs throughout the Pine Belt region. We schedule assessments promptly and communicate arrival windows clearly so you're not waiting without information during an already stressful situation.
 
 ## Local Note
 
@@ -57,4 +57,4 @@ One thing that catches homeowners off guard in rural Greene County: older homes 
 
 Fire damage claims in Mississippi are among the more complex residential insurance claims, they involve multiple damage categories (fire, smoke, water, structural) that adjusters sometimes scope separately, which can create gaps in coverage if the full picture isn't documented from the start. Our team photographs and documents all affected areas before any cleaning or demolition begins, providing your adjuster with a complete record. We work directly with most major carriers and can communicate with your adjuster on scope and methodology so you're not translating between your contractor and your insurance company.
 
-If you've experienced a fire at your State Line property, call HomeLyft Restoration MS at +12282845200 to schedule an assessment. The sooner soot and moisture are addressed, the more of your home, and your belongings, can be saved.
+If you've experienced a fire at your State Line property, call HomeLyft Restoration Gulfport at +12282845200 to schedule an assessment. The sooner soot and moisture are addressed, the more of your home, and your belongings, can be saved.

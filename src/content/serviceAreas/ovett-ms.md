@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Ovett, MS | HomeLyft Restoration MS"
+title: "Restoration Services in Ovett, MS | HomeLyft Restoration Gulfport"
 h1: "Restoration Services in Ovett"
 meta_description: "Serving Ovett, MS with water, fire, mold, and storm damage restoration. IICRC-certified team. Call +12282845200."
 primary_keyword: "restoration services ovett"
@@ -19,7 +19,7 @@ state: "MS"
 primary: false
 rendered: true
 ---
-When a pipe bursts behind the walls of a Jones County farmhouse or a slow roof leak finally makes itself known after a stretch of Gulf Coast storms, HomeLyft Restoration MS is the team Ovett property owners call to stop the damage, dry the structure, and put things back together. We handle water damage, fire and smoke cleanup, mold remediation, and full reconstruction, coordinating directly with insurance carriers so you can focus on getting your home or business back to normal.
+When a pipe bursts behind the walls of a Jones County farmhouse or a slow roof leak finally makes itself known after a stretch of Gulf Coast storms, HomeLyft Restoration Gulfport is the team Ovett property owners call to stop the damage, dry the structure, and put things back together. We handle water damage, fire and smoke cleanup, mold remediation, and full reconstruction, coordinating directly with insurance carriers so you can focus on getting your home or business back to normal.
 
 ## Restoration emergencies common in Ovett
 
@@ -55,4 +55,4 @@ Ovett is an unincorporated community, so there is no city hall to visit, structu
 
 Homes out here typically sit on brick or block piers, with slab-on-grade more common in later builds. Basements are essentially nonexistent. Anything built before 1978 gets treated as lead-presumed until testing says otherwise, and pre-1990 houses often hide asbestos in floor tile, mastic, and siding, that changes demolition sequencing before drying even starts.
 
-If you are dealing with water, fire, smoke, or mold damage anywhere in Ovett or the surrounding Jones County area, call HomeLyft Restoration MS at **(228) 284-5200**. We will walk you through what we are seeing, what needs to happen next, and what your insurance policy is likely to cover, no pressure, no guesswork.
+If you are dealing with water, fire, smoke, or mold damage anywhere in Ovett or the surrounding Jones County area, call HomeLyft Restoration Gulfport at **(228) 284-5200**. We will walk you through what we are seeing, what needs to happen next, and what your insurance policy is likely to cover, no pressure, no guesswork.

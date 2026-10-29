@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Pearlington, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Storm Damage Restoration in Pearlington, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Storm Damage Restoration in Pearlington"
 meta_description: "24/7 emergency storm damage restoration in Pearlington, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "storm damage restoration pearlington"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Storm damage emergency in Pearlington? We answer 24/7.** Call now and our crew heads out to secure the property and stop further damage.
 
-Pearlington sits at the mouth of the Pearl River where it empties into Lake Borgne, putting it squarely in the path of Gulf storm systems that funnel moisture and wind directly up the river corridor. When a hurricane or severe thunderstorm rolls through Hancock County, Pearlington doesn't just get wind, it gets storm surge, saturated soils that can't absorb another drop, and debris loads from the dense bottomland hardwoods that line the riverbanks. HomeLyft Restoration MS responds to that specific combination of damage, not a generic storm checklist.
+Pearlington sits at the mouth of the Pearl River where it empties into Lake Borgne, putting it squarely in the path of Gulf storm systems that funnel moisture and wind directly up the river corridor. When a hurricane or severe thunderstorm rolls through Hancock County, Pearlington doesn't just get wind, it gets storm surge, saturated soils that can't absorb another drop, and debris loads from the dense bottomland hardwoods that line the riverbanks. HomeLyft Restoration Gulfport responds to that specific combination of damage, not a generic storm checklist.
 
 ## Why Pearlington Properties See Severe Storm Damage
 
@@ -53,4 +53,4 @@ For properties where tree removal is part of the scope, we coordinate with licen
 
 One thing that catches crews off guard in Pearlington if they haven't worked this corridor before: the post-Katrina rebuilds along the river used a lot of ICF (insulated concrete form) construction because of its wind resistance, and ICF walls respond very differently to moisture intrusion than wood-frame walls do. The foam core can trap water at the interface between the concrete and interior finish, and standard moisture meters read the concrete rather than the foam. We use both pin and pinless meters at multiple depths on any ICF wall that shows signs of water entry, a step that's easy to skip and expensive to miss.
 
-If you're dealing with storm damage to your Pearlington property, whether it's a tree through the roof, surge-soaked flooring, or a wall cavity full of wet insulation, call HomeLyft Restoration MS at +12282845200. We'll assess the damage, document it properly for your claim, and get the work moving before the Gulf Coast humidity turns a storm problem into a mold problem.
+If you're dealing with storm damage to your Pearlington property, whether it's a tree through the roof, surge-soaked flooring, or a wall cavity full of wet insulation, call HomeLyft Restoration Gulfport at +12282845200. We'll assess the damage, document it properly for your claim, and get the work moving before the Gulf Coast humidity turns a storm problem into a mold problem.

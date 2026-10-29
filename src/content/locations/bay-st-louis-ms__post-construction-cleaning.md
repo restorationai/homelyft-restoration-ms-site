@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Bay St. Louis, MS | HomeLyft Restoration MS"
+title: "Post-Construction and Specialty Cleaning in Bay St. Louis, MS | HomeLyft Restoration Gulfport"
 h1: "Post-Construction and Specialty Cleaning in Bay St. Louis"
 meta_description: "Post-construction and specialty cleaning in Bay St. Louis, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "post-construction and specialty cleaning bay st. louis"
@@ -44,10 +44,10 @@ As an IICRC Certified Firm with EPA Lead-Safe certification, the team brings add
 
 ## Reaching Bay St. Louis from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, which puts Bay St. Louis within a straightforward drive west along US-90 or I-10. The team can schedule final cleans to align with contractor punch-list timelines, coordinating directly with the GC to avoid delays at project closeout. For larger commercial builds or multi-phase residential projects, scheduling a walkthrough before the clean date helps the crew arrive with the right equipment load for the specific scope.
+HomeLyft Restoration Gulfport operates out of Gulfport, which puts Bay St. Louis within a straightforward drive west along US-90 or I-10. The team can schedule final cleans to align with contractor punch-list timelines, coordinating directly with the GC to avoid delays at project closeout. For larger commercial builds or multi-phase residential projects, scheduling a walkthrough before the clean date helps the crew arrive with the right equipment load for the specific scope.
 
 ## Local Note
 
 One thing that surprises contractors new to Bay St. Louis: the combination of Gulf humidity and the fine silica dust from fiber cement siding cuts, a very common exterior material on post-Katrina rebuilds, creates a particularly stubborn surface film on interior window glass if windows were left cracked during construction. Standard glass cleaner won't cut through it. The crew uses a diluted muriatic acid solution on affected glass, followed by a neutralizing rinse, before the final glass polish. It's a step that adds time but prevents the kind of hazy windows that get blamed on the glass manufacturer rather than the build process.
 
-If your Bay St. Louis project is wrapping up and the GC is pushing for occupancy, call HomeLyft Restoration MS at +12282845200 to schedule a post-construction clean that accounts for what the Gulf Coast actually does to a finished space, not a generic checklist written for somewhere with a dry climate.
+If your Bay St. Louis project is wrapping up and the GC is pushing for occupancy, call HomeLyft Restoration Gulfport at +12282845200 to schedule a post-construction clean that accounts for what the Gulf Coast actually does to a finished space, not a generic checklist written for somewhere with a dry climate.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in D'Iberville, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in D'Iberville, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in D'Iberville"
 meta_description: "24/7 upholstery cleaning in D'Iberville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning d'iberville"
@@ -38,4 +38,4 @@ Leather upholstery near the coast needs a different approach than the same piece
 
 Homes closer to the Tchoutacabouffa River corridor and the bay-facing side of D'Iberville tend to run several points higher in ambient indoor humidity than homes farther from the water, even with comparable insulation and AC systems. On those jobs we lean toward low-moisture cleaning methods rather than a full hot water extraction, because fabric that's already carrying baseline moisture from the air doesn't need much more added before it stops drying properly. It's a small adjustment, but it's the difference between upholstery that smells clean the next day and upholstery that starts smelling musty again within a week.
 
-If your sofa, sectional, or leather furniture is holding onto odor, staining, or that flat, slightly damp smell that coastal humidity leaves behind, HomeLyft Restoration MS can get a technician out to your D'Iberville home to assess the fabric, the padding underneath, and the right cleaning method for your specific piece. Call +1 (228) 284-5200 to get on the schedule.
+If your sofa, sectional, or leather furniture is holding onto odor, staining, or that flat, slightly damp smell that coastal humidity leaves behind, HomeLyft Restoration Gulfport can get a technician out to your D'Iberville home to assess the fabric, the padding underneath, and the right cleaning method for your specific piece. Call +1 (228) 284-5200 to get on the schedule.

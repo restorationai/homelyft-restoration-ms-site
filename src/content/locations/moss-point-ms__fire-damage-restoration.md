@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Moss Point, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Fire Damage Restoration in Moss Point, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Fire Damage Restoration in Moss Point"
 meta_description: "24/7 emergency fire damage restoration in Moss Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "fire damage restoration moss point"
@@ -41,7 +41,7 @@ Our team holds IICRC FSRT (Fire and Smoke Restoration) certification, and the wo
 
 ## Reaching Moss Point from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport, and Moss Point is accessible via US-90 east through Biloxi and Pascagoula, a straightforward route along the Gulf Coast corridor. We schedule prompt response for fire damage calls in Moss Point and coordinate directly with your insurance carrier from the first site visit so you're not managing two separate conversations during an already stressful time. When you call +12282845200, you'll speak with someone who can confirm scheduling and walk you through what to expect before the crew arrives.
+HomeLyft Restoration Gulfport is based in Gulfport, and Moss Point is accessible via US-90 east through Biloxi and Pascagoula, a straightforward route along the Gulf Coast corridor. We schedule prompt response for fire damage calls in Moss Point and coordinate directly with your insurance carrier from the first site visit so you're not managing two separate conversations during an already stressful time. When you call +12282845200, you'll speak with someone who can confirm scheduling and walk you through what to expect before the crew arrives.
 
 ## Moss Point Insurance Coordination
 
@@ -53,4 +53,4 @@ Older homes in the Moss Point area sometimes carry policies with actual cash val
 
 Homes in the lower-lying areas near the Escatawba River corridor often have pier-and-beam construction with limited crawl space clearance, sometimes as little as 18 inches. After a fire, smoke and heat residue settle into those crawl spaces and the floor system above them. Standard fire restoration scopes don't always account for crawl space deodorization and joist cleaning, but skipping that step means odor returns through the subfloor once the home is reoccupied and the HVAC system starts circulating air. We include crawl space inspection and treatment as a standard line item on Moss Point jobs where the construction type warrants it.
 
-If your home in Moss Point has been damaged by fire, call HomeLyft Restoration MS at +12282845200. We'll schedule an assessment, document the full scope of damage, and work directly with your insurance carrier to move the restoration forward, so you're not left managing the aftermath alone.
+If your home in Moss Point has been damaged by fire, call HomeLyft Restoration Gulfport at +12282845200. We'll schedule an assessment, document the full scope of damage, and work directly with your insurance carrier to move the restoration forward, so you're not left managing the aftermath alone.

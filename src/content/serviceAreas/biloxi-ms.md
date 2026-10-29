@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Biloxi, MS | HomeLyft Restoration MS"
+title: "Restoration Services in Biloxi, MS | HomeLyft Restoration Gulfport"
 h1: "Restoration Services in Biloxi"
 meta_description: "Serving Biloxi, MS with water, fire, mold, and storm damage restoration. IICRC-certified team. Call +12282845200."
 primary_keyword: "restoration services biloxi"
@@ -19,7 +19,7 @@ state: "MS"
 primary: false
 rendered: true
 ---
-HomeLyft Restoration MS works with Biloxi homeowners, landlords, and property managers when water, fire, mold, or storm damage turns a normal day into a crisis. From the older bungalows along the Back Bay to the mid-century rentals near Keesler Air Force Base, we've seen how fast Gulf Coast conditions can turn a minor leak into a major structural problem, and we show up ready to stop that progression, document everything for your insurance carrier, and get your property back to livable.
+HomeLyft Restoration Gulfport works with Biloxi homeowners, landlords, and property managers when water, fire, mold, or storm damage turns a normal day into a crisis. From the older bungalows along the Back Bay to the mid-century rentals near Keesler Air Force Base, we've seen how fast Gulf Coast conditions can turn a minor leak into a major structural problem, and we show up ready to stop that progression, document everything for your insurance carrier, and get your property back to livable.
 
 ## Restoration emergencies common in Biloxi
 
@@ -51,7 +51,7 @@ Once mitigation is complete, many property owners want a single contractor to ca
 
 ## Coverage and how fast we can get there
 
-HomeLyft Restoration MS is headquartered in Gulfport, roughly 12 miles west of downtown Biloxi via US-90 or I-10. That's a straightforward drive under normal traffic conditions, and our crews are familiar with the routes into Biloxi's distinct zones, the beachfront corridor along Beach Boulevard, the neighborhoods north of I-10 closer to D'Iberville, and the Back Bay-facing streets that tend to see the most recurring moisture issues. If you call during our business hours, we'll give you a realistic arrival window based on crew availability and current job load, we'd rather be honest about timing than promise something we can't deliver.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, roughly 12 miles west of downtown Biloxi via US-90 or I-10. That's a straightforward drive under normal traffic conditions, and our crews are familiar with the routes into Biloxi's distinct zones, the beachfront corridor along Beach Boulevard, the neighborhoods north of I-10 closer to D'Iberville, and the Back Bay-facing streets that tend to see the most recurring moisture issues. If you call during our business hours, we'll give you a realistic arrival window based on crew availability and current job load, we'd rather be honest about timing than promise something we can't deliver.
 
 ## Building stock, site conditions, and permits in Biloxi
 
@@ -59,4 +59,4 @@ Biloxi's older housing tends to sit on brick or masonry piers with a vented craw
 
 Structural repair and rebuild permits come from the City of Biloxi's building department. Flood-zone rules and the substantial-improvement threshold can pull an elevation requirement into a rebuild, and coastal wind provisions govern roof and sheathing work.
 
-If you're dealing with water, fire, mold, or storm damage at a Biloxi property, call HomeLyft Restoration MS at (228) 284-5200. We'll walk you through what we're seeing, what needs to happen next, and how the insurance process works, no pressure, no guesswork.
+If you're dealing with water, fire, mold, or storm damage at a Biloxi property, call HomeLyft Restoration Gulfport at (228) 284-5200. We'll walk you through what we're seeing, what needs to happen next, and how the insurance process works, no pressure, no guesswork.

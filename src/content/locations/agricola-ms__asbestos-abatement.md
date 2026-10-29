@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in Agricola, MS | HomeLyft Restoration MS"
+title: "Asbestos Abatement in Agricola, MS | HomeLyft Restoration Gulfport"
 h1: "Asbestos Abatement in Agricola"
 meta_description: "Asbestos abatement in Agricola, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "asbestos abatement agricola"
@@ -32,7 +32,7 @@ Every project begins with a formal inspection and bulk sampling, physical sample
 
 ## Reaching Agricola from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, and Agricola is accessible via US-49 North through Wiggins, a straightforward drive that keeps Stone County well within our regular service area. We schedule site visits and project start dates around your timeline and coordinate directly with any contractors, real estate agents, or property managers involved in the project. Because asbestos abatement in Mississippi requires advance notification to the Mississippi Department of Environmental Quality (MDEQ) for projects above regulatory thresholds, we build that lead time into the project schedule from the first call, you are not left scrambling to meet a filing deadline on your own.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Agricola is accessible via US-49 North through Wiggins, a straightforward drive that keeps Stone County well within our regular service area. We schedule site visits and project start dates around your timeline and coordinate directly with any contractors, real estate agents, or property managers involved in the project. Because asbestos abatement in Mississippi requires advance notification to the Mississippi Department of Environmental Quality (MDEQ) for projects above regulatory thresholds, we build that lead time into the project schedule from the first call, you are not left scrambling to meet a filing deadline on your own.
 
 ## Agricola Insurance & Contractor Coordination
 
@@ -42,4 +42,4 @@ Asbestos abatement costs are sometimes partially covered under homeowner policie
 
 One pattern we see consistently in older Agricola-area homes is asbestos-containing floor tile installed directly over a wood subfloor, with a second layer of vinyl tile laid on top sometime in the 1990s, a common renovation shortcut that effectively buried the original material. Homeowners often don't know the original layer exists until a flooring contractor pulls up the newer material. If your home has layered resilient flooring and was built before 1980, assume the bottom layer needs testing before any removal work begins. Disturbing it without containment, even briefly, is the kind of mistake that creates a much larger and more expensive problem.
 
-If you have questions about a specific material in your Agricola home or need to schedule an inspection before a renovation, call HomeLyft Restoration MS at +12282845200. We will tell you plainly what we find, what it means, and what it costs to address it, no pressure, no upselling.
+If you have questions about a specific material in your Agricola home or need to schedule an inspection before a renovation, call HomeLyft Restoration Gulfport at +12282845200. We will tell you plainly what we find, what it means, and what it costs to address it, no pressure, no upselling.

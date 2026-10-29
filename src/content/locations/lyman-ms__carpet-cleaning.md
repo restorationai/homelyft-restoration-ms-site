@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Lyman, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Lyman, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Lyman"
 meta_description: "Carpet cleaning in Lyman, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning lyman"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-Lyman sits in Harrison County where the Gulf Coast's humidity rarely lets up, summer air that feels like a warm, wet towel means carpet fibers hold onto moisture, pet dander, pollen, and the fine red-clay dust that blows in from surrounding Piney Woods roads far longer than carpets in drier climates do. By the time a rug looks dirty in a Lyman home, it has usually been trapping allergens and soil deep in its pile for weeks. HomeLyft Restoration MS brings IICRC-certified carpet cleaning to Lyman to pull that embedded grime out completely, not just push it around.
+Lyman sits in Harrison County where the Gulf Coast's humidity rarely lets up, summer air that feels like a warm, wet towel means carpet fibers hold onto moisture, pet dander, pollen, and the fine red-clay dust that blows in from surrounding Piney Woods roads far longer than carpets in drier climates do. By the time a rug looks dirty in a Lyman home, it has usually been trapping allergens and soil deep in its pile for weeks. HomeLyft Restoration Gulfport brings IICRC-certified carpet cleaning to Lyman to pull that embedded grime out completely, not just push it around.
 
 ## Why Lyman Carpets Take a Harder Hit
 
@@ -43,7 +43,7 @@ For commercial spaces, offices, retail, or any property with heavy foot traffic,
 
 ## Reaching Lyman from Our Gulfport Base
 
-HomeLyft Restoration MS operates out of Gulfport, and Lyman is a straightforward run up US-49 North, a route our crews travel regularly for restoration and cleaning calls throughout Harrison County. Scheduling is handled by phone at +12282845200, and we coordinate arrival windows that work around your day rather than asking you to clear a four-hour block.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Lyman is a straightforward run up US-49 North, a route our crews travel regularly for restoration and cleaning calls throughout Harrison County. Scheduling is handled by phone at +12282845200, and we coordinate arrival windows that work around your day rather than asking you to clear a four-hour block.
 
 For commercial accounts in Lyman, we can often arrange early-morning or weekend slots so cleaning does not interrupt business operations. Call us to discuss what scheduling looks like for your specific property.
 
@@ -59,4 +59,4 @@ One thing our crews have noticed working in Lyman and the surrounding Harrison C
 
 If you have ever had carpet cleaned and noticed it stayed damp for two or three days afterward, the equipment, not the carpet, was likely the issue.
 
-Ready to schedule professional carpet cleaning in Lyman? Call HomeLyft Restoration MS at +12282845200 and let us put together a cleaning plan that fits your home's layout, your carpet type, and Harrison County's climate realities.
+Ready to schedule professional carpet cleaning in Lyman? Call HomeLyft Restoration Gulfport at +12282845200 and let us put together a cleaning plan that fits your home's layout, your carpet type, and Harrison County's climate realities.

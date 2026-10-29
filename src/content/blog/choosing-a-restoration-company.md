@@ -85,4 +85,4 @@ Throughout all of it, keep copies of every document: the estimate, the daily moi
 
 If you're in the middle of a water, fire, or mold situation right now, the most important thing is to move quickly, but not so quickly that you skip the five-minute credential check. A company that can't answer basic questions about their certifications or documentation process will cost you more in the long run than the hour you spent vetting them.
 
-HomeLyft Restoration MS serves Gulfport and the surrounding Gulf Coast area. If you want to talk through your situation before committing to anything, call **(228) 284-5200**, no obligation, just a straight conversation about what you're dealing with and what the next steps look like.
+HomeLyft Restoration Gulfport serves Gulfport and the surrounding Gulf Coast area. If you want to talk through your situation before committing to anything, call **(228) 284-5200**, no obligation, just a straight conversation about what you're dealing with and what the next steps look like.

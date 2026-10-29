@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Diamondhead, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Diamondhead, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Diamondhead"
 meta_description: "24/7 upholstery cleaning in Diamondhead, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning diamondhead"
@@ -38,4 +38,4 @@ Our crews run out of Gulfport, a straightforward drive along Highway 90 and I-10
 
 Homes near Diamondhead's canal system and lagoon-front lots tend to run higher indoor humidity than properties set back closer to Highway 603, even with air conditioning running. On those waterside properties we typically add an extra drying pass with air movers after extraction, because cushions there hold moisture longer and a sofa that feels dry to the touch can still be damp at the foam core underneath. It's a small adjustment, but skipping it is how odor comes back within a week on canal-adjacent homes.
 
-If your sofa, sectional, or leather furniture in Diamondhead has started to look tired, smell musty, or feel stiff in spots, it's worth having it cleaned properly rather than guessing with a rental machine. Call HomeLyft Restoration MS and we'll walk you through what your fabric or leather actually needs before we touch it.
+If your sofa, sectional, or leather furniture in Diamondhead has started to look tired, smell musty, or feel stiff in spots, it's worth having it cleaned properly rather than guessing with a rental machine. Call HomeLyft Restoration Gulfport and we'll walk you through what your fabric or leather actually needs before we touch it.

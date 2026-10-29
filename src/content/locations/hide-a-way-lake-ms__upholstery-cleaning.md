@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Hide-A-Way Lake, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Hide-A-Way Lake, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Hide-A-Way Lake"
 meta_description: "24/7 upholstery cleaning in Hide-A-Way Lake, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning hide-a-way lake"
@@ -38,4 +38,4 @@ We run upholstery cleaning appointments out to Hide-A-Way Lake on a scheduled ba
 
 One thing that trips up a lot of lake-house owners: cushions that feel dry to the touch on top can still be damp two or three inches down in the foam, especially in pieces that sit near windows or screened porches where humidity swings are sharpest. If a sofa gets cleaned and then the house is closed up again for a week or two before the foam has fully released that moisture, the musty smell comes right back, and it can look like the cleaning didn't work when really the drying never finished. We factor that into how we time extraction and airflow on lake properties specifically, rather than using the same drying window we'd use on a house that's lived in every day.
 
-If your sofa, sectional, or leather furniture in Hide-A-Way Lake is holding onto a musty smell, visible staining, or stiffness that won't soften with regular cleaning products, call HomeLyft Restoration MS at (228) 284-5200. We're licensed under RO 2728 and staffed with IICRC-trained technicians who treat fabric and leather differently because they age differently, and we'll walk you through what your specific pieces need before any cleaning starts.
+If your sofa, sectional, or leather furniture in Hide-A-Way Lake is holding onto a musty smell, visible staining, or stiffness that won't soften with regular cleaning products, call HomeLyft Restoration Gulfport at (228) 284-5200. We're licensed under RO 2728 and staffed with IICRC-trained technicians who treat fabric and leather differently because they age differently, and we'll walk you through what your specific pieces need before any cleaning starts.

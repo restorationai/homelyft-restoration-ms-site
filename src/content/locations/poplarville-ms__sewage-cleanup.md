@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in Poplarville, MS | HomeLyft Restoration MS"
+title: "Emergency Sewage Cleanup and Sanitization in Poplarville, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Poplarville"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Poplarville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "sewage cleanup and sanitization poplarville"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Sewage Cleanup and Sanitization"
 rendered: true
 ---
-Sewage backing up into a Poplarville home hits differently than a simple plumbing leak. The humid, sub-tropical climate of Pearl River County means contaminated water doesn't just sit, it soaks into wood subfloors and wall cavities within hours, and the summer heat accelerates bacterial growth faster than most homeowners expect. Whether the source is a failing septic system on a rural lot outside town or a sewer line backup in an older neighborhood near downtown, the window for safe, effective cleanup is short. HomeLyft Restoration MS responds to sewage emergencies across Poplarville and coordinates every step from raw waste removal through final sanitization.
+Sewage backing up into a Poplarville home hits differently than a simple plumbing leak. The humid, sub-tropical climate of Pearl River County means contaminated water doesn't just sit, it soaks into wood subfloors and wall cavities within hours, and the summer heat accelerates bacterial growth faster than most homeowners expect. Whether the source is a failing septic system on a rural lot outside town or a sewer line backup in an older neighborhood near downtown, the window for safe, effective cleanup is short. HomeLyft Restoration Gulfport responds to sewage emergencies across Poplarville and coordinates every step from raw waste removal through final sanitization.
 
 ## Why Poplarville Properties Are Prone to Sewage Backup
 
@@ -36,7 +36,7 @@ Once the bulk waste is removed, affected porous materials, drywall, insulation, 
 
 ## Reaching Poplarville from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport and serves Poplarville via US-49 North through Wiggins and into Pearl River County. The drive runs roughly 70 miles depending on exact destination within the city. When you call, our team confirms your address and dispatches accordingly, scheduling is prompt, and we communicate an arrival window before we're on the road so you're not waiting without information. If your property is on the rural edges of Poplarville where GPS routing sometimes misses private road turns, let us know when you call and we'll coordinate directly.
+HomeLyft Restoration Gulfport is based in Gulfport and serves Poplarville via US-49 North through Wiggins and into Pearl River County. The drive runs roughly 70 miles depending on exact destination within the city. When you call, our team confirms your address and dispatches accordingly, scheduling is prompt, and we communicate an arrival window before we're on the road so you're not waiting without information. If your property is on the rural edges of Poplarville where GPS routing sometimes misses private road turns, let us know when you call and we'll coordinate directly.
 
 ## Insurance Coordination for Poplarville Sewage Claims
 
@@ -48,4 +48,4 @@ For properties on septic systems, the claim picture is different, septic overflo
 
 Many of Poplarville's mid-century homes were built on pier-and-beam foundations with heart pine or fir subfloor planking rather than modern OSB or plywood. When sewage reaches that material, it wicks along the grain and travels farther than it appears on the surface, a two-foot wet spot on the floor can mean four or five feet of contaminated wood underneath. Our crews probe and moisture-map beyond the visible damage boundary before cutting any material, because underestimating the spread on these older floors leads to odor callbacks weeks later. It's a step that adds time on day one but prevents a second mobilization.
 
-If your home has been affected by a sewage backup or septic overflow in Poplarville, call HomeLyft Restoration MS at +12282845200. We'll walk you through what to do before we arrive, document the damage thoroughly, and get your home back to a safe, sanitary condition.
+If your home has been affected by a sewage backup or septic overflow in Poplarville, call HomeLyft Restoration Gulfport at +12282845200. We'll walk you through what to do before we arrive, document the damage thoroughly, and get your home back to a safe, sanitary condition.

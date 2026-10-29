@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Reconstruction Services in Bay St. Louis, MS | HomeLyft Restoration MS"
+title: "Reconstruction Services in Bay St. Louis, MS | HomeLyft Restoration Gulfport"
 h1: "Reconstruction Services in Bay St. Louis"
 meta_description: "24/7 reconstruction services in Bay St. Louis, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "reconstruction services bay st. louis"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Reconstruction Services"
 rendered: true
 ---
-Rebuilding after a fire, flood, or storm in Bay St. Louis means working with a coastline that has already taught this town hard lessons about construction. Reconstruction Services from HomeLyft Restoration MS pick up where demolition and drying end, rebuilding framing, drywall, flooring, and finishes to match the home's pre-loss condition, with an eye on the elevation requirements and wind-resistant methods that Hancock County properties increasingly need.
+Rebuilding after a fire, flood, or storm in Bay St. Louis means working with a coastline that has already taught this town hard lessons about construction. Reconstruction Services from HomeLyft Restoration Gulfport pick up where demolition and drying end, rebuilding framing, drywall, flooring, and finishes to match the home's pre-loss condition, with an eye on the elevation requirements and wind-resistant methods that Hancock County properties increasingly need.
 
 ## Why Bay St. Louis Properties See Reconstruction Needs
 
@@ -42,4 +42,4 @@ Most reconstruction jobs here run through a property insurance claim, and we doc
 
 A lot of Bay St. Louis homes built before current flood maps sit at grade or on short crawl spaces, which means a reconstruction after a flood loss isn't always a like-for-like rebuild. If the home sits in a flood zone that's been remapped since it was built, the permitted scope of work can require raising floor systems or changing subfloor materials to meet current freeboard requirements, something a homeowner doesn't usually find out until the permit application is underway. We flag that possibility during the initial scope walk so there are no surprises mid-project.
 
-If fire, storm, or flood damage has left part of your Bay St. Louis home needing more than repair, our reconstruction crews can take the project from framing back to finished space, coordinated with your insurance carrier and Hancock County permitting along the way. Call HomeLyft Restoration MS at (228) 284-5200 to schedule a scope walkthrough.
+If fire, storm, or flood damage has left part of your Bay St. Louis home needing more than repair, our reconstruction crews can take the project from framing back to finished space, coordinated with your insurance carrier and Hancock County permitting along the way. Call HomeLyft Restoration Gulfport at (228) 284-5200 to schedule a scope walkthrough.

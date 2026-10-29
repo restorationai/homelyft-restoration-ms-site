@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Vancleave, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Storm Damage Restoration in Vancleave, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Storm Damage Restoration in Vancleave"
 meta_description: "24/7 emergency storm damage restoration in Vancleave, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "storm damage restoration vancleave"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Storm damage emergency in Vancleave? We answer 24/7.** Call now and our crew heads out to secure the property and stop further damage.
 
-Vancleave sits squarely in the bullseye of Mississippi's Gulf Coast storm corridor, where Gulf-fed squall lines, tropical systems, and the occasional tornado can stack wind, rain, and flying debris on the same property in a matter of hours. When a storm tears through Jackson County and leaves a pine tree across your roof or pushes a foot of rainwater through your crawl space, the clock starts immediately, not just on the water damage, but on the structural integrity of everything underneath. HomeLyft Restoration MS responds to storm damage calls across Vancleave and coordinates the full scope of work, from emergency tarping to final reconstruction.
+Vancleave sits squarely in the bullseye of Mississippi's Gulf Coast storm corridor, where Gulf-fed squall lines, tropical systems, and the occasional tornado can stack wind, rain, and flying debris on the same property in a matter of hours. When a storm tears through Jackson County and leaves a pine tree across your roof or pushes a foot of rainwater through your crawl space, the clock starts immediately, not just on the water damage, but on the structural integrity of everything underneath. HomeLyft Restoration Gulfport responds to storm damage calls across Vancleave and coordinates the full scope of work, from emergency tarping to final reconstruction.
 
 ## Why Vancleave Properties See Elevated Storm Damage
 
@@ -53,4 +53,4 @@ For homeowners who have already received a preliminary estimate from an adjuster
 
 Vancleave's heavily wooded lots mean that after a significant storm, debris removal and crane access for large tree sections often have to happen before any roofing crew can safely work. On properties with long gravel driveways, common in this part of Jackson County, heavy equipment can cause secondary damage to the drive surface itself. HomeLyft coordinates tree removal sequencing with the roofing and structural work so crane staging is planned before equipment rolls in, not after. It's a small logistical detail that saves homeowners an unexpected repair bill on top of everything else.
 
-If your Vancleave home took a hit from a recent storm, call HomeLyft Restoration MS at (228) 284-5200 to schedule an assessment. The sooner the structure is documented and dried, the more options you have, both for the repair itself and for what your insurance carrier will cover.
+If your Vancleave home took a hit from a recent storm, call HomeLyft Restoration Gulfport at (228) 284-5200 to schedule an assessment. The sooner the structure is documented and dried, the more options you have, both for the repair itself and for what your insurance carrier will cover.

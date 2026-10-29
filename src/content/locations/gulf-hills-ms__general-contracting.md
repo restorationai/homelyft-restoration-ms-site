@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Gulf Hills, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Gulf Hills, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Gulf Hills"
 meta_description: "Renovations, remodels and general contracting in Gulf Hills, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting gulf hills"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Gulf Hills sits along the northeastern edge of Jackson County, where the salt air off the Pascagoula River basin, sandy coastal soils, and a housing stock that leans heavily on mid-century ranch and cottage construction create a renovation environment unlike what you'd find inland. Whether you're updating a kitchen in a 1960s pier-and-beam home, rebuilding after storm damage, or adding a bathroom addition that has to meet Mississippi's coastal wind-load requirements, the variables here are specific, and the contractor you hire should already know them. HomeLyft Restoration MS (license #RO 2728) handles the full scope of renovations, remodels, and general contracting for Gulf Hills homeowners, from design coordination through final inspection.
+Gulf Hills sits along the northeastern edge of Jackson County, where the salt air off the Pascagoula River basin, sandy coastal soils, and a housing stock that leans heavily on mid-century ranch and cottage construction create a renovation environment unlike what you'd find inland. Whether you're updating a kitchen in a 1960s pier-and-beam home, rebuilding after storm damage, or adding a bathroom addition that has to meet Mississippi's coastal wind-load requirements, the variables here are specific, and the contractor you hire should already know them. HomeLyft Restoration Gulfport (license #RO 2728) handles the full scope of renovations, remodels, and general contracting for Gulf Hills homeowners, from design coordination through final inspection.
 
 ## Why Gulf Hills Homes Present Unique Renovation Challenges
 
@@ -52,4 +52,4 @@ On the permitting side, Jackson County requires inspections at foundation, frami
 
 One pattern that comes up repeatedly in Gulf Hills renovation work: the crawl spaces and pier systems under mid-century homes in this area often show significant moisture intrusion that wasn't part of the original project scope. When we open up a bathroom floor or kitchen subfloor for a remodel, it's common to find subfloor sheathing that's soft from years of ground moisture wicking up through inadequate vapor barriers. Addressing that before laying new flooring isn't optional, it's what separates a renovation that holds up for 20 years from one that starts failing in three. We factor crawl space assessment into our pre-construction walkthrough so there are no surprises after demolition begins.
 
-If you're ready to move forward on a kitchen remodel, bathroom update, addition, or post-storm rebuild in Gulf Hills, call HomeLyft Restoration MS at +12282845200. We'll schedule a site visit, walk the full scope with you, and put together an estimate that reflects what construction in this coastal environment actually requires.
+If you're ready to move forward on a kitchen remodel, bathroom update, addition, or post-storm rebuild in Gulf Hills, call HomeLyft Restoration Gulfport at +12282845200. We'll schedule a site visit, walk the full scope with you, and put together an estimate that reflects what construction in this coastal environment actually requires.

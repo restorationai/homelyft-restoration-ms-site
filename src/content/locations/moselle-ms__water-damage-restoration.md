@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Moselle, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Water Damage Restoration in Moselle, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Water Damage Restoration in Moselle"
 meta_description: "24/7 emergency water damage restoration in Moselle, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "water damage restoration moselle"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Water damage emergency in Moselle? We answer 24/7.** Call now and our crew heads out to stop the water and start drying your property.
 
-Moselle sits in the piney woods of Jones County where summer humidity rarely dips below oppressive, afternoon thunderstorms can dump two inches of rain in under an hour, and the sandy-loam soils shift just enough over time to stress older pier-and-beam foundations. When a supply line fails or a storm drives water under a door, that moisture doesn't just sit on the surface, it wicks into subfloor sheathing, crawl-space insulation, and wall cavities before most homeowners realize the extent of what they're dealing with. HomeLyft Restoration MS responds to water damage calls across Moselle and the surrounding Jones County corridor, bringing IICRC-certified water removal and structural drying crews directly from our Gulfport base.
+Moselle sits in the piney woods of Jones County where summer humidity rarely dips below oppressive, afternoon thunderstorms can dump two inches of rain in under an hour, and the sandy-loam soils shift just enough over time to stress older pier-and-beam foundations. When a supply line fails or a storm drives water under a door, that moisture doesn't just sit on the surface, it wicks into subfloor sheathing, crawl-space insulation, and wall cavities before most homeowners realize the extent of what they're dealing with. HomeLyft Restoration Gulfport responds to water damage calls across Moselle and the surrounding Jones County corridor, bringing IICRC-certified water removal and structural drying crews directly from our Gulfport base.
 
 ## Why Moselle Properties See Water Damage Issues
 
@@ -59,4 +59,4 @@ We work directly with most major carriers and can communicate with your adjuster
 
 One pattern we've seen repeatedly in Jones County's older pier-and-beam homes: the crawl-space vapor barrier, if one exists at all, is often a single layer of 6-mil poly laid directly on bare dirt, sometimes torn or displaced by previous pest-control or plumbing work. After a water intrusion event, that compromised barrier allows ground moisture to re-enter the crawl space even after the above-floor drying is complete, which can stall structural drying timelines significantly. We inspect the crawl-space barrier condition on every Moselle job and flag it in our report, because restoring the living area without addressing what's happening two feet below the floor is an incomplete fix.
 
-If you're dealing with water damage in Moselle right now, call HomeLyft Restoration MS at +12282845200. We'll walk you through what to expect, confirm scheduling, and get a certified crew moving toward Jones County.
+If you're dealing with water damage in Moselle right now, call HomeLyft Restoration Gulfport at +12282845200. We'll walk you through what to expect, confirm scheduling, and get a certified crew moving toward Jones County.

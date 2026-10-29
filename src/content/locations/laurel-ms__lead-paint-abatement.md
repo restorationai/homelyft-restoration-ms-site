@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Lead Paint Abatement in Laurel, MS | HomeLyft Restoration MS"
+title: "Lead Paint Abatement in Laurel, MS | HomeLyft Restoration Gulfport"
 h1: "Lead Paint Abatement in Laurel"
 meta_description: "24/7 lead paint abatement in Laurel, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "lead paint abatement laurel"
@@ -42,4 +42,4 @@ Lead abatement itself isn't typically something a homeowner's insurance policy c
 
 One thing that catches people off guard in Laurel: original wood porch flooring and ceilings painted in the old "haint blue" tradition often carry some of the heaviest lead content in the house, because those surfaces got repainted more often than interior walls to fight humidity and insects. Homeowners restoring a porch for curb appeal sometimes sand it themselves before realizing it needs to be tested first, which is the single most common way we see lead dust get tracked into a freshly updated home.
 
-If you're planning a renovation on a pre-1978 Laurel property, or a contractor flagged paint that needs testing before work can continue, call HomeLyft Restoration MS to get it handled correctly the first time. We'll test, abate, and clear the area so your project moves forward without a lead hazard following it.
+If you're planning a renovation on a pre-1978 Laurel property, or a contractor flagged paint that needs testing before work can continue, call HomeLyft Restoration Gulfport to get it handled correctly the first time. We'll test, abate, and clear the area so your project moves forward without a lead hazard following it.

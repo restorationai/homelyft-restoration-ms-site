@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Fire Damage Restoration in Henderson Point, MS | HomeLyft Restoration MS"
+title: "Emergency Fire Damage Restoration in Henderson Point, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Fire Damage Restoration in Henderson Point"
 meta_description: "24/7 emergency fire damage restoration in Henderson Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "fire damage restoration henderson point"
@@ -59,4 +59,4 @@ Fire claims in Mississippi typically involve both homeowners insurance and, for 
 
 Something that catches out-of-area contractors working in Henderson Point: the peninsula's soil and foundation conditions mean that post-fire structural assessments can't rely purely on visual inspection of the framing above grade. Pier-and-beam homes here sometimes show fire or heat stress in the subfloor system that isn't obvious until you're underneath the structure, and that damage, if missed in the initial scope, surfaces as a change order weeks into reconstruction. Our crews inspect the crawl space as part of the initial assessment on every pier-and-beam property, not as an add-on.
 
-If your home has been through a fire in Henderson Point, call HomeLyft Restoration MS at +12282845200. We'll assess the full scope of damage, smoke, soot, water, and structural, and walk you through a clear restoration plan before any work begins.
+If your home has been through a fire in Henderson Point, call HomeLyft Restoration Gulfport at +12282845200. We'll assess the full scope of damage, smoke, soot, water, and structural, and walk you through a clear restoration plan before any work begins.

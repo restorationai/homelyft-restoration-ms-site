@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Henderson Point, MS | HomeLyft Restoration MS"
+title: "Restoration Services in Henderson Point, MS | HomeLyft Restoration Gulfport"
 h1: "Restoration Services in Henderson Point"
 meta_description: "Serving Henderson Point, MS with water, fire, mold, and storm damage restoration. IICRC-certified team. Call +12282845200."
 primary_keyword: "restoration services henderson point"
@@ -19,7 +19,7 @@ state: "MS"
 primary: false
 rendered: true
 ---
-When a pipe bursts under a pier-and-beam crawlspace or a Gulf storm pushes water through a sliding door, Henderson Point property owners need a restoration crew that knows this peninsula, its tight lots, its aging housing stock, and the way salt air accelerates every kind of damage. HomeLyft Restoration MS dispatches from Gulfport to handle water damage, mold remediation, fire and smoke cleanup, and storm recovery for homes and rental properties throughout Henderson Point and the surrounding Pass Christian area. Call us at (228) 284-5200 to describe what you're dealing with and get a prompt assessment scheduled.
+When a pipe bursts under a pier-and-beam crawlspace or a Gulf storm pushes water through a sliding door, Henderson Point property owners need a restoration crew that knows this peninsula, its tight lots, its aging housing stock, and the way salt air accelerates every kind of damage. HomeLyft Restoration Gulfport dispatches from Gulfport to handle water damage, mold remediation, fire and smoke cleanup, and storm recovery for homes and rental properties throughout Henderson Point and the surrounding Pass Christian area. Call us at (228) 284-5200 to describe what you're dealing with and get a prompt assessment scheduled.
 
 ## Restoration emergencies common in Henderson Point
 
@@ -47,7 +47,7 @@ After named storms and severe thunderstorms, roof tarping and board-up services 
 
 ## Coverage and how fast we can get there
 
-HomeLyft Restoration MS is headquartered in Gulfport, roughly 10 to 12 miles east of Henderson Point via US-90 along the Gulf Coast. The drive along the beachfront corridor is straightforward outside of storm-related road closures, and our crews are familiar with the peninsula's limited access points. We schedule prompt assessments based on current call volume and will give you a realistic arrival window when you call, we would rather set an accurate expectation than promise a time we cannot keep. For active water intrusion, calling as early as possible in the day gives us the best window to respond before conditions worsen.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, roughly 10 to 12 miles east of Henderson Point via US-90 along the Gulf Coast. The drive along the beachfront corridor is straightforward outside of storm-related road closures, and our crews are familiar with the peninsula's limited access points. We schedule prompt assessments based on current call volume and will give you a realistic arrival window when you call, we would rather set an accurate expectation than promise a time we cannot keep. For active water intrusion, calling as early as possible in the day gives us the best window to respond before conditions worsen.
 
 ## Building stock, site conditions, and permits in Henderson Point
 
@@ -55,4 +55,4 @@ Much of Henderson Point was rebuilt after Katrina, so the housing splits into tw
 
 The soil here is sandy coastal fill and deposits over a shallow water table, which drains fast but keeps crawlspaces and ground-level slabs damp for weeks. Henderson Point is unincorporated, so structural repair and rebuild permits, and floodplain elevation review, go through Harrison County rather than a city hall.
 
-If you're dealing with water, mold, fire, or storm damage at a Henderson Point property, the right time to call is now, before secondary damage has more time to develop. Reach HomeLyft Restoration MS at **(228) 284-5200** to schedule an assessment and get a clear picture of what recovery looks like for your specific situation.
+If you're dealing with water, mold, fire, or storm damage at a Henderson Point property, the right time to call is now, before secondary damage has more time to develop. Reach HomeLyft Restoration Gulfport at **(228) 284-5200** to schedule an assessment and get a clear picture of what recovery looks like for your specific situation.

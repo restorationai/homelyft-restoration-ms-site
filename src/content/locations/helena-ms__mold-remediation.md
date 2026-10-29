@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Helena, MS | HomeLyft Restoration MS"
+title: "Mold Remediation in Helena, MS | HomeLyft Restoration Gulfport"
 h1: "Mold Remediation in Helena"
 meta_description: "Mold remediation in Helena, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "mold remediation helena"
@@ -46,4 +46,4 @@ If your Helena property is part of a homeowners association, check your CC&Rs be
 
 One pattern we see repeatedly in Helena: homes near the river that were remediated after a prior flood event sometimes have residual mold behind original tongue-and-groove pine paneling in dens and back rooms. That paneling was a common interior finish in Delta-area homes built from the 1940s through the 1970s, and because it's often painted, the surface looks clean while the back face and the framing behind it remain contaminated. If your home has that style of paneling and a history of any flooding, even minor, it's worth having those cavities checked before assuming a prior cleanup was complete.
 
-If you're dealing with visible mold, a persistent musty smell, or unexplained moisture readings in a Helena home or rental property, call HomeLyft Restoration MS at +12282845200. We'll assess the scope honestly, explain the process in plain terms, and get the work done correctly the first time so you're not back in the same situation six months from now.
+If you're dealing with visible mold, a persistent musty smell, or unexplained moisture readings in a Helena home or rental property, call HomeLyft Restoration Gulfport at +12282845200. We'll assess the scope honestly, explain the process in plain terms, and get the work done correctly the first time so you're not back in the same situation six months from now.

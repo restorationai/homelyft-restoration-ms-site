@@ -46,7 +46,7 @@ For a full breakdown of typical price ranges by scenario, see our [water damage 
 
 Look for an IICRC-certified firm, a Mississippi contractor's license, direct communication with your insurance adjuster, and a written drying log, not just a verbal promise that the house is dry. Those four things separate a company that documents its work from one that guesses.
 
-IICRC certification (the Institute of Inspection, Cleaning and Restoration Certification) means technicians trained to the WRT (Water Damage Restoration Technician) and ASD (Applied Structural Drying) standards, which is what most insurance carriers expect to see cited in the final report. HomeLyft Restoration MS is an IICRC Certified Firm, licensed in Mississippi (RO 2728), and has handled this process for Gulf Coast homes since 2022.
+IICRC certification (the Institute of Inspection, Cleaning and Restoration Certification) means technicians trained to the WRT (Water Damage Restoration Technician) and ASD (Applied Structural Drying) standards, which is what most insurance carriers expect to see cited in the final report. HomeLyft Restoration Gulfport is an IICRC Certified Firm, licensed in Mississippi (RO 2728), and has handled this process for Gulf Coast homes since 2022.
 
 A drying log matters because it's the paper trail proving the structure reached a safe moisture level before anyone closed the walls back up. Without it, there's no record if mold shows up six months later and the insurer asks what was done. Our guide on [choosing a restoration company](/blog/choosing-a-restoration-company/) walks through the specific questions to ask before signing anything.
 
@@ -58,10 +58,10 @@ Once mold is established, the job changes completely: containment barriers go up
 
 This is also why speed matters more than shopping around after a loss. For a full walkthrough of the first day after a leak or flood, see [what to do in the first 24 hours after water damage](/blog/what-to-do-first-24-hours-water-damage/).
 
-Water damage restoration follows a specific order of operations: stop the source, document it, extract, dry to a verified standard, then repair. HomeLyft Restoration MS handles that full sequence for homes and businesses across Gulfport and the surrounding Mississippi Gulf Coast, including water leak detection and mold remediation when a loss has gone further than a straightforward dry-out. [Call HomeLyft Restoration MS at (228) 284-5200](tel:+12282845200) to schedule a water damage assessment.
+Water damage restoration follows a specific order of operations: stop the source, document it, extract, dry to a verified standard, then repair. HomeLyft Restoration Gulfport handles that full sequence for homes and businesses across Gulfport and the surrounding Mississippi Gulf Coast, including water leak detection and mold remediation when a loss has gone further than a straightforward dry-out. [Call HomeLyft Restoration Gulfport at (228) 284-5200](tel:+12282845200) to schedule a water damage assessment.
 
 ---
 
-**About HomeLyft Restoration MS**
+**About HomeLyft Restoration Gulfport**
 
-HomeLyft Restoration MS is an IICRC Certified Firm licensed in Mississippi (RO 2728), serving Gulfport and the surrounding Gulf Coast since 2022. The company's technicians hold IICRC WRT (Water Damage Restoration Technician) and ASD (Applied Structural Drying) certifications and handle water damage restoration, water leak detection, mold remediation, sewage cleanup, and reconstruction for homes and businesses across South Mississippi. HomeLyft is rated 5.0 on Google from 67 reviews and answers calls 24/7. This post was prepared with the HomeLyft Restoration MS team by Terry Robinson.
+HomeLyft Restoration Gulfport is an IICRC Certified Firm licensed in Mississippi (RO 2728), serving Gulfport and the surrounding Gulf Coast since 2022. The company's technicians hold IICRC WRT (Water Damage Restoration Technician) and ASD (Applied Structural Drying) certifications and handle water damage restoration, water leak detection, mold remediation, sewage cleanup, and reconstruction for homes and businesses across South Mississippi. HomeLyft is rated 5.0 on Google from 67 reviews and answers calls 24/7. This post was prepared with the HomeLyft Restoration Gulfport team by Terry Robinson.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in Gautier, MS | HomeLyft Restoration MS"
+title: "Contents Restoration and Storage in Gautier, MS | HomeLyft Restoration Gulfport"
 h1: "Contents Restoration and Storage in Gautier"
 meta_description: "Contents restoration and storage in Gautier, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "contents restoration and storage gautier"
@@ -48,4 +48,4 @@ Gautier has a meaningful number of homes that have been in families for generati
 
 Most contents losses in Gautier fall under the personal property coverage of a standard homeowners policy, and the pack-out inventory we generate at the start of the job is structured to align with what adjusters need: item descriptions, pre-loss condition notes, restoration costs versus replacement value comparisons, and photographs at every stage. We work directly with carriers and can communicate with your adjuster on your behalf to keep the claim moving. If your policy includes additional living expense coverage, that may also apply during the period your contents are in storage, worth confirming with your adjuster early in the process.
 
-When you're standing in a water-damaged or smoke-filled room in Gautier trying to figure out what can be saved, the answer is usually: more than you think, if the process starts quickly. Call HomeLyft Restoration MS at +12282845200 to schedule a contents assessment and get your belongings into safe, climate-controlled care before the Gulf Coast humidity makes the decision for you.
+When you're standing in a water-damaged or smoke-filled room in Gautier trying to figure out what can be saved, the answer is usually: more than you think, if the process starts quickly. Call HomeLyft Restoration Gulfport at +12282845200 to schedule a contents assessment and get your belongings into safe, climate-controlled care before the Gulf Coast humidity makes the decision for you.

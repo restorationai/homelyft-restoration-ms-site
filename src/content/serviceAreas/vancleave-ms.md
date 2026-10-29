@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Vancleave, MS | HomeLyft Restoration MS"
+title: "Restoration Services in Vancleave, MS | HomeLyft Restoration Gulfport"
 h1: "Restoration Services in Vancleave"
 meta_description: "Serving Vancleave, MS with water, fire, mold, and storm damage restoration. IICRC-certified team. Call +12282845200."
 primary_keyword: "restoration services vancleave"
@@ -19,7 +19,7 @@ state: "MS"
 primary: false
 rendered: true
 ---
-When a pipe bursts under a pier-and-beam house off Latimer Road or a slow roof leak turns into a mold problem behind the drywall, Vancleave property owners need a restoration crew that understands the area, not a call center routing you to whoever is available. HomeLyft Restoration MS handles water damage mitigation, mold remediation, fire and smoke cleanup, and structural drying for homes and commercial properties throughout Vancleave and the surrounding Jackson County communities. One call gets you a real assessment, not a sales pitch.
+When a pipe bursts under a pier-and-beam house off Latimer Road or a slow roof leak turns into a mold problem behind the drywall, Vancleave property owners need a restoration crew that understands the area, not a call center routing you to whoever is available. HomeLyft Restoration Gulfport handles water damage mitigation, mold remediation, fire and smoke cleanup, and structural drying for homes and commercial properties throughout Vancleave and the surrounding Jackson County communities. One call gets you a real assessment, not a sales pitch.
 
 ## Restoration emergencies common in Vancleave
 
@@ -47,7 +47,7 @@ When a storm peels back roofing or sends a tree through a wall, the priority is 
 
 ## Coverage and how fast we can get there
 
-HomeLyft Restoration MS is based in Gulfport, and Vancleave is a straightforward run up Highway 49 to Highway 57, roughly 35 to 40 miles depending on the exact location of the property. Properties along the Highway 57 corridor are the most direct from our HQ. Homes further east toward the Escatawpa area or north toward the Agricola community add some drive time, but remain well within our regular service area. When you call, we'll give you an honest arrival estimate based on current crew location and conditions, not a number we can't stand behind.
+HomeLyft Restoration Gulfport is based in Gulfport, and Vancleave is a straightforward run up Highway 49 to Highway 57, roughly 35 to 40 miles depending on the exact location of the property. Properties along the Highway 57 corridor are the most direct from our HQ. Homes further east toward the Escatawpa area or north toward the Agricola community add some drive time, but remain well within our regular service area. When you call, we'll give you an honest arrival estimate based on current crew location and conditions, not a number we can't stand behind.
 
 ## Building stock, site conditions, and permits in Vancleave
 
@@ -55,4 +55,4 @@ Vancleave is unincorporated, so there is no city hall to call, building permits,
 
 Most of the housing here is wood-frame with post-1980 plumbing, but older homes still hold cast-iron drains that crack at the hub and galvanized supply that closes off with rust. Late-1980s and 1990s builds may carry polybutylene, which fails at the fittings without warning. On pre-1978 houses we treat paint as lead-bearing and sheet flooring, mastic, and pipe wrap as possible asbestos until tested.
 
-If you're dealing with water, mold, fire, or storm damage at a Vancleave property, call HomeLyft Restoration MS at (228) 284-5200. We'll tell you exactly what we're looking at and what it takes to fix it.
+If you're dealing with water, mold, fire, or storm damage at a Vancleave property, call HomeLyft Restoration Gulfport at (228) 284-5200. We'll tell you exactly what we're looking at and what it takes to fix it.

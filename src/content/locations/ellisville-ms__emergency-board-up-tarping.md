@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Ellisville, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in Ellisville, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in Ellisville"
 meta_description: "24/7 emergency board-up and tarping in Ellisville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping ellisville"
@@ -38,7 +38,7 @@ Every opening is documented with photos before and after installation. That docu
 
 ## Reaching Ellisville from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport, and the primary route to Ellisville runs north on US-49 through Hattiesburg before connecting to US-11 into Jones County. The drive covers roughly 90 miles, so we're transparent with Ellisville callers about scheduling, we'll give you an honest arrival window when you call, not a promise we can't keep. For losses where the structure is actively exposed to weather, we'll also advise you on immediate steps you can safely take, like moving valuables away from the breach and placing buckets under active drips, while the crew is in transit.
+HomeLyft Restoration Gulfport is based in Gulfport, and the primary route to Ellisville runs north on US-49 through Hattiesburg before connecting to US-11 into Jones County. The drive covers roughly 90 miles, so we're transparent with Ellisville callers about scheduling, we'll give you an honest arrival window when you call, not a promise we can't keep. For losses where the structure is actively exposed to weather, we'll also advise you on immediate steps you can safely take, like moving valuables away from the breach and placing buckets under active drips, while the crew is in transit.
 
 For fire damage board-up specifically, we coordinate with the responding fire department or property owner to confirm the scene has been released before we stage equipment. Jones County fire departments typically release residential scenes within a few hours of suppression, and we can often schedule same-day board-up once clearance is confirmed.
 
@@ -52,4 +52,4 @@ As an IICRC Certified Firm with IICRC FSRT (Fire & Smoke) credentials, our work 
 
 One thing that catches out-of-area crews working in Ellisville: the clay-heavy soil common to Jones County can make ground conditions around a structure unpredictable after heavy rain. Ladder placement and equipment staging that would be routine on a dry, firm surface can become a safety issue when the ground near a foundation has absorbed several inches of rain, which often happens in the same storm event that caused the roof damage in the first place. Our crews account for this during setup, using stabilizer pads and checking footing before committing to roof access. It's a small thing, but it's the kind of detail that prevents a board-up call from turning into a worker injury.
 
-If your Ellisville home or commercial property has taken storm, fire, or impact damage and has an open roof, broken windows, or an unsecured door, call HomeLyft Restoration MS at +12282845200. We'll give you a straight answer on timing, walk you through what to document before we arrive, and get the structure sealed so the damage stops where it is.
+If your Ellisville home or commercial property has taken storm, fire, or impact damage and has an open roof, broken windows, or an unsecured door, call HomeLyft Restoration Gulfport at +12282845200. We'll give you a straight answer on timing, walk you through what to document before we arrive, and get the structure sealed so the damage stops where it is.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Sewage Cleanup and Sanitization in McLain, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Sewage Cleanup and Sanitization in McLain, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in McLain"
 meta_description: "24/7 emergency sewage cleanup and sanitization in McLain, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "sewage cleanup and sanitization mclain"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Sewage backup in McLain? We answer 24/7.** Call now and our crew heads out to contain the contamination and start the cleanup.
 
-McLain sits in Greene County where the soil shifts between sandy loam and heavy clay depending on how close you are to the Chickasawhay River corridor, and that soil behavior is directly tied to how often septic systems and sewer laterals fail here. When a line backs up or a tank overflows, raw sewage doesn't just pool on the surface; it wicks into subfloor framing and crawl space soil before most homeowners realize what's happened. HomeLyft Restoration MS responds to those calls from our Gulfport base, bringing the equipment and IICRC-certified protocols needed to make a contaminated space genuinely safe again.
+McLain sits in Greene County where the soil shifts between sandy loam and heavy clay depending on how close you are to the Chickasawhay River corridor, and that soil behavior is directly tied to how often septic systems and sewer laterals fail here. When a line backs up or a tank overflows, raw sewage doesn't just pool on the surface; it wicks into subfloor framing and crawl space soil before most homeowners realize what's happened. HomeLyft Restoration Gulfport responds to those calls from our Gulfport base, bringing the equipment and IICRC-certified protocols needed to make a contaminated space genuinely safe again.
 
 ## Why McLain Properties See Sewage Backup Issues
 
@@ -49,4 +49,4 @@ One thing that comes up specifically in Greene County crawl space jobs: the soil
 
 Sewage backup coverage is often a separate rider on a standard homeowner's policy, not automatically included, and many Greene County homeowners discover this for the first time when they file a claim. We document every affected area with photographs, moisture readings, and written scope before any material is removed, which gives your adjuster a complete picture of the loss. We work with most major carriers and can communicate directly with your claims representative to explain the Category 3 classification and why certain materials required removal rather than cleaning. If your policy does include sewage backup coverage, that documentation is what gets the claim approved.
 
-If you're dealing with sewage backup, septic overflow, or a sewer line failure at a McLain property, the window for limiting damage is short. Call HomeLyft Restoration MS at +12282845200 to schedule assessment and get a crew moving toward Greene County.
+If you're dealing with sewage backup, septic overflow, or a sewer line failure at a McLain property, the window for limiting damage is short. Call HomeLyft Restoration Gulfport at +12282845200 to schedule assessment and get a crew moving toward Greene County.

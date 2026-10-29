@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Ellisville, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Ellisville, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Ellisville"
 meta_description: "Carpet cleaning in Ellisville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning ellisville"
@@ -42,7 +42,7 @@ Drying time in Ellisville's humidity is a real variable. We position air movers 
 
 ## Reaching Ellisville from Our Team
 
-HomeLyft Restoration MS is based in Gulfport and dispatches crews across South Mississippi. Ellisville is reachable via US-49 North through Hattiesburg and into Jones County, a route our crews run regularly for both residential and commercial work in the area. Scheduling is handled by phone at +12282845200, and we coordinate arrival windows that work around your household or business hours.
+HomeLyft Restoration Gulfport is based in Gulfport and dispatches crews across South Mississippi. Ellisville is reachable via US-49 North through Hattiesburg and into Jones County, a route our crews run regularly for both residential and commercial work in the area. Scheduling is handled by phone at +12282845200, and we coordinate arrival windows that work around your household or business hours.
 
 ## Equipment and Methods We Use for Carpet
 
@@ -54,4 +54,4 @@ For delicate area rugs or low-pile commercial carpet tiles, we adjust pressure a
 
 One thing worth knowing if you have a home with a pier-and-beam foundation, still common in older parts of Jones County, is that the crawl space beneath the floor can hold significant humidity, which migrates upward through the subfloor and into carpet padding year-round. If your carpets feel slightly damp or smell musty even after cleaning, the source may be below the floor rather than in it. We flag this when we see it during inspection, and we can recommend a moisture reading of the subfloor before we proceed, so you're not cleaning a symptom while the underlying condition continues.
 
-If your home or business in Ellisville is overdue for a deep clean, call HomeLyft Restoration MS at +12282845200 to schedule an assessment. We'll walk the space, give you a straight answer on what the carpets need, and get the work done right the first time.
+If your home or business in Ellisville is overdue for a deep clean, call HomeLyft Restoration Gulfport at +12282845200 to schedule an assessment. We'll walk the space, give you a straight answer on what the carpets need, and get the work done right the first time.

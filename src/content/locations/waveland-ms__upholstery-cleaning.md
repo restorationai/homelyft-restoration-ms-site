@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Waveland, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Waveland, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Waveland"
 meta_description: "24/7 upholstery cleaning in Waveland, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning waveland"
@@ -42,4 +42,4 @@ One thing that catches homeowners off guard: furniture stored in Waveland garage
 
 A number of Waveland's newer developments and beach rental properties operate under HOA or property management agreements that require documented cleaning between tenants or seasonal renters. We provide invoices detailing the method used and materials treated, which covers that requirement and also gives homeowners a paper trail if a leather sofa or sectional needs warranty service later. For insurance-related upholstery loss, such as water intrusion from a storm event, we photograph and document condition before and after treatment so the claim has the support it needs.
 
-If your sofa, sectional, or leather furniture in Waveland has started holding onto that coastal mustiness or just needs a deep clean before guests arrive for the season, call HomeLyft Restoration MS. We're IICRC-trained, we answer 24/7, and we calibrate every job to how this coastal climate actually treats fabric and leather, not a one-size-fits-all approach.
+If your sofa, sectional, or leather furniture in Waveland has started holding onto that coastal mustiness or just needs a deep clean before guests arrive for the season, call HomeLyft Restoration Gulfport. We're IICRC-trained, we answer 24/7, and we calibrate every job to how this coastal climate actually treats fabric and leather, not a one-size-fits-all approach.

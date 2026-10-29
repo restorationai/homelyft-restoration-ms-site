@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Poplarville, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Poplarville, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Poplarville"
 meta_description: "Carpet cleaning in Poplarville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning poplarville"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-Poplarville sits in the heart of Pearl River County, where the combination of Gulf Coast humidity, red clay soil tracked in from surrounding pine forests, and long stretches of warm, wet weather creates conditions that are genuinely hard on carpet fibers. Moisture that never fully dries between rainy spells feeds mildew deep in carpet backing, while the fine red-orange clay common to this part of Mississippi bonds to synthetic pile in ways that routine vacuuming simply cannot break. If your carpets are looking dingy, smelling musty, or holding stains that came back after a rental machine pass, those are the specific problems HomeLyft Restoration MS is equipped to solve here in Poplarville.
+Poplarville sits in the heart of Pearl River County, where the combination of Gulf Coast humidity, red clay soil tracked in from surrounding pine forests, and long stretches of warm, wet weather creates conditions that are genuinely hard on carpet fibers. Moisture that never fully dries between rainy spells feeds mildew deep in carpet backing, while the fine red-orange clay common to this part of Mississippi bonds to synthetic pile in ways that routine vacuuming simply cannot break. If your carpets are looking dingy, smelling musty, or holding stains that came back after a rental machine pass, those are the specific problems HomeLyft Restoration Gulfport is equipped to solve here in Poplarville.
 
 ## Why Poplarville Properties See Carpet Problems
 
@@ -38,7 +38,7 @@ For commercial properties in Poplarville, offices, retail spaces, medical waitin
 
 ## Reaching Poplarville from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, and Poplarville is a straightforward run up US-49 North through Wiggins into Pearl River County, typically under 90 minutes in normal traffic conditions. We schedule appointments with arrival windows and confirm the day before, so you're not waiting around with furniture stacked in the hallway. For larger jobs or homes in more rural parts of the county outside the city limits, we ask that you note your road access when you call, some gravel roads off the state routes can be tight for the truck-mounted unit, and we'd rather plan the approach in advance than problem-solve in your driveway.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Poplarville is a straightforward run up US-49 North through Wiggins into Pearl River County, typically under 90 minutes in normal traffic conditions. We schedule appointments with arrival windows and confirm the day before, so you're not waiting around with furniture stacked in the hallway. For larger jobs or homes in more rural parts of the county outside the city limits, we ask that you note your road access when you call, some gravel roads off the state routes can be tight for the truck-mounted unit, and we'd rather plan the approach in advance than problem-solve in your driveway.
 
 ## Equipment & Methods We Use for Carpet
 
@@ -48,4 +48,4 @@ The truck-mounted hot-water extraction system we run is rated to produce water t
 
 Something worth knowing if you have carpet in a Poplarville home built before the mid-1990s: many of these houses used a thicker, denser jute-backed carpet pad that was standard in the South before synthetic foam became dominant. Jute holds moisture significantly longer than foam and can begin to deteriorate and smell within 24 hours of a water intrusion event. If your home has older carpet and you've had any kind of leak or flooding, even a minor one, it's worth having the pad moisture-checked during a cleaning visit. We've found saturated jute under carpet that looked and felt dry on the surface more times than we can count in Pearl River County homes.
 
-If your carpets in Poplarville are overdue for a deep clean, are holding onto that red-clay haze, or have developed the low-level mustiness that Gulf Coast humidity tends to leave behind, call HomeLyft Restoration MS at +12282845200 to schedule a cleaning visit. We'll assess the fiber type, the soil load, and the moisture situation before we start, and we'll leave you with carpet that actually stays clean.
+If your carpets in Poplarville are overdue for a deep clean, are holding onto that red-clay haze, or have developed the low-level mustiness that Gulf Coast humidity tends to leave behind, call HomeLyft Restoration Gulfport at +12282845200 to schedule a cleaning visit. We'll assess the fiber type, the soil load, and the moisture situation before we start, and we'll leave you with carpet that actually stays clean.

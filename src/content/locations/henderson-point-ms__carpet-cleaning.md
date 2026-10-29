@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Henderson Point, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Henderson Point, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Henderson Point"
 meta_description: "Carpet cleaning in Henderson Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning henderson point"
@@ -50,4 +50,4 @@ For property managers handling multiple units in the area, we can coordinate mul
 
 One thing we've learned working along this stretch of the Mississippi Gulf Coast: carpets in homes that sit close to the water, especially those used as short-term rentals during the summer season, often have odor locked into the backing from repeated cycles of dampness that were never fully dried out. By the time the smell is noticeable, the source is usually in the padding, not the face fiber. In those cases, cleaning the carpet surface improves appearance but doesn't resolve the odor. We flag this during the pre-inspection so you know upfront whether cleaning alone will solve the problem or whether the padding needs to be addressed, no surprises on the day of service.
 
-If you're dealing with carpets in Henderson Point that have been through a wet season or a flood event, reach out to HomeLyft Restoration MS at +12282845200. Our team is IICRC certified and carries EPA Lead-Safe credentials, which matters in older coastal homes where lead-based paint can be present beneath flooring layers. We'll assess what the carpet actually needs and give you a straight answer about what's worth cleaning and what isn't.
+If you're dealing with carpets in Henderson Point that have been through a wet season or a flood event, reach out to HomeLyft Restoration Gulfport at +12282845200. Our team is IICRC certified and carries EPA Lead-Safe credentials, which matters in older coastal homes where lead-based paint can be present beneath flooring layers. We'll assess what the carpet actually needs and give you a straight answer about what's worth cleaning and what isn't.

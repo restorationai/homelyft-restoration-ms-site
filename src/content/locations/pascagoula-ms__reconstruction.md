@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Reconstruction Services in Pascagoula, MS | HomeLyft Restoration MS"
+title: "Reconstruction Services in Pascagoula, MS | HomeLyft Restoration Gulfport"
 h1: "Reconstruction Services in Pascagoula"
 meta_description: "24/7 reconstruction services in Pascagoula, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "reconstruction services pascagoula"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Reconstruction Services"
 rendered: true
 ---
-Reconstruction after a fire, flood, or wind event on the Mississippi Gulf Coast is rarely a simple patch-and-paint job. In Pascagoula, where salt air, high humidity, and storm-driven flooding are part of daily life, rebuilding a kitchen, roofline, or load-bearing wall means accounting for coastal building realities that an inland contractor might overlook. HomeLyft Restoration MS handles the full arc from damage assessment through finished reconstruction, coordinated as one job instead of handing you off between a demo crew and a separate builder.
+Reconstruction after a fire, flood, or wind event on the Mississippi Gulf Coast is rarely a simple patch-and-paint job. In Pascagoula, where salt air, high humidity, and storm-driven flooding are part of daily life, rebuilding a kitchen, roofline, or load-bearing wall means accounting for coastal building realities that an inland contractor might overlook. HomeLyft Restoration Gulfport handles the full arc from damage assessment through finished reconstruction, coordinated as one job instead of handing you off between a demo crew and a separate builder.
 
 ## Why Pascagoula Properties See Reconstruction Needs
 
@@ -38,4 +38,4 @@ Most Pascagoula rebuilds involve two separate claims: a homeowners policy for wi
 
 Soil near the coast and along the Pascagoula River tends to be sandy and holds water close to the surface, which means slab and foundation work here doesn't always behave the way it would on firmer inland ground. We also see faster corrosion on exposed metal fasteners and HVAC components in homes within a few miles of the shoreline, so reconstruction specs for those properties often call for stainless or coated hardware even when the original materials weren't. It's a small detail, but using standard fasteners on a coastal rebuild is one of the more common reasons a repair fails early.
 
-If fire, storm, or flood damage in Pascagoula has you weighing repair against full reconstruction, HomeLyft Restoration MS can walk the property, scope the work against local wind and flood considerations, and manage the rebuild from demolition through final finishes. Call +1 (228) 284-5200 to get a reconstruction assessment scheduled.
+If fire, storm, or flood damage in Pascagoula has you weighing repair against full reconstruction, HomeLyft Restoration Gulfport can walk the property, scope the work against local wind and flood considerations, and manage the rebuild from demolition through final finishes. Call +1 (228) 284-5200 to get a reconstruction assessment scheduled.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Picayune, MS | HomeLyft Restoration MS"
+title: "Mold Remediation in Picayune, MS | HomeLyft Restoration Gulfport"
 h1: "Mold Remediation in Picayune"
 meta_description: "Mold remediation in Picayune, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "mold remediation picayune"
@@ -36,7 +36,7 @@ Once the scope is established, the affected area is sealed off with negative-air
 
 ## Reaching Picayune from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport and reaches Picayune via US-49 North through Wiggins, a route that typically runs about an hour under normal conditions. For scheduling purposes, expect prompt response during business hours; the team will confirm an arrival window when you call. Picayune's location in the northwest corner of Pearl River County means crews can also approach from the east via MS-43 if traffic or road conditions warrant it.
+HomeLyft Restoration Gulfport is based in Gulfport and reaches Picayune via US-49 North through Wiggins, a route that typically runs about an hour under normal conditions. For scheduling purposes, expect prompt response during business hours; the team will confirm an arrival window when you call. Picayune's location in the northwest corner of Pearl River County means crews can also approach from the east via MS-43 if traffic or road conditions warrant it.
 
 ## Picayune Insurance Coordination
 
@@ -46,4 +46,4 @@ Mold claims in Mississippi can be complicated by the source-of-loss question, in
 
 One pattern that comes up repeatedly in Picayune's crawl-space homes: the original vapor barrier, if one was installed at all, is often a thin 4-mil poly sheet that has degraded, torn, or been displaced over decades. When mold remediation uncovers that condition, simply treating the joists above isn't enough. Replacing the vapor barrier with a 12-mil reinforced liner and ensuring proper cross-ventilation is part of a complete remediation in this housing stock. Skipping that step means the moisture source remains, and mold is likely to return within a season or two.
 
-If you are seeing discoloration on walls, detecting a musty odor that doesn't clear after airing out the house, or dealing with the aftermath of a recent leak or flood in Picayune, call HomeLyft Restoration MS at +12282845200. A proper assessment is the only way to know whether what you're dealing with is surface-level or something that has worked its way deeper into the structure.
+If you are seeing discoloration on walls, detecting a musty odor that doesn't clear after airing out the house, or dealing with the aftermath of a recent leak or flood in Picayune, call HomeLyft Restoration Gulfport at +12282845200. A proper assessment is the only way to know whether what you're dealing with is surface-level or something that has worked its way deeper into the structure.

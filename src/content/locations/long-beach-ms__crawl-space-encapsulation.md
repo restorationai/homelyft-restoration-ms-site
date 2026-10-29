@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Long Beach, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Long Beach, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Long Beach"
 meta_description: "Crawl space encapsulation in Long Beach, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation long beach"
@@ -46,6 +46,6 @@ The liner material matters significantly in a coastal climate. Thin, single-ply 
 
 One pattern we see consistently in Long Beach is that homes located closer to the bayous and tidal areas in the southern part of the city tend to have crawl spaces where the soil never fully dries between rain events, the water table simply sits too close to grade for passive drying to occur. In those situations, a vapor barrier alone is sometimes insufficient without also addressing drainage. Homeowners in those areas who have had encapsulation done elsewhere and are still seeing moisture readings above 55 percent relative humidity inside the crawl space should have the drainage situation evaluated before assuming the barrier failed.
 
-HomeLyft Restoration MS operates out of Gulfport, making Long Beach a straightforward service area for our crews. Scheduling is handled directly, call **+1 (228) 284-5200** to arrange an inspection.
+HomeLyft Restoration Gulfport operates out of Gulfport, making Long Beach a straightforward service area for our crews. Scheduling is handled directly, call **+1 (228) 284-5200** to arrange an inspection.
 
 If your Long Beach home has floors that feel soft in spots, a musty odor that returns no matter how much you ventilate, or visible moisture staining on foundation walls, the crawl space is the most likely source. Getting a professional assessment is the first step toward stopping the damage before it reaches the structural framing, and encapsulation, done correctly for this climate, is what keeps it from coming back.

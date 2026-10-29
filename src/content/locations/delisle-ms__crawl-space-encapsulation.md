@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in DeLisle, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in DeLisle, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in DeLisle"
 meta_description: "Crawl space encapsulation in DeLisle, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation delisle"
@@ -38,10 +38,10 @@ For homes in coastal Harrison County, we also pay close attention to flood vent 
 
 ## Reaching DeLisle From Our Gulfport Location
 
-HomeLyft Restoration MS operates out of Gulfport, which puts DeLisle within a short drive via US-90 west or through the back roads along the Bay of St. Louis corridor. Scheduling is handled directly through our office, call +12282845200 to set up an inspection or get questions answered before committing to a scope of work. We can typically get an estimator on-site within a business day for non-emergency encapsulation assessments.
+HomeLyft Restoration Gulfport operates out of Gulfport, which puts DeLisle within a short drive via US-90 west or through the back roads along the Bay of St. Louis corridor. Scheduling is handled directly through our office, call +12282845200 to set up an inspection or get questions answered before committing to a scope of work. We can typically get an estimator on-site within a business day for non-emergency encapsulation assessments.
 
 ## Local Note
 
 One thing that comes up repeatedly in DeLisle and the surrounding Harrison County coastal communities: homes that were repaired or partially rebuilt after Hurricane Katrina sometimes have a mix of old and new construction in the same crawl space. You might find original 1960s floor framing alongside post-2005 replacement joists, with different moisture histories and different wood species side by side. That inconsistency affects how we stage drying before encapsulation and how we evaluate which sections of subfloor may need reinforcement before the liner goes in. It's a detail that matters for getting the encapsulation to perform correctly over the long term, and it's something we look for specifically on every Harrison County job.
 
-If moisture is already affecting your floors, your air quality, or your energy bills, crawl space encapsulation is one of the most durable fixes available for DeLisle homes. Call HomeLyft Restoration MS at +12282845200 to schedule an inspection, the sooner the crawl space is assessed, the more options you have before wood damage or mold growth compounds the cost.
+If moisture is already affecting your floors, your air quality, or your energy bills, crawl space encapsulation is one of the most durable fixes available for DeLisle homes. Call HomeLyft Restoration Gulfport at +12282845200 to schedule an inspection, the sooner the crawl space is assessed, the more options you have before wood damage or mold growth compounds the cost.

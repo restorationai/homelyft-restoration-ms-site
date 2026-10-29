@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Lead Paint Abatement in Pass Christian, MS | HomeLyft Restoration MS"
+title: "Lead Paint Abatement in Pass Christian, MS | HomeLyft Restoration Gulfport"
 h1: "Lead Paint Abatement in Pass Christian"
 meta_description: "24/7 lead paint abatement in Pass Christian, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "lead paint abatement pass christian"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Lead Paint Abatement"
 rendered: true
 ---
-**Lead paint abatement in Pass Christian?** If your home sits anywhere near the historic core of town and was built before 1978, the federal lead paint ban is the dividing line that matters most when you're planning a renovation, a repaint, or storm repair. HomeLyft Restoration MS is EPA Lead-Safe Certified and handles abatement, testing, and lead-safe renovation work across the Mississippi Gulf Coast, with crews based a short drive up the coast in Gulfport.
+**Lead paint abatement in Pass Christian?** If your home sits anywhere near the historic core of town and was built before 1978, the federal lead paint ban is the dividing line that matters most when you're planning a renovation, a repaint, or storm repair. HomeLyft Restoration Gulfport is EPA Lead-Safe Certified and handles abatement, testing, and lead-safe renovation work across the Mississippi Gulf Coast, with crews based a short drive up the coast in Gulfport.
 
 ## Why Pass Christian Homes Carry Lead Paint Risk
 
@@ -38,4 +38,4 @@ Our base in Gulfport puts us a direct run down US-90 along the coast into Pass C
 
 One thing we watch for on older Pass Christian homes: paint that looks stable on the surface often hides multiple older layers underneath, especially on exterior trim and window sashes that have been repainted repeatedly since Katrina-era rebuilding. A surface-level scrape can expose a lead layer from decades earlier even when the topcoat tested clean, which is why we test at more than one depth on homes with a long repaint history rather than relying on a single surface sample.
 
-If you're planning a renovation on a pre-1978 Pass Christian property, or a storm repair that's going to disturb old painted siding or trim, get the lead question answered before the work starts rather than after a crew has already opened up a wall. HomeLyft Restoration MS is EPA Lead-Safe Certified, licensed in Mississippi (#RO 2728), and available around the clock to schedule testing or abatement alongside any reconstruction work your Pass Christian property needs.
+If you're planning a renovation on a pre-1978 Pass Christian property, or a storm repair that's going to disturb old painted siding or trim, get the lead question answered before the work starts rather than after a crew has already opened up a wall. HomeLyft Restoration Gulfport is EPA Lead-Safe Certified, licensed in Mississippi (#RO 2728), and available around the clock to schedule testing or abatement alongside any reconstruction work your Pass Christian property needs.

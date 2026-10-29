@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Saucier, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Saucier, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Saucier"
 meta_description: "24/7 upholstery cleaning in Saucier, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning saucier"
@@ -38,4 +38,4 @@ Our crews run out of Gulfport and cover Saucier regularly along the Highway 49 c
 
 One thing that catches Saucier homeowners off guard: furniture stored in detached garages, sheds, or seasonal camp houses near the national forest often has a different cleaning need than furniture that's lived indoors full-time. Rodent activity and moisture intrusion are more common in those outbuildings than in a climate-controlled living room, so we check the underside and frame of a piece before cleaning it the same way we would a living room sofa. It changes how we treat the piece, not just how long the visit takes.
 
-If your sofa, sectional, or leather furniture in Saucier is holding onto humidity, odor, or ground-in soil that regular cleaning hasn't touched, call HomeLyft Restoration MS at (228) 284-5200 to get a cleaning scheduled. We're licensed under Mississippi State License #RO 2728 and our technicians work from the same IICRC-based cleaning standards we use on water and fire jobs, just applied to the fabric and leather in your home.
+If your sofa, sectional, or leather furniture in Saucier is holding onto humidity, odor, or ground-in soil that regular cleaning hasn't touched, call HomeLyft Restoration Gulfport at (228) 284-5200 to get a cleaning scheduled. We're licensed under Mississippi State License #RO 2728 and our technicians work from the same IICRC-based cleaning standards we use on water and fire jobs, just applied to the fabric and leather in your home.

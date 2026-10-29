@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Biohazard Cleanup in Waveland, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Biohazard Cleanup in Waveland, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Biohazard Cleanup in Waveland"
 meta_description: "24/7 emergency biohazard cleanup in Waveland, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "biohazard cleanup waveland"
@@ -56,4 +56,4 @@ We do not require you to navigate the insurance process alone. Our documentation
 
 One thing that matters in Waveland specifically: many properties here are on elevated slabs or pier-and-beam foundations built to post-Katrina FEMA flood elevation requirements. While this protects against storm surge, it also creates crawl space environments that trap heat and humidity at levels significantly higher than the living space above. When a biohazard event occurs on the ground floor, our crews inspect below the elevated structure as a standard step, not an add-on, because contamination can travel through gaps in subflooring that are invisible from inside the home. Skipping that inspection is how remediation jobs get called back.
 
-If you are dealing with a situation at a Waveland property and need a team that will handle it carefully, completely, and without unnecessary attention, call HomeLyft Restoration MS at +12282845200. We will walk you through what to expect before anyone arrives.
+If you are dealing with a situation at a Waveland property and need a team that will handle it carefully, completely, and without unnecessary attention, call HomeLyft Restoration Gulfport at +12282845200. We will walk you through what to expect before anyone arrives.

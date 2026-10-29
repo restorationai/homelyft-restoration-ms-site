@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Hattiesburg, MS | HomeLyft Restoration MS"
+title: "Post-Construction and Specialty Cleaning in Hattiesburg, MS | HomeLyft Restoration Gulfport"
 h1: "Post-Construction and Specialty Cleaning in Hattiesburg"
 meta_description: "Post-construction and specialty cleaning in Hattiesburg, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "post-construction and specialty cleaning hattiesburg"
@@ -38,7 +38,7 @@ When a project involves older materials or a renovation that disturbed existing 
 
 ## Reaching Hattiesburg from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport and serves Hattiesburg regularly via US-49 North, a straightforward corridor that connects the two cities through Wiggins and into Forrest County. Scheduling is coordinated to align with contractor timelines and occupancy deadlines, call +12282845200 to confirm availability and get a project on the calendar before your punch-list date.
+HomeLyft Restoration Gulfport is headquartered in Gulfport and serves Hattiesburg regularly via US-49 North, a straightforward corridor that connects the two cities through Wiggins and into Forrest County. Scheduling is coordinated to align with contractor timelines and occupancy deadlines, call +12282845200 to confirm availability and get a project on the calendar before your punch-list date.
 
 For properties near the University of Southern Mississippi or along the Hardy Street commercial strip, access and parking logistics are part of the pre-job conversation. Large cleaning crews with equipment vehicles need staging room, and coordinating that early prevents delays on the day of the clean.
 
@@ -46,4 +46,4 @@ For properties near the University of Southern Mississippi or along the Hardy St
 
 One pattern that comes up repeatedly on Hattiesburg renovation projects: homes built in the mid-century neighborhoods closer to downtown often have original hardwood floors being refinished as part of the renovation. Refinishing generates an extremely fine wood dust that behaves differently from drywall particulate, it's lighter, travels farther, and clings to textured ceilings and rough-cut trim. If the floor refinishing happens after other trades have finished, that dust layer lands on top of already-cleaned surfaces. Coordinating the cleaning sequence with the flooring contractor, specifically scheduling the post-construction clean after the final floor coat has cured, prevents a second full cleaning pass and saves the property owner real money.
 
-If you're managing a renovation or new build in Hattiesburg and want a cleaning crew that understands how Mississippi's climate and local building stock affect the job, call HomeLyft Restoration MS at +12282845200 to schedule your post-construction clean before your occupancy date arrives.
+If you're managing a renovation or new build in Hattiesburg and want a cleaning crew that understands how Mississippi's climate and local building stock affect the job, call HomeLyft Restoration Gulfport at +12282845200 to schedule your post-construction clean before your occupancy date arrives.

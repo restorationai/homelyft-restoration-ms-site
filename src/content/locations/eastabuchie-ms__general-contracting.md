@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Eastabuchie, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Eastabuchie, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Eastabuchie"
 meta_description: "Renovations, remodels and general contracting in Eastabuchie, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting eastabuchie"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Eastabuchie sits in the piney woods of Jones County, where the humidity rarely lets up and homes built decades ago on clay-heavy soil have a way of settling unevenly, warping door frames, and stressing the very bones of a structure long before a homeowner notices. Whether you're planning a kitchen remodel in an older ranch-style house, rebuilding a room after water or fire damage, or finally tackling a full bathroom renovation that's been on the list for years, HomeLyft Restoration MS brings licensed general contracting work (License #RO 2728) to Eastabuchie with the same care we put into every project across Jones County.
+Eastabuchie sits in the piney woods of Jones County, where the humidity rarely lets up and homes built decades ago on clay-heavy soil have a way of settling unevenly, warping door frames, and stressing the very bones of a structure long before a homeowner notices. Whether you're planning a kitchen remodel in an older ranch-style house, rebuilding a room after water or fire damage, or finally tackling a full bathroom renovation that's been on the list for years, HomeLyft Restoration Gulfport brings licensed general contracting work (License #RO 2728) to Eastabuchie with the same care we put into every project across Jones County.
 
 ## Why Eastabuchie Homes Present Unique Renovation Challenges
 
@@ -38,7 +38,7 @@ Timelines vary by scope: a bathroom remodel typically runs two to four weeks, a 
 
 ## Reaching Eastabuchie from Our Gulfport Base
 
-HomeLyft Restoration MS is headquartered in Gulfport, and we regularly serve Jones County communities including Eastabuchie. The drive up US-49 North puts our crews in the area for scheduled project work, site visits, and consultations. Because renovation and remodeling work is planned rather than emergency-response, we coordinate arrival times in advance so you know exactly when to expect the crew, no waiting around in a four-hour window.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and we regularly serve Jones County communities including Eastabuchie. The drive up US-49 North puts our crews in the area for scheduled project work, site visits, and consultations. Because renovation and remodeling work is planned rather than emergency-response, we coordinate arrival times in advance so you know exactly when to expect the crew, no waiting around in a four-hour window.
 
 For clients combining a renovation with post-damage restoration (a water loss that requires both drying and a full kitchen rebuild, for example), we can stage the restoration phase first and transition directly into the remodel without requiring you to hire a second contractor.
 
@@ -46,4 +46,4 @@ For clients combining a renovation with post-damage restoration (a water loss th
 
 One thing that comes up repeatedly on Eastabuchie renovation projects is what we find under the flooring. Jones County's clay soil movement means that pier-and-beam homes, and there are plenty of them in this part of the county, often have piers that have shifted or wood sills that have absorbed ground moisture over decades. When a homeowner schedules a flooring replacement and we pull up the old material, it is not unusual to find subfloor sections that need sistering or full replacement before new flooring can go down. We build a contingency review into every flooring and kitchen project in this area specifically because of how common this is. Knowing to look for it before finalizing a budget saves weeks of delay and avoids cost surprises mid-project.
 
-If you're ready to move forward on a renovation, remodel, or post-damage rebuild in Eastabuchie, call HomeLyft Restoration MS at (228) 284-5200. We'll schedule a walkthrough, give you a clear scope, and get your project moving with licensed, insured general contracting work built for what Jones County homes actually need.
+If you're ready to move forward on a renovation, remodel, or post-damage rebuild in Eastabuchie, call HomeLyft Restoration Gulfport at (228) 284-5200. We'll schedule a walkthrough, give you a clear scope, and get your project moving with licensed, insured general contracting work built for what Jones County homes actually need.

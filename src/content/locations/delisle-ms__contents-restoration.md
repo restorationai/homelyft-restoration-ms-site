@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in DeLisle, MS | HomeLyft Restoration MS"
+title: "Contents Restoration and Storage in DeLisle, MS | HomeLyft Restoration Gulfport"
 h1: "Contents Restoration and Storage in DeLisle"
 meta_description: "Contents restoration and storage in DeLisle, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "contents restoration and storage delisle"
@@ -40,7 +40,7 @@ Our team holds IICRC FSRT (Fire & Smoke Restoration) and IICRC AMRT (Applied Mic
 
 ## Reaching DeLisle from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport, roughly 15 miles east of DeLisle along US-90 and Highway 49. The route through Long Beach keeps travel time manageable, and our crews are familiar with the residential streets that branch off DeLisle Road and the rural addresses deeper into the county where GPS sometimes lags behind the actual road layout. When you call +12282845200, we'll confirm your address and route before dispatch so there's no time lost navigating.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, roughly 15 miles east of DeLisle along US-90 and Highway 49. The route through Long Beach keeps travel time manageable, and our crews are familiar with the residential streets that branch off DeLisle Road and the rural addresses deeper into the county where GPS sometimes lags behind the actual road layout. When you call +12282845200, we'll confirm your address and route before dispatch so there's no time lost navigating.
 
 ## DeLisle Insurance Coordination for Contents Claims
 
@@ -52,4 +52,4 @@ If your policy includes Additional Living Expenses (ALE) coverage, off-site cont
 
 One pattern we've noticed working in Harrison County's coastal communities: homes near the tidal lowlands west of Long Beach, including properties in the DeLisle area, often have pier-and-beam or elevated slab foundations that allow air to circulate under the structure. That's a design feature meant to manage flood risk, but it also means that during a water loss, moisture migrates upward through flooring into lower cabinet interiors and the bases of furniture faster than in slab-on-grade construction. Bookshelves, entertainment centers, and fabric-skirted furniture sitting directly on the floor are frequently more damaged than they appear on the surface. We probe and assess from the bottom up, not just what's visible at eye level.
 
-If water or fire damage has disrupted your home in DeLisle, the sooner your belongings are inventoried and moved to a controlled environment, the more of them can be saved. Call HomeLyft Restoration MS at +12282845200 to schedule a contents assessment, we'll walk through your home with you, explain what's recoverable, and handle the logistics from pack-out through return.
+If water or fire damage has disrupted your home in DeLisle, the sooner your belongings are inventoried and moved to a controlled environment, the more of them can be saved. Call HomeLyft Restoration Gulfport at +12282845200 to schedule a contents assessment, we'll walk through your home with you, explain what's recoverable, and handle the logistics from pack-out through return.

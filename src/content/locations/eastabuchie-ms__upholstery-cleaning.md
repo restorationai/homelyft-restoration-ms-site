@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Eastabuchie, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Eastabuchie, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Eastabuchie"
 meta_description: "24/7 upholstery cleaning in Eastabuchie, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning eastabuchie"
@@ -42,4 +42,4 @@ We use truck-mounted and portable hot water extraction equipment depending on ho
 
 One thing we watch for in this part of Jones County: homes on well water that have tried DIY spot cleaning with tap water often have faint rust-colored halos around old stains, not actual soil rings. Treating those spots like ordinary dirt just sets the mineral stain deeper, so we test the water source and adjust our pre-treatment before running extraction, which saves a second visit and a disappointed homeowner.
 
-If your sofa, sectional, or leather recliner in Eastabuchie has started holding onto odor, staining, or that slightly damp feeling that never quite goes away, it's worth having it cleaned properly rather than masked with fabric spray. Call HomeLyft Restoration MS and we'll get a crew scheduled to bring the piece back to a clean, dry, breathable state instead of just a fresher-smelling one.
+If your sofa, sectional, or leather recliner in Eastabuchie has started holding onto odor, staining, or that slightly damp feeling that never quite goes away, it's worth having it cleaned properly rather than masked with fabric spray. Call HomeLyft Restoration Gulfport and we'll get a crew scheduled to bring the piece back to a clean, dry, breathable state instead of just a fresher-smelling one.

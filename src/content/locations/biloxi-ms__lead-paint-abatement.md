@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Lead Paint Abatement in Biloxi, MS | HomeLyft Restoration MS"
+title: "Lead Paint Abatement in Biloxi, MS | HomeLyft Restoration Gulfport"
 h1: "Lead Paint Abatement in Biloxi"
 meta_description: "24/7 lead paint abatement in Biloxi, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "lead paint abatement biloxi"
@@ -38,4 +38,4 @@ Any contractor disturbing more than a few square feet of painted surface in a pr
 
 One thing that trips up out-of-town contractors working in Biloxi: the combination of high humidity and frequent salt spray means lead paint on exterior siding and porch railings here tends to chalk and flake rather than peel in large sheets, which produces finer, more airborne lead dust during scraping than the paint failure patterns seen inland. We adjust containment and wet-scraping technique accordingly, because dry-scraping chalking paint on a humid Gulf Coast afternoon is exactly how a contained job becomes an uncontained one.
 
-If you're staring down a renovation permit, a home sale disclosure, or just a porch that's shedding paint chips into the yard, lead paint abatement in Biloxi is worth doing right the first time. Call HomeLyft Restoration MS to get the property tested and scoped before any demo work starts.
+If you're staring down a renovation permit, a home sale disclosure, or just a porch that's shedding paint chips into the yard, lead paint abatement in Biloxi is worth doing right the first time. Call HomeLyft Restoration Gulfport to get the property tested and scoped before any demo work starts.

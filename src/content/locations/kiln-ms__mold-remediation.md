@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Kiln, MS | HomeLyft Restoration MS"
+title: "Mold Remediation in Kiln, MS | HomeLyft Restoration Gulfport"
 h1: "Mold Remediation in Kiln"
 meta_description: "Mold remediation in Kiln, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "mold remediation kiln"
@@ -38,7 +38,7 @@ In Kiln's older homes, we frequently encounter tongue-and-groove pine subfloor a
 
 ## Reaching Kiln from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport, and Kiln is a straightforward run up US-49 North through Saucier and into Hancock County. Depending on traffic and the specific address, the drive typically runs between 45 minutes and an hour. When you call **+1 (228) 284-5200**, our dispatch team will give you an honest arrival estimate based on current crew availability and location, we won't quote a number we can't back up.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and Kiln is a straightforward run up US-49 North through Saucier and into Hancock County. Depending on traffic and the specific address, the drive typically runs between 45 minutes and an hour. When you call **+1 (228) 284-5200**, our dispatch team will give you an honest arrival estimate based on current crew availability and location, we won't quote a number we can't back up.
 
 ## Kiln Insurance & Coordination
 
@@ -50,4 +50,4 @@ If your policy does not cover the loss, we can walk through the scope and priori
 
 One thing that comes up regularly on Kiln jobs: homes in this area that were repaired or rebuilt after Hurricane Katrina sometimes have mixed material histories, original pre-2005 framing combined with post-storm repairs done quickly under insurance timelines, occasionally with varying moisture barrier quality. That patchwork construction means moisture behaves unpredictably inside wall cavities. We've learned to probe further than the visible damage suggests, because the wet zone in a Katrina-era repair often extends a full stud bay or two beyond what the surface staining shows. Taking an extra 20 minutes to map the full moisture boundary at the start saves a callback six months later.
 
-If you're seeing signs of mold in your Kiln home, discoloration on walls or ceilings, a persistent musty odor, or allergy symptoms that clear up when you leave the house, call HomeLyft Restoration MS at **+1 (228) 284-5200**. We'll assess the situation honestly, explain what the remediation involves, and get your home back to a condition you can breathe in.
+If you're seeing signs of mold in your Kiln home, discoloration on walls or ceilings, a persistent musty odor, or allergy symptoms that clear up when you leave the house, call HomeLyft Restoration Gulfport at **+1 (228) 284-5200**. We'll assess the situation honestly, explain what the remediation involves, and get your home back to a condition you can breathe in.

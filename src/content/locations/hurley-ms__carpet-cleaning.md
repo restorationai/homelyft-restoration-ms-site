@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Hurley, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Hurley, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Hurley"
 meta_description: "Carpet cleaning in Hurley, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning hurley"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-Hurley sits in the pine belt of Jackson County where summer humidity rarely dips below oppressive and afternoon thunderstorms roll in off the Gulf with enough regularity that wet shoes, muddy boots, and damp pet fur become a seasonal fact of life, and all of that ends up ground into carpet fibers. The red-clay-tinged soil common to this part of Mississippi clings to carpet backing in a way that standard vacuuming never fully addresses, and the persistent moisture in the air means spills that might dry quickly in a drier climate instead linger, feeding odor and setting stains deeper. HomeLyft Restoration MS brings IICRC-certified deep cleaning to Hurley homes and businesses, treating carpets the way this specific environment demands.
+Hurley sits in the pine belt of Jackson County where summer humidity rarely dips below oppressive and afternoon thunderstorms roll in off the Gulf with enough regularity that wet shoes, muddy boots, and damp pet fur become a seasonal fact of life, and all of that ends up ground into carpet fibers. The red-clay-tinged soil common to this part of Mississippi clings to carpet backing in a way that standard vacuuming never fully addresses, and the persistent moisture in the air means spills that might dry quickly in a drier climate instead linger, feeding odor and setting stains deeper. HomeLyft Restoration Gulfport brings IICRC-certified deep cleaning to Hurley homes and businesses, treating carpets the way this specific environment demands.
 
 ## Why Hurley Properties See Stubborn Carpet Problems
 
@@ -38,10 +38,10 @@ For commercial carpet cleaning in Hurley, offices, retail spaces, or light indus
 
 ## Reaching Hurley from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport and serves Hurley as part of our regular Jackson County coverage area. The most direct route runs north on I-10 and then east on Highway 90 or via the Highway 613 connector depending on the specific address. We schedule appointments with realistic arrival windows and confirm the day before, no four-hour "sometime in the afternoon" ranges. If your property requires equipment staging on a gravel or unpaved drive, let us know when you call so we can plan accordingly; rural Jackson County addresses sometimes require a different equipment approach than a standard suburban driveway.
+HomeLyft Restoration Gulfport is headquartered in Gulfport and serves Hurley as part of our regular Jackson County coverage area. The most direct route runs north on I-10 and then east on Highway 90 or via the Highway 613 connector depending on the specific address. We schedule appointments with realistic arrival windows and confirm the day before, no four-hour "sometime in the afternoon" ranges. If your property requires equipment staging on a gravel or unpaved drive, let us know when you call so we can plan accordingly; rural Jackson County addresses sometimes require a different equipment approach than a standard suburban driveway.
 
 ## Local Note
 
 One thing that comes up specifically in Hurley and the surrounding unincorporated parts of Jackson County: many homes here have screened porches or sunrooms that were later enclosed and carpeted without upgrading the original slab vapor barrier. These additions often have the worst moisture-related carpet problems on the property because the slab beneath them was never designed to be interior space. If a room that was once a porch smells persistently musty no matter how often the carpet is cleaned, the issue is almost certainly vapor intrusion from below, and cleaning alone will not resolve it. We flag this during our assessment so homeowners understand what they are dealing with before committing to a cleaning that may only provide temporary relief.
 
-Call HomeLyft Restoration MS at +12282845200 to schedule carpet cleaning for your Hurley home or commercial property. Whether you are dealing with years of red-clay soil buildup, pet odors amplified by Gulf Coast humidity, or post-storm mud tracked in from the yard, we bring the equipment and process knowledge to handle what this specific corner of Mississippi throws at carpet, and we will tell you honestly if something beneath the surface needs attention before we start.
+Call HomeLyft Restoration Gulfport at +12282845200 to schedule carpet cleaning for your Hurley home or commercial property. Whether you are dealing with years of red-clay soil buildup, pet odors amplified by Gulf Coast humidity, or post-storm mud tracked in from the yard, we bring the equipment and process knowledge to handle what this specific corner of Mississippi throws at carpet, and we will tell you honestly if something beneath the surface needs attention before we start.

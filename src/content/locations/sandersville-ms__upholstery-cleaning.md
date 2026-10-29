@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Sandersville, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Sandersville, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Sandersville"
 meta_description: "24/7 upholstery cleaning in Sandersville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning sandersville"
@@ -42,4 +42,4 @@ We run appointments out to Sandersville from our Gulfport base and schedule arou
 
 One thing that trips up DIY carpet-and-upholstery rental machines out here: the ambient humidity in Sandersville means a sofa that feels dry to the touch an hour after cleaning can still be holding moisture down in the padding. We use moisture meters on the cushion cores before we call a job finished, not just a surface check, because that's usually where lingering odor problems actually start.
 
-If your sofa, sectional, or recliner in Sandersville is holding onto red clay dust, pet odor, or humidity-related mustiness, a proper steam and extraction cleaning can reset it without replacing the piece. Call HomeLyft Restoration MS to get an appointment on the schedule.
+If your sofa, sectional, or recliner in Sandersville is holding onto red clay dust, pet odor, or humidity-related mustiness, a proper steam and extraction cleaning can reset it without replacing the piece. Call HomeLyft Restoration Gulfport to get an appointment on the schedule.

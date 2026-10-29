@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Poplarville, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in Poplarville, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in Poplarville"
 meta_description: "24/7 emergency board-up and tarping in Poplarville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping poplarville"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Need an emergency board-up in Poplarville? We answer 24/7.** Call now and our crew heads out to secure broken windows, doors and roofs.
 
-Poplarville sits in Pearl River County where Gulf Coast storm tracks, dense pine canopy, and a humid subtropical climate combine to make structural exposure after a damaging event genuinely urgent. When a fast-moving thunderstorm peels back a section of roof, or a house fire leaves windows and walls open to the elements, every hour of delay invites moisture, insects, and opportunistic theft into an already compromised structure. HomeLyft Restoration MS responds to those calls with plywood, heavy-duty polyethylene tarps, and the trained hands to secure a property before the next rain band rolls through.
+Poplarville sits in Pearl River County where Gulf Coast storm tracks, dense pine canopy, and a humid subtropical climate combine to make structural exposure after a damaging event genuinely urgent. When a fast-moving thunderstorm peels back a section of roof, or a house fire leaves windows and walls open to the elements, every hour of delay invites moisture, insects, and opportunistic theft into an already compromised structure. HomeLyft Restoration Gulfport responds to those calls with plywood, heavy-duty polyethylene tarps, and the trained hands to secure a property before the next rain band rolls through.
 
 ## Why Poplarville Properties Face Elevated Board-Up and Tarping Needs
 
@@ -41,7 +41,7 @@ For fire damage board-up and broken window board-up, we cut plywood to fit each 
 
 ## Reaching Poplarville from Our Gulfport Base
 
-HomeLyft Restoration MS operates out of Gulfport and reaches Poplarville via US-49 North through Hattiesburg, or via I-59 North depending on traffic and the specific address. Pearl River County is a regular part of our service area, and we schedule board-up and tarping calls in Poplarville with the same priority as coastal jobs. When you call **+12282845200**, our team will confirm an estimated arrival window and walk you through any immediate steps, like shutting off utilities or keeping family members clear of the damaged area, while we're in transit.
+HomeLyft Restoration Gulfport operates out of Gulfport and reaches Poplarville via US-49 North through Hattiesburg, or via I-59 North depending on traffic and the specific address. Pearl River County is a regular part of our service area, and we schedule board-up and tarping calls in Poplarville with the same priority as coastal jobs. When you call **+12282845200**, our team will confirm an estimated arrival window and walk you through any immediate steps, like shutting off utilities or keeping family members clear of the damaged area, while we're in transit.
 
 ## Insurance Coordination for Poplarville Claims
 
@@ -51,4 +51,4 @@ Most homeowner policies in Mississippi cover emergency board-up and tarping as p
 
 One thing that catches out-of-area contractors in Pearl River County is the prevalence of older metal roofing on rural and semi-rural properties around Poplarville. Standing-seam and corrugated metal panels require a different tarping approach than asphalt shingle, standard batten-and-screw methods can puncture the panel or compromise the seam, voiding any remaining weathertightness. We use non-penetrating ballast systems or clamp-based anchor points on metal roofs, which keeps the tarp secure without creating new leak paths. It's a small detail that makes a real difference when the next afternoon storm rolls in.
 
-If your home or business in Poplarville has suffered storm, fire, or impact damage that has left it open to the weather, call HomeLyft Restoration MS at **+12282845200**. We'll assess the damage, secure every opening, and give you a clear picture of next steps, so you're not left guessing while the sky outside turns gray.
+If your home or business in Poplarville has suffered storm, fire, or impact damage that has left it open to the weather, call HomeLyft Restoration Gulfport at **+12282845200**. We'll assess the damage, secure every opening, and give you a clear picture of next steps, so you're not left guessing while the sky outside turns gray.

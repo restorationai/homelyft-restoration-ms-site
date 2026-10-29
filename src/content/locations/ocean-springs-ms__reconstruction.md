@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Reconstruction Services in Ocean Springs, MS | HomeLyft Restoration MS"
+title: "Reconstruction Services in Ocean Springs, MS | HomeLyft Restoration Gulfport"
 h1: "Reconstruction Services in Ocean Springs"
 meta_description: "24/7 reconstruction services in Ocean Springs, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "reconstruction services ocean springs"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Reconstruction Services"
 rendered: true
 ---
-**Rebuilding after fire, flood, or storm damage in Ocean Springs?** Reconstruction after a major loss is a different animal than repair work, especially this close to the Gulf. Homes here sit low, humidity never really lets up, and a storm that tears into a roof or floods a slab can leave structural questions that go well beyond patching drywall. HomeLyft Restoration MS handles the full rebuild, from framing and subfloor replacement to final trim, coordinated with the same team that handled mitigation so nothing gets lost between phases.
+**Rebuilding after fire, flood, or storm damage in Ocean Springs?** Reconstruction after a major loss is a different animal than repair work, especially this close to the Gulf. Homes here sit low, humidity never really lets up, and a storm that tears into a roof or floods a slab can leave structural questions that go well beyond patching drywall. HomeLyft Restoration Gulfport handles the full rebuild, from framing and subfloor replacement to final trim, coordinated with the same team that handled mitigation so nothing gets lost between phases.
 
 ## Why Ocean Springs Properties See Reconstruction Needs
 
@@ -38,4 +38,4 @@ Large-loss reconstruction claims in coastal Mississippi tend to involve more lin
 
 One thing that catches people off guard here: a home that floods or burns in Ocean Springs during hurricane season often can't start reconstruction immediately, even once mitigation is done, because permit offices and material suppliers across the Mississippi Gulf Coast get backed up after a regional storm event. We plan around that by locking in structural engineering sign-off and permit documentation early, so the rebuild phase isn't sitting idle waiting on paperwork once materials and labor are available.
 
-If fire, storm, or water damage has left your Ocean Springs property needing more than a repair, a full reconstruction plan protects the investment better than a patch job does. Call HomeLyft Restoration MS, licensed under #RO 2728, and we'll walk the property, document the structural scope, and get a rebuild plan moving.
+If fire, storm, or water damage has left your Ocean Springs property needing more than a repair, a full reconstruction plan protects the investment better than a patch job does. Call HomeLyft Restoration Gulfport, licensed under #RO 2728, and we'll walk the property, document the structural scope, and get a rebuild plan moving.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Pearlington, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in Pearlington, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in Pearlington"
 meta_description: "24/7 emergency board-up and tarping in Pearlington, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping pearlington"
@@ -37,11 +37,11 @@ Every job starts with a rapid exterior assessment: we photograph and document ev
 
 Roof tarping in this region requires heavier material than the blue poly tarps sold at hardware stores. We use reinforced polyethylene tarps rated for high-wind exposure, secured with screw-down battens or sandbag ballast systems depending on the roof pitch and surface condition. On steep-pitch metal roofs, common in coastal Mississippi because of their wind and hail resistance, we use non-penetrating anchor systems that hold the tarp without creating new leak points. On low-slope or flat sections, we lap the tarp at least four feet past the damaged area on all sides and seal the leading edges.
 
-Because HomeLyft Restoration MS holds FORTIFIED Building Roofing MS Windstorm Certification, our crews understand the specific wind-load requirements the Insurance Institute for Business and Home Safety uses to evaluate Gulf Coast roofing systems. That background informs how we stage temporary protection, we're not just covering a hole, we're preserving the conditions that allow a FORTIFIED-compliant repair to follow.
+Because HomeLyft Restoration Gulfport holds FORTIFIED Building Roofing MS Windstorm Certification, our crews understand the specific wind-load requirements the Insurance Institute for Business and Home Safety uses to evaluate Gulf Coast roofing systems. That background informs how we stage temporary protection, we're not just covering a hole, we're preserving the conditions that allow a FORTIFIED-compliant repair to follow.
 
 ## Reaching Pearlington from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport, and the most direct route to Pearlington runs west on US-90 through Bay St. Louis, then north on MS-607 toward the Pearl River communities. Depending on traffic and bridge conditions on the Bay St. Louis causeway, which can slow after major storm events, the drive typically runs between 45 minutes and an hour under normal conditions. We coordinate dispatch as soon as you call so a crew is moving while you're still on the phone with us. If road closures push us to alternate routes through Picayune or along MS-43, we communicate that proactively rather than leaving you waiting without an ETA.
+HomeLyft Restoration Gulfport is based in Gulfport, and the most direct route to Pearlington runs west on US-90 through Bay St. Louis, then north on MS-607 toward the Pearl River communities. Depending on traffic and bridge conditions on the Bay St. Louis causeway, which can slow after major storm events, the drive typically runs between 45 minutes and an hour under normal conditions. We coordinate dispatch as soon as you call so a crew is moving while you're still on the phone with us. If road closures push us to alternate routes through Picayune or along MS-43, we communicate that proactively rather than leaving you waiting without an ETA.
 
 ## Insurance Documentation for Pearlington Claims
 
@@ -51,4 +51,4 @@ Hancock County homeowners filing storm-related claims with carriers like State F
 
 One thing that catches out-of-area contractors working in Pearlington: the combination of river-bottom clay soil and frequent saturation means that extension ladders and lift equipment can sink or shift unexpectedly when set up on the ground adjacent to a structure. Crews unfamiliar with the area sometimes skip ground assessment and end up with unstable setups on saturated yards, a safety issue and a delay. Our teams carry ground plates and check soil conditions before staging any elevated work, which matters especially on the lower-lying lots closer to the Pearl River floodplain where drainage after a storm event can be slow.
 
-If your Pearlington home or commercial property has taken storm, fire, or impact damage and you need openings secured before conditions get worse, call HomeLyft Restoration MS at +12282845200. We'll tell you exactly what we can do, what it will cost, and how fast we can be there, no vague estimates, no surprises on the invoice.
+If your Pearlington home or commercial property has taken storm, fire, or impact damage and you need openings secured before conditions get worse, call HomeLyft Restoration Gulfport at +12282845200. We'll tell you exactly what we can do, what it will cost, and how fast we can be there, no vague estimates, no surprises on the invoice.

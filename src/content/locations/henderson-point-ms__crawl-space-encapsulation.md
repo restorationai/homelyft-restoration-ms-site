@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Henderson Point, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Henderson Point, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Henderson Point"
 meta_description: "Crawl space encapsulation in Henderson Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation henderson point"
@@ -52,4 +52,4 @@ One thing that becomes clear working in homes along this part of the Gulf Coast 
 
 ## Closing
 
-If you've noticed musty odors coming through your floors, soft spots in your hardwood or laminate, or higher-than-usual humidity inside your Henderson Point home, the crawl space is often the first place to look. HomeLyft Restoration MS works with homeowners throughout this stretch of coastal Mississippi to seal out ground moisture, protect floor systems, and make crawl spaces something you don't have to think about again. Call +12282845200 to schedule an inspection and get a clear picture of what's happening beneath your home.
+If you've noticed musty odors coming through your floors, soft spots in your hardwood or laminate, or higher-than-usual humidity inside your Henderson Point home, the crawl space is often the first place to look. HomeLyft Restoration Gulfport works with homeowners throughout this stretch of coastal Mississippi to seal out ground moisture, protect floor systems, and make crawl spaces something you don't have to think about again. Call +12282845200 to schedule an inspection and get a clear picture of what's happening beneath your home.

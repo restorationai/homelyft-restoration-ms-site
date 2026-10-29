@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Lucedale, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Fire Damage Restoration in Lucedale, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Fire Damage Restoration in Lucedale"
 meta_description: "24/7 emergency fire damage restoration in Lucedale, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "fire damage restoration lucedale"
@@ -33,7 +33,7 @@ The region's climate compounds the problem. South Mississippi's high relative hu
 
 ## Our Fire Damage Restoration Process in Lucedale
 
-Every fire loss is different, but the sequence matters. When HomeLyft Restoration MS arrives at a Lucedale property, the first priority is a thorough structural assessment, identifying load-bearing elements compromised by heat, locating hidden smoke migration paths, and documenting everything photographically for your insurance carrier.
+Every fire loss is different, but the sequence matters. When HomeLyft Restoration Gulfport arrives at a Lucedale property, the first priority is a thorough structural assessment, identifying load-bearing elements compromised by heat, locating hidden smoke migration paths, and documenting everything photographically for your insurance carrier.
 
 From there, the process moves through controlled demolition of unsalvageable materials, HEPA vacuuming of loose soot, and dry chemical sponge cleaning of surfaces before any wet cleaning begins. Applying moisture to soot-coated surfaces without that dry phase first drives contamination deeper, a step that gets skipped on rushed jobs and costs homeowners weeks of lingering odor afterward.
 
@@ -43,7 +43,7 @@ Our team holds IICRC FSRT (Fire and Smoke Restoration) certification, and all wo
 
 ## Reaching Lucedale from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, and Lucedale sits roughly 60 miles to the northeast via US-49 North through Wiggins. That route is generally reliable, though the stretch through Stone County can slow during heavy rain events, which, in this part of Mississippi, are not rare. When you call **+1 (228) 284-5200**, our team coordinates scheduling promptly and gives you a realistic arrival window based on current conditions rather than an optimistic number that sets you up for frustration.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Lucedale sits roughly 60 miles to the northeast via US-49 North through Wiggins. That route is generally reliable, though the stretch through Stone County can slow during heavy rain events, which, in this part of Mississippi, are not rare. When you call **+1 (228) 284-5200**, our team coordinates scheduling promptly and gives you a realistic arrival window based on current conditions rather than an optimistic number that sets you up for frustration.
 
 For properties on the northern or eastern edges of George County, we also route through US-98 depending on where the job is located, keeping drive time as short as road conditions allow.
 
@@ -57,4 +57,4 @@ If your carrier sends an independent adjuster, having a restoration contractor w
 
 One thing that comes up repeatedly on fire jobs in older George County homes is the presence of original heart pine flooring and framing. Heart pine is extraordinarily dense, which is part of why it has lasted 80 or 100 years, but that density also means it holds smoke odor tenaciously and responds poorly to aggressive moisture-based cleaning. On these homes, we adjust the cleaning protocol to favor dry and low-moisture methods, and we extend the odor treatment cycle rather than rushing to close out. Cutting corners on heart pine almost always means a callback when the smell returns in summer humidity.
 
-If you're dealing with fire damage at a Lucedale property and need a straight answer on what the restoration process looks like, call HomeLyft Restoration MS at **+1 (228) 284-5200**. We'll assess the damage honestly, document it thoroughly for your insurer, and walk you through a realistic timeline for getting your home back to livable condition.
+If you're dealing with fire damage at a Lucedale property and need a straight answer on what the restoration process looks like, call HomeLyft Restoration Gulfport at **+1 (228) 284-5200**. We'll assess the damage honestly, document it thoroughly for your insurer, and walk you through a realistic timeline for getting your home back to livable condition.

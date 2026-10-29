@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in St. Martin, MS | HomeLyft Restoration MS"
+title: "Mold Remediation in St. Martin, MS | HomeLyft Restoration Gulfport"
 h1: "Mold Remediation in St. Martin"
 meta_description: "Mold remediation in St. Martin, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "mold remediation st. martin"
@@ -38,7 +38,7 @@ Drying the underlying structure before any reconstruction is non-negotiable. In 
 
 ## Reaching St. Martin from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, which puts St. Martin well within the team's regular service corridor along the Mississippi Gulf Coast. The most direct route runs east on I-10 to the Ocean Springs / St. Martin area, keeping drive time practical for scheduled assessments and follow-up drying checks. For property managers or homeowners coordinating access, calling ahead to confirm a window works better than assuming immediate drop-in availability, the team will give you a specific arrival window rather than a vague "sometime today."
+HomeLyft Restoration Gulfport operates out of Gulfport, which puts St. Martin well within the team's regular service corridor along the Mississippi Gulf Coast. The most direct route runs east on I-10 to the Ocean Springs / St. Martin area, keeping drive time practical for scheduled assessments and follow-up drying checks. For property managers or homeowners coordinating access, calling ahead to confirm a window works better than assuming immediate drop-in availability, the team will give you a specific arrival window rather than a vague "sometime today."
 
 ## St. Martin Insurance Coordination
 
@@ -48,4 +48,4 @@ Mold claims in Mississippi can be complicated by the distinction between sudden-
 
 One pattern that comes up repeatedly in St. Martin: homes with enclosed soffits and minimal ridge ventilation, a common construction detail in this part of Jackson County, trap attic humidity that condenses on roof sheathing during the shoulder seasons when outdoor temperatures swing but interior AC keeps running. Homeowners often discover this mold when they pull down attic access panels during a renovation, not during a water event. It's worth having attic ventilation assessed as part of any mold inspection here, because remediating the sheathing without improving airflow means the conditions that fed the growth are still in place.
 
-If you're seeing discoloration on ceilings, a persistent musty smell that doesn't clear with cleaning, or you've had any water intrusion in the past year, a moisture inspection is the right first step. Call HomeLyft Restoration MS at (228) 284-5200 to schedule an assessment for your St. Martin property, the earlier mold is caught in this climate, the less material typically needs to come out.
+If you're seeing discoloration on ceilings, a persistent musty smell that doesn't clear with cleaning, or you've had any water intrusion in the past year, a moisture inspection is the right first step. Call HomeLyft Restoration Gulfport at (228) 284-5200 to schedule an assessment for your St. Martin property, the earlier mold is caught in this climate, the less material typically needs to come out.

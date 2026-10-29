@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in State Line, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in State Line, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in State Line"
 meta_description: "Renovations, remodels and general contracting in State Line, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting state line"
@@ -26,7 +26,7 @@ State Line sits right on the Mississippi-Alabama border, and that boundary posit
 
 The housing stock in and around State Line skews older, and older homes in this climate carry a particular set of challenges. Crawl space construction is common, and years of ground moisture infiltration can leave floor joists soft, vapor barriers degraded, and subfloors uneven before a single tile or plank gets laid. Exterior siding, whether it's original wood, older vinyl, or fiber cement that wasn't properly sealed, tends to show moisture intrusion behind it when you open walls for a remodel.
 
-Because State Line straddles two states, property owners occasionally navigate questions about which jurisdiction's building codes apply, particularly for additions or accessory structures near the county line. In practice, most work falls under Mississippi's residential building code, but it's worth confirming permit jurisdiction before breaking ground. HomeLyft Restoration MS holds Mississippi contractor license #RO 2728 and carries the certifications, including EPA Lead-Safe, to handle pre-1978 homes where disturbing painted surfaces is part of the scope.
+Because State Line straddles two states, property owners occasionally navigate questions about which jurisdiction's building codes apply, particularly for additions or accessory structures near the county line. In practice, most work falls under Mississippi's residential building code, but it's worth confirming permit jurisdiction before breaking ground. HomeLyft Restoration Gulfport holds Mississippi contractor license #RO 2728 and carries the certifications, including EPA Lead-Safe, to handle pre-1978 homes where disturbing painted surfaces is part of the scope.
 
 ## Our Renovation and General Contracting Process in State Line
 
@@ -38,7 +38,7 @@ For post-damage rebuilds, homes that saw water intrusion, fire, or storm damage 
 
 ## Reaching State Line from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, and State Line is a meaningful drive north, roughly two to two-and-a-half hours depending on the route through Hattiesburg and up toward the Greene County line. That distance is worth naming honestly: this isn't a 20-minute service call. For renovation and remodeling work, though, that travel dynamic is less of a factor than it would be for an emergency water extraction. Project scheduling, material deliveries, and crew deployment are planned in advance, and State Line homeowners get the same scoped, scheduled approach as any other market. Initial consultations can often be combined with a site assessment to make the most of a single trip out.
+HomeLyft Restoration Gulfport operates out of Gulfport, and State Line is a meaningful drive north, roughly two to two-and-a-half hours depending on the route through Hattiesburg and up toward the Greene County line. That distance is worth naming honestly: this isn't a 20-minute service call. For renovation and remodeling work, though, that travel dynamic is less of a factor than it would be for an emergency water extraction. Project scheduling, material deliveries, and crew deployment are planned in advance, and State Line homeowners get the same scoped, scheduled approach as any other market. Initial consultations can often be combined with a site assessment to make the most of a single trip out.
 
 ## Local Note
 
@@ -48,4 +48,4 @@ One thing that comes up repeatedly in older homes along the rural stretches of G
 
 A portion of renovation work in State Line follows a damage event, a roof leak that went unaddressed, a burst pipe during a cold snap, or storm damage that compromised the structure. In those cases, the rebuild scope often runs through a homeowner's insurance claim, and documentation quality directly affects how smoothly that process goes. HomeLyft's team photographs affected materials, documents moisture readings, and produces scope-of-work estimates in formats that most major carriers recognize. Homeowners aren't left translating between a restoration company and a separate general contractor, the rebuild is handled by the same licensed team that assessed the damage.
 
-If you're planning a renovation in State Line, whether it's a kitchen, bathroom, addition, or full post-damage rebuild, call HomeLyft Restoration MS at +12282845200 to schedule a site assessment and get a clear picture of what your project actually involves before committing to a scope.
+If you're planning a renovation in State Line, whether it's a kitchen, bathroom, addition, or full post-damage rebuild, call HomeLyft Restoration Gulfport at +12282845200 to schedule a site assessment and get a clear picture of what your project actually involves before committing to a scope.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Vancleave, MS | HomeLyft Restoration MS"
+title: "Mold Remediation in Vancleave, MS | HomeLyft Restoration Gulfport"
 h1: "Mold Remediation in Vancleave"
 meta_description: "Mold remediation in Vancleave, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "mold remediation vancleave"
@@ -40,7 +40,7 @@ After physical removal, surfaces are treated with an EPA-registered antimicrobia
 
 ## Reaching Vancleave from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport, and Vancleave is a straightforward run north on US-49 into Jackson County. The route is reliable outside of peak commute windows, which means scheduling is predictable for property owners in the area. When you call to describe the situation, the team can give you a realistic arrival window based on current conditions rather than a marketing promise. Prompt scheduling is the standard, call +12282845200 to get on the calendar.
+HomeLyft Restoration Gulfport is based in Gulfport, and Vancleave is a straightforward run north on US-49 into Jackson County. The route is reliable outside of peak commute windows, which means scheduling is predictable for property owners in the area. When you call to describe the situation, the team can give you a realistic arrival window based on current conditions rather than a marketing promise. Prompt scheduling is the standard, call +12282845200 to get on the calendar.
 
 ## Vancleave Insurance Coordination
 
@@ -50,4 +50,4 @@ Mold claims in Mississippi can be complicated by policy language around "sudden 
 
 One pattern that comes up repeatedly in Vancleave-area homes is mold growth inside HVAC ductwork that runs through unconditioned crawl spaces. When the duct exterior is cold and the crawl space air is warm and humid, a common condition in Jackson County from late spring through early fall, condensation forms on the outside of the duct, and eventually works its way into seams and connections. Homeowners often notice a musty smell when the air handler kicks on before they ever see visible growth anywhere in the living space. If that description sounds familiar, the ductwork itself may need to be included in the inspection scope, not just the walls and floors.
 
-If you are dealing with a mold problem in Vancleave, whether you have visible growth, a persistent odor, or a recent water event you want addressed before spores take hold, call HomeLyft Restoration MS at +12282845200. The inspection starts the clock on getting your home back to a safe, dry baseline.
+If you are dealing with a mold problem in Vancleave, whether you have visible growth, a persistent odor, or a recent water event you want addressed before spores take hold, call HomeLyft Restoration Gulfport at +12282845200. The inspection starts the clock on getting your home back to a safe, dry baseline.

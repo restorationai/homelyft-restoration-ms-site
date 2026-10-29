@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in Lucedale, MS | HomeLyft Restoration MS"
+title: "Asbestos Abatement in Lucedale, MS | HomeLyft Restoration Gulfport"
 h1: "Asbestos Abatement in Lucedale"
 meta_description: "Asbestos abatement in Lucedale, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "asbestos abatement lucedale"
@@ -34,14 +34,14 @@ Every project starts with a thorough inspection and bulk sampling, we collect ma
 
 Containment comes first. Affected areas are sealed with polyethylene sheeting and negative air pressure is established using HEPA-filtered air scrubbers, preventing fiber migration into the rest of the structure. Workers wear full personal protective equipment and follow strict decontamination protocols entering and leaving the work zone. Regulated waste is wetted, double-bagged in labeled 6-mil poly bags, and transported to a licensed disposal facility, Mississippi requires manifest documentation for every load, and we handle that paperwork on your behalf. Once removal is complete, a final air clearance test using phase contrast microscopy (PCM) confirms fiber levels are within acceptable limits before containment is removed and the space is returned to you.
 
-Our team holds EPA Lead-Safe Certification, and the broader HomeLyft Restoration MS operation is an IICRC Certified Firm, credentials that matter when your insurance carrier or a prospective buyer's inspector is reviewing the job documentation.
+Our team holds EPA Lead-Safe Certification, and the broader HomeLyft Restoration Gulfport operation is an IICRC Certified Firm, credentials that matter when your insurance carrier or a prospective buyer's inspector is reviewing the job documentation.
 
 ## Reaching Lucedale from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport, and Lucedale is accessible via US-98 heading northeast, a route our crews travel regularly for projects across George County. Scheduling is handled directly by phone at +12282845200, and we coordinate site visits to work around your timeline. Because asbestos abatement involves regulatory notification periods under Mississippi rules, MDEQ requires advance notice before most commercial projects, early scheduling contact is genuinely useful, not just a sales pitch. Residential projects have different thresholds, but getting an inspection on the calendar quickly still matters when you're trying to close a sale or start a renovation.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and Lucedale is accessible via US-98 heading northeast, a route our crews travel regularly for projects across George County. Scheduling is handled directly by phone at +12282845200, and we coordinate site visits to work around your timeline. Because asbestos abatement involves regulatory notification periods under Mississippi rules, MDEQ requires advance notice before most commercial projects, early scheduling contact is genuinely useful, not just a sales pitch. Residential projects have different thresholds, but getting an inspection on the calendar quickly still matters when you're trying to close a sale or start a renovation.
 
 ## Local Note
 
 One pattern that comes up repeatedly in older Lucedale-area homes: the original HVAC ductwork was often wrapped with an asbestos-containing insulation tape at joints and transitions, and that tape is frequently hidden above drop ceilings or inside wall cavities that were drywalled over during 1980s and 1990s updates. Homeowners, and sometimes general contractors, don't realize the tape is there until a renovation opens up a wall. If your home was built before 1978 and has had any additions or interior updates since, it's worth having the duct system inspected before any work that involves opening walls or ceilings. This is especially common in the ranch-style homes on larger lots outside of Lucedale's town center, where original mechanical systems were often left in place during cosmetic renovations.
 
-If you're in George County and a renovation, sale, or damage event has raised questions about asbestos in your property, call HomeLyft Restoration MS at +12282845200. We'll walk you through the testing process, give you a clear picture of what's actually in your building, and handle abatement from containment to final air clearance, so you can move forward without guessing.
+If you're in George County and a renovation, sale, or damage event has raised questions about asbestos in your property, call HomeLyft Restoration Gulfport at +12282845200. We'll walk you through the testing process, give you a clear picture of what's actually in your building, and handle abatement from containment to final air clearance, so you can move forward without guessing.

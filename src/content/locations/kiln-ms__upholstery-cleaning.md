@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Kiln, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Kiln, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Kiln"
 meta_description: "24/7 upholstery cleaning in Kiln, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning kiln"
@@ -48,4 +48,4 @@ We carry both truck-mount and portable extraction units, which matters for Kiln 
 
 A lot of Kiln households have a second living space, a den, a screened porch, or a detached camp, where upholstered furniture sits for long stretches without much air circulation. That furniture often needs a stronger extraction pass than the main living room set because the fabric has had more time to absorb humidity and odor between uses. We check those secondary pieces separately rather than assuming they match the condition of furniture in the main house.
 
-If your sofa, sectional, or leather recliner in Kiln is holding onto odor, stains, or that heavy, damp feel that comes with a Hancock County summer, call HomeLyft Restoration MS at (228) 284-5200. We answer 24/7 and can talk through what the fabric or leather needs before anyone steps foot in your house.
+If your sofa, sectional, or leather recliner in Kiln is holding onto odor, stains, or that heavy, damp feel that comes with a Hancock County summer, call HomeLyft Restoration Gulfport at (228) 284-5200. We answer 24/7 and can talk through what the fabric or leather needs before anyone steps foot in your house.

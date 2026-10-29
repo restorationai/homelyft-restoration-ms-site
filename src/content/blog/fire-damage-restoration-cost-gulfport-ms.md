@@ -78,10 +78,10 @@ Cleanup covers removing soot, smoke residue, and odor from surfaces and contents
 
 Cleanup is typically billed per square foot or per item, which is why the ranges stay in the low thousands for contained fires. Reconstruction is priced like a renovation project, by materials, labor, and code requirements, which is why a fire that reaches the studs costs several times more than one that stays on the surface. Knowing which category your damage falls into early helps set realistic expectations with your adjuster before the scope is written.
 
-Every fire is different, and the only way to know your actual number is a written scope after an on-site assessment, not a phone estimate. [Call HomeLyft Restoration MS at (228) 284-5200](tel:+12282845200) to schedule that assessment, or review the full scope of work on our [fire damage restoration page](/services/fire-damage-restoration/).
+Every fire is different, and the only way to know your actual number is a written scope after an on-site assessment, not a phone estimate. [Call HomeLyft Restoration Gulfport at (228) 284-5200](tel:+12282845200) to schedule that assessment, or review the full scope of work on our [fire damage restoration page](/services/fire-damage-restoration/).
 
 ---
 
-**About HomeLyft Restoration MS**
+**About HomeLyft Restoration Gulfport**
 
-HomeLyft Restoration MS is an IICRC Certified Firm serving Gulfport and the Mississippi Gulf Coast since 2022 (License RO 2728). Their technicians hold IICRC FSRT fire and smoke certification along with water, structural drying, and mold credentials, and the company handles fire damage restoration, smoke damage restoration, odor removal, contents restoration, and emergency board-up and tarping across the region, with a 5.0 rating from 70 Google reviews. This guide was prepared with the HomeLyft Restoration MS team by Terry Robinson.
+HomeLyft Restoration Gulfport is an IICRC Certified Firm serving Gulfport and the Mississippi Gulf Coast since 2022 (License RO 2728). Their technicians hold IICRC FSRT fire and smoke certification along with water, structural drying, and mold credentials, and the company handles fire damage restoration, smoke damage restoration, odor removal, contents restoration, and emergency board-up and tarping across the region, with a 5.0 rating from 70 Google reviews. This guide was prepared with the HomeLyft Restoration Gulfport team by Terry Robinson.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Latimer, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Fire Damage Restoration in Latimer, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Fire Damage Restoration in Latimer"
 meta_description: "24/7 emergency fire damage restoration in Latimer, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "fire damage restoration latimer"
@@ -41,7 +41,7 @@ Odor neutralization in Latimer's climate requires more than ozone or hydroxyl tr
 
 ## Reaching Latimer from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, putting Latimer well within our primary service corridor along the Harrison County coast. The drive from our Gulfport base follows U.S. 49 north or the Highway 67 corridor depending on traffic, making Latimer a straightforward dispatch for our crews. When you call +12282845200, our scheduling team will confirm an arrival window based on current crew availability, we don't publish a blanket minute guarantee, but we prioritize fire and smoke calls because the first 24 to 48 hours are when secondary damage compounds fastest.
+HomeLyft Restoration Gulfport operates out of Gulfport, putting Latimer well within our primary service corridor along the Harrison County coast. The drive from our Gulfport base follows U.S. 49 north or the Highway 67 corridor depending on traffic, making Latimer a straightforward dispatch for our crews. When you call +12282845200, our scheduling team will confirm an arrival window based on current crew availability, we don't publish a blanket minute guarantee, but we prioritize fire and smoke calls because the first 24 to 48 hours are when secondary damage compounds fastest.
 
 ## Insurance Coordination for Latimer Fire Claims
 
@@ -53,4 +53,4 @@ If your policy includes ALE (additional living expenses) coverage, we can commun
 
 In Harrison County's older wood-frame homes, interior wall cavities are often uninsulated or filled with loose cellulose, a material that absorbs smoke odor deeply and is nearly impossible to clean in place. On Latimer jobs where we open walls for structural inspection, we routinely find that the cavity fill has retained smoke smell even when the drywall surface tested clean. Replacing that cavity material, rather than simply resealing the drywall, is the difference between a home that smells fresh six months later and one where the odor returns with the first hot, humid summer day.
 
-If your home has sustained fire damage in Latimer and you're not sure where to start, call HomeLyft Restoration MS at +12282845200. We'll walk through what we're seeing on-site, explain the scope in plain terms, and give you a clear picture of the timeline before any work begins.
+If your home has sustained fire damage in Latimer and you're not sure where to start, call HomeLyft Restoration Gulfport at +12282845200. We'll walk through what we're seeing on-site, explain the scope in plain terms, and give you a clear picture of the timeline before any work begins.

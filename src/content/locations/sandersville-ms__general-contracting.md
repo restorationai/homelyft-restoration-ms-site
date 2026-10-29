@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Sandersville, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Sandersville, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Sandersville"
 meta_description: "Renovations, remodels and general contracting in Sandersville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting sandersville"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Sandersville sits in the heart of Jones County, where the humid Mississippi climate doesn't just wear on homes, it accelerates the timeline. Wood framing swells and contracts through wet winters and brutal summers, older pier-and-beam foundations shift with the clay-heavy soil, and decades-old homes that were never built for modern insulation standards end up costing their owners far more in energy and maintenance than they should. Whether you're rebuilding after water or fire damage, updating a kitchen that hasn't been touched since the 1980s, or tackling a full structural renovation, HomeLyft Restoration MS brings licensed general contracting experience directly to Sandersville, not as a subcontract hand-off, but as the crew that shows up and does the work.
+Sandersville sits in the heart of Jones County, where the humid Mississippi climate doesn't just wear on homes, it accelerates the timeline. Wood framing swells and contracts through wet winters and brutal summers, older pier-and-beam foundations shift with the clay-heavy soil, and decades-old homes that were never built for modern insulation standards end up costing their owners far more in energy and maintenance than they should. Whether you're rebuilding after water or fire damage, updating a kitchen that hasn't been touched since the 1980s, or tackling a full structural renovation, HomeLyft Restoration Gulfport brings licensed general contracting experience directly to Sandersville, not as a subcontract hand-off, but as the crew that shows up and does the work.
 
 ## Why Sandersville Homes Present Unique Renovation Challenges
 
@@ -48,4 +48,4 @@ One thing that catches out-of-area contractors working in Jones County: the loca
 
 For homeowners dealing with post-damage reconstruction, this timeline awareness also matters for insurance. Carriers often set deadlines for repair completion, and a permit delay that wasn't anticipated can create friction with your adjuster. We flag this proactively so you're not caught off guard.
 
-If you're ready to move forward on a renovation, remodel, or post-damage rebuild in Sandersville, call HomeLyft Restoration MS at +12282845200. We'll walk the property, document the scope, and give you a clear plan, no vague estimates, no subcontracted surprises.
+If you're ready to move forward on a renovation, remodel, or post-damage rebuild in Sandersville, call HomeLyft Restoration Gulfport at +12282845200. We'll walk the property, document the scope, and give you a clear plan, no vague estimates, no subcontracted surprises.

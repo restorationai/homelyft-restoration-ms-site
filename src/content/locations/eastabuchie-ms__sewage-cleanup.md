@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in Eastabuchie, MS | HomeLyft Restoration MS"
+title: "Emergency Sewage Cleanup and Sanitization in Eastabuchie, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Eastabuchie"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Eastabuchie, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "sewage cleanup and sanitization eastabuchie"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Sewage backup in Eastabuchie? We answer 24/7.** Call now and our crew heads out to contain the contamination and start the cleanup.
 
-Eastabuchie sits in Jones County where the clay-heavy soil and high water table that define much of south-central Mississippi create conditions that push sewage problems from inconvenient to genuinely hazardous fast. When a septic system backs up or a sewer line fails here, especially after a heavy rain event that saturates the ground and overwhelms drain fields, raw effluent doesn't stay put. It wicks into subfloor framing, soaks into crawl space insulation, and begins producing dangerous pathogens within hours. HomeLyft Restoration MS responds to those calls with a licensed crew (license #RO 2728) trained under IICRC standards to remove contaminated material, disinfect structural surfaces, and document everything your insurance adjuster will need.
+Eastabuchie sits in Jones County where the clay-heavy soil and high water table that define much of south-central Mississippi create conditions that push sewage problems from inconvenient to genuinely hazardous fast. When a septic system backs up or a sewer line fails here, especially after a heavy rain event that saturates the ground and overwhelms drain fields, raw effluent doesn't stay put. It wicks into subfloor framing, soaks into crawl space insulation, and begins producing dangerous pathogens within hours. HomeLyft Restoration Gulfport responds to those calls with a licensed crew (license #RO 2728) trained under IICRC standards to remove contaminated material, disinfect structural surfaces, and document everything your insurance adjuster will need.
 
 ## Why Eastabuchie Properties See Sewage Backup Issues
 
@@ -49,4 +49,4 @@ Our Gulfport headquarters puts us on US-49 North toward Hattiesburg, then east i
 
 One thing that catches homeowners off guard on Eastabuchie sewage jobs is how far contamination travels under pier-and-beam homes before anyone notices it. The clay soil beneath these crawl spaces holds moisture, which means the ground itself can stay wet and biologically active long after the visible sewage is extracted. On jobs in this part of Jones County, we treat the crawl space soil surface with antimicrobial agents in addition to cleaning the framing and subfloor above, skipping that step leaves a contamination source that will produce odor and microbial growth even after the structure above is dried and rebuilt. It's an extra hour of work that most homeowners never see, but it's the difference between a job that stays closed and one that comes back.
 
-If your home in Eastabuchie is dealing with a sewage backup right now, or you're smelling something that wasn't there before the last heavy rain, call HomeLyft Restoration MS at +12282845200. We'll assess the situation honestly, give you a clear scope of what needs to happen, and handle the insurance documentation so the process doesn't fall entirely on your shoulders.
+If your home in Eastabuchie is dealing with a sewage backup right now, or you're smelling something that wasn't there before the last heavy rain, call HomeLyft Restoration Gulfport at +12282845200. We'll assess the situation honestly, give you a clear scope of what needs to happen, and handle the insurance documentation so the process doesn't fall entirely on your shoulders.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Lucedale, MS | HomeLyft Restoration MS"
+title: "Post-Construction and Specialty Cleaning in Lucedale, MS | HomeLyft Restoration Gulfport"
 h1: "Post-Construction and Specialty Cleaning in Lucedale"
 meta_description: "Post-construction and specialty cleaning in Lucedale, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "post-construction and specialty cleaning lucedale"
@@ -28,7 +28,7 @@ George County's climate is no secret to anyone who has spent a summer here. Humi
 
 Beyond the climate, Lucedale's housing stock adds complexity. The city and surrounding George County include a meaningful number of homes built in the 1960s through 1980s, many of which have been updated in phases rather than all at once. A kitchen remodel in one of these homes often uncovers original pine subflooring, older plaster ceilings adjacent to new drywall, and HVAC ductwork that predates modern filtration standards. Construction debris and fine particulate from sanding and cutting can migrate through those older duct systems into rooms that weren't even part of the renovation scope.
 
-HomeLyft Restoration MS holds EPA Lead-Safe Certification, which matters specifically in Lucedale's older housing stock. If a renovation disturbs painted surfaces in a pre-1978 home, post-construction cleaning must follow lead-safe protocols, proper containment, HEPA-filtered equipment, and careful waste disposal, not just a standard sweep.
+HomeLyft Restoration Gulfport holds EPA Lead-Safe Certification, which matters specifically in Lucedale's older housing stock. If a renovation disturbs painted surfaces in a pre-1978 home, post-construction cleaning must follow lead-safe protocols, proper containment, HEPA-filtered equipment, and careful waste disposal, not just a standard sweep.
 
 ## Our Post-Construction Cleaning Process in Lucedale
 
@@ -50,4 +50,4 @@ Post-construction cleaning isn't always tied to a full renovation. HomeLyft hand
 
 One pattern that comes up specifically in Lucedale and the surrounding George County area: homes with crawl spaces, and there are many of them here, tend to accumulate construction debris under the structure during renovation work. Contractors access crawl spaces to run new plumbing or HVAC lines, and scrap material, insulation offcuts, and even tools occasionally get left behind. That debris in an enclosed, humid crawl space becomes a moisture trap and, within weeks, a mold risk. A thorough post-construction clean in Lucedale should always include a crawl space check, not just the finished interior.
 
-If you've recently completed a renovation or new build in Lucedale and the space isn't ready for occupancy, call HomeLyft Restoration MS at +12282845200. The crew that handles the clean will be the same crew that documents the scope, no handoffs, no surprises on the final walkthrough.
+If you've recently completed a renovation or new build in Lucedale and the space isn't ready for occupancy, call HomeLyft Restoration Gulfport at +12282845200. The crew that handles the clean will be the same crew that documents the scope, no handoffs, no surprises on the final walkthrough.

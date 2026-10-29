@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in Vancleave, MS | HomeLyft Restoration MS"
+title: "Asbestos Abatement in Vancleave, MS | HomeLyft Restoration Gulfport"
 h1: "Asbestos Abatement in Vancleave"
 meta_description: "Asbestos abatement in Vancleave, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "asbestos abatement vancleave"
@@ -44,4 +44,4 @@ Jackson County also has a significant number of properties on private well water
 
 One pattern we've seen repeatedly in the rural Jackson County area: homes built on pier-and-beam foundations, common in Vancleave, often have original pipe insulation in the crawl space that hasn't been touched since the house was built. Homeowners rarely go under there, so it goes uninspected for decades. When HVAC contractors or plumbers finally access the crawl space for repairs, that pipe wrap gets disturbed without anyone realizing what it is. If your home was built before 1980 and you're scheduling any crawl space work, an asbestos inspection before that crew goes under is a straightforward step that prevents a much larger problem.
 
-If you're in Vancleave and you're not sure whether your home has asbestos-containing materials, the safest starting point is a call to HomeLyft Restoration MS at +12282845200. We'll walk you through what an inspection covers, what testing costs, and what abatement looks like for your specific property, no pressure, just straight answers so you can make an informed decision before any work begins.
+If you're in Vancleave and you're not sure whether your home has asbestos-containing materials, the safest starting point is a call to HomeLyft Restoration Gulfport at +12282845200. We'll walk you through what an inspection covers, what testing costs, and what abatement looks like for your specific property, no pressure, just straight answers so you can make an informed decision before any work begins.

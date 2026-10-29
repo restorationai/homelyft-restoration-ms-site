@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Petal, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in Petal, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in Petal"
 meta_description: "24/7 emergency board-up and tarping in Petal, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping petal"
@@ -38,7 +38,7 @@ Board-up work on windows and doors uses 5/8-inch plywood cut to fit and secured 
 
 ## Reaching Petal from Our Nearest Staging Point
 
-HomeLyft Restoration MS operates out of Gulfport, and Petal is roughly 90 miles north via US-49, a route our crews run regularly for Forrest County calls. US-49 is a direct corridor with no significant interchange delays outside of Hattiesburg city limits. For calls originating in Petal, we coordinate dispatch as soon as the job is confirmed and communicate an honest estimated arrival window based on current crew location and traffic conditions. We don't promise a minute figure we can't guarantee; we give you a realistic ETA and a direct line to the crew lead.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Petal is roughly 90 miles north via US-49, a route our crews run regularly for Forrest County calls. US-49 is a direct corridor with no significant interchange delays outside of Hattiesburg city limits. For calls originating in Petal, we coordinate dispatch as soon as the job is confirmed and communicate an honest estimated arrival window based on current crew location and traffic conditions. We don't promise a minute figure we can't guarantee; we give you a realistic ETA and a direct line to the crew lead.
 
 If you're in Petal and the damage is active, meaning rain is currently entering the structure, we'll walk you through temporary interior containment steps by phone while the crew is en route: moving valuables, placing plastic sheeting over exposed insulation, and identifying which breaches are highest priority for the arriving team.
 
@@ -52,4 +52,4 @@ If your adjuster hasn't yet been assigned when we arrive, that's fine, we procee
 
 One thing that catches Petal homeowners off guard: older homes in this part of Forrest County frequently have roof pitches steeper than what's common on newer construction, and the original roofing nails used on wood shingle or early asphalt-tab roofs were shorter than modern standards. When storm damage tears away shingles, it often pulls the decking fasteners partially out with them, leaving the deck surface spongy and unreliable as an anchor point for tarp furring strips. Our crews carry longer structural screws and a drill with a depth-stop specifically because we've run into this pattern repeatedly on Petal-area jobs, it adds fifteen minutes to the setup but means the tarp actually holds through the next weather system.
 
-If your home has been damaged and you're not sure what's salvageable, call HomeLyft Restoration MS at +12282845200. We'll assess the openings, secure the structure, and give you a clear picture of what comes next, before the next rain band moves through Forrest County.
+If your home has been damaged and you're not sure what's salvageable, call HomeLyft Restoration Gulfport at +12282845200. We'll assess the openings, secure the structure, and give you a clear picture of what comes next, before the next rain band moves through Forrest County.

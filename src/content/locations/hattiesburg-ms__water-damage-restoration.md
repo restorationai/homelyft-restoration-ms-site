@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Hattiesburg, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Water Damage Restoration in Hattiesburg, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Water Damage Restoration in Hattiesburg"
 meta_description: "24/7 emergency water damage restoration in Hattiesburg, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "water damage restoration hattiesburg"
@@ -37,7 +37,7 @@ Every job starts with a moisture survey, thermal imaging and calibrated moisture
 
 Once the scope is mapped, standing water is removed with truck-mounted extraction units, followed by targeted drying with commercial-grade desiccant and refrigerant dehumidifiers and high-velocity air movers positioned to create directional airflow through the structure. Drying is monitored daily with psychrometric readings, temperature, relative humidity, and grain depression, and documented against the IICRC S500 standard. The process typically runs three to five days for a contained loss; larger events or homes with significant crawl space involvement often run longer.
 
-HomeLyft Restoration MS holds IICRC certification as a firm, with technicians credentialed in Water Restoration Technician (WRT) and Applied Structural Drying (ASD), so the drying plan is built on science, not guesswork.
+HomeLyft Restoration Gulfport holds IICRC certification as a firm, with technicians credentialed in Water Restoration Technician (WRT) and Applied Structural Drying (ASD), so the drying plan is built on science, not guesswork.
 
 ## Reaching Hattiesburg from Gulfport
 
@@ -51,4 +51,4 @@ Most standard homeowners policies cover sudden and accidental water losses, a bu
 
 One pattern that comes up repeatedly in Hattiesburg's older neighborhoods is the combination of hardwood floors over pier-and-beam construction. When water enters from below, a crawl space flood, a plumbing leak under the subfloor, the hardwood absorbs moisture from the underside first, which causes cupping (edges rising, center dropping) before the surface shows any visible damage. Homeowners sometimes assume the floor is fine because it looks dry from above. By the time the cupping is visible, the subfloor sheathing may already be at elevated moisture content. Catching this early with underfloor moisture readings is the difference between saving the floor and replacing it.
 
-If you're dealing with water damage in Hattiesburg, whether it's a crawl space flood after a heavy rain, a supply line failure in a 1960s ranch home, or storm-driven water through a compromised foundation, call HomeLyft Restoration MS at +12282845200. The sooner the drying process starts, the more of the structure can be saved.
+If you're dealing with water damage in Hattiesburg, whether it's a crawl space flood after a heavy rain, a supply line failure in a 1960s ranch home, or storm-driven water through a compromised foundation, call HomeLyft Restoration Gulfport at +12282845200. The sooner the drying process starts, the more of the structure can be saved.

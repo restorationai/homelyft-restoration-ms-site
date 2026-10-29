@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Lumberton, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Storm Damage Restoration in Lumberton, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Storm Damage Restoration in Lumberton"
 meta_description: "24/7 emergency storm damage restoration in Lumberton, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "storm damage restoration lumberton"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Storm damage emergency in Lumberton? We answer 24/7.** Call now and our crew heads out to secure the property and stop further damage.
 
-Lamar County sits squarely in the path of Gulf-driven storm systems that funnel north through the pine belt, and Lumberton takes some of the hardest hits, tornadoes, tropical remnants, and straight-line wind events that can drop mature longleaf pines across rooflines before the radar even updates on your phone. When that happens, the window between the storm passing and secondary water damage soaking into your framing, insulation, and flooring is measured in hours, not days. HomeLyft Restoration MS responds to storm damage calls across Lumberton and surrounding Lamar County, bringing the equipment and IICRC-certified expertise to stabilize your property fast.
+Lamar County sits squarely in the path of Gulf-driven storm systems that funnel north through the pine belt, and Lumberton takes some of the hardest hits, tornadoes, tropical remnants, and straight-line wind events that can drop mature longleaf pines across rooflines before the radar even updates on your phone. When that happens, the window between the storm passing and secondary water damage soaking into your framing, insulation, and flooring is measured in hours, not days. HomeLyft Restoration Gulfport responds to storm damage calls across Lumberton and surrounding Lamar County, bringing the equipment and IICRC-certified expertise to stabilize your property fast.
 
 ## Why Lumberton Properties See Elevated Storm Damage Risk
 
@@ -53,4 +53,4 @@ For homeowners who have already received a settlement offer that feels low, our 
 
 One thing that catches out-of-area contractors in Lumberton: the red clay subsoil that underlies much of Lamar County doesn't drain the way sandy coastal soils do. After a heavy storm event, that clay holds saturation for days, which means crawl space flooding can persist and worsen long after the rain stops, water continues wicking upward into floor joists and subfloor sheathing even as the sky clears. We always inspect crawl spaces on Lumberton storm calls, even when the visible damage is roof-focused, because that slow-draining ground moisture is where the hidden rot and mold problems start.
 
-If your home took storm damage in Lumberton or anywhere in Lamar County, call HomeLyft Restoration MS at +12282845200. We'll walk you through the stabilization steps, get eyes on the property, and give you a clear picture of what the restoration path looks like, before you commit to anything.
+If your home took storm damage in Lumberton or anywhere in Lamar County, call HomeLyft Restoration Gulfport at +12282845200. We'll walk you through the stabilization steps, get eyes on the property, and give you a clear picture of what the restoration path looks like, before you commit to anything.

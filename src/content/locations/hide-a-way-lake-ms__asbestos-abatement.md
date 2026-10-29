@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in Hide-A-Way Lake, MS | HomeLyft Restoration MS"
+title: "Asbestos Abatement in Hide-A-Way Lake, MS | HomeLyft Restoration Gulfport"
 h1: "Asbestos Abatement in Hide-A-Way Lake"
 meta_description: "Asbestos abatement in Hide-A-Way Lake, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "asbestos abatement hide-a-way lake"
@@ -46,4 +46,4 @@ If your Hide-A-Way Lake home has the original textured ceiling and you are consi
 
 Hide-A-Way Lake's private community status means that contractor access sometimes requires coordination with the gate or property management before a crew can enter. We make that call before we arrive, not when we are sitting at the entrance. For abatement projects specifically, where a delayed start can affect the scheduling of a licensed disposal vehicle or an air clearance technician, that advance coordination matters. If your project involves a shared structure, a dock building, or a common-area facility within the community, we also factor in any community association requirements before the work scope is finalized.
 
-If you have a pre-1980 home in Hide-A-Way Lake and a renovation, sale, or damage event has raised questions about asbestos, the right call is an inspection before anything else is disturbed. Reach HomeLyft Restoration MS at +12282845200 to schedule asbestos testing or to discuss an abatement scope, our IICRC-certified team works throughout Scott County and can walk you through every step from initial sampling to final clearance documentation.
+If you have a pre-1980 home in Hide-A-Way Lake and a renovation, sale, or damage event has raised questions about asbestos, the right call is an inspection before anything else is disturbed. Reach HomeLyft Restoration Gulfport at +12282845200 to schedule asbestos testing or to discuss an abatement scope, our IICRC-certified team works throughout Scott County and can walk you through every step from initial sampling to final clearance documentation.

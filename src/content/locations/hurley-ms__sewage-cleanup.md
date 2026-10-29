@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Sewage Cleanup and Sanitization in Hurley, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Sewage Cleanup and Sanitization in Hurley, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Hurley"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Hurley, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "sewage cleanup and sanitization hurley"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Sewage backup in Hurley? We answer 24/7.** Call now and our crew heads out to contain the contamination and start the cleanup.
 
-Sewage backing up into a home in Hurley hits differently than a simple water leak. Jackson County's humid Gulf Coast climate means that raw sewage contamination, whether from a failed septic system, a sewer line backup, or a flooded drain field, can begin producing dangerous bacterial growth within hours of exposure. The combination of warm temperatures, high ambient humidity, and the area's mix of older rural homes and newer construction on varying soil types creates conditions where Category 3 contaminated water spreads fast and lingers longer than most homeowners expect. HomeLyft Restoration MS responds to sewage emergencies across Hurley, bringing IICRC-certified technicians and commercial-grade sanitization equipment to contain and resolve the damage.
+Sewage backing up into a home in Hurley hits differently than a simple water leak. Jackson County's humid Gulf Coast climate means that raw sewage contamination, whether from a failed septic system, a sewer line backup, or a flooded drain field, can begin producing dangerous bacterial growth within hours of exposure. The combination of warm temperatures, high ambient humidity, and the area's mix of older rural homes and newer construction on varying soil types creates conditions where Category 3 contaminated water spreads fast and lingers longer than most homeowners expect. HomeLyft Restoration Gulfport responds to sewage emergencies across Hurley, bringing IICRC-certified technicians and commercial-grade sanitization equipment to contain and resolve the damage.
 
 ## Why Hurley Properties See Sewage Backup Problems
 
@@ -41,7 +41,7 @@ After demolition and cleaning, we apply antimicrobial treatments to structural c
 
 ## Reaching Hurley from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport, and Hurley is a service area we cover regularly. The drive out typically follows US-90 east and connects into Jackson County via the routes that run north toward Hurley. We recommend calling as early as possible when a sewage backup is discovered, the sooner we can schedule arrival, the less time contaminated water has to wick into subfloor materials and wall cavities. Call us at +12282845200 to discuss your situation and get a crew scheduled.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and Hurley is a service area we cover regularly. The drive out typically follows US-90 east and connects into Jackson County via the routes that run north toward Hurley. We recommend calling as early as possible when a sewage backup is discovered, the sooner we can schedule arrival, the less time contaminated water has to wick into subfloor materials and wall cavities. Call us at +12282845200 to discuss your situation and get a crew scheduled.
 
 ## Hurley Insurance Coordination for Sewage Losses
 
@@ -53,4 +53,4 @@ For properties where coverage is limited or absent, we can walk through the scop
 
 One thing we've observed on septic-served properties in rural Jackson County: when a drain field fails during or after a major rain event, homeowners sometimes assume the problem will resolve on its own once the ground dries out. In Hurley's climate, that window of apparent improvement can be deceptive, the septic system may function normally for a week or two before backing up again at the next heavy rain. If sewage has entered the living space even once, the contamination left behind in subfloor cavities and wall bases doesn't disappear when the water recedes. Getting a proper post-event inspection and sanitization done after the first incident is almost always less expensive than addressing a second backup on top of existing hidden contamination.
 
-If you're dealing with a sewage backup in Hurley right now, don't wait to see if it clears up on its own. Call HomeLyft Restoration MS at +12282845200, our IICRC-certified team will assess the contamination, explain exactly what needs to happen, and get your home back to a safe, livable condition.
+If you're dealing with a sewage backup in Hurley right now, don't wait to see if it clears up on its own. Call HomeLyft Restoration Gulfport at +12282845200, our IICRC-certified team will assess the contamination, explain exactly what needs to happen, and get your home back to a safe, livable condition.

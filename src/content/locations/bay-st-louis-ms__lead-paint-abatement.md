@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Lead Paint Abatement in Bay St. Louis, MS | HomeLyft Restoration MS"
+title: "Lead Paint Abatement in Bay St. Louis, MS | HomeLyft Restoration Gulfport"
 h1: "Lead Paint Abatement in Bay St. Louis"
 meta_description: "24/7 lead paint abatement in Bay St. Louis, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "lead paint abatement bay st. louis"
@@ -38,4 +38,4 @@ Our crews travel out from Gulfport along Highway 90 and the connecting routes in
 
 One thing that catches homeowners off guard here: salt humidity doesn't just make old paint fail faster, it also makes dry-scraping riskier because brittle, salt-exposed paint chips and becomes airborne more easily than paint in a drier climate. On exterior work near the Bay St. Louis waterfront, we lean more heavily on wet methods and containment even on surfaces that would normally be a straightforward scrape-and-prime job inland.
 
-If you're dealing with peeling paint on an older Bay St. Louis property, whether it's a pre-sale requirement, a renovation permit condition, or just a porch rail that's been flaking for a season too long, call HomeLyft Restoration MS at (228) 284-5200. We'll test, contain, and clear the work properly the first time.
+If you're dealing with peeling paint on an older Bay St. Louis property, whether it's a pre-sale requirement, a renovation permit condition, or just a porch rail that's been flaking for a season too long, call HomeLyft Restoration Gulfport at (228) 284-5200. We'll test, contain, and clear the work properly the first time.

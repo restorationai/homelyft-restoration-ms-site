@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in DeLisle, MS | HomeLyft Restoration MS"
+title: "Mold Remediation in DeLisle, MS | HomeLyft Restoration Gulfport"
 h1: "Mold Remediation in DeLisle"
 meta_description: "Mold remediation in DeLisle, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "mold remediation delisle"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Mold Remediation"
 rendered: true
 ---
-DeLisle sits in the humid lowlands of Harrison County, where Gulf Coast air keeps indoor relative humidity elevated for most of the year, the kind of persistent moisture that lets mold colonize drywall cavities and subfloor sheathing within 24 to 48 hours of a leak. If you've noticed a musty smell in a closet, dark staining along a baseboard, or visible growth spreading from a bathroom grout line, the conditions here mean the problem is rarely limited to what you can see. HomeLyft Restoration MS, based in Gulfport and holding IICRC AMRT (Mold) certification, handles mold remediation in DeLisle with methods calibrated to the specific way moisture behaves in this part of Mississippi.
+DeLisle sits in the humid lowlands of Harrison County, where Gulf Coast air keeps indoor relative humidity elevated for most of the year, the kind of persistent moisture that lets mold colonize drywall cavities and subfloor sheathing within 24 to 48 hours of a leak. If you've noticed a musty smell in a closet, dark staining along a baseboard, or visible growth spreading from a bathroom grout line, the conditions here mean the problem is rarely limited to what you can see. HomeLyft Restoration Gulfport, based in Gulfport and holding IICRC AMRT (Mold) certification, handles mold remediation in DeLisle with methods calibrated to the specific way moisture behaves in this part of Mississippi.
 
 ## Why DeLisle Properties See Mold Issues
 
@@ -46,4 +46,4 @@ Mold claims in Mississippi often hinge on demonstrating a covered sudden-and-acc
 
 One pattern we've observed on properties in the DeLisle area: crawl spaces that were encapsulated with a vapor barrier years ago sometimes trap moisture between the barrier and the soil when the barrier is punctured or improperly sealed at the perimeter, a condition that's easy to miss on a visual inspection from the access hatch. When we're called out for a musty smell with no obvious interior source, we pull back sections of the vapor barrier to check the ground beneath. It's a detail that matters specifically in low-lying Harrison County properties where the water table is close to grade, and skipping it means the mold comes back.
 
-If mold is affecting your DeLisle home, whether it's a slow-growing patch behind a bathroom wall or a crawl-space situation discovered during a real estate inspection, call HomeLyft Restoration MS at +12282845200. We'll assess the scope honestly, explain what remediation will involve, and get your property back to a safe, dry condition.
+If mold is affecting your DeLisle home, whether it's a slow-growing patch behind a bathroom wall or a crawl-space situation discovered during a real estate inspection, call HomeLyft Restoration Gulfport at +12282845200. We'll assess the scope honestly, explain what remediation will involve, and get your property back to a safe, dry condition.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Leakesville, MS | HomeLyft Restoration MS"
+title: "Post-Construction and Specialty Cleaning in Leakesville, MS | HomeLyft Restoration Gulfport"
 h1: "Post-Construction and Specialty Cleaning in Leakesville"
 meta_description: "Post-construction and specialty cleaning in Leakesville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "post-construction and specialty cleaning leakesville"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Post-Construction and Specialty Cleaning"
 rendered: true
 ---
-Greene County's humid subtropical climate means construction projects in Leakesville rarely finish clean, sawdust absorbs ambient moisture within hours, joint compound residue becomes tacky in summer heat, and fine silica dust from concrete cutting settles into every horizontal surface before the last subcontractor leaves the site. Whether you're handing over a newly framed addition off U.S. 98 or finishing out a commercial renovation downtown, the gap between a builder's broom-out and a space that's genuinely ready for occupancy is wider here than in drier climates, and that gap is exactly where HomeLyft Restoration MS works.
+Greene County's humid subtropical climate means construction projects in Leakesville rarely finish clean, sawdust absorbs ambient moisture within hours, joint compound residue becomes tacky in summer heat, and fine silica dust from concrete cutting settles into every horizontal surface before the last subcontractor leaves the site. Whether you're handing over a newly framed addition off U.S. 98 or finishing out a commercial renovation downtown, the gap between a builder's broom-out and a space that's genuinely ready for occupancy is wider here than in drier climates, and that gap is exactly where HomeLyft Restoration Gulfport works.
 
 ## Why Leakesville Properties Face Unique Post-Construction Challenges
 
@@ -42,7 +42,7 @@ A final clean in Leakesville isn't a single pass, it's a sequenced process calib
 
 ## Reaching Leakesville from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport and regularly schedules project work in Greene County. The most direct route follows U.S. 49 north through Hattiesburg and connects to State Route 57 or U.S. 98 into Leakesville, a drive that typically runs under two hours depending on conditions. For projects with firm contractor handoff deadlines, we coordinate scheduling in advance so crew and equipment arrive when the site is actually ready, not before subcontractors have cleared.
+HomeLyft Restoration Gulfport is headquartered in Gulfport and regularly schedules project work in Greene County. The most direct route follows U.S. 49 north through Hattiesburg and connects to State Route 57 or U.S. 98 into Leakesville, a drive that typically runs under two hours depending on conditions. For projects with firm contractor handoff deadlines, we coordinate scheduling in advance so crew and equipment arrive when the site is actually ready, not before subcontractors have cleared.
 
 For larger commercial final cleans or multi-phase residential renovations, we can stage return visits, rough-out on one day, detail clean and inspection on another, which often works better than a single marathon session on a site where finish trades are still completing punch-list items.
 
@@ -50,4 +50,4 @@ For larger commercial final cleans or multi-phase residential renovations, we ca
 
 One thing that comes up repeatedly on Leakesville renovation projects: the area's pine-based construction history means interior trim and flooring often include heart pine, a dense, resinous wood that responds poorly to alkaline cleaners commonly used in post-construction work. Alkaline degreasers can raise the grain and dull the natural luster of heart pine floors in a way that's difficult to reverse without sanding. When we encounter original or reclaimed heart pine on a job site in Greene County, we switch to a pH-neutral cleaner and reduce dwell time significantly. It's a small adjustment that protects what's often the most valuable material in the room.
 
-If you're wrapping up a build or renovation in Leakesville and need the space ready for occupancy, call HomeLyft Restoration MS at +12282845200. We'll assess the scope, give you a clear timeline, and deliver a finish that holds up to a contractor's walkthrough, not just a homeowner's first impression.
+If you're wrapping up a build or renovation in Leakesville and need the space ready for occupancy, call HomeLyft Restoration Gulfport at +12282845200. We'll assess the scope, give you a clear timeline, and deliver a finish that holds up to a contractor's walkthrough, not just a homeowner's first impression.

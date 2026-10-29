@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Picayune, MS | HomeLyft Restoration MS"
+title: "Restoration Services in Picayune, MS | HomeLyft Restoration Gulfport"
 h1: "Restoration Services in Picayune"
 meta_description: "Serving Picayune, MS with water, fire, mold, and storm damage restoration. IICRC-certified team. Call +12282845200."
 primary_keyword: "restoration services picayune"
@@ -19,7 +19,7 @@ state: "MS"
 primary: false
 rendered: true
 ---
-When a pipe bursts under a pier-and-beam floor or a slow roof leak finally saturates the insulation in a Picayune home, the clock starts immediately. HomeLyft Restoration MS handles water damage mitigation, mold remediation, fire and smoke cleanup, and full reconstruction for homeowners and property managers throughout Picayune and Pearl River County, coordinating directly with insurance carriers so you're not managing the paperwork alone while your house is still wet.
+When a pipe bursts under a pier-and-beam floor or a slow roof leak finally saturates the insulation in a Picayune home, the clock starts immediately. HomeLyft Restoration Gulfport handles water damage mitigation, mold remediation, fire and smoke cleanup, and full reconstruction for homeowners and property managers throughout Picayune and Pearl River County, coordinating directly with insurance carriers so you're not managing the paperwork alone while your house is still wet.
 
 ## Restoration emergencies common in Picayune
 
@@ -55,4 +55,4 @@ Older Picayune homes tend to sit on pier-and-beam foundations with brick or bloc
 
 Plan on galvanized supply and cast-iron drains in the oldest houses, polybutylene in some mid-1980s builds, plus asbestos-containing floor tile and lead paint in anything pre-1980. Structural repair or rebuild inside the city limits is permitted through the City of Picayune; outside them, Pearl River County. Work near the Pearl River may also carry flood-elevation requirements.
 
-If you're dealing with water, mold, fire, or smoke damage anywhere in Picayune or Pearl River County, call HomeLyft Restoration MS at (228) 284-5200. We'll walk you through what to expect, answer your insurance questions, and get a crew scheduled.
+If you're dealing with water, mold, fire, or smoke damage anywhere in Picayune or Pearl River County, call HomeLyft Restoration Gulfport at (228) 284-5200. We'll walk you through what to expect, answer your insurance questions, and get a crew scheduled.

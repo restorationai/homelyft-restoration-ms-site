@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Moselle, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Moselle, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Moselle"
 meta_description: "Renovations, remodels and general contracting in Moselle, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting moselle"
@@ -40,7 +40,7 @@ For clients rebuilding after a covered loss, we coordinate directly with the adj
 
 ## Reaching Moselle from Our Gulfport Base
 
-HomeLyft Restoration MS operates out of Gulfport, and our crews travel regularly into Jones County for both restoration and renovation work. The route north on US-49 is straightforward, and we schedule Moselle-area projects to minimize drive time impact on your project timeline. For renovation and remodeling work, scheduling is coordinated in advance so crews arrive with the right materials and subcontractors staged appropriately, no half-day gaps waiting on a delivery that should have been pre-ordered.
+HomeLyft Restoration Gulfport operates out of Gulfport, and our crews travel regularly into Jones County for both restoration and renovation work. The route north on US-49 is straightforward, and we schedule Moselle-area projects to minimize drive time impact on your project timeline. For renovation and remodeling work, scheduling is coordinated in advance so crews arrive with the right materials and subcontractors staged appropriately, no half-day gaps waiting on a delivery that should have been pre-ordered.
 
 We hold license #RO 2728 and carry the insurance documentation required for permitted work in Jones County. Our certifications include IICRC credentials in water, mold, and fire/smoke remediation as well as EPA Lead-Safe certification, relevant when renovation work touches pre-1978 homes, which are common in this part of Mississippi.
 
@@ -48,4 +48,4 @@ We hold license #RO 2728 and carry the insurance documentation required for perm
 
 One thing that catches out-of-area contractors working in Jones County: the local soil's clay content means that exterior concrete flatwork, patios, walkways, garage aprons, tends to heave and crack more aggressively here than in sandier coastal soils. If your renovation includes any exterior concrete as part of a landscaping or addition project, the base preparation needs to account for that movement. Proper compaction, appropriate aggregate depth, and control joint placement are not optional here, they are the difference between flatwork that lasts a decade and flatwork that needs replacing in three years.
 
-If your project involves a kitchen remodel, bathroom remodel, post-damage rebuild, or a broader home renovation in Moselle, call HomeLyft Restoration MS at +12282845200 to schedule a walkthrough. We will assess the actual condition of your home, not just the surfaces, and give you a scope that reflects what the work genuinely requires.
+If your project involves a kitchen remodel, bathroom remodel, post-damage rebuild, or a broader home renovation in Moselle, call HomeLyft Restoration Gulfport at +12282845200 to schedule a walkthrough. We will assess the actual condition of your home, not just the surfaces, and give you a scope that reflects what the work genuinely requires.

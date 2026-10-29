@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in D'Iberville, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in D'Iberville, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in D'Iberville"
 meta_description: "Carpet cleaning in D'Iberville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning d'iberville"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-D'Iberville sits just inland from Biloxi Bay, and that geography shapes what ends up in your carpet more than most homeowners realize. The combination of Gulf Coast humidity, sandy loam soil tracked in from the surrounding Harrison County terrain, and the region's frequent afternoon thunderstorms means carpet fibers here face a relentless cycle of moisture, grit, and organic debris, conditions that accelerate fiber breakdown and create the kind of embedded odor that a rental machine from a grocery store simply cannot reach. HomeLyft Restoration MS brings IICRC-certified carpet cleaning to D'Iberville with methods calibrated to this specific coastal environment.
+D'Iberville sits just inland from Biloxi Bay, and that geography shapes what ends up in your carpet more than most homeowners realize. The combination of Gulf Coast humidity, sandy loam soil tracked in from the surrounding Harrison County terrain, and the region's frequent afternoon thunderstorms means carpet fibers here face a relentless cycle of moisture, grit, and organic debris, conditions that accelerate fiber breakdown and create the kind of embedded odor that a rental machine from a grocery store simply cannot reach. HomeLyft Restoration Gulfport brings IICRC-certified carpet cleaning to D'Iberville with methods calibrated to this specific coastal environment.
 
 ## Why D'Iberville Carpets Take a Harder Hit Than Most
 
@@ -52,4 +52,4 @@ One pattern we see repeatedly in D'Iberville is carpet damage that originates no
 
 If you're dealing with carpet that's been affected by water intrusion rather than surface soiling, HomeLyft's IICRC Water Damage Restoration team can assess whether the carpet and pad are salvageable or whether extraction and replacement is the more cost-effective path.
 
-When your D'Iberville home or business is ready for carpet that looks, smells, and performs the way it should in this climate, call HomeLyft Restoration MS at (228) 284-5200. We'll schedule a time that works, show up with the right equipment for coastal Mississippi conditions, and leave you with results that hold up.
+When your D'Iberville home or business is ready for carpet that looks, smells, and performs the way it should in this climate, call HomeLyft Restoration Gulfport at (228) 284-5200. We'll schedule a time that works, show up with the right equipment for coastal Mississippi conditions, and leave you with results that hold up.

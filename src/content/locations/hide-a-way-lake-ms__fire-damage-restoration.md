@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Fire Damage Restoration in Hide-A-Way Lake, MS | HomeLyft Restoration MS"
+title: "Emergency Fire Damage Restoration in Hide-A-Way Lake, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Fire Damage Restoration in Hide-A-Way Lake"
 meta_description: "24/7 emergency fire damage restoration in Hide-A-Way Lake, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "fire damage restoration hide-a-way lake"
@@ -43,7 +43,7 @@ Content pack-out is handled with an itemized inventory so that salvageable belon
 
 ## Reaching Hide-A-Way Lake from Our Gulfport Operations
 
-HomeLyft Restoration MS is headquartered in Gulfport and dispatches crews north through the I-59 and US-49 corridors to reach Rankin County. Hide-A-Way Lake's location off the main highway grid means access routes through the community's interior roads can be narrow, and large equipment trailers sometimes require a staging point near the community entrance. We coordinate that logistics step on the first call so there's no delay once the crew arrives. Scheduling is handled during business hours, call **+1 (228) 284-5200** to get a crew moving.
+HomeLyft Restoration Gulfport is headquartered in Gulfport and dispatches crews north through the I-59 and US-49 corridors to reach Rankin County. Hide-A-Way Lake's location off the main highway grid means access routes through the community's interior roads can be narrow, and large equipment trailers sometimes require a staging point near the community entrance. We coordinate that logistics step on the first call so there's no delay once the crew arrives. Scheduling is handled during business hours, call **+1 (228) 284-5200** to get a crew moving.
 
 ## Insurance Coordination for Hide-A-Way Lake Fire Claims
 
@@ -53,4 +53,4 @@ Fire claims in a private lake community like Hide-A-Way Lake often involve both 
 
 Homes in Hide-A-Way Lake that were originally built as seasonal cabins, and there are quite a few, frequently have crawl spaces with minimal vapor barriers and older pier-and-beam foundations. After a fire, suppression water from hose lines drains directly into those crawl spaces and can sit for days undetected while the visible fire damage gets all the attention. We include crawl space inspection and drying in every fire job here, because skipping that step leads to mold colonization within two weeks in Rankin County's climate, compounding an already difficult insurance claim.
 
-If a fire has damaged your Hide-A-Way Lake home, the window to limit secondary losses is short. Call HomeLyft Restoration MS at **+1 (228) 284-5200** to schedule an assessment and get the documentation process started before more of your home's original materials are lost to soot chemistry and humidity.
+If a fire has damaged your Hide-A-Way Lake home, the window to limit secondary losses is short. Call HomeLyft Restoration Gulfport at **+1 (228) 284-5200** to schedule an assessment and get the documentation process started before more of your home's original materials are lost to soot chemistry and humidity.

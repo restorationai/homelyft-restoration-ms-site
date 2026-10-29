@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in Eastabuchie, MS | HomeLyft Restoration MS"
+title: "Asbestos Abatement in Eastabuchie, MS | HomeLyft Restoration Gulfport"
 h1: "Asbestos Abatement in Eastabuchie"
 meta_description: "Asbestos abatement in Eastabuchie, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "asbestos abatement eastabuchie"
@@ -52,4 +52,4 @@ We provide itemized documentation, lab reports, scope of work, disposal manifest
 
 One pattern we see repeatedly in older Jones County homes: asbestos floor tiles were often installed directly over original hardwood floors, then covered again with a second layer of vinyl in later decades. When a homeowner or contractor pulls up the top layer and finds a second layer underneath, that buried tile is frequently in better condition, still firmly adhered, less friable, but it still requires testing and proper handling before the hardwood beneath can be refinished or the subfloor replaced. If your renovation plan involves flooring in a pre-1980 Eastabuchie home, budget time for sampling before the demo crew arrives.
 
-If you're dealing with a confirmed or suspected asbestos-containing material in your Eastabuchie home or commercial property, the right move is a professional assessment before anything is disturbed further. Call HomeLyft Restoration MS at +12282845200 to schedule sampling, discuss abatement options, and get a clear picture of what the process looks like for your specific property.
+If you're dealing with a confirmed or suspected asbestos-containing material in your Eastabuchie home or commercial property, the right move is a professional assessment before anything is disturbed further. Call HomeLyft Restoration Gulfport at +12282845200 to schedule sampling, discuss abatement options, and get a clear picture of what the process looks like for your specific property.

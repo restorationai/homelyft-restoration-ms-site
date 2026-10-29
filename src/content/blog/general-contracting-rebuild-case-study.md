@@ -2,7 +2,7 @@
 archetype: "blog-post"
 title: "Case Study: What a General Contracting Job Looks Like When It Goes Right"
 h1: "Case Study: What a General Contracting Job Looks Like When It Goes Right"
-meta_description: "A real Google review from a HomeLyft Restoration MS customer breaks down what a smooth general contracting and rebuild job actually looks like, from communication to final walkthrough."
+meta_description: "A real Google review from a HomeLyft Restoration Gulfport customer breaks down what a smooth general contracting and rebuild job actually looks like, from communication to final walkthrough."
 primary_keyword: ""
 secondary_keywords: []
 search_intent: "commercial"
@@ -21,7 +21,7 @@ author: "Terry Robinson"
 ---
 When a home needs rebuilding after storm, water, or fire damage, the mitigation crew is only half the job. The other half, framing walls back in, hanging drywall, laying new flooring, painting, matching trim, is construction work. That's the phase where a homeowner finds out whether the company they hired can actually build, not just demolish and dry.
 
-Here's what one Gulfport-area customer had to say about that phase with HomeLyft Restoration MS:
+Here's what one Gulfport-area customer had to say about that phase with HomeLyft Restoration Gulfport:
 
 > "The entire HomeLyft team was very professional and great to work with. They went above and beyond to provide quality customer service and quality construction work."
 >, Lauren, verified Google review
@@ -62,6 +62,6 @@ If your property needs rebuilding after storm, water, or fire damage, request a 
 
 ---
 
-**About HomeLyft Restoration MS**
+**About HomeLyft Restoration Gulfport**
 
-HomeLyft Restoration MS is an IICRC-certified firm serving Gulfport, Mississippi and the surrounding Gulf Coast since 2022 (license RO 2728). Their crews handle general contracting and reconstruction alongside water damage restoration, fire damage restoration, mold remediation, storm damage restoration, and roofing across the region.
+HomeLyft Restoration Gulfport is an IICRC-certified firm serving Gulfport, Mississippi and the surrounding Gulf Coast since 2022 (license RO 2728). Their crews handle general contracting and reconstruction alongside water damage restoration, fire damage restoration, mold remediation, storm damage restoration, and roofing across the region.

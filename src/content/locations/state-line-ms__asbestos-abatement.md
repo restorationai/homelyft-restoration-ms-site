@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in State Line, MS | HomeLyft Restoration MS"
+title: "Asbestos Abatement in State Line, MS | HomeLyft Restoration Gulfport"
 h1: "Asbestos Abatement in State Line"
 meta_description: "Asbestos abatement in State Line, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "asbestos abatement state line"
@@ -39,11 +39,11 @@ Once a positive identification is confirmed, the abatement process follows a str
 - **Waste handling**: All removed material is double-bagged in labeled, 6-mil poly bags, sealed, and transported to a licensed disposal facility. No asbestos waste is left on-site.
 - **Air clearance**: Post-abatement air sampling is conducted to confirm fiber levels are below clearance thresholds before containment is removed and the space is returned to normal use.
 
-Because HomeLyft Restoration MS holds EPA Lead-Safe Certification and operates under OSHA-trained protocols, the same careful containment practices that apply to lead work are applied here, relevant in State Line homes where lead paint and asbestos often coexist in structures of the same vintage.
+Because HomeLyft Restoration Gulfport holds EPA Lead-Safe Certification and operates under OSHA-trained protocols, the same careful containment practices that apply to lead work are applied here, relevant in State Line homes where lead paint and asbestos often coexist in structures of the same vintage.
 
 ## Reaching State Line from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport, and State Line is accessible via US-98 heading north and east through the pine belt. Scheduling is handled during business hours, call **+1 (228) 284-5200** to set up an inspection or discuss a project already in progress. Because asbestos abatement is a planned, permitted process rather than an emergency service, the scheduling window allows us to coordinate properly with Mississippi DEQ notification requirements before work begins, which is actually a benefit: rushing an asbestos job creates regulatory and liability exposure that no homeowner wants.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and State Line is accessible via US-98 heading north and east through the pine belt. Scheduling is handled during business hours, call **+1 (228) 284-5200** to set up an inspection or discuss a project already in progress. Because asbestos abatement is a planned, permitted process rather than an emergency service, the scheduling window allows us to coordinate properly with Mississippi DEQ notification requirements before work begins, which is actually a benefit: rushing an asbestos job creates regulatory and liability exposure that no homeowner wants.
 
 ## State Line Insurance Coordination
 
@@ -53,4 +53,4 @@ Asbestos abatement is sometimes covered under homeowner's insurance policies whe
 
 Contractors working in older homes along the Greene County side of the State Line area have noted that 9×9-inch vinyl floor tiles, often found under carpet or a second layer of flooring installed in the 1980s, are among the most frequently encountered asbestos-containing materials in this region. Homeowners planning to pull up carpet before a sale or renovation sometimes discover these tiles underneath and assume they can be removed as normal flooring waste. They cannot. Even tiles that appear intact should be tested before disturbance; the adhesive mastic beneath them often contains asbestos as well, and scraping it dry releases fibers. If you lift a corner of carpet and see a dark, 9-inch square tile pattern underneath, stop and call before going further.
 
-If your State Line property has questions that need answers, a suspicious ceiling, a renovation on hold, or a recent inspection that flagged materials, contact HomeLyft Restoration MS at **+1 (228) 284-5200** to schedule an asbestos inspection and get a clear picture of what you're working with before any work begins.
+If your State Line property has questions that need answers, a suspicious ceiling, a renovation on hold, or a recent inspection that flagged materials, contact HomeLyft Restoration Gulfport at **+1 (228) 284-5200** to schedule an asbestos inspection and get a clear picture of what you're working with before any work begins.

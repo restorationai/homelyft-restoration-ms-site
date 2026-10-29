@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Pascagoula, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Fire Damage Restoration in Pascagoula, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Fire Damage Restoration in Pascagoula"
 meta_description: "24/7 emergency fire damage restoration in Pascagoula, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "fire damage restoration pascagoula"
@@ -55,4 +55,4 @@ If your policy includes ALE (Additional Living Expenses) coverage, we can also p
 
 Pascagoula's proximity to active industrial facilities along the waterfront means some residential areas occasionally see homes with metal components, roofing, gutters, HVAC housings, that have already experienced accelerated corrosion from ambient salt air and industrial particulates before a fire ever occurs. After a fire, that pre-existing corrosion can make it harder to distinguish fire-related metal damage from weather-related deterioration. We photograph and note pre-existing conditions during our initial scope specifically to protect homeowners from having legitimate fire damage claims disputed on those grounds.
 
-If your Pascagoula home has been affected by fire or smoke, call HomeLyft Restoration MS at +12282845200. We'll walk through the damage with you, explain what's salvageable and what isn't, and get the documentation started so your claim moves forward without unnecessary delays.
+If your Pascagoula home has been affected by fire or smoke, call HomeLyft Restoration Gulfport at +12282845200. We'll walk through the damage with you, explain what's salvageable and what isn't, and get the documentation started so your claim moves forward without unnecessary delays.

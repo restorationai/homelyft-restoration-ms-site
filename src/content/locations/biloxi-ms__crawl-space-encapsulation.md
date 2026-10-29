@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Biloxi, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Biloxi, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Biloxi"
 meta_description: "Crawl space encapsulation in Biloxi, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation biloxi"
@@ -40,7 +40,7 @@ Depending on the size of the space and the severity of existing moisture intrusi
 
 ## Reaching Biloxi from Our Gulfport Location
 
-HomeLyft Restoration MS operates out of Gulfport, putting Biloxi well within our regular service area. The drive along US-90 or via I-10 keeps travel time short, and our team schedules Biloxi appointments with the same priority as local calls. Whether your property is on the west end of the city closer to Gulfport or further east toward the Back Bay area, we can get eyes on your crawl space and give you a clear picture of what's happening down there.
+HomeLyft Restoration Gulfport operates out of Gulfport, putting Biloxi well within our regular service area. The drive along US-90 or via I-10 keeps travel time short, and our team schedules Biloxi appointments with the same priority as local calls. Whether your property is on the west end of the city closer to Gulfport or further east toward the Back Bay area, we can get eyes on your crawl space and give you a clear picture of what's happening down there.
 
 ## Local Note: What Biloxi Contractors Know About Crawl Space Access
 
@@ -48,4 +48,4 @@ One thing that catches out-of-area contractors off guard in Biloxi is the combin
 
 Crawl space access points in Biloxi homes are also frequently undersized by modern standards, sometimes as narrow as 18 inches, which affects how equipment and materials are staged. We account for that in our project timeline rather than discovering it on day one.
 
-If moisture is working its way into the space beneath your Biloxi home, the damage compounds quietly until it shows up as soft floors, musty odors, or a mold remediation bill that dwarfs what encapsulation would have cost. Call HomeLyft Restoration MS at +12282845200 to schedule an inspection and get a clear assessment of what your crawl space actually needs.
+If moisture is working its way into the space beneath your Biloxi home, the damage compounds quietly until it shows up as soft floors, musty odors, or a mold remediation bill that dwarfs what encapsulation would have cost. Call HomeLyft Restoration Gulfport at +12282845200 to schedule an inspection and get a clear assessment of what your crawl space actually needs.

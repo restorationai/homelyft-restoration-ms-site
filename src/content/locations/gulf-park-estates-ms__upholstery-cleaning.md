@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Gulf Park Estates, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Gulf Park Estates, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Gulf Park Estates"
 meta_description: "24/7 upholstery cleaning in Gulf Park Estates, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning gulf park estates"
@@ -38,4 +38,4 @@ Our technicians carry both truck-mounted and portable hot water extraction units
 
 One thing we watch for on Gulf Park Estates calls that doesn't come up as often further inland: furniture positioned against exterior walls tends to retain more ambient moisture than pieces along interior walls, because exterior walls here run cooler and more humid, especially in homes without a vapor barrier upgrade. When we're cleaning a sofa or chair that's been pushed against an exterior wall for years, we check the wall-facing side and the floor underneath before we start, since that's often where mildew odor is quietly building even though the visible cushions look fine.
 
-If your furniture has that faint mustiness that air freshener won't fix, or a leather piece is starting to feel stiff instead of supple, it's worth having it looked at before the fibers or the leather itself take permanent damage. HomeLyft Restoration MS is IICRC-trained, licensed in Mississippi under #RO 2728, and available around the clock for Gulf Park Estates households dealing with upholstery that's holding onto more coastal moisture than it should. Call +1 (228) 284-5200 and we'll walk you through what your furniture needs before we ever step through the door.
+If your furniture has that faint mustiness that air freshener won't fix, or a leather piece is starting to feel stiff instead of supple, it's worth having it looked at before the fibers or the leather itself take permanent damage. HomeLyft Restoration Gulfport is IICRC-trained, licensed in Mississippi under #RO 2728, and available around the clock for Gulf Park Estates households dealing with upholstery that's holding onto more coastal moisture than it should. Call +1 (228) 284-5200 and we'll walk you through what your furniture needs before we ever step through the door.

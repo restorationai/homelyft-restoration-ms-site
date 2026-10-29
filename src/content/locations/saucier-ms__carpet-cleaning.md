@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Saucier, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Saucier, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Saucier"
 meta_description: "Carpet cleaning in Saucier, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning saucier"
@@ -38,7 +38,7 @@ For commercial properties, we schedule around business hours and use low-moistur
 
 ## Reaching Saucier from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport, making Saucier a straightforward service run via U.S. Highway 49 North. The drive puts our crew into the Saucier area without the coastal traffic delays that slow response times for companies working out of Biloxi or the beachside corridor. When you call +12282845200, we can give you a realistic arrival window based on current conditions on 49, no vague promises, just an honest estimate.
+HomeLyft Restoration Gulfport is based in Gulfport, making Saucier a straightforward service run via U.S. Highway 49 North. The drive puts our crew into the Saucier area without the coastal traffic delays that slow response times for companies working out of Biloxi or the beachside corridor. When you call +12282845200, we can give you a realistic arrival window based on current conditions on 49, no vague promises, just an honest estimate.
 
 For carpet cleaning appointments (as opposed to emergency water-damage calls), we schedule in advance so you can plan around the drying window. We'll confirm the appointment, discuss any access considerations for your property, and arrive with a fully stocked truck so there are no mid-job supply runs.
 
@@ -54,4 +54,4 @@ One pattern we see consistently in Saucier properties: homes with screened porch
 
 If your home has that layout, mention it when you call, it affects how we stage the job.
 
-When your carpets are holding onto the smells and stains that Saucier's climate keeps feeding them, a thorough extraction and sanitization makes a measurable difference, not just visually, but in air quality and how long the results last. Call HomeLyft Restoration MS at +12282845200 to schedule carpet cleaning in Saucier and get a straightforward quote based on your actual square footage.
+When your carpets are holding onto the smells and stains that Saucier's climate keeps feeding them, a thorough extraction and sanitization makes a measurable difference, not just visually, but in air quality and how long the results last. Call HomeLyft Restoration Gulfport at +12282845200 to schedule carpet cleaning in Saucier and get a straightforward quote based on your actual square footage.

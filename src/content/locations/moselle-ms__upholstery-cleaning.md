@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Moselle, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Moselle, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Moselle"
 meta_description: "24/7 upholstery cleaning in Moselle, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning moselle"
@@ -38,4 +38,4 @@ Moselle sits north of the coast in Jones County, off the corridor that runs up t
 
 A detail that only shows up working furniture calls in this part of the county: hunting season brings in more leather and suede upholstery jobs than people expect, because camo gear, boots, and gun cases get set down on the nearest recliner or truck bench seat cushion after a morning in the woods. Dried mud and blood residue on leather needs a different pretreatment than fabric, gentler pH, no aggressive scrubbing, so we ask upfront if a piece has seen that kind of use before we start.
 
-If your sofa, sectional, or leather recliner in Moselle is holding onto pine pollen residue, a lingering damp smell, or stains that a home carpet cleaner rental couldn't touch, call HomeLyft Restoration MS at (228) 284-5200. We'll walk you through fabric versus leather care on the phone and get a technician scheduled to bring your upholstery back instead of replacing it.
+If your sofa, sectional, or leather recliner in Moselle is holding onto pine pollen residue, a lingering damp smell, or stains that a home carpet cleaner rental couldn't touch, call HomeLyft Restoration Gulfport at (228) 284-5200. We'll walk you through fabric versus leather care on the phone and get a technician scheduled to bring your upholstery back instead of replacing it.

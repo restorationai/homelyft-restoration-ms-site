@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in Latimer, MS | HomeLyft Restoration MS"
+title: "Emergency Sewage Cleanup and Sanitization in Latimer, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Latimer"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Latimer, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "sewage cleanup and sanitization latimer"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Sewage backup in Latimer? We answer 24/7.** Call now and our crew heads out to contain the contamination and start the cleanup.
 
-Sewage backups don't announce themselves, they show up as a foul smell rising from a floor drain, a toilet that won't stop gurgling, or worse, raw effluent pooling across a bathroom floor. In Latimer, Mississippi, where the clay-heavy soils of Harrison County can shift seasonally and older lateral lines were often laid without the slope tolerances modern codes require, a single heavy rain event can push a sewer line past its limit fast. HomeLyft Restoration MS responds to those calls from our Gulfport base, bringing certified extraction and sanitization crews to Latimer properties before contamination spreads further into subfloor assemblies and wall cavities.
+Sewage backups don't announce themselves, they show up as a foul smell rising from a floor drain, a toilet that won't stop gurgling, or worse, raw effluent pooling across a bathroom floor. In Latimer, Mississippi, where the clay-heavy soils of Harrison County can shift seasonally and older lateral lines were often laid without the slope tolerances modern codes require, a single heavy rain event can push a sewer line past its limit fast. HomeLyft Restoration Gulfport responds to those calls from our Gulfport base, bringing certified extraction and sanitization crews to Latimer properties before contamination spreads further into subfloor assemblies and wall cavities.
 
 ## Why Latimer Properties See Sewage Backup Issues
 
@@ -41,7 +41,7 @@ All porous materials that absorbed contaminated water, drywall below the flood l
 
 ## Reaching Latimer from Gulfport
 
-The HomeLyft Restoration MS operations hub is in Gulfport, which puts Latimer within a straightforward drive north on US-49 or via the I-10 corridor depending on crew positioning. We don't publish a minute guarantee because traffic and crew availability vary, what we can tell you is that Latimer is well within our primary service radius, and scheduling a same-day assessment is realistic for calls received during business hours. When you call +12282845200, dispatch can give you a realistic arrival window based on current crew location.
+The HomeLyft Restoration Gulfport operations hub is in Gulfport, which puts Latimer within a straightforward drive north on US-49 or via the I-10 corridor depending on crew positioning. We don't publish a minute guarantee because traffic and crew availability vary, what we can tell you is that Latimer is well within our primary service radius, and scheduling a same-day assessment is realistic for calls received during business hours. When you call +12282845200, dispatch can give you a realistic arrival window based on current crew location.
 
 ## Latimer Insurance and Claim Coordination
 
@@ -51,4 +51,4 @@ Sewage backup coverage is one of the more misunderstood line items in a standard
 
 One pattern we've seen on Latimer-area service calls: homes where the main cleanout is located inside a crawl space rather than at grade. This is common in housing built before the 1980s in Harrison County, where builders sometimes placed cleanouts under the structure for convenience. When a backup occurs, that interior cleanout location means any overflow has already deposited sewage directly onto the crawl space soil and vapor barrier, areas that are out of sight and often go unnoticed for hours. If your home has a crawl space and you've had any gurgling or slow-drain symptoms, it's worth having someone check that space before assuming the problem is contained to the visible interior.
 
-If sewage has reached your Latimer property, whether from a sewer line backup, a septic overflow, or a municipal surcharge event, the window to limit structural damage and pathogen spread is short. Call HomeLyft Restoration MS at +12282845200 to schedule an assessment and get a crew moving toward Latimer.
+If sewage has reached your Latimer property, whether from a sewer line backup, a septic overflow, or a municipal surcharge event, the window to limit structural damage and pathogen spread is short. Call HomeLyft Restoration Gulfport at +12282845200 to schedule an assessment and get a crew moving toward Latimer.

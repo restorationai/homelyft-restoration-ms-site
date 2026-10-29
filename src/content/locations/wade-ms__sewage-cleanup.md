@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Sewage Cleanup and Sanitization in Wade, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Sewage Cleanup and Sanitization in Wade, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Wade"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Wade, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "sewage cleanup and sanitization wade"
@@ -45,7 +45,7 @@ The first thing our crew does on arrival is establish containment. Sewage contam
 
 ## Reaching Wade from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport, and our crews travel north to Forrest County regularly for water and sewage loss calls. The most direct route to Wade runs up US-49 through Hattiesburg, then out along the county roads that branch toward the Wade community. Depending on traffic through Hattiesburg and the exact address in Wade, drive time from our Gulfport base typically falls in the range of an hour and a half to two hours. We communicate that honestly so you can plan, and we recommend calling as soon as you discover the backup rather than waiting to see if it resolves on its own, because sewage losses do not self-correct and every hour of delay increases both the contamination footprint and the remediation cost.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and our crews travel north to Forrest County regularly for water and sewage loss calls. The most direct route to Wade runs up US-49 through Hattiesburg, then out along the county roads that branch toward the Wade community. Depending on traffic through Hattiesburg and the exact address in Wade, drive time from our Gulfport base typically falls in the range of an hour and a half to two hours. We communicate that honestly so you can plan, and we recommend calling as soon as you discover the backup rather than waiting to see if it resolves on its own, because sewage losses do not self-correct and every hour of delay increases both the contamination footprint and the remediation cost.
 
 ## Wade Insurance & HOA Coordination
 
@@ -55,4 +55,4 @@ Sewage backups are among the more contested insurance claims in residential rest
 
 One thing our crews have learned working in rural Forrest County is that crawl space access in older Wade-area homes is often tighter and lower than the minimum clearances you'd find in newer construction, sometimes under 18 inches of clearance between the ground and the floor joists. When sewage from a failed septic line or a backed-up drain reaches a crawl space like that, it pools in the low spots and soaks into the vapor barrier and soil beneath. Getting extraction equipment and air movers into that space requires smaller, purpose-built tools and more time than a standard basement or slab job. We factor that into our scoping process upfront rather than discovering it mid-job.
 
-If you're dealing with a sewage backup or septic overflow in Wade right now, call HomeLyft Restoration MS at +12282845200. We'll talk through what you're seeing, give you honest guidance on immediate steps to limit spread, and get a crew scheduled to your address in Wade as quickly as our route allows.
+If you're dealing with a sewage backup or septic overflow in Wade right now, call HomeLyft Restoration Gulfport at +12282845200. We'll talk through what you're seeing, give you honest guidance on immediate steps to limit spread, and get a crew scheduled to your address in Wade as quickly as our route allows.

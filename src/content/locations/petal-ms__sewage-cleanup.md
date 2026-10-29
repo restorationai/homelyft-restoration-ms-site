@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Sewage Cleanup and Sanitization in Petal, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Sewage Cleanup and Sanitization in Petal, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Petal"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Petal, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "sewage cleanup and sanitization petal"
@@ -44,7 +44,7 @@ When our IICRC-certified team arrives, the first priority is containment. Sewage
 
 ## Reaching Petal from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport, and our crews travel the US-49 corridor to reach Petal and the broader Hattiesburg metro area. We schedule prompt response and coordinate directly with you on arrival windows so you're not waiting without information. When you call **+1 (228) 284-5200**, we'll confirm scheduling and give you clear guidance on what to do, and what not to do, while you wait.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and our crews travel the US-49 corridor to reach Petal and the broader Hattiesburg metro area. We schedule prompt response and coordinate directly with you on arrival windows so you're not waiting without information. When you call **+1 (228) 284-5200**, we'll confirm scheduling and give you clear guidance on what to do, and what not to do, while you wait.
 
 ## Petal Insurance and Septic vs. Sewer Coordination
 
@@ -54,4 +54,4 @@ One of the more frustrating realities of sewage cleanup claims in Petal is the c
 
 In Petal's pier-and-beam homes, a construction style that remains common in older parts of the city, crawl spaces sit low to grade and often have limited clearance. When a septic lateral backs up or a drain line fails, sewage frequently migrates into the crawl space before it ever surfaces inside the living area. Homeowners sometimes smell the problem for days before they find it. If you notice a persistent sulfur or sewage odor in your home and can't locate a visible source, the crawl space is the first place to check. That confined environment also requires specialized extraction equipment and respiratory protection, it's not a DIY situation.
 
-If sewage has reached any part of your Petal property, call HomeLyft Restoration MS at **+1 (228) 284-5200**. We'll assess the situation, explain the scope honestly, and get your home back to a safe, dry baseline.
+If sewage has reached any part of your Petal property, call HomeLyft Restoration Gulfport at **+1 (228) 284-5200**. We'll assess the situation, explain the scope honestly, and get your home back to a safe, dry baseline.

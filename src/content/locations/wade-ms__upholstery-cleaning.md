@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Wade, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Wade, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Wade"
 meta_description: "24/7 upholstery cleaning in Wade, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning wade"
@@ -38,4 +38,4 @@ Our crews run out of Gulfport and cover Jackson County routinely, including the 
 
 One thing we watch for specifically in Wade: homes with a lot of tree canopy nearby tend to run their AC less in shoulder seasons, relying on open windows through spring and fall. That's great for the electric bill but it means pollen and outdoor humidity get pulled straight onto upholstery fabric for weeks at a time before anyone notices the dulling or the faint musty smell. If your sofa sits near a window that stays open most of the year, it's worth a cleaning cycle before summer humidity locks that buildup into the fibers.
 
-If your sofa, sectional, or leather recliner is holding onto humidity, pollen, or a smell you can't quite place, it's worth having it cleaned before another Mississippi summer sets in. Call HomeLyft Restoration MS and we'll walk you through what your specific upholstery needs, whether that's a fabric steam clean or a leather conditioning treatment, and get it scheduled around your Wade address.
+If your sofa, sectional, or leather recliner is holding onto humidity, pollen, or a smell you can't quite place, it's worth having it cleaned before another Mississippi summer sets in. Call HomeLyft Restoration Gulfport and we'll walk you through what your specific upholstery needs, whether that's a fabric steam clean or a leather conditioning treatment, and get it scheduled around your Wade address.

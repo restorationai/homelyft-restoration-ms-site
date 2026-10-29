@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in St. Martin, MS | HomeLyft Restoration MS"
+title: "Contents Restoration and Storage in St. Martin, MS | HomeLyft Restoration Gulfport"
 h1: "Contents Restoration and Storage in St. Martin"
 meta_description: "Contents restoration and storage in St. Martin, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "contents restoration and storage st. martin"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Contents Restoration and Storage"
 rendered: true
 ---
-St. Martin sits in a pocket of Jackson County where Gulf Coast humidity rarely lets up, and when a storm surge, burst pipe, or kitchen fire forces families out of their homes, the belongings left behind face a second wave of damage, mildew setting into upholstered furniture within 48 hours, smoke odor bonding to fabric fibers, and salt-laden coastal air accelerating corrosion on electronics and metal keepsakes. HomeLyft Restoration MS handles contents pack-out, professional cleaning, and secure storage so that while your structure is being repaired, your possessions are protected rather than deteriorating in a compromised space.
+St. Martin sits in a pocket of Jackson County where Gulf Coast humidity rarely lets up, and when a storm surge, burst pipe, or kitchen fire forces families out of their homes, the belongings left behind face a second wave of damage, mildew setting into upholstered furniture within 48 hours, smoke odor bonding to fabric fibers, and salt-laden coastal air accelerating corrosion on electronics and metal keepsakes. HomeLyft Restoration Gulfport handles contents pack-out, professional cleaning, and secure storage so that while your structure is being repaired, your possessions are protected rather than deteriorating in a compromised space.
 
 ## Why St. Martin Properties See Elevated Contents Damage
 
@@ -38,7 +38,7 @@ Cleaning methods are matched to the material and the damage type. Ultrasonic cle
 
 ## Coordinating with Your Insurance Carrier in St. Martin
 
-Most homeowner policies in Mississippi cover contents restoration as part of a broader property loss claim, but the documentation requirements vary by carrier and adjuster. HomeLyft Restoration MS produces a line-item contents inventory with pre-cleaning and post-cleaning photographs, replacement cost estimates, and a written scope of work, the format most adjusters working Jackson County claims expect to receive.
+Most homeowner policies in Mississippi cover contents restoration as part of a broader property loss claim, but the documentation requirements vary by carrier and adjuster. HomeLyft Restoration Gulfport produces a line-item contents inventory with pre-cleaning and post-cleaning photographs, replacement cost estimates, and a written scope of work, the format most adjusters working Jackson County claims expect to receive.
 
 If your policy includes Additional Living Expenses (ALE) coverage, the cost of off-site contents storage during repairs is frequently reimbursable. We can provide the storage invoices in the format your carrier requests. If there's a coverage dispute over a specific item, an antique piece of furniture, a musical instrument, a piece of art, we document condition thoroughly enough that your adjuster has what they need to make an informed decision.
 
@@ -46,4 +46,4 @@ If your policy includes Additional Living Expenses (ALE) coverage, the cost of o
 
 One thing that comes up repeatedly on St. Martin jobs is the prevalence of family heirlooms and furniture that traveled through multiple generations of Gulf Coast households, pieces that survived Camille, Betsy, and Katrina and carry real sentimental and monetary value. Older lacquered wood furniture common in mid-century Gulf Coast homes is particularly sensitive to the combination of smoke residue and high humidity: the lacquer can cloud or crack if the wrong solvent is applied, or if the piece is dried too aggressively. Our technicians approach these items with hand-cleaning methods first, testing any chemical on an inconspicuous area before committing to a full treatment, a step that takes more time but consistently produces better outcomes on the heirloom pieces that matter most to St. Martin families.
 
-If you're dealing with damage to your home and belongings in St. Martin, the sooner contents are removed from a compromised environment, the better the restoration outcome. Call HomeLyft Restoration MS at +12282845200 to schedule a contents pack-out assessment, we'll inventory your belongings, explain exactly what can be restored, and give you a clear picture of the process before anything leaves your home.
+If you're dealing with damage to your home and belongings in St. Martin, the sooner contents are removed from a compromised environment, the better the restoration outcome. Call HomeLyft Restoration Gulfport at +12282845200 to schedule a contents pack-out assessment, we'll inventory your belongings, explain exactly what can be restored, and give you a clear picture of the process before anything leaves your home.

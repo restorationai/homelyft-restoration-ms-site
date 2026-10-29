@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Vancleave, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Fire Damage Restoration in Vancleave, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Fire Damage Restoration in Vancleave"
 meta_description: "24/7 emergency fire damage restoration in Vancleave, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "fire damage restoration vancleave"
@@ -47,7 +47,7 @@ The first priority after the fire marshal clears a property is stabilization, bo
 
 ## Reaching Vancleave from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, and Vancleave is a straightforward run up U.S. 90 to I-10 East and then north on MS-57, a route our crews know well from serving Jackson County. Call us at +12282845200 to reach our team and get scheduling underway. We'll confirm an arrival window based on current crew availability and the scope of what you're describing.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Vancleave is a straightforward run up U.S. 90 to I-10 East and then north on MS-57, a route our crews know well from serving Jackson County. Call us at +12282845200 to reach our team and get scheduling underway. We'll confirm an arrival window based on current crew availability and the scope of what you're describing.
 
 ## Navigating Insurance After a Fire in Vancleave
 
@@ -57,4 +57,4 @@ Most homeowner policies in Mississippi cover fire and smoke damage, but the docu
 
 Older wood-frame homes in the Vancleave area, particularly those built in the 1970s and 1980s, frequently used fiberglass batt insulation in walls and attics that was installed without a continuous vapor barrier. After a fire, that insulation traps soot particles and holds odor compounds even after surface cleaning. We've learned to treat attic insulation removal as a default step on these homes rather than a judgment call, because leaving contaminated batts in place is one of the most common reasons a fire-damaged home still smells like smoke a year after restoration is supposedly complete.
 
-If a fire has damaged your Vancleave home, the decisions you make in the first few days, about what to clean, what to remove, and what to document, will shape the outcome of your insurance claim and the long-term livability of your home. Call HomeLyft Restoration MS at +12282845200 to talk through what you're dealing with and get a crew moving toward your property.
+If a fire has damaged your Vancleave home, the decisions you make in the first few days, about what to clean, what to remove, and what to document, will shape the outcome of your insurance claim and the long-term livability of your home. Call HomeLyft Restoration Gulfport at +12282845200 to talk through what you're dealing with and get a crew moving toward your property.

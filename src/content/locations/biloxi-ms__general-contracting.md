@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Biloxi, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Biloxi, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Biloxi"
 meta_description: "Renovations, remodels and general contracting in Biloxi, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting biloxi"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Biloxi's salt air, hurricane-season humidity, and a housing stock that ranges from postwar bungalows to Gulf-front condos built under post-Katrina codes create renovation challenges you simply don't encounter inland. Whether you're gutting a kitchen that took on storm surge, opening up a cramped floor plan in an older ranch-style home, or managing a full post-damage rebuild from the studs out, HomeLyft Restoration MS brings licensed general contracting experience, license #RO 2728, directly from our Gulfport base to job sites across Biloxi and the surrounding Coast.
+Biloxi's salt air, hurricane-season humidity, and a housing stock that ranges from postwar bungalows to Gulf-front condos built under post-Katrina codes create renovation challenges you simply don't encounter inland. Whether you're gutting a kitchen that took on storm surge, opening up a cramped floor plan in an older ranch-style home, or managing a full post-damage rebuild from the studs out, HomeLyft Restoration Gulfport brings licensed general contracting experience, license #RO 2728, directly from our Gulfport base to job sites across Biloxi and the surrounding Coast.
 
 ## Why Biloxi Properties Present Unique Renovation Challenges
 
@@ -44,4 +44,4 @@ Our crews travel US-90 and I-10 to reach Biloxi job sites regularly, and the dri
 
 One thing that catches out-of-area contractors working in Biloxi: homes built in the years immediately following Hurricane Katrina, roughly 2006 through 2010, were often constructed quickly under emergency conditions and sometimes reflect inconsistent framing practices or non-standard rough-in locations that don't match what the original permits described. When we open walls in homes from that era, we verify actual conditions rather than assuming the drawings are accurate. It adds a brief discovery step, but it prevents mid-project surprises that blow timelines and budgets.
 
-If your home or investment property needs a renovation partner who understands what the Gulf Coast actually demands from a building, not just what a national remodeling template assumes, call HomeLyft Restoration MS at +12282845200 to schedule a walkthrough. We'll assess the scope honestly, permit it correctly, and build it to last in Biloxi's environment.
+If your home or investment property needs a renovation partner who understands what the Gulf Coast actually demands from a building, not just what a national remodeling template assumes, call HomeLyft Restoration Gulfport at +12282845200 to schedule a walkthrough. We'll assess the scope honestly, permit it correctly, and build it to last in Biloxi's environment.

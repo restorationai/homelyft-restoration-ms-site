@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Benndale, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Benndale, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Benndale"
 meta_description: "Renovations, remodels and general contracting in Benndale, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting benndale"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Benndale sits in the piney woods of George County, where humid Gulf Coast summers, heavy seasonal rainfall, and a housing stock that leans older all shape what a renovation project actually looks like from the ground up. Whether you're rebuilding a kitchen after a burst pipe finally pushed you to gut the room anyway, updating a bathroom that hasn't seen a wrench since the 1980s, or adding square footage to a home that's grown too small for your family, the conditions here demand a general contractor who understands the region, not just the blueprint. HomeLyft Restoration MS brings licensed general contracting (RO #2728) and IICRC-certified restoration expertise together, so the rebuild and the renovation happen under one roof.
+Benndale sits in the piney woods of George County, where humid Gulf Coast summers, heavy seasonal rainfall, and a housing stock that leans older all shape what a renovation project actually looks like from the ground up. Whether you're rebuilding a kitchen after a burst pipe finally pushed you to gut the room anyway, updating a bathroom that hasn't seen a wrench since the 1980s, or adding square footage to a home that's grown too small for your family, the conditions here demand a general contractor who understands the region, not just the blueprint. HomeLyft Restoration Gulfport brings licensed general contracting (RO #2728) and IICRC-certified restoration expertise together, so the rebuild and the renovation happen under one roof.
 
 ## Why Benndale Homes Present Unique Renovation Challenges
 
@@ -50,4 +50,4 @@ One thing that catches out-of-area contractors working in George County: the loc
 
 If your home qualifies, we're also certified under Mississippi's FORTIFIED Building Roofing and Windstorm program, which can improve your insurance rating and strengthen your roof system against the severe weather that moves through George County during hurricane season, worth asking about when you're already planning a roofing or exterior project.
 
-When you're ready to move forward on a kitchen remodel, bathroom update, addition, or full post-damage rebuild in Benndale, call HomeLyft Restoration MS at +12282845200. We'll schedule a no-pressure walkthrough, assess what the structure actually needs, and give you a scope you can plan around.
+When you're ready to move forward on a kitchen remodel, bathroom update, addition, or full post-damage rebuild in Benndale, call HomeLyft Restoration Gulfport at +12282845200. We'll schedule a no-pressure walkthrough, assess what the structure actually needs, and give you a scope you can plan around.

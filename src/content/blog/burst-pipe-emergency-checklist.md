@@ -114,4 +114,4 @@ Keep every invoice, every receipt, and every communication with your insurance a
 
 ---
 
-If you're dealing with a burst pipe right now and the water loss is beyond what you can manage with a shop vac and fans, HomeLyft Restoration MS serves Gulfport and the surrounding Gulf Coast area. Call **(228) 284-5200** to reach the team and get a damage assessment scheduled. The sooner the structure is professionally dried, the lower the total cost of recovery, and the smaller the window for mold to take hold.
+If you're dealing with a burst pipe right now and the water loss is beyond what you can manage with a shop vac and fans, HomeLyft Restoration Gulfport serves Gulfport and the surrounding Gulf Coast area. Call **(228) 284-5200** to reach the team and get a damage assessment scheduled. The sooner the structure is professionally dried, the lower the total cost of recovery, and the smaller the window for mold to take hold.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Sewage Cleanup and Sanitization in Ovett, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Sewage Cleanup and Sanitization in Ovett, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Ovett"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Ovett, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "sewage cleanup and sanitization ovett"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Sewage backup in Ovett? We answer 24/7.** Call now and our crew heads out to contain the contamination and start the cleanup.
 
-Sewage backing up into a home in rural Jones County hits differently than a city plumbing failure. Ovett sits in a part of Mississippi where many properties rely on aging septic systems and older cast-iron lateral lines that have been quietly corroding for decades, and when those systems fail, the contamination spreads fast across crawl spaces and subfloor framing before most homeowners even realize what's happened. HomeLyft Restoration MS responds to sewage backup and septic overflow calls across this area, bringing the equipment and IICRC-certified process needed to remove raw sewage, neutralize pathogens, and dry structural materials properly.
+Sewage backing up into a home in rural Jones County hits differently than a city plumbing failure. Ovett sits in a part of Mississippi where many properties rely on aging septic systems and older cast-iron lateral lines that have been quietly corroding for decades, and when those systems fail, the contamination spreads fast across crawl spaces and subfloor framing before most homeowners even realize what's happened. HomeLyft Restoration Gulfport responds to sewage backup and septic overflow calls across this area, bringing the equipment and IICRC-certified process needed to remove raw sewage, neutralize pathogens, and dry structural materials properly.
 
 ## Why Ovett Properties See Sewage Backup More Often Than You'd Expect
 
@@ -41,7 +41,7 @@ Drying follows sanitization, not the other way around. We use commercial-grade d
 
 ## Reaching Ovett from Our Operations
 
-HomeLyft Restoration MS operates out of Gulfport and dispatches crews across South Mississippi, including Jones County. Ovett is a rural community, and we won't overstate travel times, the drive from the coast takes time. What we can tell you is that we schedule promptly, communicate an honest arrival window when you call, and arrive with a fully stocked truck so the work starts immediately rather than requiring a second trip for equipment. Call +12282845200 to reach our scheduling line directly.
+HomeLyft Restoration Gulfport operates out of Gulfport and dispatches crews across South Mississippi, including Jones County. Ovett is a rural community, and we won't overstate travel times, the drive from the coast takes time. What we can tell you is that we schedule promptly, communicate an honest arrival window when you call, and arrive with a fully stocked truck so the work starts immediately rather than requiring a second trip for equipment. Call +12282845200 to reach our scheduling line directly.
 
 ## Local Note: Crawl Space Conditions in This Part of Jones County
 

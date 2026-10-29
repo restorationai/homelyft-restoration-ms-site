@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Poplarville, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Poplarville, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Poplarville"
 meta_description: "24/7 upholstery cleaning in Poplarville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning poplarville"
@@ -38,4 +38,4 @@ Our crews run up from Gulfport along Highway 49 and Highway 26 into Pearl River 
 
 A detail that catches a lot of new residents off guard: furniture stored in detached garages, barns, or unconditioned outbuildings around Poplarville often smells fine when brought inside but develops a sour, mildew note within a week or two once it sits in air-conditioned humidity. That's trapped moisture releasing from the foam and frame joints, not a new spill or stain, and it usually means the piece needs a full extraction and dry-out rather than a quick surface clean.
 
-If your sofa, sectional, or leather furniture in Poplarville is holding onto smoke smell, pet odor, or that faint mildew note that won't go away, HomeLyft Restoration MS can get a crew out to assess and clean it using methods matched to the fabric or leather in question. Call +12282845200 to get scheduled.
+If your sofa, sectional, or leather furniture in Poplarville is holding onto smoke smell, pet odor, or that faint mildew note that won't go away, HomeLyft Restoration Gulfport can get a crew out to assess and clean it using methods matched to the fabric or leather in question. Call +12282845200 to get scheduled.

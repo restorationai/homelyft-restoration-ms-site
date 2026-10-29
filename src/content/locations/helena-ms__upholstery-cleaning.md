@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Helena, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Helena, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Helena"
 meta_description: "24/7 upholstery cleaning in Helena, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning helena"
@@ -42,4 +42,4 @@ Most upholstery cleaning is an out-of-pocket service rather than a claims matter
 
 One thing we watch for in this region: homes with older ductwork or undersized HVAC systems often run their air conditioning at a lower fan speed to save energy, which quietly raises indoor humidity even when the temperature feels comfortable. That lower airflow means cleaned upholstery takes longer to fully dry than the manufacturer's stated drying time would suggest. We factor that into scheduling, often recommending a fan or dehumidifier running nearby for a few hours after we finish, particularly on sectionals and deep-cushioned sofas where moisture gets trapped between layers.
 
-If your sofa, sectional, or leather chair is holding onto odor, stains, or that faint damp-fabric smell that won't go away, HomeLyft Restoration MS handles upholstery cleaning for homes throughout Helena. As an IICRC certified firm, we bring the same moisture-management approach we use on water damage jobs to everyday furniture cleaning, because in this climate, drying time matters as much as the clean itself. Call +1 (228) 284-5200 to get a visit on the schedule.
+If your sofa, sectional, or leather chair is holding onto odor, stains, or that faint damp-fabric smell that won't go away, HomeLyft Restoration Gulfport handles upholstery cleaning for homes throughout Helena. As an IICRC certified firm, we bring the same moisture-management approach we use on water damage jobs to everyday furniture cleaning, because in this climate, drying time matters as much as the clean itself. Call +1 (228) 284-5200 to get a visit on the schedule.

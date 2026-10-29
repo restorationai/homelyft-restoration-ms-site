@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Big Point, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Big Point, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Big Point"
 meta_description: "Crawl space encapsulation in Big Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation big point"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Crawl Space Encapsulation"
 rendered: true
 ---
-Big Point sits in the low-lying coastal plain of Jackson County, where the water table can rise within inches of the soil surface after a Gulf storm system stalls overhead for days. That proximity to saturated ground means crawl spaces beneath homes here don't just get damp, they stay damp, cycling through humidity spikes that warp floor joists, feed mold colonies, and push musty air up through subfloor gaps into living spaces. HomeLyft Restoration MS brings crawl space encapsulation work to Big Point with a clear understanding of what that coastal moisture environment actually does to an unprotected crawl space over time.
+Big Point sits in the low-lying coastal plain of Jackson County, where the water table can rise within inches of the soil surface after a Gulf storm system stalls overhead for days. That proximity to saturated ground means crawl spaces beneath homes here don't just get damp, they stay damp, cycling through humidity spikes that warp floor joists, feed mold colonies, and push musty air up through subfloor gaps into living spaces. HomeLyft Restoration Gulfport brings crawl space encapsulation work to Big Point with a clear understanding of what that coastal moisture environment actually does to an unprotected crawl space over time.
 
 ## Why Big Point Properties Face Persistent Crawl Space Moisture Problems
 
@@ -52,4 +52,4 @@ For homes where the crawl space connects to a conditioned HVAC system, we assess
 
 One pattern that comes up repeatedly in Big Point and the surrounding Jackson County coastal communities: homes that were elevated or releveled after storm events sometimes have uneven crawl space floor grades that pool water toward the center of the space rather than toward the perimeter. A standard perimeter drainage channel won't capture that pooling. When we encounter this, we grade the crawl space floor before liner installation or add interior collection points, a step that's easy to skip but makes the difference between an encapsulation that holds up and one that traps water under the liner within a season.
 
-If you're noticing soft flooring, elevated humidity on your first floor, or a persistent earthy smell that gets worse after rain, the crawl space is the first place to look. Call HomeLyft Restoration MS at +12282845200 to schedule an inspection, we'll give you an honest assessment of what's happening under your Big Point home and what it will take to fix it for the long term.
+If you're noticing soft flooring, elevated humidity on your first floor, or a persistent earthy smell that gets worse after rain, the crawl space is the first place to look. Call HomeLyft Restoration Gulfport at +12282845200 to schedule an inspection, we'll give you an honest assessment of what's happening under your Big Point home and what it will take to fix it for the long term.

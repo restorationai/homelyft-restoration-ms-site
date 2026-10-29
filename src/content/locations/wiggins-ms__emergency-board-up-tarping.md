@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Wiggins, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in Wiggins, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in Wiggins"
 meta_description: "24/7 emergency board-up and tarping in Wiggins, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping wiggins"
@@ -48,7 +48,7 @@ In Wiggins's climate, we pay particular attention to soffit and fascia damage th
 
 ## Reaching Wiggins from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport, and the primary route to Wiggins runs north on US-49 through the Pine Belt. The drive covers roughly 55 miles, and our team is familiar with the corridor, including the stretch through Wiggins where US-49 intersects with local county roads that serve properties set back from the main highway. For addresses on rural routes west or east of town, we confirm the access point before departure to avoid delays on unpaved or gated drives.
+HomeLyft Restoration Gulfport is based in Gulfport, and the primary route to Wiggins runs north on US-49 through the Pine Belt. The drive covers roughly 55 miles, and our team is familiar with the corridor, including the stretch through Wiggins where US-49 intersects with local county roads that serve properties set back from the main highway. For addresses on rural routes west or east of town, we confirm the access point before departure to avoid delays on unpaved or gated drives.
 
 We coordinate directly with homeowners on scheduling and arrival windows so there are no surprises. If a property is vacant or the owner cannot be present, we can work with a designated contact or a property manager on-site.
 
@@ -62,4 +62,4 @@ We bill mitigation work directly to most major carriers and can communicate with
 
 One thing that catches out-of-area crews working in the Wiggins area: the red clay and sandy loam soil mix common in Stone County drains poorly after heavy rain, and properties with crawl-space foundations, common in older Wiggins homes, can accumulate standing water under the structure within hours of a roof breach. A tarp that looks adequate from the outside may still be allowing enough moisture migration to wet the subfloor from below. When we tarp a crawl-space home in this area, we also check the crawl-space vents and, where accessible, confirm no water has pooled under the floor system before closing out the emergency phase.
 
-If you're dealing with storm damage, fire damage, or a broken window or door that's left your Wiggins home exposed, call HomeLyft Restoration MS at +12282845200. We'll assess the situation, give you a clear scope of what needs to be secured, and get materials on-site before conditions deteriorate further.
+If you're dealing with storm damage, fire damage, or a broken window or door that's left your Wiggins home exposed, call HomeLyft Restoration Gulfport at +12282845200. We'll assess the situation, give you a clear scope of what needs to be secured, and get materials on-site before conditions deteriorate further.

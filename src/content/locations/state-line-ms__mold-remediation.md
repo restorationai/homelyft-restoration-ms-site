@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in State Line, MS | HomeLyft Restoration MS"
+title: "Mold Remediation in State Line, MS | HomeLyft Restoration Gulfport"
 h1: "Mold Remediation in State Line"
 meta_description: "Mold remediation in State Line, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "mold remediation state line"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Mold Remediation"
 rendered: true
 ---
-State Line sits right on the Mississippi-Alabama border, and the humidity that rolls through Greene and Wayne counties doesn't care which side of the state line a house is on. What it does care about is wood framing, crawl spaces, and any drywall that stayed damp longer than 48 hours, because that's roughly how long it takes mold spores to colonize a wet surface in this climate. If you've noticed a musty smell in a closet, dark staining along a baseboard, or a bathroom ceiling that keeps coming back no matter how many times you paint over it, those are signs that surface cleaning won't solve the problem. HomeLyft Restoration MS handles mold remediation in State Line with the same IICRC AMRT-certified process we use across South Mississippi, adapted for the specific conditions homes here actually face.
+State Line sits right on the Mississippi-Alabama border, and the humidity that rolls through Greene and Wayne counties doesn't care which side of the state line a house is on. What it does care about is wood framing, crawl spaces, and any drywall that stayed damp longer than 48 hours, because that's roughly how long it takes mold spores to colonize a wet surface in this climate. If you've noticed a musty smell in a closet, dark staining along a baseboard, or a bathroom ceiling that keeps coming back no matter how many times you paint over it, those are signs that surface cleaning won't solve the problem. HomeLyft Restoration Gulfport handles mold remediation in State Line with the same IICRC AMRT-certified process we use across South Mississippi, adapted for the specific conditions homes here actually face.
 
 ## Why State Line Properties See Mold Issues
 
@@ -38,7 +38,7 @@ Because many State Line properties have pier-and-beam construction, we frequentl
 
 ## Reaching State Line from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport, and State Line is roughly a two-hour drive north via US-49 through Hattiesburg. We schedule State Line appointments with that travel window in mind and confirm arrival times directly with you. If you're dealing with an active moisture situation, a roof leak, a burst pipe, or a crawl space flood, call us promptly so we can get a crew scheduled before secondary mold growth has time to advance. Prompt scheduling is how we protect you from a larger remediation scope later.
+HomeLyft Restoration Gulfport is based in Gulfport, and State Line is roughly a two-hour drive north via US-49 through Hattiesburg. We schedule State Line appointments with that travel window in mind and confirm arrival times directly with you. If you're dealing with an active moisture situation, a roof leak, a burst pipe, or a crawl space flood, call us promptly so we can get a crew scheduled before secondary mold growth has time to advance. Prompt scheduling is how we protect you from a larger remediation scope later.
 
 ## State Line Insurance Coordination
 
@@ -50,4 +50,4 @@ If the mold is tied to a prior water damage event, a roof leak after a storm, a 
 
 In the heavily wooded stretches of Greene County around State Line, homes that back up to tree lines or have large hardwoods close to the roofline tend to accumulate leaf debris in gutters and on low-slope roof sections faster than homeowners expect. That debris holds moisture against fascia boards and roof decking for weeks at a time, and it's one of the more common hidden mold entry points we find in this area, not the crawl space, not the bathroom, but the attic directly beneath a debris-clogged valley. If you're scheduling mold remediation, it's worth having someone check those gutters and the attic sheathing above them before we close out the job.
 
-If you're seeing signs of mold growth in your State Line home, or if a recent water event has you concerned about what's happening inside your walls or under your floors, call HomeLyft Restoration MS at +12282845200. We'll walk you through what we're seeing, what needs to happen, and what to expect from the process before any work begins.
+If you're seeing signs of mold growth in your State Line home, or if a recent water event has you concerned about what's happening inside your walls or under your floors, call HomeLyft Restoration Gulfport at +12282845200. We'll walk you through what we're seeing, what needs to happen, and what to expect from the process before any work begins.

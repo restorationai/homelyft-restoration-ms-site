@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in Poplarville, MS | HomeLyft Restoration MS"
+title: "Asbestos Abatement in Poplarville, MS | HomeLyft Restoration Gulfport"
 h1: "Asbestos Abatement in Poplarville"
 meta_description: "Asbestos abatement in Poplarville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "asbestos abatement poplarville"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Asbestos Abatement"
 rendered: true
 ---
-Poplarville sits in Pearl River County where the warm, humid Gulf Coast climate accelerates the deterioration of older building materials, and in a town where a meaningful share of the housing stock dates to the mid-twentieth century or earlier, that deterioration often means disturbed asbestos-containing materials hiding inside walls, under vinyl floor tiles, or overhead in textured ceilings. Whether you've uncovered suspicious insulation during a renovation or a home inspection flagged potential asbestos in a property you're about to close on, HomeLyft Restoration MS handles certified asbestos abatement in Poplarville with the rigor the material demands.
+Poplarville sits in Pearl River County where the warm, humid Gulf Coast climate accelerates the deterioration of older building materials, and in a town where a meaningful share of the housing stock dates to the mid-twentieth century or earlier, that deterioration often means disturbed asbestos-containing materials hiding inside walls, under vinyl floor tiles, or overhead in textured ceilings. Whether you've uncovered suspicious insulation during a renovation or a home inspection flagged potential asbestos in a property you're about to close on, HomeLyft Restoration Gulfport handles certified asbestos abatement in Poplarville with the rigor the material demands.
 
 ## Why Poplarville Properties See Asbestos Risks
 
@@ -52,7 +52,7 @@ The humidity that defines Pearl River County summers is relevant here: wet-remov
 
 ## Reaching Poplarville from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport and reaches Poplarville via US-49 North, a straightforward corridor through the Pine Belt that keeps drive times manageable for scheduled inspections and project start dates. We coordinate arrival windows directly with homeowners and contractors so you're not waiting on a vague service window. For projects tied to a real estate closing timeline or a contractor's renovation schedule, call +12282845200 early in the process, asbestos inspection and abatement have sequential steps that compress poorly when started late.
+HomeLyft Restoration Gulfport operates out of Gulfport and reaches Poplarville via US-49 North, a straightforward corridor through the Pine Belt that keeps drive times manageable for scheduled inspections and project start dates. We coordinate arrival windows directly with homeowners and contractors so you're not waiting on a vague service window. For projects tied to a real estate closing timeline or a contractor's renovation schedule, call +12282845200 early in the process, asbestos inspection and abatement have sequential steps that compress poorly when started late.
 
 ## Insurance and Cost Coordination for Poplarville Homeowners
 
@@ -64,4 +64,4 @@ For projects that are out-of-pocket, pre-sale inspections, planned renovations, 
 
 One pattern that comes up repeatedly in Pearl River County's older ranch-style homes: the original vinyl floor tiles in kitchens and bathrooms were often installed directly over a wood subfloor with a thick layer of asbestos-containing mastic adhesive. When a later owner installed new flooring on top, the tile and mastic were encapsulated, which is actually acceptable under certain conditions, but the encapsulation fails the moment a contractor cuts through the floor for a plumbing repair or subfloor replacement. If your Poplarville home has layered flooring and you're planning any work that involves cutting or lifting it, have the underlying materials tested before the first saw blade touches the floor.
 
-If you've found suspect materials during a renovation, received a flag on a home inspection report, or simply want to know what's inside an older Poplarville property before work begins, call HomeLyft Restoration MS at +12282845200. We'll walk you through the inspection and testing process, give you a clear picture of what you're dealing with, and handle abatement from containment through final air clearance, so the project moves forward without the liability of unaddressed asbestos.
+If you've found suspect materials during a renovation, received a flag on a home inspection report, or simply want to know what's inside an older Poplarville property before work begins, call HomeLyft Restoration Gulfport at +12282845200. We'll walk you through the inspection and testing process, give you a clear picture of what you're dealing with, and handle abatement from containment through final air clearance, so the project moves forward without the liability of unaddressed asbestos.

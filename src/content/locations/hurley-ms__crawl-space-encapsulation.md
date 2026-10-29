@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Hurley, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Hurley, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Hurley"
 meta_description: "Crawl space encapsulation in Hurley, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation hurley"
@@ -30,7 +30,7 @@ Many homes in this part of Jackson County were built in the 1960s through 1980s 
 
 ## Our Crawl Space Encapsulation Process in Hurley
 
-Every encapsulation project starts with a thorough inspection of the crawl space before any material goes down. The HomeLyft Restoration MS team, an IICRC Certified Firm with mold remediation credentials, documents existing conditions: standing water, efflorescence on the foundation walls, deteriorated vapor barriers from previous attempts, wood moisture content readings, and any visible microbial growth. In Hurley's climate, finding mold on floor joists or rim boards is common enough that we treat remediation and encapsulation as a single coordinated scope rather than two separate visits.
+Every encapsulation project starts with a thorough inspection of the crawl space before any material goes down. The HomeLyft Restoration Gulfport team, an IICRC Certified Firm with mold remediation credentials, documents existing conditions: standing water, efflorescence on the foundation walls, deteriorated vapor barriers from previous attempts, wood moisture content readings, and any visible microbial growth. In Hurley's climate, finding mold on floor joists or rim boards is common enough that we treat remediation and encapsulation as a single coordinated scope rather than two separate visits.
 
 Once the space is cleared and any damaged materials are addressed, the installation sequence follows a defined order:
 
@@ -48,7 +48,7 @@ For homes where wood moisture content is already elevated at the time of encapsu
 
 ## Reaching Hurley from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport and serves Jackson County including Hurley. The drive along US-90 and connecting county roads is a route the crew knows well. Scheduling is coordinated by phone at +12282845200, and the team can typically arrange site visits and project start dates that work around homeowner availability.
+HomeLyft Restoration Gulfport operates out of Gulfport and serves Jackson County including Hurley. The drive along US-90 and connecting county roads is a route the crew knows well. Scheduling is coordinated by phone at +12282845200, and the team can typically arrange site visits and project start dates that work around homeowner availability.
 
 ## Local Note
 

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in State Line, MS | HomeLyft Restoration MS"
+title: "Contents Restoration and Storage in State Line, MS | HomeLyft Restoration Gulfport"
 h1: "Contents Restoration and Storage in State Line"
 meta_description: "Contents restoration and storage in State Line, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "contents restoration and storage state line"
@@ -46,4 +46,4 @@ If you're renting in the State Line area, your renters policy may cover personal
 
 One thing that comes up specifically in the State Line corridor: homes close to the state line sometimes have contents stored in outbuildings or detached garages that were affected by the same loss event as the main structure. Alabama and Mississippi have slightly different rules around what's considered a "covered structure" under a homeowner policy, and contents in a detached building may fall under a separate sublimit. When we do the initial walk-through, we include outbuildings in the inventory assessment and flag any items there so your adjuster has the full picture, not just what was inside the four walls of the house.
 
-If you're dealing with a contents loss in State Line and aren't sure where to start, a call to HomeLyft Restoration MS at +12282845200 is the fastest way to get a same-day assessment scheduled. We'll walk the property, document what's affected, and give you a clear picture of what can be saved before anything is moved.
+If you're dealing with a contents loss in State Line and aren't sure where to start, a call to HomeLyft Restoration Gulfport at +12282845200 is the fastest way to get a same-day assessment scheduled. We'll walk the property, document what's affected, and give you a clear picture of what can be saved before anything is moved.

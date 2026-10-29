@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Moselle, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in Moselle, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in Moselle"
 meta_description: "24/7 emergency board-up and tarping in Moselle, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping moselle"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Need an emergency board-up in Moselle? We answer 24/7.** Call now and our crew heads out to secure broken windows, doors and roofs.
 
-When a summer storm tears through Jones County and leaves a gaping hole in your roof, or a house fire blows out windows along one of Moselle's older rural corridors, the hours immediately after the damage are the ones that matter most. Rain, humidity, and the persistent Gulf-fed moisture that pushes inland across south Mississippi can turn an already bad situation into a mold and structural problem within 24 to 48 hours. HomeLyft Restoration MS deploys board-up and tarping crews from Gulfport to protect your home or commercial property in Moselle before secondary damage compounds the loss.
+When a summer storm tears through Jones County and leaves a gaping hole in your roof, or a house fire blows out windows along one of Moselle's older rural corridors, the hours immediately after the damage are the ones that matter most. Rain, humidity, and the persistent Gulf-fed moisture that pushes inland across south Mississippi can turn an already bad situation into a mold and structural problem within 24 to 48 hours. HomeLyft Restoration Gulfport deploys board-up and tarping crews from Gulfport to protect your home or commercial property in Moselle before secondary damage compounds the loss.
 
 ## Why Moselle Properties Are Especially Vulnerable After a Storm or Fire
 
@@ -57,4 +57,4 @@ We carry that documentation burden for you. Our IICRC-certified team captures th
 
 One thing worth knowing if you own an older wood-frame home in the Moselle area: the roof decking on many houses built before the mid-1980s is skip-sheathing, individual boards with deliberate gaps between them, rather than a continuous plywood sheet. When a tarp is laid over skip-sheathed decking without proper battening, wind gets underneath and lifts it almost immediately. We've seen improperly tarped roofs in Jones County sustain more water intrusion *after* the initial storm than during it, simply because a loose tarp acts like a sail and peels away. Our crews are specifically trained to identify skip-sheathing on contact and adapt the fastening approach accordingly, it takes a little longer, but the tarp stays put through the next round of weather.
 
-If your property in Moselle has been damaged by a storm, fire, or any event that has left it exposed to the elements, call HomeLyft Restoration MS at +12282845200. We will walk you through what needs to happen in the next few hours, dispatch a crew, and make sure your home is secured before conditions get worse.
+If your property in Moselle has been damaged by a storm, fire, or any event that has left it exposed to the elements, call HomeLyft Restoration Gulfport at +12282845200. We will walk you through what needs to happen in the next few hours, dispatch a crew, and make sure your home is secured before conditions get worse.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Sandersville, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Fire Damage Restoration in Sandersville, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Fire Damage Restoration in Sandersville"
 meta_description: "24/7 emergency fire damage restoration in Sandersville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "fire damage restoration sandersville"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Fire damage emergency in Sandersville? We answer 24/7.** Call now and our crew heads out to secure the property and start the recovery.
 
-A house fire in Sandersville leaves more than charred walls, it leaves a smell that seeps into every closet, a layer of soot that settles on surfaces two rooms away from the flames, and a structural uncertainty that no homeowner should try to assess alone. Mississippi's warm, humid climate means that smoke residue and moisture from firefighting efforts can begin promoting secondary damage within hours, making the window between the fire trucks leaving and a professional team arriving critically short. HomeLyft Restoration MS responds to fire damage calls throughout Jones County and the surrounding region, bringing IICRC FSRT-certified technicians and a documented restoration process to every job.
+A house fire in Sandersville leaves more than charred walls, it leaves a smell that seeps into every closet, a layer of soot that settles on surfaces two rooms away from the flames, and a structural uncertainty that no homeowner should try to assess alone. Mississippi's warm, humid climate means that smoke residue and moisture from firefighting efforts can begin promoting secondary damage within hours, making the window between the fire trucks leaving and a professional team arriving critically short. HomeLyft Restoration Gulfport responds to fire damage calls throughout Jones County and the surrounding region, bringing IICRC FSRT-certified technicians and a documented restoration process to every job.
 
 ## Why Sandersville Properties Face Particular Fire Damage Challenges
 
@@ -48,7 +48,7 @@ For homes with older construction common in this part of Jones County, we pay pa
 
 ## Reaching Sandersville from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport, and our crews travel throughout Mississippi for fire and smoke restoration work. When you call +12282845200, our team will confirm scheduling and give you an honest arrival window based on current crew availability, we won't quote a response time we can't back up. While Sandersville is an inland community that requires drive time from the coast, we prioritize fire damage calls because of how quickly secondary damage accumulates after a structural fire.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and our crews travel throughout Mississippi for fire and smoke restoration work. When you call +12282845200, our team will confirm scheduling and give you an honest arrival window based on current crew availability, we won't quote a response time we can't back up. While Sandersville is an inland community that requires drive time from the coast, we prioritize fire damage calls because of how quickly secondary damage accumulates after a structural fire.
 
 If you're waiting for our crew, the most useful things you can do are: avoid running your HVAC system (it will circulate soot through every duct in the house), keep foot traffic in burned areas minimal to prevent soot from being ground into flooring, and contact your insurance carrier to open a claim number before we arrive.
 
@@ -62,4 +62,4 @@ If your policy includes an ALE (Additional Living Expenses) provision, that cove
 
 In older wood-frame homes throughout Jones County, original heart pine flooring and interior trim are common, materials that are expensive to replace and often irreplaceable with modern lumber. Fire and smoke damage to heart pine doesn't automatically mean replacement. With careful dry ice blasting and chemical sponge work, we've restored heavily sooted heart pine surfaces that a less experienced crew would have torn out. If your home has original flooring or millwork, let us assess it before any demolition decisions are made, salvaging those materials can meaningfully reduce your overall claim cost and preserve the character of the home.
 
-If your Sandersville property has sustained fire or smoke damage, call HomeLyft Restoration MS at +12282845200. We'll walk you through what to expect, schedule your inspection, and begin the documentation process that gets your home, and your claim, moving in the right direction.
+If your Sandersville property has sustained fire or smoke damage, call HomeLyft Restoration Gulfport at +12282845200. We'll walk you through what to expect, schedule your inspection, and begin the documentation process that gets your home, and your claim, moving in the right direction.

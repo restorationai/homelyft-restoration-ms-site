@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in St. Martin, MS | HomeLyft Restoration MS"
+title: "Restoration Services in St. Martin, MS | HomeLyft Restoration Gulfport"
 h1: "Restoration Services in St. Martin"
 meta_description: "Serving St. Martin, MS with water, fire, mold, and storm damage restoration. IICRC-certified team. Call +12282845200."
 primary_keyword: "restoration services st. martin"
@@ -19,7 +19,7 @@ state: "MS"
 primary: false
 rendered: true
 ---
-When water soaks through a ceiling, smoke settles into drywall, or mold starts colonizing a crawl space, St. Martin property owners need a restoration crew that knows this corner of Jackson County, not a call center that dispatches from three counties away. HomeLyft Restoration MS handles water damage mitigation, fire and smoke cleanup, mold remediation, and structural drying for homes and commercial properties throughout St. Martin, working directly with insurance carriers to document losses and move the process forward.
+When water soaks through a ceiling, smoke settles into drywall, or mold starts colonizing a crawl space, St. Martin property owners need a restoration crew that knows this corner of Jackson County, not a call center that dispatches from three counties away. HomeLyft Restoration Gulfport handles water damage mitigation, fire and smoke cleanup, mold remediation, and structural drying for homes and commercial properties throughout St. Martin, working directly with insurance carriers to document losses and move the process forward.
 
 ## Restoration emergencies common in St. Martin
 
@@ -47,7 +47,7 @@ Once mitigation is complete, many property owners need the damaged areas rebuilt
 
 ## Coverage and how fast we can get there
 
-HomeLyft Restoration MS operates out of Gulfport, roughly 10 to 15 miles west of St. Martin via US-90 or I-10. The drive to most St. Martin addresses is straightforward, US-90 east through Biloxi connects to the residential streets off Martin Bluff Road and the neighborhoods clustered around the Back Bay shoreline without significant routing complications. For property managers or homeowners ready to schedule, call **(228) 284-5200** to confirm current availability and get a crew dispatched. Response timing depends on current job load and time of day, so calling ahead rather than waiting is always the better move.
+HomeLyft Restoration Gulfport operates out of Gulfport, roughly 10 to 15 miles west of St. Martin via US-90 or I-10. The drive to most St. Martin addresses is straightforward, US-90 east through Biloxi connects to the residential streets off Martin Bluff Road and the neighborhoods clustered around the Back Bay shoreline without significant routing complications. For property managers or homeowners ready to schedule, call **(228) 284-5200** to confirm current availability and get a crew dispatched. Response timing depends on current job load and time of day, so calling ahead rather than waiting is always the better move.
 
 ## Building stock, site conditions, and permits in St. Martin
 
@@ -55,4 +55,4 @@ St. Martin is unincorporated, so building permits come from Jackson County rathe
 
 Material vintage shapes the scope. Homes from the late 1970s through the 1990s often mix copper, CPVC, and in some cases gray polybutylene supply lines, with cast iron drains under older slabs. Sandy surface soils over denser clay drain fast at grade and then hold water below.
 
-If you're dealing with water, fire, mold, or storm damage at a St. Martin property, the earlier you call, the more options you have. Waiting, even a day or two, narrows the remediation path and can turn a contained problem into a full gut job. Reach HomeLyft Restoration MS at **(228) 284-5200** to talk through what you're seeing and get the process started.
+If you're dealing with water, fire, mold, or storm damage at a St. Martin property, the earlier you call, the more options you have. Waiting, even a day or two, narrows the remediation path and can turn a contained problem into a full gut job. Reach HomeLyft Restoration Gulfport at **(228) 284-5200** to talk through what you're seeing and get the process started.

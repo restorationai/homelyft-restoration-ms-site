@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Picayune, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Fire Damage Restoration in Picayune, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Fire Damage Restoration in Picayune"
 meta_description: "24/7 emergency fire damage restoration in Picayune, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "fire damage restoration picayune"
@@ -41,7 +41,7 @@ Because many Picayune properties contain pre-1978 painted surfaces, our EPA Lead
 
 ## Reaching Picayune from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport and reaches Picayune via US-49 North, a route that runs roughly 55 miles through Wiggins and into Pearl River County. Call volume and time of day affect drive time, so we encourage homeowners to call as soon as the fire department clears the scene, the earlier we can dispatch, the sooner emergency stabilization begins and the more secondary damage we can prevent. When you call **+1 (228) 284-5200**, a team member will walk you through what to do (and what not to touch) while the crew is in transit.
+HomeLyft Restoration Gulfport operates out of Gulfport and reaches Picayune via US-49 North, a route that runs roughly 55 miles through Wiggins and into Pearl River County. Call volume and time of day affect drive time, so we encourage homeowners to call as soon as the fire department clears the scene, the earlier we can dispatch, the sooner emergency stabilization begins and the more secondary damage we can prevent. When you call **+1 (228) 284-5200**, a team member will walk you through what to do (and what not to touch) while the crew is in transit.
 
 ## Insurance Coordination for Picayune Fire Claims
 
@@ -53,4 +53,4 @@ If your property is financed, your lender's name may appear on the insurance che
 
 One pattern that comes up specifically in Picayune fire jobs: the city's older residential areas include a notable number of homes with attached carports rather than enclosed garages, and fires that start in vehicles or lawn equipment stored in those carports frequently involve melted vinyl siding, damaged soffit vents, and smoke infiltration into the attic space through the open eave. The attic damage is easy to miss on a surface inspection, but smoke that enters through a soffit vent coats the underside of roof decking and insulation batts, and the odor will return every time the HVAC system pulls air from that space. We inspect attic cavities as a standard step on any Picayune fire job where the structure has an attached carport or open-eave roofline.
 
-If your home in Picayune has been affected by fire or smoke, the window for limiting secondary damage is short. Call HomeLyft Restoration MS at **+1 (228) 284-5200** to schedule an assessment and get the stabilization process started.
+If your home in Picayune has been affected by fire or smoke, the window for limiting secondary damage is short. Call HomeLyft Restoration Gulfport at **+1 (228) 284-5200** to schedule an assessment and get the stabilization process started.

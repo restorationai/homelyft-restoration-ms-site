@@ -83,4 +83,4 @@ If the fire was contained to a small area, a stovetop grease fire that was extin
 
 Fire damage and smoke damage restoration are related but distinct disciplines. A contractor who handles one should handle both, otherwise you risk gaps in the scope that leave odor or residue behind.
 
-If you're dealing with fire or smoke damage in the Gulfport area and need to understand your next steps, HomeLyft Restoration MS can walk you through the process and coordinate directly with your insurance carrier. Reach them at (228) 284-5200.
+If you're dealing with fire or smoke damage in the Gulfport area and need to understand your next steps, HomeLyft Restoration Gulfport can walk you through the process and coordinate directly with your insurance carrier. Reach them at (228) 284-5200.

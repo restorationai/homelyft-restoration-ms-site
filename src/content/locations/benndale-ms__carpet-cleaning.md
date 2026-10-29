@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Benndale, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Benndale, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Benndale"
 meta_description: "Carpet cleaning in Benndale, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning benndale"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-Benndale sits in the piney woods of George County, where the humid Gulf Coast air pushes north and settles into homes year-round. That persistent humidity, combined with the fine red clay and sandy loam soil common to this part of Mississippi, means carpets here work harder than in drier climates. Tracked-in mud from unpaved driveways, pollen from longleaf pine, and moisture that never fully leaves the air between May and October all conspire to grind deep into carpet fibers. HomeLyft Restoration MS brings IICRC-certified carpet cleaning to Benndale homes and businesses, with methods matched to what this specific environment actually does to flooring.
+Benndale sits in the piney woods of George County, where the humid Gulf Coast air pushes north and settles into homes year-round. That persistent humidity, combined with the fine red clay and sandy loam soil common to this part of Mississippi, means carpets here work harder than in drier climates. Tracked-in mud from unpaved driveways, pollen from longleaf pine, and moisture that never fully leaves the air between May and October all conspire to grind deep into carpet fibers. HomeLyft Restoration Gulfport brings IICRC-certified carpet cleaning to Benndale homes and businesses, with methods matched to what this specific environment actually does to flooring.
 
 ## Why Benndale Carpets Face Unusual Wear
 
@@ -40,7 +40,7 @@ Stain treatment follows extraction, not the reverse. Treating stains before full
 
 ## Reaching Benndale from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport, and Benndale is a straightforward run north on US-49 through Hattiesburg and into George County. We schedule Benndale appointments with enough lead time to account for the drive and arrive with a fully stocked truck, no supply runs, no partial setups. Customers in the Benndale area should call +12282845200 to book; our team will confirm a scheduling window that works for your household or business.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and Benndale is a straightforward run north on US-49 through Hattiesburg and into George County. We schedule Benndale appointments with enough lead time to account for the drive and arrive with a fully stocked truck, no supply runs, no partial setups. Customers in the Benndale area should call +12282845200 to book; our team will confirm a scheduling window that works for your household or business.
 
 For commercial clients with multiple locations across George or Stone County, we can coordinate consecutive-day scheduling to minimize disruption across sites.
 
@@ -50,4 +50,4 @@ One pattern we've noticed specific to homes in the Benndale area: properties wit
 
 If your home has that characteristic mid-century construction with a raised foundation, mention it when you call, it shapes how we approach the job from the start.
 
-When the George County humidity has done its work on your floors, HomeLyft Restoration MS is ready to reverse it. Call +12282845200 to schedule professional carpet cleaning in Benndale and get an honest assessment of what your carpets actually need.
+When the George County humidity has done its work on your floors, HomeLyft Restoration Gulfport is ready to reverse it. Call +12282845200 to schedule professional carpet cleaning in Benndale and get an honest assessment of what your carpets actually need.

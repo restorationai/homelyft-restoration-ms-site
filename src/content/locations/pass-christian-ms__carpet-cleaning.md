@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Pass Christian, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Pass Christian, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Pass Christian"
 meta_description: "Carpet cleaning in Pass Christian, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning pass christian"
@@ -42,7 +42,7 @@ After extraction, we apply a sanitizing rinse that reduces bacterial load, relev
 
 ## Reaching Pass Christian from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport, which puts Pass Christian within a short drive west along U.S. Highway 90. That beachfront corridor is our most direct route, and we know it well, including the seasonal traffic patterns around the harbor area and the stretch near Henderson Point where the road narrows. For properties set back from the beach along the older residential streets north of the highway, we typically approach via MS-53 to avoid congestion near the waterfront during peak hours.
+HomeLyft Restoration Gulfport is based in Gulfport, which puts Pass Christian within a short drive west along U.S. Highway 90. That beachfront corridor is our most direct route, and we know it well, including the seasonal traffic patterns around the harbor area and the stretch near Henderson Point where the road narrows. For properties set back from the beach along the older residential streets north of the highway, we typically approach via MS-53 to avoid congestion near the waterfront during peak hours.
 
 We schedule Pass Christian appointments with realistic arrival windows and call ahead when we're en route so you're not waiting with an open door.
 
@@ -50,4 +50,4 @@ We schedule Pass Christian appointments with realistic arrival windows and call 
 
 Something we've noticed working in Pass Christian specifically: homes that were elevated after Hurricane Katrina, raised on piers or extended foundations, often have crawl space ventilation gaps that pull humid outside air directly under the subfloor. That airflow is good for the structure but rough on carpet and pad on the first floor. If your downstairs carpet consistently feels slightly damp or develops a musty smell a few weeks after cleaning, the issue is almost certainly that crawl space airflow meeting the slab or subfloor, not the carpet itself. We flag this when we see it and can recommend a moisture barrier consultation before we clean, so the results actually last.
 
-If you're dealing with carpet that's been through a lot, Gulf Coast weather, sandy foot traffic, and a few storm seasons, a professional deep clean can extend its life significantly and improve the air quality inside your home. Call HomeLyft Restoration MS at +12282845200 to schedule carpet cleaning in Pass Christian, and we'll give you a straight assessment of what your floors need before we start any work.
+If you're dealing with carpet that's been through a lot, Gulf Coast weather, sandy foot traffic, and a few storm seasons, a professional deep clean can extend its life significantly and improve the air quality inside your home. Call HomeLyft Restoration Gulfport at +12282845200 to schedule carpet cleaning in Pass Christian, and we'll give you a straight assessment of what your floors need before we start any work.

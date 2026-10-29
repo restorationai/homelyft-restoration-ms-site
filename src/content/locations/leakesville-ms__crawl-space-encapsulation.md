@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Leakesville, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Leakesville, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Leakesville"
 meta_description: "Crawl space encapsulation in Leakesville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation leakesville"
@@ -38,7 +38,7 @@ Our team holds IICRC certification in water damage restoration and applied struc
 
 ## Reaching Leakesville from Our Gulfport Base
 
-HomeLyft Restoration MS operates out of Gulfport, and Leakesville is a meaningful drive north, the route typically runs up through the Hattiesburg area before heading northeast into Greene County. Because of that distance, we coordinate scheduling carefully and come fully equipped for the job in a single mobilization. For encapsulation projects, that means the liner material, dehumidification equipment, sealing supplies, and any supplemental drying gear are all on the truck before we leave the coast. We do not make multiple trips for a straightforward encapsulation.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Leakesville is a meaningful drive north, the route typically runs up through the Hattiesburg area before heading northeast into Greene County. Because of that distance, we coordinate scheduling carefully and come fully equipped for the job in a single mobilization. For encapsulation projects, that means the liner material, dehumidification equipment, sealing supplies, and any supplemental drying gear are all on the truck before we leave the coast. We do not make multiple trips for a straightforward encapsulation.
 
 For homeowners who have identified an active moisture problem or early-stage mold growth alongside the encapsulation need, we handle both scopes under one visit when conditions allow, which avoids the cost and scheduling friction of bringing in separate contractors.
 
@@ -46,4 +46,4 @@ For homeowners who have identified an active moisture problem or early-stage mol
 
 One pattern we have observed in older Greene County homes is that the crawl space access hatch is frequently located in a closet floor or beneath a bathroom vanity, tight, awkward entry points that slow the inspection and liner installation process compared to a standard exterior hatch. If your home was built before 1975 and you have not had a crawl space inspection recently, it is worth locating that access point before we arrive so we can plan the job accurately. In some cases, cutting a proper exterior access door as part of the encapsulation scope makes future inspections and maintenance significantly easier and is worth discussing when you call.
 
-Crawl space problems in Leakesville tend to compound quietly. By the time a homeowner notices a soft floor or a persistent musty odor in the living area, the moisture damage underneath has usually been progressing for at least one full seasonal cycle. An encapsulated crawl space with a properly sized dehumidifier stops that cycle and protects the structural framing, insulation, and subfloor that hold the rest of the house up. Call HomeLyft Restoration MS at +12282845200 to schedule an inspection for your Leakesville property.
+Crawl space problems in Leakesville tend to compound quietly. By the time a homeowner notices a soft floor or a persistent musty odor in the living area, the moisture damage underneath has usually been progressing for at least one full seasonal cycle. An encapsulated crawl space with a properly sized dehumidifier stops that cycle and protects the structural framing, insulation, and subfloor that hold the rest of the house up. Call HomeLyft Restoration Gulfport at +12282845200 to schedule an inspection for your Leakesville property.

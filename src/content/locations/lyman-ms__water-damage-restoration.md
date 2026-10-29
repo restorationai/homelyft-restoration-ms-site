@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Lyman, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Water Damage Restoration in Lyman, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Water Damage Restoration in Lyman"
 meta_description: "24/7 emergency water damage restoration in Lyman, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "water damage restoration lyman"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Water damage emergency in Lyman? We answer 24/7.** Call now and our crew heads out to stop the water and start drying your property.
 
-Lyman sits in Harrison County where the Gulf Coast's humidity rarely lets up, even a slow pipe drip behind a cabinet can turn into a mold-ready environment within 48 to 72 hours when summer dew points hover in the low 70s. That combination of subtropical heat, older slab-on-grade construction common throughout this part of the county, and soil that drains poorly after heavy rain events means water damage here tends to spread faster and deeper than homeowners expect. HomeLyft Restoration MS responds out of Gulfport and handles the full scope: water extraction, structural drying, moisture mapping, and controlled demolition of unsalvageable materials, all documented for your insurance carrier.
+Lyman sits in Harrison County where the Gulf Coast's humidity rarely lets up, even a slow pipe drip behind a cabinet can turn into a mold-ready environment within 48 to 72 hours when summer dew points hover in the low 70s. That combination of subtropical heat, older slab-on-grade construction common throughout this part of the county, and soil that drains poorly after heavy rain events means water damage here tends to spread faster and deeper than homeowners expect. HomeLyft Restoration Gulfport responds out of Gulfport and handles the full scope: water extraction, structural drying, moisture mapping, and controlled demolition of unsalvageable materials, all documented for your insurance carrier.
 
 ## Why Lyman Properties See Water Damage Issues
 
@@ -53,4 +53,4 @@ If your policy includes an anti-concurrent causation clause, common in Gulf Coas
 
 One pattern we see repeatedly in Lyman and the surrounding Harrison County communities: homes with central HVAC systems that share ductwork between floors or between a garage and living space. When a water loss occurs near a supply or return vent, the air handler can pull humid air from the wet zone and distribute it throughout the house, seeding moisture problems in rooms that were never directly affected by the original leak. During our initial assessment, we check supply and return locations relative to the loss area and, when necessary, isolate the system or adjust airflow to prevent the HVAC from working against the drying equipment.
 
-If you are dealing with standing water, wet walls, or flooring that has been saturated by a burst pipe, appliance failure, or storm intrusion anywhere in Lyman, call HomeLyft Restoration MS at +12282845200. We will assess the damage, walk you through the restoration process, and get the documentation started so your claim moves forward without unnecessary delays.
+If you are dealing with standing water, wet walls, or flooring that has been saturated by a burst pipe, appliance failure, or storm intrusion anywhere in Lyman, call HomeLyft Restoration Gulfport at +12282845200. We will assess the damage, walk you through the restoration process, and get the documentation started so your claim moves forward without unnecessary delays.

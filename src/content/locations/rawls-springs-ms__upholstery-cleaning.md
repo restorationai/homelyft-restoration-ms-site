@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Rawls Springs, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Rawls Springs, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Rawls Springs"
 meta_description: "24/7 upholstery cleaning in Rawls Springs, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning rawls springs"
@@ -38,4 +38,4 @@ We run scheduled upholstery appointments out to Rawls Springs and the surroundin
 
 One detail that catches homeowners off guard: pine sap and resin from the loblolly and longleaf pines common around Rawls Springs can transfer onto outdoor-adjacent furniture, porches converted to sunrooms, and even fabric near open windows during pollen season. Standard upholstery shampoo doesn't touch sap. We use a solvent-based spot treatment before the main cleaning pass on any piece that's been near open windows or a covered porch, otherwise the sap just re-embeds into the fibers during extraction.
 
-If your sofa, sectional, or leather furniture in Rawls Springs is holding onto odor, pollen, or ground-in soil that regular vacuuming won't touch, call HomeLyft Restoration MS at (228) 284-5200. We'll walk through the fabric type on the phone, give you a straightforward answer on what the cleaning will involve, and get a visit scheduled that fits your week.
+If your sofa, sectional, or leather furniture in Rawls Springs is holding onto odor, pollen, or ground-in soil that regular vacuuming won't touch, call HomeLyft Restoration Gulfport at (228) 284-5200. We'll walk through the fabric type on the phone, give you a straightforward answer on what the cleaning will involve, and get a visit scheduled that fits your week.

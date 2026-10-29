@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in St. Martin, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in St. Martin, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in St. Martin"
 meta_description: "24/7 emergency board-up and tarping in St. Martin, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping st. martin"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Need an emergency board-up in St. Martin? We answer 24/7.** Call now and our crew heads out to secure broken windows, doors and roofs.
 
-St. Martin sits in the coastal lowlands of Jackson County, where Gulf storms, high humidity, and the occasional tornado can leave a home exposed to the elements within minutes. When a tree limb punches through a roof, a fire blows out windows, or a fast-moving storm peels back siding, every hour the structure stays open accelerates the damage, rain soaks into framing, insects move in, and opportunistic theft becomes a real concern. HomeLyft Restoration MS responds from Gulfport to secure St. Martin properties before secondary damage compounds the original loss.
+St. Martin sits in the coastal lowlands of Jackson County, where Gulf storms, high humidity, and the occasional tornado can leave a home exposed to the elements within minutes. When a tree limb punches through a roof, a fire blows out windows, or a fast-moving storm peels back siding, every hour the structure stays open accelerates the damage, rain soaks into framing, insects move in, and opportunistic theft becomes a real concern. HomeLyft Restoration Gulfport responds from Gulfport to secure St. Martin properties before secondary damage compounds the original loss.
 
 ## Why St. Martin Properties Face Elevated Board-Up and Tarping Risks
 
@@ -41,7 +41,7 @@ Every secured opening is documented with timestamped photographs and a written s
 
 ## Reaching St. Martin from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, placing St. Martin well within our primary service corridor. The most direct route runs east along U.S. Highway 90 or via Interstate 10 depending on traffic, putting our crew on the ground in St. Martin for prompt scheduling on urgent calls. We coordinate arrival windows with property owners and, where needed, with local fire or police personnel who may still be on scene, particularly important when a structure has been red-tagged and access requires sign-off before work can begin.
+HomeLyft Restoration Gulfport operates out of Gulfport, placing St. Martin well within our primary service corridor. The most direct route runs east along U.S. Highway 90 or via Interstate 10 depending on traffic, putting our crew on the ground in St. Martin for prompt scheduling on urgent calls. We coordinate arrival windows with property owners and, where needed, with local fire or police personnel who may still be on scene, particularly important when a structure has been red-tagged and access requires sign-off before work can begin.
 
 ## St. Martin Insurance Coordination for Board-Up and Tarping
 
@@ -53,4 +53,4 @@ If your property is in a flood zone, and portions of coastal Jackson County carr
 
 One pattern that comes up repeatedly on St. Martin properties built in the 1970s and 1980s is the use of T1-11 plywood siding, a material that was popular in coastal Mississippi construction of that era. When storm or fire damage exposes the edges of T1-11 panels, they wick moisture extremely fast and begin to delaminate within 48 to 72 hours. A standard board-up that covers only the window opening may leave exposed T1-11 edges unprotected. On these homes, we extend the plywood coverage to overlap the siding edge by several inches and apply a bead of weatherproof sealant along the top edge, a small addition that prevents a secondary damage claim from showing up six weeks later.
 
-If your St. Martin home has been damaged by storm, fire, or any event leaving it open to the elements, call HomeLyft Restoration MS at +12282845200. We will assess the breach, secure the structure, and give you the documentation you need to move your insurance claim forward without delay.
+If your St. Martin home has been damaged by storm, fire, or any event leaving it open to the elements, call HomeLyft Restoration Gulfport at +12282845200. We will assess the breach, secure the structure, and give you the documentation you need to move your insurance claim forward without delay.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Reconstruction Services in Pass Christian, MS | HomeLyft Restoration MS"
+title: "Reconstruction Services in Pass Christian, MS | HomeLyft Restoration Gulfport"
 h1: "Reconstruction Services in Pass Christian"
 meta_description: "24/7 reconstruction services in Pass Christian, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "reconstruction services pass christian"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Reconstruction Services"
 rendered: true
 ---
-**Reconstruction after storm or fire damage in Pass Christian looks different than it does twenty miles inland.** Between the salt air working on framing lumber, the mix of historic cottages and post-Katrina pier-built homes along the beachfront, and a building code that got a lot stricter after 2005, rebuilding here means matching new structure to a very specific coastal context. HomeLyft Restoration MS handles the full arc, from tear-out through final trim, for homeowners who need the structural work done right the first time.
+**Reconstruction after storm or fire damage in Pass Christian looks different than it does twenty miles inland.** Between the salt air working on framing lumber, the mix of historic cottages and post-Katrina pier-built homes along the beachfront, and a building code that got a lot stricter after 2005, rebuilding here means matching new structure to a very specific coastal context. HomeLyft Restoration Gulfport handles the full arc, from tear-out through final trim, for homeowners who need the structural work done right the first time.
 
 ## Why Pass Christian Properties See Reconstruction Needs
 
@@ -42,4 +42,4 @@ Our crews run west out of Gulfport along Highway 90, which keeps us close to Pas
 
 One thing that trips up out-of-town contractors: soil conditions along Pass Christian's beachfront lots are sandier and less stable than the clay-heavy ground a few blocks inland, which changes how pier footings and foundation repairs get engineered. A reconstruction plan that works fine for a slab home near the railroad tracks can under-perform on a sandy beachfront lot if the footing depth isn't adjusted for it. We factor that into the structural plan before any lumber gets ordered, not after.
 
-If your Pass Christian property needs reconstruction after fire, wind, or flood damage, call HomeLyft Restoration MS at (228) 284-5200. We're licensed in Mississippi (#RO 2728) and available around the clock to get a structural assessment started.
+If your Pass Christian property needs reconstruction after fire, wind, or flood damage, call HomeLyft Restoration Gulfport at (228) 284-5200. We're licensed in Mississippi (#RO 2728) and available around the clock to get a structural assessment started.

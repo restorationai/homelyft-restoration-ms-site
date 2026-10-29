@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Lumberton, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Lumberton, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Lumberton"
 meta_description: "24/7 upholstery cleaning in Lumberton, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning lumberton"
@@ -38,4 +38,4 @@ We run crews out from Gulfport into Lamar County regularly, and Lumberton's loca
 
 A lot of homes in and around Lumberton rely on well water rather than municipal supply, and hard water minerals can leave a faint yellow-brown ring on light-colored fabric upholstery after a spill dries, especially near baseboards where furniture sits close to exterior walls. That ring often gets mistaken for a pet stain or old water damage, but it's mineral deposit from the water itself, and it needs a different pre-treatment than an organic stain to lift fully without leaving a halo behind.
 
-If your sofa, sectional, or leather recliner has been holding onto odor, visible staining, or that persistent damp feeling that never quite airs out, call HomeLyft Restoration MS at (228) 284-5200. We clean fabric and leather upholstery throughout Lumberton and the rest of Lamar County, and we schedule appointments around your day rather than making you rearrange your week for us.
+If your sofa, sectional, or leather recliner has been holding onto odor, visible staining, or that persistent damp feeling that never quite airs out, call HomeLyft Restoration Gulfport at (228) 284-5200. We clean fabric and leather upholstery throughout Lumberton and the rest of Lamar County, and we schedule appointments around your day rather than making you rearrange your week for us.

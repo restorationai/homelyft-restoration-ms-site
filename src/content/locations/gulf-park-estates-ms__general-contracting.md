@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Gulf Park Estates, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Gulf Park Estates, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Gulf Park Estates"
 meta_description: "Renovations, remodels and general contracting in Gulf Park Estates, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting gulf park estates"
@@ -40,7 +40,7 @@ For post-damage rebuilds, the work that follows a water loss, fire, or storm, we
 
 ## Reaching Gulf Park Estates from Our Gulfport Base
 
-HomeLyft Restoration MS operates out of Gulfport, which puts Gulf Park Estates well within our regular service area, a straightforward run east on US-90 along the coast. For scheduled renovation work, we coordinate project start times to avoid the morning traffic on the Pass Road corridor and confirm access with homeowners in advance. On post-damage rebuild projects where timing is tied to insurance authorization, we move quickly once approvals are in hand.
+HomeLyft Restoration Gulfport operates out of Gulfport, which puts Gulf Park Estates well within our regular service area, a straightforward run east on US-90 along the coast. For scheduled renovation work, we coordinate project start times to avoid the morning traffic on the Pass Road corridor and confirm access with homeowners in advance. On post-damage rebuild projects where timing is tied to insurance authorization, we move quickly once approvals are in hand.
 
 ## Insurance and Code Coordination for Gulf Park Estates Renovations
 
@@ -50,4 +50,4 @@ Harrison County enforces the Mississippi Residential Building Code with wind-zon
 
 One thing that catches out-of-area contractors working in Gulf Park Estates: pier-and-beam homes close to the Back Bay often have crawl spaces that flood during heavy rain events even when the living area stays dry. When we scope a bathroom or kitchen remodel in one of these homes, we inspect the crawl space as part of the pre-construction walkthrough. More than once, a straightforward remodel has revealed standing water, deteriorated joists, or active mold colonization beneath the subfloor, conditions that need to be resolved before new tile or cabinetry goes in, or the finished work won't last.
 
-If you're ready to move forward on a renovation, remodel, or post-damage rebuild in Gulf Park Estates, call HomeLyft Restoration MS at +12282845200. We'll schedule a site visit, walk the full scope with you, and give you a written estimate that accounts for what's actually in your walls, not just what's visible from the doorway.
+If you're ready to move forward on a renovation, remodel, or post-damage rebuild in Gulf Park Estates, call HomeLyft Restoration Gulfport at +12282845200. We'll schedule a site visit, walk the full scope with you, and give you a written estimate that accounts for what's actually in your walls, not just what's visible from the doorway.

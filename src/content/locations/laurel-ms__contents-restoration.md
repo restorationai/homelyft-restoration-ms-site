@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in Laurel, MS | HomeLyft Restoration MS"
+title: "Contents Restoration and Storage in Laurel, MS | HomeLyft Restoration Gulfport"
 h1: "Contents Restoration and Storage in Laurel"
 meta_description: "Contents restoration and storage in Laurel, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "contents restoration and storage laurel"
@@ -48,4 +48,4 @@ Laurel's older neighborhoods include a meaningful number of homes with original 
 
 If you're in a home with this kind of character, original built-ins, antique furniture, heirloom textiles, mention it when you call. It changes how the crew stages the pack-out from the first hour on site.
 
-When smoke, water, or storm damage has turned your home upside down, the last thing you need is uncertainty about whether your belongings will come back in the same condition they left. Call HomeLyft Restoration MS at +12282845200 to schedule a contents assessment in Laurel, the inventory starts the same day, and nothing leaves your property without your sign-off.
+When smoke, water, or storm damage has turned your home upside down, the last thing you need is uncertainty about whether your belongings will come back in the same condition they left. Call HomeLyft Restoration Gulfport at +12282845200 to schedule a contents assessment in Laurel, the inventory starts the same day, and nothing leaves your property without your sign-off.

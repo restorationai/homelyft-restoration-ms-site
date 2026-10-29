@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in Hurley, MS | HomeLyft Restoration MS"
+title: "Asbestos Abatement in Hurley, MS | HomeLyft Restoration Gulfport"
 h1: "Asbestos Abatement in Hurley"
 meta_description: "Asbestos abatement in Hurley, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "asbestos abatement hurley"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Asbestos Abatement"
 rendered: true
 ---
-Hurley sits in the piney woods of Jackson County, Mississippi, where the humid Gulf Coast climate accelerates the deterioration of older building materials, including the asbestos-containing products that were standard in residential and light commercial construction through the late 1970s. Many homes and outbuildings in this part of Jackson County were built during that era, meaning floor tiles, pipe insulation, roofing felt, and textured ceiling coatings may still contain asbestos that looks perfectly intact but becomes hazardous the moment a renovation disturbs it. HomeLyft Restoration MS handles asbestos abatement in Hurley with the same licensed, EPA-compliant process we use across the Mississippi Gulf Coast, calibrated to the specific building stock and climate conditions here.
+Hurley sits in the piney woods of Jackson County, Mississippi, where the humid Gulf Coast climate accelerates the deterioration of older building materials, including the asbestos-containing products that were standard in residential and light commercial construction through the late 1970s. Many homes and outbuildings in this part of Jackson County were built during that era, meaning floor tiles, pipe insulation, roofing felt, and textured ceiling coatings may still contain asbestos that looks perfectly intact but becomes hazardous the moment a renovation disturbs it. HomeLyft Restoration Gulfport handles asbestos abatement in Hurley with the same licensed, EPA-compliant process we use across the Mississippi Gulf Coast, calibrated to the specific building stock and climate conditions here.
 
 ## Why Hurley Properties Are Prone to Asbestos Concerns
 
@@ -38,7 +38,7 @@ When abatement is confirmed necessary, our crew establishes a regulated work are
 
 After removal, the area undergoes a thorough HEPA vacuuming and wipe-down. Air clearance sampling confirms fiber counts are below regulatory thresholds before containment is removed and the space is released for reconstruction. The process is methodical by design, cutting corners on any step creates liability for the homeowner and real health risk for anyone in the building.
 
-HomeLyft Restoration MS holds EPA Lead-Safe Certification and OSHA training, and our team is equipped to handle projects where asbestos and lead-based paint are both present, a common combination in pre-1978 Gulf Coast homes.
+HomeLyft Restoration Gulfport holds EPA Lead-Safe Certification and OSHA training, and our team is equipped to handle projects where asbestos and lead-based paint are both present, a common combination in pre-1978 Gulf Coast homes.
 
 ## Reaching Hurley from Our Gulfport Base
 
@@ -48,4 +48,4 @@ Our operations are based in Gulfport, and Hurley is a straightforward run up thr
 
 One pattern we see consistently in older Hurley-area homes is deteriorating pipe insulation in crawl spaces that was never flagged during previous home inspections, because many home inspectors are not licensed asbestos inspectors and are not required to identify it. The gray or white wrap around older cast-iron or galvanized pipes in these crawl spaces is frequently an asbestos-containing material, and in Jackson County's damp conditions it tends to become brittle and friable well before the pipes themselves fail. If you've had any plumbing work done in a pre-1980 home and the plumber disturbed that insulation, it's worth having the crawl space assessed before assuming everything is fine.
 
-If you're in Hurley and you're not sure whether your home's materials have ever been tested, a straightforward inspection is the right first step. Call HomeLyft Restoration MS at +12282845200 to schedule asbestos testing or to discuss a full abatement scope, we'll give you a clear picture of what's there, what the risk level is, and what it takes to resolve it safely.
+If you're in Hurley and you're not sure whether your home's materials have ever been tested, a straightforward inspection is the right first step. Call HomeLyft Restoration Gulfport at +12282845200 to schedule asbestos testing or to discuss a full abatement scope, we'll give you a clear picture of what's there, what the risk level is, and what it takes to resolve it safely.

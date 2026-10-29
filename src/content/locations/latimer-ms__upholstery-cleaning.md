@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Latimer, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Latimer, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Latimer"
 meta_description: "24/7 upholstery cleaning in Latimer, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning latimer"
@@ -42,4 +42,4 @@ We use truck-mounted and portable hot water extraction units depending on the si
 
 One thing we watch for in Latimer specifically: sofas and chairs positioned against exterior walls in older, pre-HVAC-retrofit homes often test damper on the back panel than the cushions look like they should be. It's a slow, steady dampness from the wall itself rather than a spill, and it's the kind of thing that turns into a mildew odor problem months before anyone traces it back to the wall. When we clean upholstery in these homes, we check that back panel and recommend pulling the piece a few inches off the wall afterward so air can actually circulate behind it.
 
-If your furniture in Latimer is holding onto odor, stains, or a damp feeling that won't go away no matter how often you clean the surface, it's worth having it looked at properly rather than masking it with fabric spray. Call HomeLyft Restoration MS and we'll walk you through what your fabric or leather actually needs before we touch it.
+If your furniture in Latimer is holding onto odor, stains, or a damp feeling that won't go away no matter how often you clean the surface, it's worth having it looked at properly rather than masking it with fabric spray. Call HomeLyft Restoration Gulfport and we'll walk you through what your fabric or leather actually needs before we touch it.

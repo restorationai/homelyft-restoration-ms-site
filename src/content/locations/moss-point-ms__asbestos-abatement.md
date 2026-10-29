@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in Moss Point, MS | HomeLyft Restoration MS"
+title: "Asbestos Abatement in Moss Point, MS | HomeLyft Restoration Gulfport"
 h1: "Asbestos Abatement in Moss Point"
 meta_description: "Asbestos abatement in Moss Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "asbestos abatement moss point"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Asbestos Abatement"
 rendered: true
 ---
-Moss Point's older housing stock, much of it built during the Gulf Coast's mid-century industrial boom when Jackson County's shipbuilding and paper mill economy was at full stride, carries a quiet hazard that doesn't announce itself until a renovation crew cuts into the wrong wall. Asbestos was woven into the construction materials of that era: floor tile adhesive, pipe insulation, attic vermiculite, and especially the popcorn ceiling texture that still covers thousands of homes and rental properties across this city. HomeLyft Restoration MS handles asbestos abatement in Moss Point with the methodical care that material demands, and with the regulatory knowledge that Mississippi's Department of Environmental Quality requires before a single square foot comes down.
+Moss Point's older housing stock, much of it built during the Gulf Coast's mid-century industrial boom when Jackson County's shipbuilding and paper mill economy was at full stride, carries a quiet hazard that doesn't announce itself until a renovation crew cuts into the wrong wall. Asbestos was woven into the construction materials of that era: floor tile adhesive, pipe insulation, attic vermiculite, and especially the popcorn ceiling texture that still covers thousands of homes and rental properties across this city. HomeLyft Restoration Gulfport handles asbestos abatement in Moss Point with the methodical care that material demands, and with the regulatory knowledge that Mississippi's Department of Environmental Quality requires before a single square foot comes down.
 
 ## Why Moss Point Properties Face Elevated Asbestos Risk
 
@@ -38,7 +38,7 @@ Removal follows the Mississippi DEQ's asbestos NESHAP (National Emission Standar
 
 ## Reaching Moss Point from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport, and Moss Point sits roughly 45 miles to the east along US-90 and I-10, a straightforward corridor that our crews travel regularly for Jackson County projects. Scheduling is handled during business hours, and we coordinate site arrival times with property owners so work can begin without unnecessary delays. For properties near the Escatawpa River corridor or along the older residential streets closer to downtown Moss Point, we confirm site access in advance, particularly when equipment staging or a work van needs to occupy a narrow driveway or street frontage for a full workday.
+HomeLyft Restoration Gulfport is based in Gulfport, and Moss Point sits roughly 45 miles to the east along US-90 and I-10, a straightforward corridor that our crews travel regularly for Jackson County projects. Scheduling is handled during business hours, and we coordinate site arrival times with property owners so work can begin without unnecessary delays. For properties near the Escatawpa River corridor or along the older residential streets closer to downtown Moss Point, we confirm site access in advance, particularly when equipment staging or a work van needs to occupy a narrow driveway or street frontage for a full workday.
 
 ## Moss Point Insurance and Permit Coordination
 
@@ -50,4 +50,4 @@ On the permit side, Mississippi DEQ requires advance notification for asbestos a
 
 One pattern that comes up repeatedly in Moss Point is the combination of original hardwood flooring laid over asbestos-containing black mastic adhesive. Homeowners refinishing floors or installing new flooring often don't realize the adhesive beneath the wood, not the wood itself, is the concern. Disturbing that mastic with a floor sander or scraper can release fibers. If your home was built before 1980 and you're planning any flooring work, have the adhesive tested before the sander touches the floor. It's a straightforward sample to collect and it can save a significant remediation cost down the road.
 
-If you're dealing with a suspected asbestos material in your Moss Point home or commercial property, call HomeLyft Restoration MS at +12282845200 to schedule an inspection. Getting a confirmed answer is always the right first move, and it's the only way to know whether the material in question is safe to leave in place, encapsulate, or remove entirely.
+If you're dealing with a suspected asbestos material in your Moss Point home or commercial property, call HomeLyft Restoration Gulfport at +12282845200 to schedule an inspection. Getting a confirmed answer is always the right first move, and it's the only way to know whether the material in question is safe to leave in place, encapsulate, or remove entirely.

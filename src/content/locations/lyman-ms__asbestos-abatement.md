@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in Lyman, MS | HomeLyft Restoration MS"
+title: "Asbestos Abatement in Lyman, MS | HomeLyft Restoration Gulfport"
 h1: "Asbestos Abatement in Lyman"
 meta_description: "Asbestos abatement in Lyman, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "asbestos abatement lyman"
@@ -38,7 +38,7 @@ Waste is wetted, double-bagged in labeled asbestos disposal bags, and transporte
 
 ## Reaching Lyman from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, which puts Lyman well within the team's regular service corridor. The route along U.S. Highway 49 connects the two communities directly, making scheduling straightforward for both inspection appointments and multi-day abatement projects. For larger jobs that require equipment staging, negative air machines, HEPA vacuums, disposal containers, the team coordinates logistics in advance so that setup on day one is efficient and doesn't disrupt the surrounding property.
+HomeLyft Restoration Gulfport operates out of Gulfport, which puts Lyman well within the team's regular service corridor. The route along U.S. Highway 49 connects the two communities directly, making scheduling straightforward for both inspection appointments and multi-day abatement projects. For larger jobs that require equipment staging, negative air machines, HEPA vacuums, disposal containers, the team coordinates logistics in advance so that setup on day one is efficient and doesn't disrupt the surrounding property.
 
 ## Lyman Insurance Coordination for Asbestos Work
 
@@ -48,4 +48,4 @@ Asbestos abatement coverage varies considerably depending on how the claim origi
 
 One pattern that comes up repeatedly on older Lyman properties: popcorn ceilings that were painted over at some point in the 1980s or 1990s. Paint can actually stabilize asbestos-containing texture temporarily, but it also makes testing trickier, the lab sample has to penetrate the paint layer to reach the texture material underneath. Homeowners who've been told their ceilings "tested negative" should ask whether the sample was collected correctly, because a surface scrape of paint alone won't give you an accurate result. If you're planning to sand, scrape, or remove that ceiling before a repaint or renovation, get a proper sample collected by someone who knows what they're looking at.
 
-If you own or manage a property in Lyman and have questions about materials that may contain asbestos, call HomeLyft Restoration MS at +12282845200 to schedule an inspection. Getting the facts before any renovation work begins protects your family, your contractors, and your investment in the property.
+If you own or manage a property in Lyman and have questions about materials that may contain asbestos, call HomeLyft Restoration Gulfport at +12282845200 to schedule an inspection. Getting the facts before any renovation work begins protects your family, your contractors, and your investment in the property.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in State Line, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in State Line, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in State Line"
 meta_description: "Crawl space encapsulation in State Line, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation state line"
@@ -38,7 +38,7 @@ Foundation vents are sealed as part of the process when we convert to a conditio
 
 ## Reaching State Line from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport, and State Line is a meaningful drive north, we want to be straightforward about that. When you call to schedule an inspection or encapsulation work, we coordinate a confirmed appointment window so you're not waiting around. For homeowners in the State Line area, scheduling a morning slot typically allows our crew to arrive, complete the initial assessment, and begin prep work the same day on smaller projects. We handle the logistics; you don't need to manage multiple contractors or make a second trip to the property.
+HomeLyft Restoration Gulfport is based in Gulfport, and State Line is a meaningful drive north, we want to be straightforward about that. When you call to schedule an inspection or encapsulation work, we coordinate a confirmed appointment window so you're not waiting around. For homeowners in the State Line area, scheduling a morning slot typically allows our crew to arrive, complete the initial assessment, and begin prep work the same day on smaller projects. We handle the logistics; you don't need to manage multiple contractors or make a second trip to the property.
 
 ## Equipment and Methods We Use for Crawl Space Encapsulation
 
@@ -50,4 +50,4 @@ For homes with existing mold on framing, a common finding in State Line crawl sp
 
 One thing our crews have observed in older homes throughout the State Line corridor: many were built with pier-and-beam foundations that have settled unevenly over decades, leaving low spots in the crawl space floor where water pools after heavy rain rather than draining away. Before liner installation, we map those low points and, where necessary, grade the ground surface or install a sump point so water has somewhere to go. Skipping that step and simply laying liner over a bowl-shaped floor creates a hidden pond under your home, a mistake that's more common than it should be and one we specifically check for before any material goes down.
 
-If you're seeing soft spots in your flooring, a musty smell that lingers regardless of how much you clean, or energy bills that seem high relative to your square footage, the crawl space is often the place to start. Call HomeLyft Restoration MS at +12282845200 to schedule an inspection for your State Line property, we'll give you an honest assessment of what's there and what it will take to fix it.
+If you're seeing soft spots in your flooring, a musty smell that lingers regardless of how much you clean, or energy bills that seem high relative to your square footage, the crawl space is often the place to start. Call HomeLyft Restoration Gulfport at +12282845200 to schedule an inspection for your State Line property, we'll give you an honest assessment of what's there and what it will take to fix it.

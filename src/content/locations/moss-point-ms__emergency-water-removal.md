@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Removal & Cleanup in Moss Point, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Water Removal & Cleanup in Moss Point, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Water Removal & Cleanup in Moss Point"
 meta_description: "24/7 emergency water removal & cleanup in Moss Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency water removal & cleanup moss point"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
-**Water pooling in your Moss Point home or business right now?** Call HomeLyft Restoration MS and we answer 24/7, any day of the week, because standing water in Jackson County's humid Gulf Coast air starts causing secondary damage, swollen baseboards, lifting flooring, musty odor within hours, not days. We bring truck-mounted extraction and industrial drying equipment calibrated for the coast's moisture load, not generic gear pulled from a shelf.
+**Water pooling in your Moss Point home or business right now?** Call HomeLyft Restoration Gulfport and we answer 24/7, any day of the week, because standing water in Jackson County's humid Gulf Coast air starts causing secondary damage, swollen baseboards, lifting flooring, musty odor within hours, not days. We bring truck-mounted extraction and industrial drying equipment calibrated for the coast's moisture load, not generic gear pulled from a shelf.
 
 ## Why Moss Point Properties See Water Damage Issues
 
@@ -42,4 +42,4 @@ Most water losses we see in Moss Point run through homeowners insurance rather t
 
 A detail that catches a lot of Moss Point homeowners off guard: pier-and-beam homes near the river can look completely dry upstairs after a flood event while the crawl space underneath stays saturated for days, because the ventilation gaps that keep these foundations cool in summer also slow natural air movement after a flood. We treat crawl space extraction and drying as its own phase on these homes rather than assuming the job's done once the visible floors read dry.
 
-If water is spreading through your Moss Point home or business, don't wait on the drywall to start sagging. HomeLyft Restoration MS is licensed (#RO 2728) and answers around the clock for emergency water removal and cleanup across Jackson County, so call now and we'll get a crew moving.
+If water is spreading through your Moss Point home or business, don't wait on the drywall to start sagging. HomeLyft Restoration Gulfport is licensed (#RO 2728) and answers around the clock for emergency water removal and cleanup across Jackson County, so call now and we'll get a crew moving.

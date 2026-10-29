@@ -70,14 +70,14 @@ Once a scene is released, trauma and biohazard cleanup should be handled by a tr
 
 ## What Should You Do Next?
 
-If you're staring down hurricane season in Jackson County or you're already dealing with floodwater that's been sitting for more than a day, treat it as a biohazard until proven otherwise. [HomeLyft Restoration MS](/) responds to storm and biohazard calls across the Mississippi Gulf Coast, including Big Point, Hurley, and the surrounding Pascagoula River communities, and can scope both the structural drying and the sanitation side of a storm loss in one visit.
+If you're staring down hurricane season in Jackson County or you're already dealing with floodwater that's been sitting for more than a day, treat it as a biohazard until proven otherwise. [HomeLyft Restoration Gulfport](/) responds to storm and biohazard calls across the Mississippi Gulf Coast, including Big Point, Hurley, and the surrounding Pascagoula River communities, and can scope both the structural drying and the sanitation side of a storm loss in one visit.
 
 Getting your home properly dried, disinfected, and documented now is what keeps a storm event from turning into a second, slower problem, mold, lingering odor, or a denied insurance claim because the contamination wasn't addressed correctly the first time.
 
 ---
 
-**About HomeLyft Restoration MS**
+**About HomeLyft Restoration Gulfport**
 
-This post was written with the HomeLyft Restoration MS team, led by Terry Robinson. HomeLyft Restoration MS is an IICRC Certified Firm serving Gulfport and the Mississippi Gulf Coast since 2022, holding Mississippi license RO 2728. The company's technicians carry IICRC WRT, ASD, FSRT, and AMRT training along with OSHA safety training, and the crew handles water damage restoration, storm damage restoration, sewage cleanup, and biohazard cleanup across Jackson, Harrison, and Hancock counties, available 24/7 for emergency response.
+This post was written with the HomeLyft Restoration Gulfport team, led by Terry Robinson. HomeLyft Restoration Gulfport is an IICRC Certified Firm serving Gulfport and the Mississippi Gulf Coast since 2022, holding Mississippi license RO 2728. The company's technicians carry IICRC WRT, ASD, FSRT, and AMRT training along with OSHA safety training, and the crew handles water damage restoration, storm damage restoration, sewage cleanup, and biohazard cleanup across Jackson, Harrison, and Hancock counties, available 24/7 for emergency response.
 
-**Need help now?** [Call HomeLyft Restoration MS at +12282845200](tel:+12282845200).
+**Need help now?** [Call HomeLyft Restoration Gulfport at +12282845200](tel:+12282845200).

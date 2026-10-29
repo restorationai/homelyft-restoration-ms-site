@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Latimer, MS | HomeLyft Restoration MS"
+title: "Mold Remediation in Latimer, MS | HomeLyft Restoration Gulfport"
 h1: "Mold Remediation in Latimer"
 meta_description: "Mold remediation in Latimer, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "mold remediation latimer"
@@ -40,7 +40,7 @@ Structural drying follows removal. Our team holds IICRC AMRT (Applied Microbial 
 
 ## Reaching Latimer from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport, which puts Latimer within a short drive along the Harrison County road network. When you call, we can give you a realistic arrival window based on current conditions rather than a marketing promise. We schedule promptly and communicate clearly about timing, if there's a delay, you'll hear from us before you're left wondering.
+HomeLyft Restoration Gulfport is based in Gulfport, which puts Latimer within a short drive along the Harrison County road network. When you call, we can give you a realistic arrival window based on current conditions rather than a marketing promise. We schedule promptly and communicate clearly about timing, if there's a delay, you'll hear from us before you're left wondering.
 
 For properties that require coordination with a general contractor or structural repair crew after remediation, our Gulfport base means we're familiar with the local subcontractor network and can help sequence the work so reconstruction doesn't begin on materials that haven't fully dried.
 
@@ -52,4 +52,4 @@ One pattern that comes up specifically in Harrison County crawl spaces: the clay
 
 Mold claims in Mississippi can be complicated by policy language around "sudden and accidental" water damage versus long-term seepage. We document the loss thoroughly, moisture mapping, photographs of affected materials, written scope of work, in a format that adjusts claims handlers are accustomed to reviewing. We work directly with most major carriers and can communicate with your adjuster on your behalf to reduce the back-and-forth that slows down approvals. If your claim involves a dispute about coverage, our documentation gives you a clear record to support your case.
 
-If you've noticed a musty smell, visible discoloration on walls or ceilings, or recently had any water intrusion in your Latimer home, call HomeLyft Restoration MS at +12282845200. The sooner the moisture source and affected materials are assessed, the more contained, and less costly, the remediation tends to be.
+If you've noticed a musty smell, visible discoloration on walls or ceilings, or recently had any water intrusion in your Latimer home, call HomeLyft Restoration Gulfport at +12282845200. The sooner the moisture source and affected materials are assessed, the more contained, and less costly, the remediation tends to be.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Ocean Springs, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Ocean Springs, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Ocean Springs"
 meta_description: "Renovations, remodels and general contracting in Ocean Springs, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting ocean springs"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Ocean Springs carries a character that's hard to replicate, moss-draped live oaks, cottage-scale lots close to the Back Bay, and a housing stock that ranges from post-Katrina rebuilds to Craftsman bungalows that predate World War II. Renovating or remodeling here means working within that layered reality: salt-air corrosion on fasteners and fixtures, soils that shift with seasonal moisture, and a local aesthetic that neighbors and the city alike take seriously. HomeLyft Restoration MS brings licensed general contracting (RO #2728) and IICRC-certified restoration expertise together so that whether you're updating a kitchen, rebuilding after storm damage, or taking on a full interior remodel, the work is done right the first time.
+Ocean Springs carries a character that's hard to replicate, moss-draped live oaks, cottage-scale lots close to the Back Bay, and a housing stock that ranges from post-Katrina rebuilds to Craftsman bungalows that predate World War II. Renovating or remodeling here means working within that layered reality: salt-air corrosion on fasteners and fixtures, soils that shift with seasonal moisture, and a local aesthetic that neighbors and the city alike take seriously. HomeLyft Restoration Gulfport brings licensed general contracting (RO #2728) and IICRC-certified restoration expertise together so that whether you're updating a kitchen, rebuilding after storm damage, or taking on a full interior remodel, the work is done right the first time.
 
 ## Why Ocean Springs Homes Present Unique Renovation Challenges
 
@@ -43,7 +43,7 @@ For post-damage rebuilds, whether from hurricane wind, flooding, or fire, our II
 
 ## Reaching Ocean Springs from Our Gulfport Base
 
-HomeLyft Restoration MS is headquartered in Gulfport, putting Ocean Springs well within our primary service corridor. The drive east on US-90 along the beachfront, or via I-10 to the Washington Avenue corridor, keeps travel time manageable for both initial consultations and active job-site visits. We schedule project meetings and site checks around your availability and keep a consistent point of contact on every job, not a rotating crew of strangers.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, putting Ocean Springs well within our primary service corridor. The drive east on US-90 along the beachfront, or via I-10 to the Washington Avenue corridor, keeps travel time manageable for both initial consultations and active job-site visits. We schedule project meetings and site checks around your availability and keep a consistent point of contact on every job, not a rotating crew of strangers.
 
 For homeowners closer to the Back Bay waterfront or in the older residential blocks near downtown Ocean Springs, we're familiar with the narrower lots and mature tree canopy that can complicate material staging and dumpster placement. We plan for those logistics before the first day of work.
 
@@ -51,4 +51,4 @@ For homeowners closer to the Back Bay waterfront or in the older residential blo
 
 One thing that catches out-of-area contractors in Ocean Springs: the city's tree ordinance protects a significant number of heritage live oaks, and renovation projects that require equipment access or temporary material storage in a yard can inadvertently violate root-zone protections. We've learned to walk the site with that ordinance in mind, identifying protected trees, planning crane or lift positioning accordingly, and coordinating with the city when a project footprint comes close to a protected canopy. It's a small step that prevents costly stop-work orders mid-project.
 
-If your home or investment property in Ocean Springs is ready for a renovation, remodel, or post-damage rebuild, call HomeLyft Restoration MS at +1 (228) 284-5200. We'll schedule a walkthrough, give you an honest scope, and build a plan that holds up to the Coast's demands.
+If your home or investment property in Ocean Springs is ready for a renovation, remodel, or post-damage rebuild, call HomeLyft Restoration Gulfport at +1 (228) 284-5200. We'll schedule a walkthrough, give you an honest scope, and build a plan that holds up to the Coast's demands.

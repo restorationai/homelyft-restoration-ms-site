@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in DeLisle, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in DeLisle, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in DeLisle"
 meta_description: "24/7 emergency board-up and tarping in DeLisle, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping delisle"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Need an emergency board-up in DeLisle? We answer 24/7.** Call now and our crew heads out to secure broken windows, doors and roofs.
 
-DeLisle sits in a stretch of Harrison County where Gulf Coast storm systems don't just pass through, they linger. When a squall tears shingles off a roof on a Tuesday afternoon or a fire leaves a window frame charred and open to the elements, every hour without a proper board-up or tarp invites rain, humidity, and opportunistic wildlife into the structure. HomeLyft Restoration MS responds to those calls from its Gulfport base, covering DeLisle and the surrounding communities along the MS-53 corridor with the same urgency we'd bring to any coastal property facing an open exposure.
+DeLisle sits in a stretch of Harrison County where Gulf Coast storm systems don't just pass through, they linger. When a squall tears shingles off a roof on a Tuesday afternoon or a fire leaves a window frame charred and open to the elements, every hour without a proper board-up or tarp invites rain, humidity, and opportunistic wildlife into the structure. HomeLyft Restoration Gulfport responds to those calls from its Gulfport base, covering DeLisle and the surrounding communities along the MS-53 corridor with the same urgency we'd bring to any coastal property facing an open exposure.
 
 ## Why DeLisle Properties Are Especially Vulnerable After a Storm or Fire
 
@@ -51,4 +51,4 @@ Call us at **+1 (228) 284-5200** to describe the damage and we'll give you an ho
 
 One thing that catches out-of-area crews in DeLisle is the prevalence of older pier-and-beam homes where the roof overhangs extend further than typical modern construction. That extra overhang is great for shade but it means a standard tarp run from ridge to eave doesn't reach the drip edge, water still gets behind the fascia and into the soffit cavity. We account for that by measuring overhang depth before cutting tarp length, and we add a secondary seal strip along the fascia using self-adhering flashing tape on any home where the soffit shows prior moisture staining. It's a small detail that prevents a "tarped" roof from still leaking at the edges.
 
-If your DeLisle property has been damaged by a storm, fire, or any event that's left it open to the elements, call HomeLyft Restoration MS at **+1 (228) 284-5200**. We'll assess the exposure, secure the structure with materials and methods that hold through the next weather system, and give you documentation your adjuster can actually use.
+If your DeLisle property has been damaged by a storm, fire, or any event that's left it open to the elements, call HomeLyft Restoration Gulfport at **+1 (228) 284-5200**. We'll assess the exposure, secure the structure with materials and methods that hold through the next weather system, and give you documentation your adjuster can actually use.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in Ocean Springs, MS | HomeLyft Restoration MS"
+title: "Asbestos Abatement in Ocean Springs, MS | HomeLyft Restoration Gulfport"
 h1: "Asbestos Abatement in Ocean Springs"
 meta_description: "Asbestos abatement in Ocean Springs, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "asbestos abatement ocean springs"
@@ -38,7 +38,7 @@ After removal, a visual inspection and air clearance sampling confirm fiber leve
 
 ## Reaching Ocean Springs from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, which puts Ocean Springs well within our regular service area via US-90 east along the coast. The drive is straightforward under normal conditions, and we schedule jobs throughout Jackson County on a regular basis. When you call to schedule an inspection or abatement project, our team will confirm availability and give you a realistic arrival window, we'd rather be honest about timing than overpromise.
+HomeLyft Restoration Gulfport operates out of Gulfport, which puts Ocean Springs well within our regular service area via US-90 east along the coast. The drive is straightforward under normal conditions, and we schedule jobs throughout Jackson County on a regular basis. When you call to schedule an inspection or abatement project, our team will confirm availability and give you a realistic arrival window, we'd rather be honest about timing than overpromise.
 
 For properties closer to the downtown Ocean Springs area or near the Back Bay waterfront, access and parking logistics can sometimes affect setup time for containment equipment. We account for that in our pre-job walkthrough so there are no surprises on the day work begins.
 
@@ -52,4 +52,4 @@ If your project is a planned renovation rather than an insurance claim, we can p
 
 One pattern we've noticed specifically in older Ocean Springs properties: homes that sustained water intrusion during past hurricane seasons, and were repaired quickly without full gut-outs, often have layered flooring. Original asbestos-containing vinyl tile was covered with a second layer of flooring rather than removed. When a current renovation or water damage event requires pulling up floors, that buried layer surfaces unexpectedly. If your home was built before 1980 and has ever had flooring replaced after storm damage, budget for asbestos testing before any flooring work begins. It's a $300–$500 precaution that can prevent a much larger regulatory and remediation problem.
 
-For questions about your specific property or to schedule an inspection in Ocean Springs, call HomeLyft Restoration MS at +12282845200. Our EPA Lead-Safe Certified and IICRC-certified team is ready to walk you through what the process looks like for your home or building.
+For questions about your specific property or to schedule an inspection in Ocean Springs, call HomeLyft Restoration Gulfport at +12282845200. Our EPA Lead-Safe Certified and IICRC-certified team is ready to walk you through what the process looks like for your home or building.

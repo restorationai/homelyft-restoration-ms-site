@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Sandersville, MS | HomeLyft Restoration MS"
+title: "Restoration Services in Sandersville, MS | HomeLyft Restoration Gulfport"
 h1: "Restoration Services in Sandersville"
 meta_description: "Serving Sandersville, MS with water, fire, mold, and storm damage restoration. IICRC-certified team. Call +12282845200."
 primary_keyword: "restoration services sandersville"
@@ -19,7 +19,7 @@ state: "MS"
 primary: false
 rendered: true
 ---
-When a pipe bursts behind a wall or a storm pushes water under your doors, the hours that follow matter more than almost anything else. HomeLyft Restoration MS works directly with Sandersville property owners, homeowners, landlords, and commercial tenants alike, to stop active damage, dry out affected structures, and carry the project through to finished reconstruction. From the first call to the final walkthrough, one local team handles the work so nothing falls through the cracks.
+When a pipe bursts behind a wall or a storm pushes water under your doors, the hours that follow matter more than almost anything else. HomeLyft Restoration Gulfport works directly with Sandersville property owners, homeowners, landlords, and commercial tenants alike, to stop active damage, dry out affected structures, and carry the project through to finished reconstruction. From the first call to the final walkthrough, one local team handles the work so nothing falls through the cracks.
 
 ## Restoration emergencies common in Sandersville
 
@@ -47,7 +47,7 @@ Once drying or remediation is complete, many Sandersville properties need framin
 
 ## Coverage and how fast we can get there
 
-HomeLyft Restoration MS is headquartered in Gulfport and serves Sandersville as part of our broader Jones County coverage area. The most direct route runs north on US-49 through Hattiesburg and into Laurel before continuing toward Sandersville, roughly 90 miles depending on the specific address. Scheduling is handled promptly; call +12282845200 during business hours to reach a team member who can confirm availability and get a crew dispatched. For properties on the eastern side of Jones County, travel time is similar. We do not promise a specific on-site window in minutes, but we prioritize active-damage calls and communicate arrival estimates clearly when you call.
+HomeLyft Restoration Gulfport is headquartered in Gulfport and serves Sandersville as part of our broader Jones County coverage area. The most direct route runs north on US-49 through Hattiesburg and into Laurel before continuing toward Sandersville, roughly 90 miles depending on the specific address. Scheduling is handled promptly; call +12282845200 during business hours to reach a team member who can confirm availability and get a crew dispatched. For properties on the eastern side of Jones County, travel time is similar. We do not promise a specific on-site window in minutes, but we prioritize active-damage calls and communicate arrival estimates clearly when you call.
 
 ## Building stock, site conditions, and permits in Sandersville
 
@@ -57,4 +57,4 @@ Plumbing follows the same vintage pattern, galvanized supply and cast iron drain
 
 For structural repair or rebuild, confirm permitting with the town and with Jones County before framing starts.
 
-If you're dealing with water, fire, mold, or storm damage at a Sandersville property, call HomeLyft Restoration MS at +12282845200. A real team member will walk through what you're seeing, explain the next steps, and get the right crew scheduled.
+If you're dealing with water, fire, mold, or storm damage at a Sandersville property, call HomeLyft Restoration Gulfport at +12282845200. A real team member will walk through what you're seeing, explain the next steps, and get the right crew scheduled.

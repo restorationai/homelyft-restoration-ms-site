@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Latimer, MS | HomeLyft Restoration MS"
+title: "Post-Construction and Specialty Cleaning in Latimer, MS | HomeLyft Restoration Gulfport"
 h1: "Post-Construction and Specialty Cleaning in Latimer"
 meta_description: "Post-construction and specialty cleaning in Latimer, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "post-construction and specialty cleaning latimer"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Post-Construction and Specialty Cleaning"
 rendered: true
 ---
-Renovation work in Latimer leaves behind more than sawdust. Mississippi's Gulf Coast humidity, even this far inland in Harrison County, means construction dust absorbs ambient moisture quickly, turning fine drywall particles into a film that clings to surfaces and works its way into HVAC returns before a contractor's truck is off the property. HomeLyft Restoration MS handles the full post-construction cleanup sequence, from initial debris removal through the final white-glove pass, so your newly built or renovated space is actually move-in ready, not just visually tidy.
+Renovation work in Latimer leaves behind more than sawdust. Mississippi's Gulf Coast humidity, even this far inland in Harrison County, means construction dust absorbs ambient moisture quickly, turning fine drywall particles into a film that clings to surfaces and works its way into HVAC returns before a contractor's truck is off the property. HomeLyft Restoration Gulfport handles the full post-construction cleanup sequence, from initial debris removal through the final white-glove pass, so your newly built or renovated space is actually move-in ready, not just visually tidy.
 
 ## Why Latimer Properties Present Specific Post-Construction Cleaning Challenges
 
@@ -42,7 +42,7 @@ For specialty cleaning needs, post-fire odor neutralization in a renovated kitch
 
 ## Reaching Latimer from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, and Latimer is a straightforward run up US-49 North into Harrison County. Scheduling is handled during business hours, call +12282845200 to get a site visit on the calendar. For larger projects, we can stage equipment at the property the day before the clean begins to avoid any morning delay.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Latimer is a straightforward run up US-49 North into Harrison County. Scheduling is handled during business hours, call +12282845200 to get a site visit on the calendar. For larger projects, we can stage equipment at the property the day before the clean begins to avoid any morning delay.
 
 For general contractors managing multiple Latimer sites, we're set up to coordinate directly with your project manager so the cleaning schedule slots in cleanly after final inspections without holding up your certificate of occupancy timeline.
 
@@ -56,4 +56,4 @@ Our IICRC-certified team brings the same structured methodology to post-construc
 
 One pattern we've noticed on Harrison County renovation projects: homes that were built with pier-and-beam foundations and later had slab additions poured often have a gap or transition zone at the junction where construction debris accumulates and is invisible until flooring goes down. If your renovation involved that kind of addition, ask us to include a subfloor inspection pass before the final clean closes out, it's a small step that prevents discovering a problem after new flooring is installed.
 
-Call HomeLyft Restoration MS at +12282845200 to schedule your post-construction or specialty clean in Latimer. Whether you're a homeowner crossing the finish line on a long renovation or a contractor who needs a reliable cleaning crew to hand off to at punch-list, we'll make sure the space is genuinely ready, not just swept.
+Call HomeLyft Restoration Gulfport at +12282845200 to schedule your post-construction or specialty clean in Latimer. Whether you're a homeowner crossing the finish line on a long renovation or a contractor who needs a reliable cleaning crew to hand off to at punch-list, we'll make sure the space is genuinely ready, not just swept.

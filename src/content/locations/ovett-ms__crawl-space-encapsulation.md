@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Ovett, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Ovett, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Ovett"
 meta_description: "Crawl space encapsulation in Ovett, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation ovett"
@@ -56,6 +56,6 @@ One pattern we see specifically in older Jones County homes, including propertie
 
 ## Reaching Ovett from Our Team
 
-HomeLyft Restoration MS is based in Gulfport and serves Jones County including the Ovett area. Scheduling is handled directly by phone at +12282845200. Because Ovett is a rural community, we coordinate arrival windows in advance so you're not waiting on an undefined timeframe, call us to discuss current availability and we'll give you a straight answer on timing.
+HomeLyft Restoration Gulfport is based in Gulfport and serves Jones County including the Ovett area. Scheduling is handled directly by phone at +12282845200. Because Ovett is a rural community, we coordinate arrival windows in advance so you're not waiting on an undefined timeframe, call us to discuss current availability and we'll give you a straight answer on timing.
 
-Crawl space encapsulation in Ovett is the kind of project that pays for itself in avoided repairs. If you're noticing musty odors from the floor, increased allergy symptoms indoors, or soft spots in hardwood or laminate flooring, the crawl space is worth a look before the problem moves upward into the living space. Call HomeLyft Restoration MS and we'll schedule an inspection.
+Crawl space encapsulation in Ovett is the kind of project that pays for itself in avoided repairs. If you're noticing musty odors from the floor, increased allergy symptoms indoors, or soft spots in hardwood or laminate flooring, the crawl space is worth a look before the problem moves upward into the living space. Call HomeLyft Restoration Gulfport and we'll schedule an inspection.

@@ -52,7 +52,7 @@ Actual cash value policies subtract depreciation from what it costs to replace a
 
 ## Who Should You Call for Fire Damage Restoration in Gulfport, MS?
 
-Call a company that holds IICRC Fire & Smoke Restoration Technician (FSRT) certification and can document the loss in a format your adjuster accepts, then start mitigation the same day. HomeLyft Restoration MS carries FSRT certification along with structural drying and reconstruction capability, and works fire losses from the Bayou View neighborhood down to Jones Park along the Gulfport waterfront.
+Call a company that holds IICRC Fire & Smoke Restoration Technician (FSRT) certification and can document the loss in a format your adjuster accepts, then start mitigation the same day. HomeLyft Restoration Gulfport carries FSRT certification along with structural drying and reconstruction capability, and works fire losses from the Bayou View neighborhood down to Jones Park along the Gulfport waterfront.
 
 Ask any company you're considering for their certification, a written scope before work starts, and whether they coordinate directly with your adjuster. A fire loss involves enough moving pieces, insurance, structural repair, contents, odor, that having one company handle the documentation end to end is worth more than the lowest bid.
 
@@ -60,8 +60,8 @@ Get a [fire damage](/services/fire-damage-restoration/) assessment scheduled as 
 
 ---
 
-**About HomeLyft Restoration MS**
+**About HomeLyft Restoration Gulfport**
 
 The company is an IICRC Certified Firm (FSRT certified for fire and smoke restoration, license RO 2728) serving Gulfport, Mississippi since 2022. Crews handle fire, smoke, odor, water, storm, mold, and reconstruction work across the Mississippi Gulf Coast, and the business holds a 5.0 Google rating across 64 reviews.
 
-**Need help now?** [Call HomeLyft Restoration MS at +12282845200](tel:+12282845200).
+**Need help now?** [Call HomeLyft Restoration Gulfport at +12282845200](tel:+12282845200).

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Agricola, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Storm Damage Restoration in Agricola, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Storm Damage Restoration in Agricola"
 meta_description: "24/7 emergency storm damage restoration in Agricola, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "storm damage restoration agricola"
@@ -37,7 +37,7 @@ The first step on any storm-damaged property is an honest damage assessment, not
 
 Once the scope is clear, emergency tarping and board-up stop the bleeding: open roof sections get covered before the next rain event, broken windows and doors get secured, and any standing water gets extracted. From there, structural drying begins using commercial-grade desiccant and refrigerant dehumidifiers calibrated to the ambient humidity levels typical of a George County summer, which run significantly higher than the national average and require more aggressive equipment settings than you'd use in a drier climate.
 
-HomeLyft Restoration MS holds FORTIFIED Building Roofing and MS Windstorm certification, which means the team understands the specific construction standards that qualify a repaired roof for Mississippi's FORTIFIED program, relevant if you're considering an upgrade that could lower your wind insurance premium after the repair is complete. The crew is also an IICRC Certified Firm with technicians credentialed in Water Damage Restoration and Structural Drying, so the drying phase follows the IICRC S500 standard rather than guesswork.
+HomeLyft Restoration Gulfport holds FORTIFIED Building Roofing and MS Windstorm certification, which means the team understands the specific construction standards that qualify a repaired roof for Mississippi's FORTIFIED program, relevant if you're considering an upgrade that could lower your wind insurance premium after the repair is complete. The crew is also an IICRC Certified Firm with technicians credentialed in Water Damage Restoration and Structural Drying, so the drying phase follows the IICRC S500 standard rather than guesswork.
 
 ## Reaching Agricola from Gulfport
 
@@ -53,4 +53,4 @@ The team prepares a single, itemized damage report that satisfies both carriers'
 
 One pattern that shows up repeatedly on George County properties after a significant wind event: the roof takes visible damage that gets addressed quickly, but wind-driven rain that entered through soffit vents during the storm has already soaked blown-in insulation in the attic. That wet insulation sits against the roof deck and ceiling drywall for days before anyone notices the staining on the ceiling below. In Agricola's climate, with summer dew points regularly in the upper 60s and low 70s, that hidden moisture is enough to support mold colonization within 48 to 72 hours. Checking attic insulation moisture levels after any significant wind event, even when the roof looks intact, is one of the most important and most overlooked steps in storm damage response in this part of the state.
 
-If a recent storm has left your George County home with a compromised roof, water inside the walls, or debris damage you're not sure how to assess, call HomeLyft Restoration MS at +12282845200. The sooner the structure is documented and dried, the smaller the repair scope, and the stronger your insurance claim.
+If a recent storm has left your George County home with a compromised roof, water inside the walls, or debris damage you're not sure how to assess, call HomeLyft Restoration Gulfport at +12282845200. The sooner the structure is documented and dried, the smaller the repair scope, and the stronger your insurance claim.

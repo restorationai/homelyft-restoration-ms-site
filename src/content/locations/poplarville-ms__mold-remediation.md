@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Poplarville, MS | HomeLyft Restoration MS"
+title: "Mold Remediation in Poplarville, MS | HomeLyft Restoration Gulfport"
 h1: "Mold Remediation in Poplarville"
 meta_description: "Mold remediation in Poplarville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "mold remediation poplarville"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Mold Remediation"
 rendered: true
 ---
-Poplarville sits in Pearl River County, where the combination of long, humid summers, heavy Gulf-influenced rainfall, and a housing stock that leans heavily on pier-and-beam construction creates near-perfect conditions for mold to take hold fast. A slow roof leak or a plumbing drip that goes unnoticed for even a few days can seed a colony behind wall cavities or beneath subfloors, and in this climate, 48 to 72 hours is often all mold needs to spread. HomeLyft Restoration MS brings IICRC AMRT-certified mold remediation to Poplarville, working methodically to find the source, contain the affected area, and remove contaminated material before the problem compounds.
+Poplarville sits in Pearl River County, where the combination of long, humid summers, heavy Gulf-influenced rainfall, and a housing stock that leans heavily on pier-and-beam construction creates near-perfect conditions for mold to take hold fast. A slow roof leak or a plumbing drip that goes unnoticed for even a few days can seed a colony behind wall cavities or beneath subfloors, and in this climate, 48 to 72 hours is often all mold needs to spread. HomeLyft Restoration Gulfport brings IICRC AMRT-certified mold remediation to Poplarville, working methodically to find the source, contain the affected area, and remove contaminated material before the problem compounds.
 
 ## Why Poplarville Properties See Mold Issues
 
@@ -38,7 +38,7 @@ Because Poplarville's climate means ambient humidity is rarely low, we bring ind
 
 ## Reaching Poplarville from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport. Poplarville is reached via US-49 North, a straightforward route through Wiggins and into Pearl River County. We schedule Poplarville appointments with enough drive-time buffer built in so the crew arrives with equipment staged and ready, not rushed. When you call **+1 (228) 284-5200**, the team can confirm scheduling and give you an honest arrival window based on current workload and distance.
+HomeLyft Restoration Gulfport is headquartered in Gulfport. Poplarville is reached via US-49 North, a straightforward route through Wiggins and into Pearl River County. We schedule Poplarville appointments with enough drive-time buffer built in so the crew arrives with equipment staged and ready, not rushed. When you call **+1 (228) 284-5200**, the team can confirm scheduling and give you an honest arrival window based on current workload and distance.
 
 ## Poplarville Insurance Coordination
 
@@ -48,4 +48,4 @@ Mold claims in Mississippi can be complicated by policy language around "sudden 
 
 One pattern that comes up repeatedly in Pearl River County homes is mold growth concentrated at the rim joist, the framing member that sits on top of the foundation wall and closes off the floor system. In pier-and-beam construction common around Poplarville, this area is often uninsulated or insulated with open-cell foam that absorbs ground moisture wicking up through the masonry. Homeowners rarely see this area, and inspectors sometimes miss it during a standard walkthrough. When a Poplarville client reports a musty smell that "comes and goes with the weather," the rim joist is one of the first places we check, and it's often where we find the source.
 
-If you are dealing with visible mold growth, a persistent musty odor, or a recent water event in your Poplarville home or commercial property, call HomeLyft Restoration MS at **+1 (228) 284-5200** to schedule an assessment. The sooner the moisture source and affected materials are identified, the smaller the remediation scope, and the lower the cost and disruption to your household.
+If you are dealing with visible mold growth, a persistent musty odor, or a recent water event in your Poplarville home or commercial property, call HomeLyft Restoration Gulfport at **+1 (228) 284-5200** to schedule an assessment. The sooner the moisture source and affected materials are identified, the smaller the remediation scope, and the lower the cost and disruption to your household.

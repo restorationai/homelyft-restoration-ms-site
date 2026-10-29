@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in St. Martin, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Water Damage Restoration in St. Martin, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Water Damage Restoration in St. Martin"
 meta_description: "24/7 emergency water damage restoration in St. Martin, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "water damage restoration st. martin"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Water damage emergency in St. Martin? We answer 24/7.** Call now and our crew heads out to stop the water and start drying your property.
 
-St. Martin sits in a low-lying pocket of Jackson County where Gulf Coast humidity never really lets up and the ground stays saturated for weeks after a heavy rain event. When a supply line bursts, a roof seam fails during a storm, or a washing machine hose lets go, that moisture doesn't just sit on the surface, it wicks into subfloor sheathing, travels behind baseboards, and starts feeding mold colonies within 24 to 48 hours. HomeLyft Restoration MS responds to water damage calls throughout St. Martin and the surrounding Jackson County communities, bringing IICRC-certified water removal and structural drying crews from our Gulfport base to your door as quickly as scheduling allows.
+St. Martin sits in a low-lying pocket of Jackson County where Gulf Coast humidity never really lets up and the ground stays saturated for weeks after a heavy rain event. When a supply line bursts, a roof seam fails during a storm, or a washing machine hose lets go, that moisture doesn't just sit on the surface, it wicks into subfloor sheathing, travels behind baseboards, and starts feeding mold colonies within 24 to 48 hours. HomeLyft Restoration Gulfport responds to water damage calls throughout St. Martin and the surrounding Jackson County communities, bringing IICRC-certified water removal and structural drying crews from our Gulfport base to your door as quickly as scheduling allows.
 
 ## Why St. Martin Properties Face Persistent Water Damage Risks
 
@@ -51,4 +51,4 @@ Most standard homeowner's policies cover sudden and accidental water damage, a b
 
 One thing we've learned working in the St. Martin area: crawl space vapor barriers that were installed years ago, sometimes just a thin sheet of 6-mil poly laid loosely on the soil, frequently trap moisture against the subfloor rather than blocking it. After a flooding event, those barriers can hold standing water underneath them for weeks while the homeowner believes the crawl space dried out on its own. When we inspect a St. Martin home after any significant water intrusion, we pull back that barrier and meter the soil and the bottom of the joists directly. It's a step that gets skipped when crews aren't familiar with how these older Gulf Coast crawl spaces are actually built.
 
-If you're dealing with water damage in St. Martin right now, don't wait to see whether it dries on its own, in Jackson County's climate, it won't. Call HomeLyft Restoration MS at **(228) 284-5200** and let us assess the full extent of the damage before mold has a chance to take hold.
+If you're dealing with water damage in St. Martin right now, don't wait to see whether it dries on its own, in Jackson County's climate, it won't. Call HomeLyft Restoration Gulfport at **(228) 284-5200** and let us assess the full extent of the damage before mold has a chance to take hold.

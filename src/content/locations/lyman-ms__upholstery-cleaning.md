@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Lyman, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Lyman, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Lyman"
 meta_description: "24/7 upholstery cleaning in Lyman, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning lyman"
@@ -42,4 +42,4 @@ We use truck-mounted hot water extraction for most fabric upholstery, which pull
 
 One thing that catches people off guard in Lyman: a couch that feels dry to the touch after a spill can still be holding moisture down in the padding for days, especially in summer when indoor humidity rarely drops much below what it is outside. That's often when the musty smell shows up, well after the visible mess is gone, which is why we check moisture levels below the surface rather than relying on how the fabric feels on top.
 
-If your upholstery in Lyman is holding onto odor, stiffening up, or just overdue for a real cleaning rather than a surface vacuum, call HomeLyft Restoration MS at (228) 284-5200. We're IICRC-affiliated technicians working out of Gulfport, and we can get a crew to your Lyman address to assess the fabric or leather and clean it the right way for this climate.
+If your upholstery in Lyman is holding onto odor, stiffening up, or just overdue for a real cleaning rather than a surface vacuum, call HomeLyft Restoration Gulfport at (228) 284-5200. We're IICRC-affiliated technicians working out of Gulfport, and we can get a crew to your Lyman address to assess the fabric or leather and clean it the right way for this climate.

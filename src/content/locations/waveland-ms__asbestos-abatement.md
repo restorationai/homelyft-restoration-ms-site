@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in Waveland, MS | HomeLyft Restoration MS"
+title: "Asbestos Abatement in Waveland, MS | HomeLyft Restoration Gulfport"
 h1: "Asbestos Abatement in Waveland"
 meta_description: "Asbestos abatement in Waveland, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "asbestos abatement waveland"
@@ -38,7 +38,7 @@ After abatement, air clearance testing confirms fiber counts are below actionabl
 
 ## Reaching Waveland from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport, roughly 20 miles west of Waveland along U.S. Highway 90. That coastal highway corridor is the primary route our crew travels to reach Waveland properties, and familiarity with the route matters: the stretch through Bay St. Louis can slow significantly during peak summer tourism season or after storm events close sections of the beachside road. We factor that into scheduling and communicate arrival windows honestly rather than quoting times we can't guarantee. Call us at +12282845200 to discuss your project timeline and get a realistic schedule for your specific address.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, roughly 20 miles west of Waveland along U.S. Highway 90. That coastal highway corridor is the primary route our crew travels to reach Waveland properties, and familiarity with the route matters: the stretch through Bay St. Louis can slow significantly during peak summer tourism season or after storm events close sections of the beachside road. We factor that into scheduling and communicate arrival windows honestly rather than quoting times we can't guarantee. Call us at +12282845200 to discuss your project timeline and get a realistic schedule for your specific address.
 
 ## Waveland Insurance Coordination
 
@@ -48,4 +48,4 @@ Asbestos abatement costs are sometimes covered under homeowner's policies, parti
 
 One pattern that comes up repeatedly on Waveland jobs: homes rebuilt after Katrina that used FEMA-funded elevation work sometimes have original pre-storm crawl spaces or slab sections that were left in place beneath the new elevated structure. Those original sub-slab materials, pipe wrap, floor tile mastic, transite board, are easy to miss during a surface-level inspection. If your home was elevated post-2005 and the original foundation elements were retained, ask your inspector specifically about the below-grade and crawl-space materials. It's a Waveland-specific detail that a contractor unfamiliar with the local post-storm rebuild patterns might overlook entirely.
 
-If your Waveland property involves any renovation, sale, or storm-damage repair that touches pre-1980 materials, the right call is a professional asbestos inspection before the first hammer swing. Contact HomeLyft Restoration MS at +12282845200 to schedule sampling and get a clear answer about what you're working with.
+If your Waveland property involves any renovation, sale, or storm-damage repair that touches pre-1980 materials, the right call is a professional asbestos inspection before the first hammer swing. Contact HomeLyft Restoration Gulfport at +12282845200 to schedule sampling and get a clear answer about what you're working with.

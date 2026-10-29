@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Saucier, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in Saucier, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in Saucier"
 meta_description: "24/7 emergency board-up and tarping in Saucier, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping saucier"
@@ -52,4 +52,4 @@ As an IICRC Certified Firm and EPA Lead-Safe Certified contractor (license #RO 2
 
 One thing that catches out-of-area contractors working in Saucier: the red-clay and sandy-loam soil mix common to the Harrison County interior drains poorly after heavy rain, which means ground saturation around a structure can be significant even when the surface looks dry. When we're staging ladders and equipment for roof tarping after a storm, we probe the soil near the foundation before setting ladder feet, soft ground near a compromised roofline is a fall hazard that isn't obvious until you're already on the ladder. It's a small thing, but it's the kind of thing you learn working this specific stretch of South Mississippi rather than reading about it.
 
-If a storm, fire, or structural failure has left your Saucier home or commercial property exposed, call HomeLyft Restoration MS at +12282845200. We'll assess the damage, cover every opening, and get you the documentation you need to move forward with your insurance claim, before the next weather system moves through Harrison County.
+If a storm, fire, or structural failure has left your Saucier home or commercial property exposed, call HomeLyft Restoration Gulfport at +12282845200. We'll assess the damage, cover every opening, and get you the documentation you need to move forward with your insurance claim, before the next weather system moves through Harrison County.

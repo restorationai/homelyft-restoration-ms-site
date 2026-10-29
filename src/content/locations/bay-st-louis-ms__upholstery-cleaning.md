@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Bay St. Louis, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Bay St. Louis, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Bay St. Louis"
 meta_description: "24/7 upholstery cleaning in Bay St. Louis, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning bay st. louis"
@@ -38,4 +38,4 @@ Our technicians work from the IICRC's cleaning framework, choosing extraction, d
 
 Homes on Bay St. Louis's older raised lots, especially pieces set on piers or pilings near the water, tend to have upholstered furniture positioned right against exterior walls where humidity is highest. We've found that cleaning alone doesn't solve the odor complaint in those rooms; the fix is pulling furniture a few inches off the wall after cleaning and running a fan behind it for the first day, which keeps the fabric from reabsorbing the same trapped moisture that caused the smell in the first place.
 
-If your sofa, sectional, or leather chair in Bay St. Louis smells musty, feels damp after a humid stretch, or just hasn't been professionally cleaned since the last hurricane season, HomeLyft Restoration MS can get it looked at and cleaned properly. We're an IICRC Certified Firm based in Gulfport and licensed in Mississippi (#RO 2728), and we're set up to handle both fabric and leather upholstery with equipment matched to the Gulf Coast's humidity instead of a one-size-fits-all approach. Call +1 (228) 284-5200 to get on the schedule.
+If your sofa, sectional, or leather chair in Bay St. Louis smells musty, feels damp after a humid stretch, or just hasn't been professionally cleaned since the last hurricane season, HomeLyft Restoration Gulfport can get it looked at and cleaned properly. We're an IICRC Certified Firm based in Gulfport and licensed in Mississippi (#RO 2728), and we're set up to handle both fabric and leather upholstery with equipment matched to the Gulf Coast's humidity instead of a one-size-fits-all approach. Call +1 (228) 284-5200 to get on the schedule.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Laurel, MS | HomeLyft Restoration MS"
+title: "Restoration Services in Laurel, MS | HomeLyft Restoration Gulfport"
 h1: "Restoration Services in Laurel"
 meta_description: "Serving Laurel, MS with water, fire, mold, and storm damage restoration. IICRC-certified team. Call +12282845200."
 primary_keyword: "restoration services laurel"
@@ -19,7 +19,7 @@ state: "MS"
 primary: false
 rendered: true
 ---
-When a pipe bursts behind a wall or a storm pushes water under your back door, the clock starts immediately. HomeLyft Restoration MS responds to water damage, fire and smoke damage, mold remediation, and reconstruction needs for homeowners and property managers throughout Laurel and Jones County. Whether you're dealing with a soaked subfloor in an older craftsman bungalow or smoke residue coating every surface after a kitchen fire, the goal is the same: stop the damage from spreading, document everything for your insurance carrier, and get your property back to livable condition.
+When a pipe bursts behind a wall or a storm pushes water under your back door, the clock starts immediately. HomeLyft Restoration Gulfport responds to water damage, fire and smoke damage, mold remediation, and reconstruction needs for homeowners and property managers throughout Laurel and Jones County. Whether you're dealing with a soaked subfloor in an older craftsman bungalow or smoke residue coating every surface after a kitchen fire, the goal is the same: stop the damage from spreading, document everything for your insurance carrier, and get your property back to livable condition.
 
 ## Restoration emergencies common in Laurel
 
@@ -47,7 +47,7 @@ Once mitigation is complete, many property owners need a single contractor to ha
 
 ## Coverage and how fast we can get there
 
-HomeLyft Restoration MS is headquartered in Gulfport, roughly 90 miles south of Laurel via US-49 North. That route runs directly into Jones County and puts our crews on the ground in Laurel with straightforward logistics, no interstate transfers or complicated routing. For scheduling, call us at (228) 284-5200 and we'll confirm availability and an estimated arrival window based on current crew deployment. We serve all of Laurel's residential and commercial corridors, from the established neighborhoods near downtown to properties along the city's outskirts toward Ellisville.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, roughly 90 miles south of Laurel via US-49 North. That route runs directly into Jones County and puts our crews on the ground in Laurel with straightforward logistics, no interstate transfers or complicated routing. For scheduling, call us at (228) 284-5200 and we'll confirm availability and an estimated arrival window based on current crew deployment. We serve all of Laurel's residential and commercial corridors, from the established neighborhoods near downtown to properties along the city's outskirts toward Ellisville.
 
 ## Building stock, site conditions, and permits in Laurel
 
@@ -57,4 +57,4 @@ The Pine Belt's sandy loam over clay drains unevenly, so runoff collects against
 
 Inside the city, permits for structural repair and rebuild come from Laurel; outside the limits, Jones County. Mississippi's residential code follows the International Residential Code.
 
-If you're dealing with damage now or want to talk through what a restoration project in Laurel would involve, call HomeLyft Restoration MS at **(228) 284-5200**. We'll ask the right questions, give you an honest assessment, and get the documentation your insurance carrier needs from the first visit.
+If you're dealing with damage now or want to talk through what a restoration project in Laurel would involve, call HomeLyft Restoration Gulfport at **(228) 284-5200**. We'll ask the right questions, give you an honest assessment, and get the documentation your insurance carrier needs from the first visit.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in McLain, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in McLain, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in McLain"
 meta_description: "24/7 emergency board-up and tarping in McLain, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping mclain"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Emergency Board-Up and Tarping"
 rendered: true
 ---
-McLain sits in Greene County, deep in the pine belt of south Mississippi, where Gulf-driven storms can roll inland with surprising force, and where a broken window or peeled roof section left overnight can turn a manageable loss into a gut-renovation. When wind, fire, or impact damage exposes your home or commercial property, emergency board-up and tarping is the first line of defense between the structure you own and everything the Mississippi weather wants to do to it next. HomeLyft Restoration MS dispatches from Gulfport to McLain with the materials and crew to close that opening before the next rain band arrives.
+McLain sits in Greene County, deep in the pine belt of south Mississippi, where Gulf-driven storms can roll inland with surprising force, and where a broken window or peeled roof section left overnight can turn a manageable loss into a gut-renovation. When wind, fire, or impact damage exposes your home or commercial property, emergency board-up and tarping is the first line of defense between the structure you own and everything the Mississippi weather wants to do to it next. HomeLyft Restoration Gulfport dispatches from Gulfport to McLain with the materials and crew to close that opening before the next rain band arrives.
 
 ## Why McLain Properties Are Vulnerable After a Storm or Fire
 
@@ -54,4 +54,4 @@ Greene County claims often run through regional adjusters who handle a mix of wi
 
 One thing that catches out-of-area crews working in McLain and rural Greene County: the older farmhouse-style homes common here frequently have wide overhangs and low-pitched metal roofs that were added over original wood shingles decades ago. When a storm lifts a section of that metal roofing, there's often a layer of deteriorated organic material underneath that's already holding moisture, meaning the interior damage starts from below the breach, not just from rain coming through it. When we tarp these structures, we note that condition in our documentation and flag it for the adjuster and the homeowner, because remediation scope that only accounts for the metal roof damage will miss what's happening in the substrate.
 
-Call HomeLyft Restoration MS at +12282845200 when a storm, fire, or impact leaves your McLain property open to the elements. We'll get the right materials on-site, close the breach correctly, and document everything your insurance carrier needs to process the claim without a fight.
+Call HomeLyft Restoration Gulfport at +12282845200 when a storm, fire, or impact leaves your McLain property open to the elements. We'll get the right materials on-site, close the breach correctly, and document everything your insurance carrier needs to process the claim without a fight.

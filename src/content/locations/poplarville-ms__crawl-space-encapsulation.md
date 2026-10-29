@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Poplarville, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Poplarville, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Poplarville"
 meta_description: "Crawl space encapsulation in Poplarville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation poplarville"
@@ -38,7 +38,7 @@ In Poplarville's climate, we also pay close attention to the transition point wh
 
 ## Reaching Poplarville from Our Gulfport Base
 
-HomeLyft Restoration MS operates out of Gulfport and reaches Poplarville via US-49 North through Wiggins and into Pearl River County. The drive is straightforward, and scheduling inspections and multi-day encapsulation projects in the Poplarville area is a regular part of our work across South Mississippi. When you call +12282845200, our team will confirm availability and give you a realistic project start date based on current scheduling, we don't overpromise timelines.
+HomeLyft Restoration Gulfport operates out of Gulfport and reaches Poplarville via US-49 North through Wiggins and into Pearl River County. The drive is straightforward, and scheduling inspections and multi-day encapsulation projects in the Poplarville area is a regular part of our work across South Mississippi. When you call +12282845200, our team will confirm availability and give you a realistic project start date based on current scheduling, we don't overpromise timelines.
 
 ## Local Note: What Poplarville's Soil Conditions Mean for Barrier Selection
 
@@ -46,4 +46,4 @@ In parts of Pearl River County where the soil has a higher clay content, ground 
 
 ## Closing
 
-If your Poplarville home has a crawl space that smells musty, shows signs of wood discoloration, or has floors that feel soft in spots, those are signals that ground moisture has already been working on your structure. HomeLyft Restoration MS holds IICRC certifications in mold remediation and structural drying, and our team is EPA Lead-Safe Certified, relevant when working on older homes that may have lead-based paint on foundation components. Call +12282845200 to schedule a crawl space inspection in Poplarville and get a clear picture of what's happening under your home before the damage compounds.
+If your Poplarville home has a crawl space that smells musty, shows signs of wood discoloration, or has floors that feel soft in spots, those are signals that ground moisture has already been working on your structure. HomeLyft Restoration Gulfport holds IICRC certifications in mold remediation and structural drying, and our team is EPA Lead-Safe Certified, relevant when working on older homes that may have lead-based paint on foundation components. Call +12282845200 to schedule a crawl space inspection in Poplarville and get a clear picture of what's happening under your home before the damage compounds.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in St. Martin, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in St. Martin, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in St. Martin"
 meta_description: "Renovations, remodels and general contracting in St. Martin, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting st. martin"
@@ -28,7 +28,7 @@ The Gulf Coast's combination of high humidity, salt-laden air, and periodic hurr
 
 Soil conditions in this part of the Coast also factor into any project that touches the foundation or exterior. The sandy, expansive soils common to coastal Jackson County can shift seasonally, and additions or structural modifications need to account for that movement. A contractor unfamiliar with this region might frame an addition to standard inland specs and leave a homeowner with cracked tile and binding doors within two years.
 
-HomeLyft Restoration MS holds Mississippi contractor license #RO 2728 and is EPA Lead-Safe Certified, relevant here because a meaningful share of St. Martin's older housing stock contains lead-based paint that must be handled under strict federal protocols during any renovation that disturbs painted surfaces.
+HomeLyft Restoration Gulfport holds Mississippi contractor license #RO 2728 and is EPA Lead-Safe Certified, relevant here because a meaningful share of St. Martin's older housing stock contains lead-based paint that must be handled under strict federal protocols during any renovation that disturbs painted surfaces.
 
 ## Our Renovation and General Contracting Process in St. Martin
 
@@ -48,4 +48,4 @@ For clients managing a post-storm rebuild or an active water-loss repair that fe
 
 One thing that surprises homeowners in St. Martin who are opening up walls for the first time: a significant number of homes rebuilt quickly in the 2006–2009 window after Katrina used materials and labor that varied widely in quality. Speed was the priority then, and some of that work, particularly framing, roofing underlayment, and moisture barriers, didn't meet the standards that became codified later. If your home was rebuilt or heavily repaired during that period, a renovation is often the first real opportunity to correct those underlying issues. We flag them when we find them and give homeowners a clear picture of what's structural versus cosmetic before any decisions are made.
 
-If you're ready to move forward with a renovation, remodel, or general contracting project in St. Martin, call HomeLyft Restoration MS at +12282845200 to schedule a project assessment. We'll walk the property with you, give you an honest scope, and build a plan that accounts for what coastal Mississippi actually demands from a home.
+If you're ready to move forward with a renovation, remodel, or general contracting project in St. Martin, call HomeLyft Restoration Gulfport at +12282845200 to schedule a project assessment. We'll walk the property with you, give you an honest scope, and build a plan that accounts for what coastal Mississippi actually demands from a home.

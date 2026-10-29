@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in D'Iberville, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in D'Iberville, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in D'Iberville"
 meta_description: "Renovations, remodels and general contracting in D'Iberville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting d'iberville"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-D'Iberville sits in a stretch of Harrison County where Gulf Coast humidity, sandy coastal soils, and a building boom that followed Katrina have produced a housing stock that's part post-storm rebuild, part rapid new construction, and both present their own renovation challenges. Whether you're gutting a kitchen in a home that went up fast in 2007 or finally updating a bathroom that's been deferred since the last major storm season, the work here demands a contractor who understands Mississippi's coastal building environment, not just generic remodeling. HomeLyft Restoration MS, operating out of Gulfport under license #RO 2728, handles the full scope, from permitted structural changes to finish-level remodels, with an EPA Lead-Safe Certified and IICRC-certified team that's already familiar with the region's quirks.
+D'Iberville sits in a stretch of Harrison County where Gulf Coast humidity, sandy coastal soils, and a building boom that followed Katrina have produced a housing stock that's part post-storm rebuild, part rapid new construction, and both present their own renovation challenges. Whether you're gutting a kitchen in a home that went up fast in 2007 or finally updating a bathroom that's been deferred since the last major storm season, the work here demands a contractor who understands Mississippi's coastal building environment, not just generic remodeling. HomeLyft Restoration Gulfport, operating out of Gulfport under license #RO 2728, handles the full scope, from permitted structural changes to finish-level remodels, with an EPA Lead-Safe Certified and IICRC-certified team that's already familiar with the region's quirks.
 
 ## Why D'Iberville Properties Present Unique Renovation Challenges
 
@@ -46,4 +46,4 @@ For insurance-related rebuilds, we work directly with adjusters, provide line-it
 
 One thing that catches out-of-area contractors working in D'Iberville: the city sits in a coastal high-hazard wind zone, and even interior remodels that touch the roof system, adding a dormer, replacing attic access framing, or modifying a vaulted ceiling, can trigger windstorm compliance review under Mississippi's coastal construction standards. Contractors who don't work this market regularly sometimes pull a standard residential permit and miss the windstorm documentation requirement entirely, which can create problems at closing or when a homeowner tries to update their insurance policy. We flag this at the scoping stage, not after the framing is already up.
 
-If you're planning a renovation in D'Iberville and want a contractor who's already navigated Harrison County permitting, coastal wind-zone compliance, and post-storm rebuild documentation, call HomeLyft Restoration MS at (228) 284-5200. We'll walk the property, give you an honest scope, and handle the project from permits through final inspection.
+If you're planning a renovation in D'Iberville and want a contractor who's already navigated Harrison County permitting, coastal wind-zone compliance, and post-storm rebuild documentation, call HomeLyft Restoration Gulfport at (228) 284-5200. We'll walk the property, give you an honest scope, and handle the project from permits through final inspection.

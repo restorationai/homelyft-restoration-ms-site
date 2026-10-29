@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Storm Damage Restoration in Pass Christian, MS | HomeLyft Restoration MS"
+title: "Emergency Storm Damage Restoration in Pass Christian, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Storm Damage Restoration in Pass Christian"
 meta_description: "24/7 emergency storm damage restoration in Pass Christian, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "storm damage restoration pass christian"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Storm damage emergency in Pass Christian? We answer 24/7.** Call now and our crew heads out to secure the property and stop further damage.
 
-Pass Christian sits directly in the path of Gulf Coast storm systems that have reshaped this stretch of Harrison County more than once. When a hurricane or severe squall moves through, the combination of salt-laden wind, storm surge pressure, and century-old live oaks dropping limbs onto rooftops creates a damage pattern unlike anything you see inland. HomeLyft Restoration MS responds to storm-damaged properties throughout Pass Christian, working from our Gulfport base to assess, secure, and restore homes and commercial buildings before secondary damage, rot, mold, structural compromise, compounds the original loss.
+Pass Christian sits directly in the path of Gulf Coast storm systems that have reshaped this stretch of Harrison County more than once. When a hurricane or severe squall moves through, the combination of salt-laden wind, storm surge pressure, and century-old live oaks dropping limbs onto rooftops creates a damage pattern unlike anything you see inland. HomeLyft Restoration Gulfport responds to storm-damaged properties throughout Pass Christian, working from our Gulfport base to assess, secure, and restore homes and commercial buildings before secondary damage, rot, mold, structural compromise, compounds the original loss.
 
 ## Why Pass Christian Properties Are Especially Vulnerable to Storm Damage
 
@@ -57,4 +57,4 @@ We document damage in a way that distinguishes wind-driven rain intrusion from g
 
 One thing that catches homeowners off guard in Pass Christian: the mature live oaks that line many streets and properties are beautiful, but their root systems are shallow and wide-spreading. After a storm, a tree that appears to have survived upright may have had its root plate partially lifted and reset, leaving it structurally compromised and at risk of falling onto a structure in the next weather event. When we're on a property for storm damage cleanup and we see a large oak with heaved soil or exposed roots near the base, we flag it for an arborist evaluation before we leave. It's not our call to make on the tree itself, but it's information the homeowner needs before the next storm season.
 
-If your Pass Christian property took a hit from recent severe weather, call HomeLyft Restoration MS at +12282845200 to schedule an assessment. The sooner moisture is measured and addressed, the shorter, and less expensive, the restoration process typically is.
+If your Pass Christian property took a hit from recent severe weather, call HomeLyft Restoration Gulfport at +12282845200 to schedule an assessment. The sooner moisture is measured and addressed, the shorter, and less expensive, the restoration process typically is.

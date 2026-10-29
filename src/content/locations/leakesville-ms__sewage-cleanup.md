@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in Leakesville, MS | HomeLyft Restoration MS"
+title: "Emergency Sewage Cleanup and Sanitization in Leakesville, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Leakesville"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Leakesville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "sewage cleanup and sanitization leakesville"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Sewage backup in Leakesville? We answer 24/7.** Call now and our crew heads out to contain the contamination and start the cleanup.
 
-Sewage backup in Leakesville hits differently than a simple plumbing leak. Greene County's high clay-content soils drain poorly after heavy Gulf-driven rainfall, and when that saturated ground pushes back against aging sewer laterals or overwhelmed septic systems, raw sewage doesn't just pool, it wicks into subfloor framing, crawl spaces, and wall cavities before most homeowners realize the scope of what they're dealing with. HomeLyft Restoration MS responds to those calls with trained technicians, industrial extraction equipment, and EPA-registered disinfectants rated for Category 3 water, the classification that covers raw sewage.
+Sewage backup in Leakesville hits differently than a simple plumbing leak. Greene County's high clay-content soils drain poorly after heavy Gulf-driven rainfall, and when that saturated ground pushes back against aging sewer laterals or overwhelmed septic systems, raw sewage doesn't just pool, it wicks into subfloor framing, crawl spaces, and wall cavities before most homeowners realize the scope of what they're dealing with. HomeLyft Restoration Gulfport responds to those calls with trained technicians, industrial extraction equipment, and EPA-registered disinfectants rated for Category 3 water, the classification that covers raw sewage.
 
 ## Why Leakesville Properties See Sewage Backup Issues
 
@@ -45,7 +45,7 @@ Every sewage job starts with containment. Before any extraction begins, the affe
 
 ## Reaching Leakesville from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport, and Leakesville is a real drive, roughly 90 miles north via US-49 through Hattiesburg or US-98 through Lucedale depending on conditions. We won't pretend otherwise. What we will tell you is that we schedule Leakesville calls with a dedicated crew dispatch, not as an afterthought, and we communicate an honest arrival window when you call +12282845200. For situations where sewage is actively flowing, the most important first step you can take before we arrive is to shut off the water supply to the affected fixture and avoid using any drains in the house, that alone limits how far contamination spreads while we're in transit.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and Leakesville is a real drive, roughly 90 miles north via US-49 through Hattiesburg or US-98 through Lucedale depending on conditions. We won't pretend otherwise. What we will tell you is that we schedule Leakesville calls with a dedicated crew dispatch, not as an afterthought, and we communicate an honest arrival window when you call +12282845200. For situations where sewage is actively flowing, the most important first step you can take before we arrive is to shut off the water supply to the affected fixture and avoid using any drains in the house, that alone limits how far contamination spreads while we're in transit.
 
 ## Leakesville Insurance Coordination
 
@@ -55,4 +55,4 @@ Sewage backup claims in Mississippi are frequently denied when homeowners don't 
 
 One pattern we've seen in Greene County crawl space jobs: older homes built on pier-and-beam foundations often have fiberglass batt insulation stapled between floor joists that was added as an afterthought, sometimes decades after original construction. When sewage reaches that insulation, it acts like a sponge and holds contamination against the subfloor for weeks. Homeowners sometimes pull the visibly wet batt and assume the problem is solved, but the subfloor sheathing above it has already absorbed Category 3 contamination. A moisture and contamination check of the sheathing itself is a step that shouldn't be skipped on these jobs.
 
-If you're dealing with sewage backup in Leakesville, whether it's a failed septic system, a sewer line backup, or an overflow that reached your crawl space, call HomeLyft Restoration MS at +12282845200. We'll give you a straight assessment of what's affected, what needs to come out, and what the remediation timeline looks like for your specific situation.
+If you're dealing with sewage backup in Leakesville, whether it's a failed septic system, a sewer line backup, or an overflow that reached your crawl space, call HomeLyft Restoration Gulfport at +12282845200. We'll give you a straight assessment of what's affected, what needs to come out, and what the remediation timeline looks like for your specific situation.

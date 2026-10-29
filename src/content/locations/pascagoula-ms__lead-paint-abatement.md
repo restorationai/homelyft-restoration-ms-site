@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Lead Paint Abatement in Pascagoula, MS | HomeLyft Restoration MS"
+title: "Lead Paint Abatement in Pascagoula, MS | HomeLyft Restoration Gulfport"
 h1: "Lead Paint Abatement in Pascagoula"
 meta_description: "24/7 lead paint abatement in Pascagoula, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "lead paint abatement pascagoula"
@@ -42,4 +42,4 @@ If you're planning a remodel, re-roofing, or window replacement on a pre-1978 Pa
 
 One thing we watch for specifically in Pascagoula: homes built on pier-and-beam foundations, common in the older sections of the city, often have painted floor joists and subfloor framing that never get touched during a typical interior repaint. Humidity trapped under these raised foundations means that old lead paint on the framing stays soft and never fully cures, so it sheds dust into the crawl space air at a higher rate than paint on a slab-built house. We test crawl space framing separately from the main structure on these properties rather than assuming the two share the same paint history.
 
-If you're staring at peeling paint on a Pascagoula home built before 1978, or you've got a renovation on hold until lead testing clears, call HomeLyft Restoration MS at (228) 284-5200. We're EPA Lead-Safe Certified, licensed under #RO 2728, and we'll walk the property, test what needs testing, and get you a clear path to safe, documented abatement.
+If you're staring at peeling paint on a Pascagoula home built before 1978, or you've got a renovation on hold until lead testing clears, call HomeLyft Restoration Gulfport at (228) 284-5200. We're EPA Lead-Safe Certified, licensed under #RO 2728, and we'll walk the property, test what needs testing, and get you a clear path to safe, documented abatement.

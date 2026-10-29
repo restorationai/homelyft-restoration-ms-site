@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Big Point, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Big Point, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Big Point"
 meta_description: "Carpet cleaning in Big Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning big point"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-Big Point sits in Jackson County where the Gulf Coast's humidity rarely lets up, even on a dry week, the air carries enough moisture to keep carpet fibers damp long after a spill, a tracked-in rainstorm, or a pet accident. That persistent humidity, combined with the red-clay and sandy-loam soils common to this part of coastal Mississippi, means carpets here accumulate a different kind of grime than you'd find in a drier climate: fine particulate that settles deep into the pile and resists ordinary vacuuming. HomeLyft Restoration MS brings professional-grade extraction and drying to Big Point homes and businesses, cleaning that actually reaches the backing, not just the surface.
+Big Point sits in Jackson County where the Gulf Coast's humidity rarely lets up, even on a dry week, the air carries enough moisture to keep carpet fibers damp long after a spill, a tracked-in rainstorm, or a pet accident. That persistent humidity, combined with the red-clay and sandy-loam soils common to this part of coastal Mississippi, means carpets here accumulate a different kind of grime than you'd find in a drier climate: fine particulate that settles deep into the pile and resists ordinary vacuuming. HomeLyft Restoration Gulfport brings professional-grade extraction and drying to Big Point homes and businesses, cleaning that actually reaches the backing, not just the surface.
 
 ## Why Big Point Properties See Stubborn Carpet Problems
 
@@ -44,7 +44,7 @@ Drying is the final step and the one most people underestimate in coastal Missis
 
 ## Reaching Big Point from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport, and Big Point is a straightforward run east along the coast corridor. We schedule appointments to minimize drive time and arrive with a fully stocked truck, no return trips for supplies. When you call to book, our team will confirm a scheduling window and give you a realistic arrival estimate based on current workload. We handle both residential carpet cleaning and commercial carpet cleaning for businesses in the Jackson County area, and we coordinate scheduling around your availability.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and Big Point is a straightforward run east along the coast corridor. We schedule appointments to minimize drive time and arrive with a fully stocked truck, no return trips for supplies. When you call to book, our team will confirm a scheduling window and give you a realistic arrival estimate based on current workload. We handle both residential carpet cleaning and commercial carpet cleaning for businesses in the Jackson County area, and we coordinate scheduling around your availability.
 
 ## Equipment and Methods We Use for Carpet
 
@@ -60,4 +60,4 @@ One thing that catches homeowners in the Big Point area off guard: carpet that f
 
 If you're dealing with carpet that's been through a flood event or a plumbing leak, that's a different scope of work, one that involves structural drying protocols rather than standard carpet cleaning, and we handle that as well.
 
-Ready to schedule? Call HomeLyft Restoration MS at +12282845200 to discuss your Big Point carpet cleaning needs and get a straightforward quote before any work begins.
+Ready to schedule? Call HomeLyft Restoration Gulfport at +12282845200 to discuss your Big Point carpet cleaning needs and get a straightforward quote before any work begins.

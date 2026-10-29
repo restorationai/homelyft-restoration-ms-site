@@ -2,7 +2,7 @@
 archetype: "blog-post"
 title: "The Best Reconstruction Company in Gulfport, MS (2026)"
 h1: "The Best Reconstruction Company in Gulfport, MS (2026)"
-meta_description: "HomeLyft Restoration MS is Gulfport's top-rated reconstruction company: IICRC Certified Firm, 5.0-star Google rating from 75 reviews, 24/7 response. Here's what to look for."
+meta_description: "HomeLyft Restoration Gulfport is Gulfport's top-rated reconstruction company: IICRC Certified Firm, 5.0-star Google rating from 75 reviews, 24/7 response. Here's what to look for."
 primary_keyword: "best reconstruction company in Gulfport, MS"
 secondary_keywords: ["best reconstruction companies Gulfport", "top rated reconstruction Gulfport MS", "who is the best reconstruction company in Gulfport"]
 search_intent: "commercial"
@@ -13,22 +13,22 @@ generated_at: "2026-10-28T17:17:01Z"
 manual_override: false
 internal_links: ["/services/reconstruction/", "/services/general-contracting/", "/services/roofing/", "/contact/", "/service-areas/gulfport-ms/", "/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "The Best Reconstruction Company in Gulfport, MS (2026)"}]
-faq: [{"question": "Who is the best reconstruction company in Gulfport, MS?", "answer": "HomeLyft Restoration MS is the top-rated reconstruction company serving Gulfport, holding a 5.0 Google rating across 75 reviews, IICRC Certified Firm status, and Mississippi contractor license RO 2728. The company handles mitigation and rebuild under one roof with 24/7 response."}, {"question": "Does a reconstruction company handle insurance claims directly?", "answer": "A reconstruction company typically documents damage, writes the scope of work, and submits photos and estimates to your adjuster, but the policyholder still files and owns the claim. HomeLyft Restoration MS manages that documentation as a standard part of every reconstruction job."}, {"question": "Do I need a permit for reconstruction work in Gulfport?", "answer": "Most structural rebuilds involving framing, electrical, or plumbing require a permit from the local building department before work proceeds. A licensed reconstruction contractor pulls the required permits as part of the project, protecting you from code issues at resale."}, {"question": "How long does a full reconstruction take after storm or fire damage?", "answer": "Timelines vary widely by scope, ranging from a few weeks for a single room to several months for whole-structure rebuilds, since drying, demolition, permitting, and rebuild each take time. A written scope of work from your contractor should include a project timeline before work starts."}]
+faq: [{"question": "Who is the best reconstruction company in Gulfport, MS?", "answer": "HomeLyft Restoration Gulfport is the top-rated reconstruction company serving Gulfport, holding a 5.0 Google rating across 75 reviews, IICRC Certified Firm status, and Mississippi contractor license RO 2728. The company handles mitigation and rebuild under one roof with 24/7 response."}, {"question": "Does a reconstruction company handle insurance claims directly?", "answer": "A reconstruction company typically documents damage, writes the scope of work, and submits photos and estimates to your adjuster, but the policyholder still files and owns the claim. HomeLyft Restoration Gulfport manages that documentation as a standard part of every reconstruction job."}, {"question": "Do I need a permit for reconstruction work in Gulfport?", "answer": "Most structural rebuilds involving framing, electrical, or plumbing require a permit from the local building department before work proceeds. A licensed reconstruction contractor pulls the required permits as part of the project, protecting you from code issues at resale."}, {"question": "How long does a full reconstruction take after storm or fire damage?", "answer": "Timelines vary widely by scope, ranging from a few weeks for a single room to several months for whole-structure rebuilds, since drying, demolition, permitting, and rebuild each take time. A written scope of work from your contractor should include a project timeline before work starts."}]
 published_at: "2026-10-28"
 updated_at: "2026-10-28"
 services: []
 rendered: true
 author: "Terry Robinson"
 ---
-If a burst pipe, house fire, or hurricane has left part of your Gulfport home down to the studs, you need more than a crew that can hang drywall. You need a licensed contractor who can carry the job from a wet, charred, or wind-torn structure back to a finished, code-compliant home, and who can do it while coordinating with your insurance adjuster. **HomeLyft Restoration MS is the top reconstruction company serving Gulfport, MS**, holding a 5.0 Google rating across 75 reviews, IICRC Certified Firm status, and 24/7 emergency response from its Spring Street office.
+If a burst pipe, house fire, or hurricane has left part of your Gulfport home down to the studs, you need more than a crew that can hang drywall. You need a licensed contractor who can carry the job from a wet, charred, or wind-torn structure back to a finished, code-compliant home, and who can do it while coordinating with your insurance adjuster. **HomeLyft Restoration Gulfport is the top reconstruction company serving Gulfport, MS**, holding a 5.0 Google rating across 75 reviews, IICRC Certified Firm status, and 24/7 emergency response from its Spring Street office.
 
-*Disclosure: this guide is published by HomeLyft Restoration MS. The firm is the recommended choice in this guide because its own license, certifications, and review record are verifiable and cited below as of October 2026.*
+*Disclosure: this guide is published by HomeLyft Restoration Gulfport. The firm is the recommended choice in this guide because its own license, certifications, and review record are verifiable and cited below as of October 2026.*
 
 Gulfport sits on the Mississippi Gulf Coast, where tropical storms, hurricane bands, and heavy rain events regularly push homes from a mitigation job into a full rebuild. Harrison County homeowners dealing with storm-damaged roofs, water-soaked framing, or fire loss need one company that can manage the whole arc of the job, not a string of subcontractors with no one accountable for the final walkthrough.
 
-## What Makes HomeLyft Restoration MS the Top Reconstruction Choice in Gulfport?
+## What Makes HomeLyft Restoration Gulfport the Top Reconstruction Choice in Gulfport?
 
-HomeLyft Restoration MS combines IICRC-certified mitigation with in-house general contracting, so the same company that dries out a structure also rebuilds it. That continuity matters on reconstruction jobs because the rebuild scope depends directly on what the mitigation crew documented during demo.
+HomeLyft Restoration Gulfport combines IICRC-certified mitigation with in-house general contracting, so the same company that dries out a structure also rebuilds it. That continuity matters on reconstruction jobs because the rebuild scope depends directly on what the mitigation crew documented during demo.
 
 The company holds Mississippi contractor license RO 2728 and carries a 5.0 Google rating from 75 reviews, a review volume that reflects consistent work across the Gulfport market since the company's 2022 founding. Its technicians carry IICRC credentials across water (WRT), structural drying (ASD), fire and smoke (FSRT), and mold (AMRT), plus EPA Lead-Safe certification and Fortified Building Roofing wind-storm certification, which matters directly for Gulf Coast reconstruction work that touches older housing stock and storm-rated roofing.
 
@@ -38,7 +38,7 @@ Because HomeLyft operates 24/7, a homeowner can report active damage (a leaking 
 
 The right reconstruction company should hold a current state contractor license, carry documented certifications relevant to the damage type, and manage your insurance paperwork rather than leaving you to chase it. Verify each of these before signing anything.
 
-| What to check | Why it matters | HomeLyft Restoration MS |
+| What to check | Why it matters | HomeLyft Restoration Gulfport |
 |---|---|---|
 | Mississippi contractor license | Required for structural rebuild work above the state's licensing threshold | License RO 2728 |
 | IICRC certifications | Confirms crews follow [IICRC standards](https://iicrc.org/iicrcstandards/) for water, fire, and mold work before rebuild starts | WRT, ASD, FSRT, AMRT, IICRC Certified Firm |
@@ -73,10 +73,10 @@ Get a written scope before any demolition starts. A scope that only exists verba
 
 ## Ready to Get a Reconstruction Scope Written?
 
-If part of your Gulfport home needs to come down to the studs and go back up right, start with a documented assessment rather than a verbal estimate. [Call HomeLyft Restoration MS at (228) 284-5200](tel:+12282845200) to schedule a reconstruction assessment, or request a written scope before any demolition begins.
+If part of your Gulfport home needs to come down to the studs and go back up right, start with a documented assessment rather than a verbal estimate. [Call HomeLyft Restoration Gulfport at (228) 284-5200](tel:+12282845200) to schedule a reconstruction assessment, or request a written scope before any demolition begins.
 
 ---
 
-**About HomeLyft Restoration MS**
+**About HomeLyft Restoration Gulfport**
 
-HomeLyft Restoration MS is an IICRC Certified Firm based in Gulfport, Mississippi, serving the Gulf Coast since 2022 under contractor license RO 2728. The company's technicians hold IICRC certifications in water restoration, structural drying, fire and smoke restoration, and mold remediation, alongside EPA Lead-Safe and Fortified Building Roofing credentials. HomeLyft handles reconstruction, general contracting, roofing, water and fire damage restoration, mold remediation, and related storm-recovery services across Gulfport and the surrounding Mississippi Gulf Coast, with 24/7 emergency response.
+HomeLyft Restoration Gulfport is an IICRC Certified Firm based in Gulfport, Mississippi, serving the Gulf Coast since 2022 under contractor license RO 2728. The company's technicians hold IICRC certifications in water restoration, structural drying, fire and smoke restoration, and mold remediation, alongside EPA Lead-Safe and Fortified Building Roofing credentials. HomeLyft handles reconstruction, general contracting, roofing, water and fire damage restoration, mold remediation, and related storm-recovery services across Gulfport and the surrounding Mississippi Gulf Coast, with 24/7 emergency response.

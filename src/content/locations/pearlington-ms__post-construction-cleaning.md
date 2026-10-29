@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Pearlington, MS | HomeLyft Restoration MS"
+title: "Post-Construction and Specialty Cleaning in Pearlington, MS | HomeLyft Restoration Gulfport"
 h1: "Post-Construction and Specialty Cleaning in Pearlington"
 meta_description: "Post-construction and specialty cleaning in Pearlington, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "post-construction and specialty cleaning pearlington"
@@ -38,7 +38,7 @@ The final phase is a floor-by-floor inspection pass: hardwood buffed, tile moppe
 
 ## Reaching Pearlington from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, and Pearlington is reachable via US-90 west through Bay St. Louis, then north on MS-607 toward the Pearl River. The route is straightforward but the distance is real, Pearlington is one of the more remote communities we serve in Hancock County. We schedule post-construction cleans with that travel time factored in, and we coordinate directly with your general contractor on access so the crew arrives when the site is ready, not before trades are finished.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Pearlington is reachable via US-90 west through Bay St. Louis, then north on MS-607 toward the Pearl River. The route is straightforward but the distance is real, Pearlington is one of the more remote communities we serve in Hancock County. We schedule post-construction cleans with that travel time factored in, and we coordinate directly with your general contractor on access so the crew arrives when the site is ready, not before trades are finished.
 
 For larger projects, new builds over 2,000 square feet or full gut-rehabs, we typically stage the work across two days to do the job properly rather than rushing a single visit. Contractors in the area have found that scheduling us for the day after punch-list walk is the most efficient sequence.
 
@@ -46,4 +46,4 @@ For larger projects, new builds over 2,000 square feet or full gut-rehabs, we ty
 
 One thing that catches out-of-area cleaning crews in Pearlington: the combination of river-adjacent soil and post-storm slab construction means that concrete floors in newer builds often show efflorescence, white mineral deposits that migrate up through the slab, especially in the first year after construction. It looks like construction dust but doesn't respond to standard mopping. We identify it on sight and treat it with an appropriate mild acid wash rather than scrubbing it into the surface and making it worse. If your new build or renovation is on a slab poured within the last 18 months, mention it when you call so we bring the right materials.
 
-If your project in Pearlington is ready for its final clean, or if you're a contractor looking for a reliable post-construction cleaning partner for jobs in western Hancock County, call HomeLyft Restoration MS at +12282845200. We'll assess the scope, give you a clear timeline, and show up prepared to make the space move-in ready.
+If your project in Pearlington is ready for its final clean, or if you're a contractor looking for a reliable post-construction cleaning partner for jobs in western Hancock County, call HomeLyft Restoration Gulfport at +12282845200. We'll assess the scope, give you a clear timeline, and show up prepared to make the space move-in ready.

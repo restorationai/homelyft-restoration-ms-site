@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Kiln, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in Kiln, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in Kiln"
 meta_description: "24/7 emergency board-up and tarping in Kiln, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping kiln"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Need an emergency board-up in Kiln? We answer 24/7.** Call now and our crew heads out to secure broken windows, doors and roofs.
 
-Kiln sits in Hancock County's pine belt, where Gulf Coast storm tracks push hard through the Pearl River lowlands and leave properties exposed to the kind of wind and rain damage that doesn't wait for business hours. When a storm peels back a section of roof, shatters a window, or leaves a wall open to the elements, the window between damage and catastrophic water intrusion is measured in hours, not days. HomeLyft Restoration MS dispatches board-up and tarping crews from Gulfport to protect Kiln properties before the next rain band rolls through.
+Kiln sits in Hancock County's pine belt, where Gulf Coast storm tracks push hard through the Pearl River lowlands and leave properties exposed to the kind of wind and rain damage that doesn't wait for business hours. When a storm peels back a section of roof, shatters a window, or leaves a wall open to the elements, the window between damage and catastrophic water intrusion is measured in hours, not days. HomeLyft Restoration Gulfport dispatches board-up and tarping crews from Gulfport to protect Kiln properties before the next rain band rolls through.
 
 ## Why Kiln Properties Are Especially Vulnerable to Storm Exposure
 
@@ -53,10 +53,10 @@ Most standard homeowners' policies in Mississippi cover emergency protective mea
 
 For properties covered under MWUA wind policies, which are common in Hancock County given the coastal wind zone designations, the claim process for emergency protective measures follows a specific documentation protocol. We're familiar with that process and can communicate directly with adjusters to clarify the scope of work performed.
 
-HomeLyft Restoration MS holds IICRC FSRT (Fire & Smoke) certification and is a FORTIFIED Building Roofing MS Windstorm Certified firm, credentials that carry weight when an adjuster is evaluating whether the protective work was performed by a qualified contractor.
+HomeLyft Restoration Gulfport holds IICRC FSRT (Fire & Smoke) certification and is a FORTIFIED Building Roofing MS Windstorm Certified firm, credentials that carry weight when an adjuster is evaluating whether the protective work was performed by a qualified contractor.
 
 ## Local Note
 
 One thing that matters in Kiln specifically: the area's older wood-frame homes frequently have roof overhangs and soffit configurations that differ from newer construction, and those overhangs can mask secondary damage that isn't visible from the ground. During tarping operations, the crew checks the soffit and fascia line for wind-driven water infiltration that may have traveled horizontally before dropping into the wall cavity. Catching that secondary entry point and including it in the tarp coverage, or flagging it for immediate repair, prevents the kind of hidden moisture damage that shows up weeks later as a mold or rot problem inside the wall system.
 
-If your Kiln property has taken storm or fire damage and you need it secured before conditions worsen, call HomeLyft Restoration MS at +12282845200. The crew will confirm your address, assess access, and get to work protecting the structure so the restoration process can start from a stable baseline.
+If your Kiln property has taken storm or fire damage and you need it secured before conditions worsen, call HomeLyft Restoration Gulfport at +12282845200. The crew will confirm your address, assess access, and get to work protecting the structure so the restoration process can start from a stable baseline.

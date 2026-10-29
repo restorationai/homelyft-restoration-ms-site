@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in State Line, MS | HomeLyft Restoration MS"
+title: "Emergency Sewage Cleanup and Sanitization in State Line, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in State Line"
 meta_description: "24/7 emergency sewage cleanup and sanitization in State Line, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "sewage cleanup and sanitization state line"
@@ -33,7 +33,7 @@ Older homes in the area, many built in the 1960s through 1980s, often have cast-
 
 ## Our Sewage Cleanup and Sanitization Process in State Line
 
-Sewage is classified as Category 3 water, the most contaminated classification under the IICRC S500 standard, and the work reflects that. When the HomeLyft Restoration MS crew arrives, the first priority is containment: stopping the source if it hasn't been stopped, then isolating the affected area to prevent cross-contamination to clean spaces.
+Sewage is classified as Category 3 water, the most contaminated classification under the IICRC S500 standard, and the work reflects that. When the HomeLyft Restoration Gulfport crew arrives, the first priority is containment: stopping the source if it hasn't been stopped, then isolating the affected area to prevent cross-contamination to clean spaces.
 
 From there, the process moves through these concrete steps:
 
@@ -46,7 +46,7 @@ The team holds IICRC certifications in Water Damage Restoration and Applied Stru
 
 ## Reaching State Line from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport, and State Line is a meaningful drive north. Being straightforward about that: this is not a same-hour response situation for most calls. What the team can offer is prompt scheduling, clear communication about arrival windows, and a crew that arrives fully staged, truck-mounted extraction, containment materials, and disinfection supplies loaded before leaving the yard. For a sewage loss, showing up prepared matters more than showing up fast and making two trips.
+HomeLyft Restoration Gulfport is based in Gulfport, and State Line is a meaningful drive north. Being straightforward about that: this is not a same-hour response situation for most calls. What the team can offer is prompt scheduling, clear communication about arrival windows, and a crew that arrives fully staged, truck-mounted extraction, containment materials, and disinfection supplies loaded before leaving the yard. For a sewage loss, showing up prepared matters more than showing up fast and making two trips.
 
 If you're calling about an active backup, the most useful thing to do while you wait is shut off water supply to the affected fixture if possible, avoid the contaminated area, and keep children and pets out of the space entirely.
 
@@ -60,4 +60,4 @@ HomeLyft documents the loss thoroughly: photographs of affected materials before
 
 One thing that comes up specifically in State Line's older rural properties: when a septic overflow has reached a crawl space, the vapor barrier, if one exists at all, is often the only thing that slowed the spread. Many homes in this part of Greene County were built without a proper vapor barrier, or with a barrier that has deteriorated to the point of being ineffective. That means sewage can wick directly into the soil beneath the structure and into the wood framing above it simultaneously. Remediation in those crawl spaces takes longer and requires more aggressive treatment than a finished basement in a newer home would. If you're not sure whether your crawl space has a barrier, that's worth knowing before the next heavy rain season.
 
-If you're dealing with a sewage backup or septic overflow in State Line, call HomeLyft Restoration MS at +12282845200. Describe what you're seeing, and the team will give you an honest assessment of next steps, no obligation, no pressure.
+If you're dealing with a sewage backup or septic overflow in State Line, call HomeLyft Restoration Gulfport at +12282845200. Describe what you're seeing, and the team will give you an honest assessment of next steps, no obligation, no pressure.

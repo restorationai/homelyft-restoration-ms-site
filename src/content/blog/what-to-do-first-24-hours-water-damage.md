@@ -91,4 +91,4 @@ If your home is older, and much of the housing stock in coastal Mississippi date
 
 ---
 
-If you're reading this because water damage just happened in your home, the steps above give you a clear starting point. For situations that go beyond what a shop vac and a fan can handle, HomeLyft Restoration MS serves Gulfport and the surrounding Gulf Coast area, reach them at (228) 284-5200 to talk through what you're dealing with and what comes next.
+If you're reading this because water damage just happened in your home, the steps above give you a clear starting point. For situations that go beyond what a shop vac and a fan can handle, HomeLyft Restoration Gulfport serves Gulfport and the surrounding Gulf Coast area, reach them at (228) 284-5200 to talk through what you're dealing with and what comes next.

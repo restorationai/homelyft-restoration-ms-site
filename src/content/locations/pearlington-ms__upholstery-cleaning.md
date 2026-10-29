@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Pearlington, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Pearlington, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Pearlington"
 meta_description: "24/7 upholstery cleaning in Pearlington, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning pearlington"
@@ -42,4 +42,4 @@ Most upholstery cleaning in Pearlington is out-of-pocket rather than insurance-b
 
 One thing we watch for specifically in this area: furniture that's been stored or used in homes that were elevated or rebuilt post-Katrina often sits closer to exterior walls with less insulation buffer than typical inland construction, which means upholstery pressed against those walls can pick up more ambient moisture on one side than the other. We check both sides of a sectional or sofa back for uneven dampness before we start, because treating it as a uniform clean can leave one section still damp while the rest looks finished.
 
-If your sofa, sectional, or leather furniture in Pearlington is holding onto humidity, odor, or visible soiling, it's worth getting ahead of it before mildew sets in deeper than the surface. HomeLyft Restoration MS schedules upholstery cleaning throughout Hancock County and can talk through timing around the local weather when you call.
+If your sofa, sectional, or leather furniture in Pearlington is holding onto humidity, odor, or visible soiling, it's worth getting ahead of it before mildew sets in deeper than the surface. HomeLyft Restoration Gulfport schedules upholstery cleaning throughout Hancock County and can talk through timing around the local weather when you call.

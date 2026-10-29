@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Removal & Cleanup in Gautier, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Water Removal & Cleanup in Gautier, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Water Removal & Cleanup in Gautier"
 meta_description: "24/7 emergency water removal & cleanup in Gautier, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency water removal & cleanup gautier"
@@ -42,4 +42,4 @@ Standing water over an inch or two usually calls for pump extraction before air 
 
 Homes near the lower-lying areas close to the Pascagoula River and the bayous feeding into it tend to have a higher water table, which means crawlspace and slab-edge moisture takes longer to fully dry even after extraction looks complete on the surface. We factor that into how long we leave drying equipment running rather than pulling it the moment surface readings look dry, because a premature pull in those spots is one of the most common reasons mold shows up a few weeks later.
 
-Water sitting in a Gautier home doesn't wait for business hours to cause damage, and neither do we. Whether it's a slab home near the river low ground or an older crawlspace property across town, call HomeLyft Restoration MS and we'll get extraction equipment on-site and moisture readings started the same visit.
+Water sitting in a Gautier home doesn't wait for business hours to cause damage, and neither do we. Whether it's a slab home near the river low ground or an older crawlspace property across town, call HomeLyft Restoration Gulfport and we'll get extraction equipment on-site and moisture readings started the same visit.

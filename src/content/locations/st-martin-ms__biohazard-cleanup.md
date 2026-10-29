@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Biohazard Cleanup in St. Martin, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Biohazard Cleanup in St. Martin, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Biohazard Cleanup in St. Martin"
 meta_description: "24/7 emergency biohazard cleanup in St. Martin, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "biohazard cleanup st. martin"
@@ -24,7 +24,7 @@ rendered: true
 <!-- emergency-open -->
 **Need biohazard or trauma cleanup in St. Martin? We answer 24/7.** Call now and our crew heads out to handle the cleanup with discretion and care.
 
-St. Martin sits in a stretch of Jackson County where the Gulf Coast humidity rarely lets up, and where older slab-on-grade homes and manufactured housing communities sit close together along routes like Highway 90 and Lamey Bridge Road. When a biohazard situation occurs in a home or property here, whether it involves blood, bodily fluids, infectious material, or discarded sharps, the subtropical climate means biological material degrades and spreads faster than it would in a drier region. That urgency, combined with the need for absolute discretion in a close-knit community, shapes how HomeLyft Restoration MS approaches every call from St. Martin.
+St. Martin sits in a stretch of Jackson County where the Gulf Coast humidity rarely lets up, and where older slab-on-grade homes and manufactured housing communities sit close together along routes like Highway 90 and Lamey Bridge Road. When a biohazard situation occurs in a home or property here, whether it involves blood, bodily fluids, infectious material, or discarded sharps, the subtropical climate means biological material degrades and spreads faster than it would in a drier region. That urgency, combined with the need for absolute discretion in a close-knit community, shapes how HomeLyft Restoration Gulfport approaches every call from St. Martin.
 
 ## Why St. Martin Properties Present Unique Biohazard Challenges
 
@@ -40,7 +40,7 @@ Our IICRC-certified team removes and packages all biological material and contam
 
 ## Reaching St. Martin from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, placing St. Martin well within our primary service corridor. The most direct route runs east along Highway 90 through Biloxi and into the St. Martin community, a straightforward drive along the Coast. Lamey Bridge Road and Popp's Ferry Road are the two main access points into the interior of St. Martin, and our crews are familiar with both. If a property sits on a private drive or within a tightly spaced manufactured home community, common in this part of Jackson County, we coordinate access details in advance to avoid delays on arrival.
+HomeLyft Restoration Gulfport operates out of Gulfport, placing St. Martin well within our primary service corridor. The most direct route runs east along Highway 90 through Biloxi and into the St. Martin community, a straightforward drive along the Coast. Lamey Bridge Road and Popp's Ferry Road are the two main access points into the interior of St. Martin, and our crews are familiar with both. If a property sits on a private drive or within a tightly spaced manufactured home community, common in this part of Jackson County, we coordinate access details in advance to avoid delays on arrival.
 
 ## Insurance Coordination for Biohazard Cleanup in St. Martin
 
@@ -50,4 +50,4 @@ Many homeowners' insurance policies cover biohazard remediation, particularly wh
 
 One detail that catches out-of-area contractors working in St. Martin: the combination of slab construction and high water tables in parts of Jackson County means that even a small amount of biological material can wick laterally under flooring faster than expected. We've seen situations where the visible affected area was limited to one room, but moisture mapping revealed contamination had traveled several feet under adjacent tile. Taking the time to map the full extent before beginning removal, rather than treating only what's visible, is what separates a complete remediation from one that leaves a problem behind.
 
-If you're dealing with a biohazard situation at a St. Martin property, the most important step is to secure the area and call for professional help before attempting any cleanup yourself. HomeLyft Restoration MS handles these calls with the discretion, technical training, and proper disposal protocols that protect your family, your property, and your insurance claim. Call us at +12282845200 to speak with someone directly.
+If you're dealing with a biohazard situation at a St. Martin property, the most important step is to secure the area and call for professional help before attempting any cleanup yourself. HomeLyft Restoration Gulfport handles these calls with the discretion, technical training, and proper disposal protocols that protect your family, your property, and your insurance claim. Call us at +12282845200 to speak with someone directly.

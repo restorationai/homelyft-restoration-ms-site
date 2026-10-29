@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Ellisville, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Ellisville, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Ellisville"
 meta_description: "24/7 upholstery cleaning in Ellisville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning ellisville"
@@ -38,4 +38,4 @@ Given how much moisture is already in the air most of the year here, we lean on 
 
 One thing that catches people off guard: furniture stored in an Ellisville garage or a detached structure, even for a short stretch during a move or renovation, often needs a heavier pretreatment than a piece that's been indoors the whole time. Unconditioned outbuildings here trap heat and humidity worse than the house itself, and fabric left in that environment for even a few weeks can develop a mildew smell that regular cleaning solutions won't fully lift without a targeted enzyme treatment first.
 
-If your sofa, sectional, or leather furniture in Ellisville is holding onto odor, stains, or that heavy, humid-house smell, a proper steam and extraction cleaning can reset it without the multi-day dry time you'd expect from a rental machine. Call HomeLyft Restoration MS at (228) 284-5200 to get on the schedule.
+If your sofa, sectional, or leather furniture in Ellisville is holding onto odor, stains, or that heavy, humid-house smell, a proper steam and extraction cleaning can reset it without the multi-day dry time you'd expect from a rental machine. Call HomeLyft Restoration Gulfport at (228) 284-5200 to get on the schedule.

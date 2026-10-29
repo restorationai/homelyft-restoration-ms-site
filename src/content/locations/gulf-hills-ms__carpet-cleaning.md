@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Gulf Hills, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Gulf Hills, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Gulf Hills"
 meta_description: "Carpet cleaning in Gulf Hills, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning gulf hills"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-Gulf Hills sits in a humid coastal corridor where salt air drifts in off the Sound and afternoon thunderstorms can drop an inch of rain in twenty minutes. That combination, persistent humidity, sandy coastal soil tracked in from outdoor living, and the kind of mildew that takes hold quietly in carpet fibers, makes professional carpet cleaning here a different task than it is fifty miles inland. HomeLyft Restoration MS brings IICRC-certified technicians out of Gulfport specifically calibrated for what Gulf Hills carpets actually face.
+Gulf Hills sits in a humid coastal corridor where salt air drifts in off the Sound and afternoon thunderstorms can drop an inch of rain in twenty minutes. That combination, persistent humidity, sandy coastal soil tracked in from outdoor living, and the kind of mildew that takes hold quietly in carpet fibers, makes professional carpet cleaning here a different task than it is fifty miles inland. HomeLyft Restoration Gulfport brings IICRC-certified technicians out of Gulfport specifically calibrated for what Gulf Hills carpets actually face.
 
 ## Why Gulf Hills Carpets Take a Harder Hit
 

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Laurel, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Laurel, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Laurel"
 meta_description: "Renovations, remodels and general contracting in Laurel, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting laurel"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Laurel's mix of mid-century bungalows, postwar ranch homes, and the occasional Victorian-era craftsman means that almost every renovation project here uncovers something unexpected behind the drywall, original knob-and-tube wiring, balloon-frame walls with no insulation cavity, or subfloor damage quietly spreading from a long-forgotten plumbing leak. HomeLyft Restoration MS brings licensed general contracting (RO #2728) and IICRC-certified restoration expertise together, so whether you're updating a kitchen, rebuilding after water or fire damage, or tackling a full home remodel, the work is done by one coordinated team rather than a patchwork of subs.
+Laurel's mix of mid-century bungalows, postwar ranch homes, and the occasional Victorian-era craftsman means that almost every renovation project here uncovers something unexpected behind the drywall, original knob-and-tube wiring, balloon-frame walls with no insulation cavity, or subfloor damage quietly spreading from a long-forgotten plumbing leak. HomeLyft Restoration Gulfport brings licensed general contracting (RO #2728) and IICRC-certified restoration expertise together, so whether you're updating a kitchen, rebuilding after water or fire damage, or tackling a full home remodel, the work is done by one coordinated team rather than a patchwork of subs.
 
 ## Why Laurel's Housing Stock Shapes Every Renovation
 
@@ -48,4 +48,4 @@ For homeowners carrying out elective renovations without an insurance component,
 
 One thing that catches out-of-area contractors in Laurel: the city's older neighborhoods have a significant number of homes with original hardwood floors milled from local longleaf pine, and homeowners almost always want them saved, not replaced. That wood can be refinished many more times than modern pine because of its density, but the refinishing process requires slower passes and finer grits than a crew used to working with softer species would expect. Getting it wrong means swirl marks or uneven depth that shows under raking light. It's a small detail, but it's the kind of thing that separates a renovation that feels right from one that just looks finished.
 
-If you're planning a kitchen remodel, bathroom update, post-damage rebuild, or larger home renovation in Laurel, call HomeLyft Restoration MS at +1 (228) 284-5200. The work is permitted, lead-safe compliant, and backed by a licensed general contracting team that understands what's actually inside the walls of a Laurel home.
+If you're planning a kitchen remodel, bathroom update, post-damage rebuild, or larger home renovation in Laurel, call HomeLyft Restoration Gulfport at +1 (228) 284-5200. The work is permitted, lead-safe compliant, and backed by a licensed general contracting team that understands what's actually inside the walls of a Laurel home.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Biohazard Cleanup in Wade, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Biohazard Cleanup in Wade, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Biohazard Cleanup in Wade"
 meta_description: "24/7 emergency biohazard cleanup in Wade, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "biohazard cleanup wade"
@@ -46,7 +46,7 @@ Our IICRC-certified technicians and OSHA-trained crew bring the same documented 
 
 ## Reaching Wade from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport and dispatches to Forrest County properties including Wade via US-49 North. The route is direct, and scheduling is handled promptly so that property owners are not left waiting without a confirmed arrival window. When you call +12282845200, a real person coordinates the dispatch and gives you a clear timeframe, no vague promises.
+HomeLyft Restoration Gulfport operates out of Gulfport and dispatches to Forrest County properties including Wade via US-49 North. The route is direct, and scheduling is handled promptly so that property owners are not left waiting without a confirmed arrival window. When you call +12282845200, a real person coordinates the dispatch and gives you a clear timeframe, no vague promises.
 
 Discretion matters in a community the size of Wade. Our vehicles are unmarked, and the crew arrives without unnecessary equipment staging that would draw attention. We understand that neighbors and family members may not need to know the specifics of what happened inside the home.
 
@@ -60,4 +60,4 @@ We document the loss thoroughly, photographs, written scope, waste manifests, an
 
 One thing that comes up specifically in Wade and the surrounding rural stretches of Forrest County: properties with well water and septic systems require extra care when disposing of rinse water generated during biohazard cleanup. Unlike urban areas connected to municipal sewer, gray water from disinfection work cannot be discharged to a septic field without risk of contaminating the drain field or the water table. Our team transports all contaminated liquid waste off-site in sealed containers, a step that's easy to overlook with less experienced contractors but is required under Mississippi DEQ guidance for properties on private septic systems.
 
-If you're dealing with a situation that can't wait, call HomeLyft Restoration MS at +12282845200. We serve Wade and the broader Forrest County area with a process built for Mississippi's climate, its housing stock, and the privacy that a situation like this demands. You don't have to figure out the next step alone.
+If you're dealing with a situation that can't wait, call HomeLyft Restoration Gulfport at +12282845200. We serve Wade and the broader Forrest County area with a process built for Mississippi's climate, its housing stock, and the privacy that a situation like this demands. You don't have to figure out the next step alone.

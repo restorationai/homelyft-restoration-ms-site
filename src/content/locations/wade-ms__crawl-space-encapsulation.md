@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Wade, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Wade, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Wade"
 meta_description: "Crawl space encapsulation in Wade, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation wade"
@@ -42,7 +42,7 @@ All work is performed by an IICRC-certified firm, and the process follows establ
 
 ## Reaching Wade from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport, and Wade is a manageable drive north via US-49. Scheduling is straightforward, call +12282845200 to set up an assessment, and we'll confirm a time that works for your household. Because crawl space encapsulation is a planned project rather than an emergency service, we coordinate arrival windows in advance so you're not waiting around.
+HomeLyft Restoration Gulfport is based in Gulfport, and Wade is a manageable drive north via US-49. Scheduling is straightforward, call +12282845200 to set up an assessment, and we'll confirm a time that works for your household. Because crawl space encapsulation is a planned project rather than an emergency service, we coordinate arrival windows in advance so you're not waiting around.
 
 For homeowners in the broader Forrest County area, the same team handles the full scope of the project, inspection, any necessary moisture remediation, and the encapsulation installation itself, so there's no handoff between contractors mid-job.
 
@@ -50,4 +50,4 @@ For homeowners in the broader Forrest County area, the same team handles the ful
 
 One pattern we see consistently in Wade and the surrounding Forrest County area: homes that had a plumbing leak repaired years ago, a slow drip under the house that was eventually fixed, often still carry the moisture signature of that original event in the crawl space. The leak is long gone, but the soil beneath the home stayed saturated, the vapor barrier (if one existed) was never replaced, and the joists absorbed enough moisture to remain at elevated readings years later. If a previous owner patched a pipe under your house and you've never had the crawl space inspected since, that history is worth knowing about before you list the home or start noticing floor problems.
 
-If you're in Wade and ready to get your crawl space assessed, call HomeLyft Restoration MS at +12282845200. We'll walk through what's happening beneath your home, explain what encapsulation would involve for your specific layout, and give you a clear picture of cost and timeline, no pressure, just an honest look at what the space needs.
+If you're in Wade and ready to get your crawl space assessed, call HomeLyft Restoration Gulfport at +12282845200. We'll walk through what's happening beneath your home, explain what encapsulation would involve for your specific layout, and give you a clear picture of cost and timeline, no pressure, just an honest look at what the space needs.

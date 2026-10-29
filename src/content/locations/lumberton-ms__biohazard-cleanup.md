@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Biohazard Cleanup in Lumberton, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Biohazard Cleanup in Lumberton, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Biohazard Cleanup in Lumberton"
 meta_description: "24/7 emergency biohazard cleanup in Lumberton, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "biohazard cleanup lumberton"
@@ -40,7 +40,7 @@ All biologically contaminated material, porous surfaces, soft goods, subfloor se
 
 ## Reaching Lumberton from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport and serves Lamar County as part of its regular service area. The primary route to Lumberton runs north on US-49 through Hattiesburg and then west on US-98, a drive that keeps the team within practical reach of Lumberton addresses for scheduled and prompt-response calls. When you call +12282845200, the intake team will confirm scheduling and give you a realistic arrival window based on current conditions, no vague promises, just a clear time you can plan around.
+HomeLyft Restoration Gulfport is headquartered in Gulfport and serves Lamar County as part of its regular service area. The primary route to Lumberton runs north on US-49 through Hattiesburg and then west on US-98, a drive that keeps the team within practical reach of Lumberton addresses for scheduled and prompt-response calls. When you call +12282845200, the intake team will confirm scheduling and give you a realistic arrival window based on current conditions, no vague promises, just a clear time you can plan around.
 
 ## Insurance Coordination for Lumberton Homeowners
 
@@ -50,4 +50,4 @@ Many homeowners in Lamar County are surprised to learn that standard homeowner's
 
 One detail that comes up specifically in Lumberton and the surrounding Lamar County area: older homes with hardwood floors laid directly over a pier-and-beam crawl space often show no visible surface damage even when contamination has seeped through the seams. The boards look fine from above. It is only when a technician pulls an access panel and inspects the joists underneath that the true extent becomes clear. Skipping that step, as some general cleaning services do, leaves a biological hazard hidden inside the structure. It is a straightforward inspection, but it has to be part of the process in this housing stock, and it always is on HomeLyft jobs in this area.
 
-If you are dealing with a difficult situation at a Lumberton property and need a team that will handle it with discretion, proper credentials, and full documentation for your insurance carrier, call HomeLyft Restoration MS at +12282845200. The conversation is confidential, and the team will walk you through exactly what to expect before anyone sets foot on the property.
+If you are dealing with a difficult situation at a Lumberton property and need a team that will handle it with discretion, proper credentials, and full documentation for your insurance carrier, call HomeLyft Restoration Gulfport at +12282845200. The conversation is confidential, and the team will walk you through exactly what to expect before anyone sets foot on the property.

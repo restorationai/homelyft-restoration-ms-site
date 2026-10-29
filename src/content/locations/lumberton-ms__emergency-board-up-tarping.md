@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Lumberton, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in Lumberton, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in Lumberton"
 meta_description: "24/7 emergency board-up and tarping in Lumberton, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping lumberton"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Need an emergency board-up in Lumberton? We answer 24/7.** Call now and our crew heads out to secure broken windows, doors and roofs.
 
-Lumberton sits in the heart of Lamar County, where Gulf Coast storm tracks push inland with surprising force, a single severe thunderstorm can leave a home with a blown-off ridge cap, a shattered front window, and standing water on the subfloor before the rain even stops. When that happens, the window between the storm passing and secondary damage beginning, mold colonization can start within 24 to 48 hours, and smoke or water infiltration compounds fast, is narrow. HomeLyft Restoration MS deploys board-up and tarping crews to Lumberton properties to close that window before the next weather system rolls through.
+Lumberton sits in the heart of Lamar County, where Gulf Coast storm tracks push inland with surprising force, a single severe thunderstorm can leave a home with a blown-off ridge cap, a shattered front window, and standing water on the subfloor before the rain even stops. When that happens, the window between the storm passing and secondary damage beginning, mold colonization can start within 24 to 48 hours, and smoke or water infiltration compounds fast, is narrow. HomeLyft Restoration Gulfport deploys board-up and tarping crews to Lumberton properties to close that window before the next weather system rolls through.
 
 ## Why Lumberton Properties Are Particularly Vulnerable After Storms
 
@@ -51,4 +51,4 @@ If your property is financed, your mortgage servicer may also require proof that
 
 A detail that comes up specifically in Lumberton and surrounding Lamar County communities: a notable share of the older homes in the area sit on pier-and-beam foundations rather than slabs. That construction style means the roofline is often higher off grade than it appears from the street, and the soffit-to-fascia junction on these homes tends to be wider, which affects how tarp edges are anchored to prevent wind uplift. Crews who haven't worked this housing stock before sometimes underestimate the anchor spacing needed at the eave. HomeLyft's FORTIFIED Building–Roofing–MS–Windstorm Certified technicians are trained specifically on wind-load anchoring for Mississippi's residential building patterns, which includes the pier-and-beam stock common in communities like Lumberton.
 
-If your home or rental property in Lumberton has been damaged by storm, fire, or a break-in, call HomeLyft Restoration MS at +1 (228) 284-5200. The faster a damaged opening is sealed, the smaller the total repair bill, and the less disruption to your household while the insurance process works its way through.
+If your home or rental property in Lumberton has been damaged by storm, fire, or a break-in, call HomeLyft Restoration Gulfport at +1 (228) 284-5200. The faster a damaged opening is sealed, the smaller the total repair bill, and the less disruption to your household while the insurance process works its way through.

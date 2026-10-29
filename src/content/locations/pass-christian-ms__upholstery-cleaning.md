@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Pass Christian, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Pass Christian, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Pass Christian"
 meta_description: "24/7 upholstery cleaning in Pass Christian, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning pass christian"
@@ -42,4 +42,4 @@ One detail we watch for specifically in Pass Christian: homes with window units 
 
 Salt air doesn't just add odor, it can leave a fine residue on fabric fibers and leather surfaces that standard vacuuming won't lift. Over time this residue attracts more dust and can accelerate fabric wear at friction points like armrests and cushion edges. We factor this into our pre-cleaning inspection, checking for salt buildup in addition to the usual stains, pet dander, and general soiling, so the cleaning solution and dwell time match what the upholstery has actually been exposed to rather than a generic cleaning routine.
 
-If your furniture in Pass Christian smells musty after a humid stretch, feels damp along the seams, or just hasn't been deep cleaned since it came off a delivery truck, it's worth having it looked at before the problem moves deeper into the padding. Call HomeLyft Restoration MS to get sofa, couch, or leather upholstery cleaning scheduled, and we'll walk you through what your specific fabric or leather needs given how the coastal air has been treating it.
+If your furniture in Pass Christian smells musty after a humid stretch, feels damp along the seams, or just hasn't been deep cleaned since it came off a delivery truck, it's worth having it looked at before the problem moves deeper into the padding. Call HomeLyft Restoration Gulfport to get sofa, couch, or leather upholstery cleaning scheduled, and we'll walk you through what your specific fabric or leather needs given how the coastal air has been treating it.

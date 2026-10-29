@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Kiln, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Kiln, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Kiln"
 meta_description: "Carpet cleaning in Kiln, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning kiln"
@@ -39,11 +39,11 @@ From there, the process follows a structured sequence:
 3. **Spot treatment**, Residual stains, rust from metal furniture legs, tannin from tea or coffee, or the red-clay tracking common around Kiln, are treated individually with targeted chemistry matched to the stain type.
 4. **Grooming and speed-dry**, Carpet is raked to restore pile direction, and high-velocity air movers are positioned to bring drying time down. In Kiln's humidity, we do not skip this step; leaving carpet wet for more than a few hours in this climate creates conditions for mold colonization at the backing.
 
-All drying protocols follow IICRC standards, and HomeLyft Restoration MS holds IICRC AMRT certification, relevant here because the line between a slow-drying carpet and an early-stage mold problem is shorter in coastal Mississippi than most homeowners realize.
+All drying protocols follow IICRC standards, and HomeLyft Restoration Gulfport holds IICRC AMRT certification, relevant here because the line between a slow-drying carpet and an early-stage mold problem is shorter in coastal Mississippi than most homeowners realize.
 
 ## Reaching Kiln from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, and Kiln is a straightforward run up US-603 North through Waveland and Bay St. Louis. The drive puts our crew in the Kiln area without navigating the congestion of I-10 interchange traffic, which matters when you're scheduling a morning appointment and want the truck there before the afternoon heat sets in. We schedule Kiln appointments with realistic drive windows so you're not waiting on a crew stuck in coastal traffic.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Kiln is a straightforward run up US-603 North through Waveland and Bay St. Louis. The drive puts our crew in the Kiln area without navigating the congestion of I-10 interchange traffic, which matters when you're scheduling a morning appointment and want the truck there before the afternoon heat sets in. We schedule Kiln appointments with realistic drive windows so you're not waiting on a crew stuck in coastal traffic.
 
 For commercial properties, convenience stores, churches, or small offices along the Highway 603 corridor, we can coordinate early-morning or weekend scheduling to avoid disrupting business hours. Call +12282845200 to discuss timing that works for your property.
 
@@ -53,4 +53,4 @@ One pattern we've noticed specifically in Kiln-area homes: properties that sit o
 
 If your home in the Kiln area has had any recent plumbing issues, roof leaks, or HVAC condensate problems, mention it when you call, it changes how we approach the pre-cleaning inspection.
 
-Ready to get the salt grit, humidity residue, and years of tracked-in soil out of your carpet? Call HomeLyft Restoration MS at +12282845200 to schedule carpet cleaning in Kiln. We'll assess your carpet type, your home's conditions, and give you a straight answer on what to expect, no guesswork, no upselling services you don't need.
+Ready to get the salt grit, humidity residue, and years of tracked-in soil out of your carpet? Call HomeLyft Restoration Gulfport at +12282845200 to schedule carpet cleaning in Kiln. We'll assess your carpet type, your home's conditions, and give you a straight answer on what to expect, no guesswork, no upselling services you don't need.

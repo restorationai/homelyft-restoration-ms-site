@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Lyman, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Lyman, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Lyman"
 meta_description: "Renovations, remodels and general contracting in Lyman, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting lyman"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Lyman sits in the heart of Pearl River County, where the humid Gulf Coast climate pushes hard against every structure, swelling wood framing, softening subflooring, and accelerating the kind of slow moisture damage that turns a simple kitchen update into a full structural conversation. HomeLyft Restoration MS brings a general contracting perspective shaped by that reality: renovation work here isn't just about aesthetics, it's about building or rebuilding in a way that holds up to the next storm season. Whether you're updating a home that's been in the family for decades or rebuilding after water or fire damage, the work starts with understanding what Lyman's environment actually does to a house.
+Lyman sits in the heart of Pearl River County, where the humid Gulf Coast climate pushes hard against every structure, swelling wood framing, softening subflooring, and accelerating the kind of slow moisture damage that turns a simple kitchen update into a full structural conversation. HomeLyft Restoration Gulfport brings a general contracting perspective shaped by that reality: renovation work here isn't just about aesthetics, it's about building or rebuilding in a way that holds up to the next storm season. Whether you're updating a home that's been in the family for decades or rebuilding after water or fire damage, the work starts with understanding what Lyman's environment actually does to a house.
 
 ## Why Lyman Properties Present Unique Renovation Challenges
 
@@ -40,10 +40,10 @@ Post-damage rebuilds, following water intrusion, fire, or storm damage, follow t
 
 ## Reaching Lyman from Our Gulfport Base
 
-HomeLyft Restoration MS operates out of Gulfport, and Lyman is a straightforward run up US-49 through Wiggins and into Pearl River County. We schedule project visits and crew mobilization around that route, and for active rebuild projects, we stage materials locally to reduce daily drive time and keep work days productive. If you're coordinating a renovation while still living in the home, we'll walk through a realistic schedule during the assessment so the disruption to your household is planned, not a surprise.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Lyman is a straightforward run up US-49 through Wiggins and into Pearl River County. We schedule project visits and crew mobilization around that route, and for active rebuild projects, we stage materials locally to reduce daily drive time and keep work days productive. If you're coordinating a renovation while still living in the home, we'll walk through a realistic schedule during the assessment so the disruption to your household is planned, not a surprise.
 
 ## Local Note
 
 One thing that catches homeowners off guard in the Lyman area: homes built on pier-and-beam foundations, common in older parts of Pearl River County, often have crawl spaces that have never had proper vapor barriers installed or have barriers that have degraded over decades. Before any flooring renovation, we check those crawl spaces directly. A new hardwood or LVP floor installed over a damp subfloor in this climate will cup, buckle, or develop mold within a season. Addressing the crawl space first adds time to the front end of a project, but it's the difference between a renovation that lasts and one that has to be redone.
 
-If you're ready to move forward on a renovation, remodel, or post-damage rebuild in Lyman, call HomeLyft Restoration MS at +12282845200. We'll schedule an on-site assessment, walk the property with you, and put together a scope that reflects what your home actually needs, not a templated estimate written from a parking lot.
+If you're ready to move forward on a renovation, remodel, or post-damage rebuild in Lyman, call HomeLyft Restoration Gulfport at +12282845200. We'll schedule an on-site assessment, walk the property with you, and put together a scope that reflects what your home actually needs, not a templated estimate written from a parking lot.

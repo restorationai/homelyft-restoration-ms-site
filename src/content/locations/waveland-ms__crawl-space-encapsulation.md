@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Waveland, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Waveland, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Waveland"
 meta_description: "Crawl space encapsulation in Waveland, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation waveland"
@@ -44,10 +44,10 @@ The team holds IICRC certification in Water Damage Restoration and Applied Struc
 
 ## Reaching Waveland from the Gulfport Office
 
-HomeLyft Restoration MS operates out of Gulfport, and Waveland is a straightforward run west on U.S. Highway 90 along the beachfront corridor, typically under 40 minutes in normal traffic. For properties further inland toward the northern parts of Hancock County, the team can also route via I-10. Scheduling is handled by phone at +12282845200, and the crew arrives with equipment loaded for the assessment on the first visit so there is no wasted trip.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Waveland is a straightforward run west on U.S. Highway 90 along the beachfront corridor, typically under 40 minutes in normal traffic. For properties further inland toward the northern parts of Hancock County, the team can also route via I-10. Scheduling is handled by phone at +12282845200, and the crew arrives with equipment loaded for the assessment on the first visit so there is no wasted trip.
 
 ## Local Note: What Post-Katrina Construction Means for Encapsulation Work
 
 One thing that comes up repeatedly in Waveland crawl spaces is the presence of temporary or expedited repairs made in the years immediately following 2005. It is not uncommon to find mismatched foundation materials, crawl spaces with partial concrete pads next to open dirt sections, or vapor barriers that were stapled to joists rather than laid on the ground, a method that does almost nothing to block ground moisture. Homes rebuilt through Road Home Program grants or similar assistance programs were built to code at the time, but "to code" in 2006 did not yet reflect the encapsulation standards that have since become best practice for Gulf Coast climates. When we open up a crawl space in Waveland, we treat the inspection as a fresh assessment regardless of what paperwork says was done before.
 
-If you are seeing higher-than-normal energy bills, soft spots in flooring, a musty smell that lingers even after cleaning, or visible condensation on ductwork, the crawl space is often the first place to look. Call HomeLyft Restoration MS to schedule an assessment for your Waveland property, the sooner moisture is managed below the floor, the less damage works its way up into the structure above it.
+If you are seeing higher-than-normal energy bills, soft spots in flooring, a musty smell that lingers even after cleaning, or visible condensation on ductwork, the crawl space is often the first place to look. Call HomeLyft Restoration Gulfport to schedule an assessment for your Waveland property, the sooner moisture is managed below the floor, the less damage works its way up into the structure above it.

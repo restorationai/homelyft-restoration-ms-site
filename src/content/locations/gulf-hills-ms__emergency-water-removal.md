@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Removal & Cleanup in Gulf Hills, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Water Removal & Cleanup in Gulf Hills, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Water Removal & Cleanup in Gulf Hills"
 meta_description: "24/7 emergency water removal & cleanup in Gulf Hills, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency water removal & cleanup gulf hills"
@@ -38,4 +38,4 @@ A lot of Gulf Hills water losses trace back to named storms or the heavy summer 
 
 Older Gulf Hills homes built before more recent wind-resistance code updates often have gaps where roof decking meets exterior walls, places a roofer wouldn't necessarily catch but that let rain track down into wall cavities during a sideways storm. On these, we check behind baseboards and inside lower wall sections even when the visible water damage looks contained to the ceiling, because the moisture path is rarely a straight line down.
 
-If you're standing in water right now or watching a ceiling stain spread in a Gulf Hills home, don't wait for it to dry on its own in this humidity, it won't. Call HomeLyft Restoration MS, Mississippi-licensed (#RO 2728), and we'll get extraction equipment moving toward Gulf Hills along I-10 from our Gulfport base the same day you call.
+If you're standing in water right now or watching a ceiling stain spread in a Gulf Hills home, don't wait for it to dry on its own in this humidity, it won't. Call HomeLyft Restoration Gulfport, Mississippi-licensed (#RO 2728), and we'll get extraction equipment moving toward Gulf Hills along I-10 from our Gulfport base the same day you call.

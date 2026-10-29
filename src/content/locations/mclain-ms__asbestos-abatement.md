@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in McLain, MS | HomeLyft Restoration MS"
+title: "Asbestos Abatement in McLain, MS | HomeLyft Restoration Gulfport"
 h1: "Asbestos Abatement in McLain"
 meta_description: "Asbestos abatement in McLain, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "asbestos abatement mclain"
@@ -36,7 +36,7 @@ Once the laboratory confirms asbestos content, the work area is isolated with po
 
 ## Reaching McLain from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport and serves Greene County communities including McLain. The primary route runs north on US-49 through Hattiesburg, then east on US-98 into Greene County, a drive that reflects the rural character of this part of Mississippi and underscores why scheduling and clear communication matter. When you call to arrange an inspection or abatement project, the team coordinates arrival windows in advance so you are not waiting with uncertainty. Prompt scheduling is the standard; the team will confirm a specific appointment rather than leave you with a vague timeframe.
+HomeLyft Restoration Gulfport operates out of Gulfport and serves Greene County communities including McLain. The primary route runs north on US-49 through Hattiesburg, then east on US-98 into Greene County, a drive that reflects the rural character of this part of Mississippi and underscores why scheduling and clear communication matter. When you call to arrange an inspection or abatement project, the team coordinates arrival windows in advance so you are not waiting with uncertainty. Prompt scheduling is the standard; the team will confirm a specific appointment rather than leave you with a vague timeframe.
 
 ## McLain Insurance & Coordination
 
@@ -46,4 +46,4 @@ Asbestos abatement is sometimes covered under homeowners' insurance when the pre
 
 One pattern that comes up repeatedly on Greene County properties is the presence of original asbestos-cement board siding, sometimes called "transite", on homes and outbuildings built in the 1950s and 1960s. In McLain's climate, decades of rain, UV exposure, and temperature cycling cause this material to become increasingly brittle and friable. Homeowners sometimes mistake it for ordinary fiber-cement siding and attempt to remove or repaint it without testing. Repainting intact transite that is in good condition is generally considered an acceptable encapsulation approach, but any cutting, breaking, or sanding of the material releases fibers and requires full abatement protocols. If your property has exterior siding that looks like thin, slightly rough panels with a grayish cast, it is worth having it sampled before any exterior renovation work begins.
 
-If you own or manage a property in McLain and suspect asbestos-containing materials, whether you are planning a renovation, responding to storm damage, or preparing for a sale, call HomeLyft Restoration MS at +12282845200 to schedule an inspection. Knowing what you have before work begins is the single most effective way to protect your household and stay on the right side of Mississippi's disposal regulations.
+If you own or manage a property in McLain and suspect asbestos-containing materials, whether you are planning a renovation, responding to storm damage, or preparing for a sale, call HomeLyft Restoration Gulfport at +12282845200 to schedule an inspection. Knowing what you have before work begins is the single most effective way to protect your household and stay on the right side of Mississippi's disposal regulations.

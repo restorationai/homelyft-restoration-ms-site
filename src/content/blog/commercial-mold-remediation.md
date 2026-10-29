@@ -64,14 +64,14 @@ If you want to understand how to tell a surface mold problem from something more
 
 Look for a firm that can show IICRC AMRT (Applied Microbial Remediation Technician) certification, a written scope of work before anything is removed, and third-party clearance testing as a standard part of the job, not an upsell. Those three things separate a documented, defensible remediation from a crew that shows up with bleach and a shop-vac.
 
-For multi-tenant commercial properties, ask specifically how they plan to isolate the HVAC system and how they'll schedule around occupied suites or business hours. A company used to residential jobs may not have a plan for either. HomeLyft Restoration MS is an IICRC Certified Firm with AMRT-certified technicians and handles commercial mold remediation across Gulfport, Biloxi, Gulf Hills, and the surrounding Mississippi Gulf Coast, coordinating around tenant schedules and insurance documentation from the first inspection.
+For multi-tenant commercial properties, ask specifically how they plan to isolate the HVAC system and how they'll schedule around occupied suites or business hours. A company used to residential jobs may not have a plan for either. HomeLyft Restoration Gulfport is an IICRC Certified Firm with AMRT-certified technicians and handles commercial mold remediation across Gulfport, Biloxi, Gulf Hills, and the surrounding Mississippi Gulf Coast, coordinating around tenant schedules and insurance documentation from the first inspection.
 
 If you're still weeding through options generally, our post on [choosing a restoration company](/blog/choosing-a-restoration-company/) covers the credential and contract questions worth asking any contractor, not just ours.
 
-If you're dealing with a musty smell, visible staining, or a failed inspection in a Gulfport-area commercial property, the next step is a documented moisture and mold inspection before anyone touches the space. [Call HomeLyft Restoration MS at (228) 284-5200](tel:+12282845200) to schedule one.
+If you're dealing with a musty smell, visible staining, or a failed inspection in a Gulfport-area commercial property, the next step is a documented moisture and mold inspection before anyone touches the space. [Call HomeLyft Restoration Gulfport at (228) 284-5200](tel:+12282845200) to schedule one.
 
 ---
 
-**About HomeLyft Restoration MS**
+**About HomeLyft Restoration Gulfport**
 
-HomeLyft Restoration MS is an IICRC Certified Firm serving Gulfport, Mississippi and the surrounding Gulf Coast since 2022, with AMRT-certified mold remediation technicians and license RO 2728. The company holds a 5.0 Google rating across 64 reviews and operates on a 24/7 response schedule, handling mold remediation, water damage, fire damage, and reconstruction for residential and commercial properties across the region.
+HomeLyft Restoration Gulfport is an IICRC Certified Firm serving Gulfport, Mississippi and the surrounding Gulf Coast since 2022, with AMRT-certified mold remediation technicians and license RO 2728. The company holds a 5.0 Google rating across 64 reviews and operates on a 24/7 response schedule, handling mold remediation, water damage, fire damage, and reconstruction for residential and commercial properties across the region.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Wiggins, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Wiggins, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Wiggins"
 meta_description: "Renovations, remodels and general contracting in Wiggins, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting wiggins"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Stone County's humid subtropical climate does a slow kind of damage that most homeowners don't notice until a renovation pulls back the drywall, swollen framing, corroded fasteners, and subfloor rot that started years before the project was ever planned. In Wiggins, that reality shapes every remodel and new-build decision HomeLyft Restoration MS handles, from a single bathroom gut-and-replace to a full post-damage reconstruction. Working out of Gulfport and serving the surrounding region, our team brings licensed general contracting (RO #2728) and EPA Lead-Safe certification to projects where the work behind the walls matters as much as the finishes in front of them.
+Stone County's humid subtropical climate does a slow kind of damage that most homeowners don't notice until a renovation pulls back the drywall, swollen framing, corroded fasteners, and subfloor rot that started years before the project was ever planned. In Wiggins, that reality shapes every remodel and new-build decision HomeLyft Restoration Gulfport handles, from a single bathroom gut-and-replace to a full post-damage reconstruction. Working out of Gulfport and serving the surrounding region, our team brings licensed general contracting (RO #2728) and EPA Lead-Safe certification to projects where the work behind the walls matters as much as the finishes in front of them.
 
 ## Why Wiggins Homes Present Unique Renovation Challenges
 
@@ -44,4 +44,4 @@ HomeLyft's Gulfport headquarters puts Wiggins within a reasonable drive up US-49
 
 One thing that catches out-of-area contractors working in Wiggins: the combination of pier-and-beam foundations and high seasonal moisture means that new flooring installations, especially hardwood and engineered wood, need a longer acclimation period than the manufacturer's standard recommendation. Bringing flooring material to the job site and letting it acclimate to the home's interior conditions for 10 to 14 days before installation (rather than the typical 3 to 5) dramatically reduces the gapping and cupping callbacks that happen when the product adjusts to Stone County's humidity swings after the job is closed out. It's a small scheduling detail that protects the finished product for years.
 
-If your Wiggins home needs a kitchen remodel, a bathroom overhaul, a structural repair, or a full post-damage rebuild, HomeLyft Restoration MS is equipped to manage the project from first assessment through final inspection. Call +12282845200 to talk through your scope, a real conversation about your specific property, not a generic estimate over the phone.
+If your Wiggins home needs a kitchen remodel, a bathroom overhaul, a structural repair, or a full post-damage rebuild, HomeLyft Restoration Gulfport is equipped to manage the project from first assessment through final inspection. Call +12282845200 to talk through your scope, a real conversation about your specific property, not a generic estimate over the phone.

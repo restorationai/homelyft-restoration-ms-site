@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in Bay St. Louis, MS | HomeLyft Restoration MS"
+title: "Contents Restoration and Storage in Bay St. Louis, MS | HomeLyft Restoration Gulfport"
 h1: "Contents Restoration and Storage in Bay St. Louis"
 meta_description: "Contents restoration and storage in Bay St. Louis, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "contents restoration and storage bay st. louis"
@@ -48,10 +48,10 @@ If your policy includes Additional Living Expenses (ALE) coverage, the pack-out 
 
 ## Reaching Bay St. Louis from Our Gulfport Base
 
-HomeLyft Restoration MS operates out of Gulfport, making Bay St. Louis a straightforward service run via US-90 westbound along the coast. The drive puts our crews in Bay St. Louis without the routing complications that affect some inland communities. We serve the full Bay St. Louis area and coordinate scheduling directly with homeowners and property managers to confirm access, especially for properties with gated entries or shared driveways common in some of the older residential corridors near the waterfront.
+HomeLyft Restoration Gulfport operates out of Gulfport, making Bay St. Louis a straightforward service run via US-90 westbound along the coast. The drive puts our crews in Bay St. Louis without the routing complications that affect some inland communities. We serve the full Bay St. Louis area and coordinate scheduling directly with homeowners and property managers to confirm access, especially for properties with gated entries or shared driveways common in some of the older residential corridors near the waterfront.
 
 ## Local Note
 
 One thing that comes up repeatedly in Bay St. Louis contents work: many homes close to the water contain items that have already survived previous storm events, furniture refinished after Katrina, artwork that was dried and restored years ago, flooring that was replaced but family pieces that were kept. These items sometimes have prior water exposure that weakened wood joints, faded finishes, or left latent mold spores in upholstery seams. When we assess contents in Bay St. Louis, we look for that history, because a piece that looks fine on the surface may have compromised structural integrity or hidden biological contamination that standard cleaning won't address.
 
-If you're dealing with storm, fire, or water damage to your belongings in Bay St. Louis, call HomeLyft Restoration MS at +12282845200. We'll assess what can be saved, document everything for your insurer, and store your property safely while your home is restored.
+If you're dealing with storm, fire, or water damage to your belongings in Bay St. Louis, call HomeLyft Restoration Gulfport at +12282845200. We'll assess what can be saved, document everything for your insurer, and store your property safely while your home is restored.

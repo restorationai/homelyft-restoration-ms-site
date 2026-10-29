@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Leakesville, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Leakesville, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Leakesville"
 meta_description: "24/7 upholstery cleaning in Leakesville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning leakesville"
@@ -38,4 +38,4 @@ We run crews up from Gulfport to Greene County regularly, most often along Highw
 
 A lot of the older farmhouses and site-built homes we work on around Leakesville have wood stoves or fireplace inserts as a primary or backup heat source. Soot and smoke particulate settle into upholstery fibers near the hearth long before anyone notices a visible film, and it's a different odor profile than typical household use, more acrid, more embedded in the weave. When we're cleaning furniture positioned near a wood-burning appliance, we treat it closer to a light smoke-residue job than a standard cleaning, with an extra pass to break down that particulate before extraction, not just a surface shampoo.
 
-If a sofa, sectional, or leather chair in your Leakesville home is holding onto odor, staining, or just years of everyday wear, HomeLyft Restoration MS can walk through the fabric or leather with you and explain what a proper clean will and won't fix before any work starts. Call +12282845200 to get scheduled.
+If a sofa, sectional, or leather chair in your Leakesville home is holding onto odor, staining, or just years of everyday wear, HomeLyft Restoration Gulfport can walk through the fabric or leather with you and explain what a proper clean will and won't fix before any work starts. Call +12282845200 to get scheduled.

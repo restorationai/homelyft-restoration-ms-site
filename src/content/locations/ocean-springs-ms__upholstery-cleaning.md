@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Ocean Springs, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Ocean Springs, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Ocean Springs"
 meta_description: "24/7 upholstery cleaning in Ocean Springs, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning ocean springs"
@@ -38,4 +38,4 @@ Because ambient humidity here works against fast drying, we run air movers on ev
 
 One thing that surprises a lot of Ocean Springs homeowners: furniture placed near a window unit or against an exterior wall dries slower after cleaning than pieces in the center of a room, because those walls stay cooler and more humid in coastal construction. We factor that into where we position air movers and how long we recommend keeping cushions elevated before use, especially in homes without whole-house dehumidification.
 
-If your sofa, sectional, or leather chair is holding onto that faint coastal mustiness or just needs a real cleaning before humidity season sets in, call HomeLyft Restoration MS at (228) 284-5200 to get upholstery cleaning scheduled in Ocean Springs.
+If your sofa, sectional, or leather chair is holding onto that faint coastal mustiness or just needs a real cleaning before humidity season sets in, call HomeLyft Restoration Gulfport at (228) 284-5200 to get upholstery cleaning scheduled in Ocean Springs.

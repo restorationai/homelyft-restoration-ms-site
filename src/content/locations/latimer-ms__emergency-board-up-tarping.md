@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Latimer, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in Latimer, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in Latimer"
 meta_description: "24/7 emergency board-up and tarping in Latimer, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping latimer"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Need an emergency board-up in Latimer? We answer 24/7.** Call now and our crew heads out to secure broken windows, doors and roofs.
 
-When a storm tears through the Latimer area and leaves a roof open to the sky, or a fire burns out a window frame overnight, the clock starts immediately, Mississippi's humidity means exposed structural cavities can begin absorbing moisture within hours. HomeLyft Restoration MS responds to those calls from our Gulfport base, deploying board-up and tarping crews to Latimer properties with the materials and training to stop secondary damage before it compounds the original loss. Our team holds IICRC FSRT certification for fire and smoke restoration, which means we understand what's happening inside a structure when we're sealing the outside of it.
+When a storm tears through the Latimer area and leaves a roof open to the sky, or a fire burns out a window frame overnight, the clock starts immediately, Mississippi's humidity means exposed structural cavities can begin absorbing moisture within hours. HomeLyft Restoration Gulfport responds to those calls from our Gulfport base, deploying board-up and tarping crews to Latimer properties with the materials and training to stop secondary damage before it compounds the original loss. Our team holds IICRC FSRT certification for fire and smoke restoration, which means we understand what's happening inside a structure when we're sealing the outside of it.
 
 ## Why Latimer Properties Face Elevated Board-Up and Tarping Risks
 
@@ -59,4 +59,4 @@ If your adjuster needs to inspect before permanent repairs begin, our temporary 
 
 One thing we've observed on Harrison County properties with older wood-shake or dimensional-shingle roofs: the decking underneath is sometimes spaced, boards with gaps between them rather than continuous plywood, which was standard practice in Mississippi construction through the mid-twentieth century. Spaced decking changes how a tarp needs to be anchored, because the cap strips can't always find solid bearing between boards. We carry additional blocking material specifically for this situation. It's a small detail, but skipping it means the tarp lifts in the first strong breeze, and in Latimer, that breeze usually arrives before the adjuster does.
 
-If your Latimer home or commercial property has been opened by storm damage, fire, or a structural failure, call HomeLyft Restoration MS at +12282845200. We'll assess the breach, secure the structure, and give you a clear picture of what comes next, so the damage you're dealing with today doesn't become a larger problem by morning.
+If your Latimer home or commercial property has been opened by storm damage, fire, or a structural failure, call HomeLyft Restoration Gulfport at +12282845200. We'll assess the breach, secure the structure, and give you a clear picture of what comes next, so the damage you're dealing with today doesn't become a larger problem by morning.

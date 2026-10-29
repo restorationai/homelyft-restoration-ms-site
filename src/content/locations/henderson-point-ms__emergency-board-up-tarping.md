@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Henderson Point, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in Henderson Point, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in Henderson Point"
 meta_description: "24/7 emergency board-up and tarping in Henderson Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping henderson point"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Need an emergency board-up in Henderson Point? We answer 24/7.** Call now and our crew heads out to secure broken windows, doors and roofs.
 
-Henderson Point sits at the tip of a narrow peninsula between the Bay of St. Louis and the open Gulf, which means storm damage here doesn't arrive from one direction, it arrives from every direction at once. When a fast-moving Gulf system tears shingles loose, shatters a window, or leaves a wall exposed to salt-laden air, the window between the storm passing and secondary damage beginning is measured in hours, not days. HomeLyft Restoration MS responds from Gulfport to board up openings, tarp compromised roofs, and stop the clock on that secondary damage before the humidity and the next rain band finish what the storm started.
+Henderson Point sits at the tip of a narrow peninsula between the Bay of St. Louis and the open Gulf, which means storm damage here doesn't arrive from one direction, it arrives from every direction at once. When a fast-moving Gulf system tears shingles loose, shatters a window, or leaves a wall exposed to salt-laden air, the window between the storm passing and secondary damage beginning is measured in hours, not days. HomeLyft Restoration Gulfport responds from Gulfport to board up openings, tarp compromised roofs, and stop the clock on that secondary damage before the humidity and the next rain band finish what the storm started.
 
 ## Why Henderson Point Properties Face Elevated Board-Up and Tarping Risk
 
@@ -51,4 +51,4 @@ Most homeowners' policies on the Mississippi Gulf Coast include windstorm covera
 
 One thing that catches property owners off guard on the Henderson Point peninsula: because the land mass is so narrow, post-storm debris removal and equipment staging can be constrained by the single access road when emergency traffic is heavy. We've learned to bring all materials needed for a job in a single trip, pre-cut board stock, tarps, fasteners, and a generator if power is out, rather than making multiple runs back to Gulfport. On the narrowest sections of the peninsula, we also confirm driveway access before arrival, since some lots have low-clearance carports or shared drives that affect where we can position a ladder safely.
 
-If your Henderson Point home has taken storm damage and you're looking at an open roof or a blown window, call HomeLyft Restoration MS at +12282845200. We'll assess what's exposed, get it secured, and give you a clear picture of what comes next, before the Gulf air does any more damage than it already has.
+If your Henderson Point home has taken storm damage and you're looking at an open roof or a blown window, call HomeLyft Restoration Gulfport at +12282845200. We'll assess what's exposed, get it secured, and give you a clear picture of what comes next, before the Gulf air does any more damage than it already has.

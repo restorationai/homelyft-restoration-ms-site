@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Hurley, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Hurley, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Hurley"
 meta_description: "24/7 upholstery cleaning in Hurley, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning hurley"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Upholstery Cleaning"
 rendered: true
 ---
-**Need upholstery cleaning in Hurley?** Between the Pascagoula River humidity and the hunting and fishing gear that comes through most Jackson County living rooms, fabric and leather furniture here takes a different kind of abuse than it does in a city apartment. HomeLyft Restoration MS pulls ground-in mud, pet dander, and that faint mildew smell out of sofas and recliners before it sets into the padding for good.
+**Need upholstery cleaning in Hurley?** Between the Pascagoula River humidity and the hunting and fishing gear that comes through most Jackson County living rooms, fabric and leather furniture here takes a different kind of abuse than it does in a city apartment. HomeLyft Restoration Gulfport pulls ground-in mud, pet dander, and that faint mildew smell out of sofas and recliners before it sets into the padding for good.
 
 ## Why Hurley Homes See Upholstery Wear Faster
 
@@ -38,4 +38,4 @@ Hurley is a rural stretch of Jackson County, and that means long driveways, grav
 
 A lot of Hurley living rooms have at least one piece of furniture that's spent time near a wood stove or propane heater through the winter. Fabric near a heat source dries out and gets brittle faster than fabric across the room, so those cushions often need a gentler extraction pass and a longer air-dry time to avoid over-drying fibers that are already stressed. We check heat-adjacent pieces separately rather than running the whole set through the same settings.
 
-If your sofa, sectional, or leather recliner is holding onto river-air humidity, pet smell, or ground-in soil from work boots and hunting gear, HomeLyft Restoration MS is licensed (MS #RO 2728) and insured, and available 24/7 to get it back to something you don't mind sitting on. Call (228) 284-5200 to talk through what your piece needs before we schedule the visit.
+If your sofa, sectional, or leather recliner is holding onto river-air humidity, pet smell, or ground-in soil from work boots and hunting gear, HomeLyft Restoration Gulfport is licensed (MS #RO 2728) and insured, and available 24/7 to get it back to something you don't mind sitting on. Call (228) 284-5200 to talk through what your piece needs before we schedule the visit.

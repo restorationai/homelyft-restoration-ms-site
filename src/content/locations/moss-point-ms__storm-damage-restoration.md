@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Moss Point, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Storm Damage Restoration in Moss Point, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Storm Damage Restoration in Moss Point"
 meta_description: "24/7 emergency storm damage restoration in Moss Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "storm damage restoration moss point"
@@ -59,4 +59,4 @@ If your home was built before 1978, our EPA Lead-Safe certification means we can
 
 One pattern we've seen repeatedly in lower-elevation sections of Moss Point: after a storm drops several inches of rain in a short window, crawl space vents that are code-compliant under normal conditions can allow a significant volume of storm-driven water to enter the subfloor cavity. Homeowners often focus entirely on roof and ceiling damage and don't check the crawl space for days. By then, the wood joists and subfloor sheathing have been sitting in standing water long enough that drying alone isn't sufficient, partial replacement becomes necessary. If your home has a crawl space and you've had any recent severe weather, it's worth having it inspected even if the interior looks dry.
 
-Call HomeLyft Restoration MS at +12282845200 to schedule an assessment after storm damage in Moss Point. The sooner moisture is mapped and drying equipment is placed, the more of your home's structure and contents we can protect.
+Call HomeLyft Restoration Gulfport at +12282845200 to schedule an assessment after storm damage in Moss Point. The sooner moisture is mapped and drying equipment is placed, the more of your home's structure and contents we can protect.

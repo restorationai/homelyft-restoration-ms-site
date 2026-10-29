@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Removal & Cleanup in St. Martin, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Water Removal & Cleanup in St. Martin, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Water Removal & Cleanup in St. Martin"
 meta_description: "24/7 emergency water removal & cleanup in St. Martin, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency water removal & cleanup st. martin"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
-**Standing water spreading across your St. Martin floors right now?** Call HomeLyft Restoration MS and we answer 24/7, because in Harrison County a soaked subfloor doesn't wait for business hours to start warping or growing mold. Whether it's a burst supply line under a slab, a washing machine hose failure, or runoff from a summer storm rolling in off the Mississippi Sound, the first few hours determine whether you're looking at a quick dry-out or a full flooring and drywall replacement.
+**Standing water spreading across your St. Martin floors right now?** Call HomeLyft Restoration Gulfport and we answer 24/7, because in Harrison County a soaked subfloor doesn't wait for business hours to start warping or growing mold. Whether it's a burst supply line under a slab, a washing machine hose failure, or runoff from a summer storm rolling in off the Mississippi Sound, the first few hours determine whether you're looking at a quick dry-out or a full flooring and drywall replacement.
 
 ## Why St. Martin Properties See Water Damage Issues
 
@@ -38,4 +38,4 @@ A good share of water losses we see in this part of Harrison County involve a mi
 
 Homes in St. Martin built with vinyl or sheet flooring directly over a slab often look fine on the surface within a day of a leak, but the adhesive layer underneath can stay wet for a week or longer, which is why we don't call a slab-floor job finished just because the surface reads dry. We've learned to pull a test section of flooring in those cases rather than relying on a single moisture reading, because Gulf Coast humidity slows the last stage of drying more than most homeowners expect.
 
-If water is spreading through your St. Martin home right now, don't wait on it to dry on its own. HomeLyft Restoration MS is licensed in Mississippi (#RO 2728) and answers 24/7 for water extraction and cleanup across the Gulfport area, including St. Martin, so call us and we'll get a crew and equipment moving before the damage spreads past what's already wet.
+If water is spreading through your St. Martin home right now, don't wait on it to dry on its own. HomeLyft Restoration Gulfport is licensed in Mississippi (#RO 2728) and answers 24/7 for water extraction and cleanup across the Gulfport area, including St. Martin, so call us and we'll get a crew and equipment moving before the damage spreads past what's already wet.

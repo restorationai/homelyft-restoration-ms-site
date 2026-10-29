@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Long Beach, MS | HomeLyft Restoration MS"
+title: "Post-Construction and Specialty Cleaning in Long Beach, MS | HomeLyft Restoration Gulfport"
 h1: "Post-Construction and Specialty Cleaning in Long Beach"
 meta_description: "Post-construction and specialty cleaning in Long Beach, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "post-construction and specialty cleaning long beach"
@@ -54,4 +54,4 @@ Post-construction cleanup is the most common call, but specialty cleaning covers
 
 One thing that catches out-of-area crews working in Long Beach: the salt air here affects freshly installed window hardware and door hinges faster than most manufacturers' specs anticipate. During a final clean, we pay particular attention to wiping down all exposed metal, hinges, strike plates, cabinet pulls, plumbing trim, with a dry microfiber pass after any wet cleaning. Leaving even a thin moisture film on those surfaces in a coastal environment accelerates surface oxidation noticeably within the first few weeks of occupancy. It's a small step that makes a visible difference when a homeowner or property manager inspects the finished space.
 
-If you've just wrapped a build or renovation in Long Beach and you're ready to schedule the final clean, call HomeLyft Restoration MS at +12282845200. We're based in Gulfport, which puts us a short drive down Highway 90 to reach Long Beach properties promptly, and we bring the equipment and process discipline to make the finished space genuinely move-in ready, not just swept.
+If you've just wrapped a build or renovation in Long Beach and you're ready to schedule the final clean, call HomeLyft Restoration Gulfport at +12282845200. We're based in Gulfport, which puts us a short drive down Highway 90 to reach Long Beach properties promptly, and we bring the equipment and process discipline to make the finished space genuinely move-in ready, not just swept.

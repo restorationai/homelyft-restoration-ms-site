@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Helena, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Helena, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Helena"
 meta_description: "Carpet cleaning in Helena, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning helena"
@@ -55,4 +55,4 @@ One thing that catches out-of-area cleaners working in Helena is the combination
 
 If you're dealing with carpet that smells musty again within a week of cleaning, this subfloor dynamic is often the reason, and it's addressable with the right drying protocol.
 
-When your Helena home or business is ready for carpet that looks and smells genuinely clean, not just surface-refreshed, call HomeLyft Restoration MS at +12282845200. We'll assess your carpet type, soil load, and moisture conditions before we start, and we won't leave until drying readings confirm the job is done right.
+When your Helena home or business is ready for carpet that looks and smells genuinely clean, not just surface-refreshed, call HomeLyft Restoration Gulfport at +12282845200. We'll assess your carpet type, soil load, and moisture conditions before we start, and we won't leave until drying readings confirm the job is done right.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in Eastabuchie, MS | HomeLyft Restoration MS"
+title: "Contents Restoration and Storage in Eastabuchie, MS | HomeLyft Restoration Gulfport"
 h1: "Contents Restoration and Storage in Eastabuchie"
 meta_description: "Contents restoration and storage in Eastabuchie, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "contents restoration and storage eastabuchie"
@@ -38,7 +38,7 @@ Once the home is ready, contents are returned, unwrapped, and placed according t
 
 ## Reaching Eastabuchie from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport and serves Jones County including the Eastabuchie area. The drive up US-49 North is a straightforward corridor, and our crews are familiar with the rural road network branching off the highway into the piney woods communities. Because Eastabuchie is a rural community rather than a dense urban grid, we coordinate logistics in advance, confirming driveway access, available staging space, and any road conditions that could affect a loaded contents truck, so there are no surprises on arrival.
+HomeLyft Restoration Gulfport is based in Gulfport and serves Jones County including the Eastabuchie area. The drive up US-49 North is a straightforward corridor, and our crews are familiar with the rural road network branching off the highway into the piney woods communities. Because Eastabuchie is a rural community rather than a dense urban grid, we coordinate logistics in advance, confirming driveway access, available staging space, and any road conditions that could affect a loaded contents truck, so there are no surprises on arrival.
 
 For scheduling, call +12282845200 to reach our team directly and discuss timing that works for your situation.
 
@@ -52,4 +52,4 @@ Homeowners in Jones County are typically covered under standard HO-3 policies, b
 
 One thing that comes up repeatedly in rural Jones County homes is the presence of outbuildings, workshops, storage sheds, and detached garages, that contain tools, equipment, and stored goods that are just as vulnerable to smoke and water damage as the main house but are sometimes overlooked in the initial damage assessment. If a fire or water event affected your main structure, it's worth walking the outbuildings before the adjuster visits, because contents stored in those structures may be covered under the same policy and the same claim window. We include outbuilding contents in our inventory when access is available.
 
-If you're dealing with fire, water, or storm damage to your belongings in Eastabuchie, call HomeLyft Restoration MS at +12282845200. We'll walk through what's salvageable, document everything for your claim, and keep your contents secure until your home is ready to receive them.
+If you're dealing with fire, water, or storm damage to your belongings in Eastabuchie, call HomeLyft Restoration Gulfport at +12282845200. We'll walk through what's salvageable, document everything for your claim, and keep your contents secure until your home is ready to receive them.

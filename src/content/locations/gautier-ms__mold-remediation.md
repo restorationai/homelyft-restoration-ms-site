@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Gautier, MS | HomeLyft Restoration MS"
+title: "Mold Remediation in Gautier, MS | HomeLyft Restoration Gulfport"
 h1: "Mold Remediation in Gautier"
 meta_description: "Mold remediation in Gautier, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "mold remediation gautier"
@@ -36,7 +36,7 @@ Once the scope is confirmed, we establish negative-air containment using heavy-g
 
 ## Reaching Gautier from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, and Gautier is a straightforward run east along US-90 or I-10, typically 30 to 45 minutes depending on traffic near Biloxi and Ocean Springs. For properties on the eastern side of Gautier closer to the Pascagoula River, we factor in the occasional bridge congestion on Gautier-Vancleave Road during morning hours. Scheduling is handled by phone at +12282845200, and the team coordinates arrival windows so someone is on-site to provide access.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Gautier is a straightforward run east along US-90 or I-10, typically 30 to 45 minutes depending on traffic near Biloxi and Ocean Springs. For properties on the eastern side of Gautier closer to the Pascagoula River, we factor in the occasional bridge congestion on Gautier-Vancleave Road during morning hours. Scheduling is handled by phone at +12282845200, and the team coordinates arrival windows so someone is on-site to provide access.
 
 ## Gautier Insurance & Documentation
 
@@ -46,4 +46,4 @@ Mold claims in Mississippi can be complicated by policy language that distinguis
 
 Crawl spaces in Gautier's older residential areas deserve particular attention after any flooding event, even minor ones. Because the water table in low-lying sections near the river can rise quickly and recede slowly, crawl spaces sometimes hold standing water for days after the yard looks dry. That standing water, invisible from inside the home, is one of the most reliable mold incubators we encounter in this part of Jackson County. If your home has a pier-and-beam foundation and you noticed any pooling in the yard after the last heavy rain, a crawl-space inspection is worth scheduling before mold becomes the next problem.
 
-If you're dealing with a musty smell, discoloration on walls or ceilings, or a recent water event in your Gautier home, call HomeLyft Restoration MS at +12282845200. The sooner the source is identified, the smaller the remediation scope, and the lower the cost.
+If you're dealing with a musty smell, discoloration on walls or ceilings, or a recent water event in your Gautier home, call HomeLyft Restoration Gulfport at +12282845200. The sooner the source is identified, the smaller the remediation scope, and the lower the cost.

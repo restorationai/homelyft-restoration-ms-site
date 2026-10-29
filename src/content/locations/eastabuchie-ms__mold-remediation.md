@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Eastabuchie, MS | HomeLyft Restoration MS"
+title: "Mold Remediation in Eastabuchie, MS | HomeLyft Restoration Gulfport"
 h1: "Mold Remediation in Eastabuchie"
 meta_description: "Mold remediation in Eastabuchie, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "mold remediation eastabuchie"
@@ -38,7 +38,7 @@ Final clearance involves a post-remediation verification, surface and air sampli
 
 ## Reaching Eastabuchie from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport, and our crews reach the Eastabuchie area by traveling north on I-59 through Hattiesburg and into Jones County. The route is straightforward, and we schedule Eastabuchie jobs with lead time to account for the drive so a full crew and equipment load arrives ready to work, not piecemeal. When you call +12282845200, our scheduling team will give you a realistic arrival window based on current crew availability rather than a promise we can't keep.
+HomeLyft Restoration Gulfport is based in Gulfport, and our crews reach the Eastabuchie area by traveling north on I-59 through Hattiesburg and into Jones County. The route is straightforward, and we schedule Eastabuchie jobs with lead time to account for the drive so a full crew and equipment load arrives ready to work, not piecemeal. When you call +12282845200, our scheduling team will give you a realistic arrival window based on current crew availability rather than a promise we can't keep.
 
 ## Eastabuchie Insurance Coordination
 
@@ -48,4 +48,4 @@ Mold claims in Mississippi can be complicated. Many standard homeowner policies 
 
 One pattern we see specifically in the Eastabuchie area: homes on low-lying lots near small tributary drainages, the kind of seasonal wet-weather branches common throughout Jones County's piney woods, often have crawl spaces that stay saturated for weeks after a significant rain event, even when the house itself shows no visible flooding. Homeowners sometimes assume the crawl space "dried out on its own" after the water receded, but wood moisture content in those spaces can stay elevated for 30 to 60 days without mechanical drying. By then, mold colonization in the floor system is well underway. If your property sits near any low-lying drainage and you've had standing water under the house this season, a moisture inspection is worth scheduling before visible symptoms appear.
 
-If you're dealing with a musty smell, visible discoloration, or a recent water event in your Eastabuchie home, don't wait for the problem to grow, literally. Call HomeLyft Restoration MS at +12282845200 to schedule an inspection and get a clear picture of what's happening inside your walls and under your floors.
+If you're dealing with a musty smell, visible discoloration, or a recent water event in your Eastabuchie home, don't wait for the problem to grow, literally. Call HomeLyft Restoration Gulfport at +12282845200 to schedule an inspection and get a clear picture of what's happening inside your walls and under your floors.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Leakesville, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Storm Damage Restoration in Leakesville, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Storm Damage Restoration in Leakesville"
 meta_description: "24/7 emergency storm damage restoration in Leakesville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "storm damage restoration leakesville"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Storm damage emergency in Leakesville? We answer 24/7.** Call now and our crew heads out to secure the property and stop further damage.
 
-Greene County sits in the heart of Mississippi's Piney Woods region, and Leakesville, the county seat, takes a direct hit from the same Gulf-fed storm systems that churn up from the south each spring and fall. When a squall line drops a pine tree across a roof on a Tuesday night or a tornado-warned cell tears through the area, the damage compounds fast: saturated insulation, buckled sheathing, and water tracking into wall cavities before the rain even stops. HomeLyft Restoration MS responds to storm damage calls across Leakesville and the surrounding Greene County communities, bringing certified crews and industrial equipment to properties that can't afford to wait.
+Greene County sits in the heart of Mississippi's Piney Woods region, and Leakesville, the county seat, takes a direct hit from the same Gulf-fed storm systems that churn up from the south each spring and fall. When a squall line drops a pine tree across a roof on a Tuesday night or a tornado-warned cell tears through the area, the damage compounds fast: saturated insulation, buckled sheathing, and water tracking into wall cavities before the rain even stops. HomeLyft Restoration Gulfport responds to storm damage calls across Leakesville and the surrounding Greene County communities, bringing certified crews and industrial equipment to properties that can't afford to wait.
 
 ## Why Leakesville Properties See Serious Storm Damage
 
@@ -43,7 +43,7 @@ Every job starts with a full exterior and interior assessment before any debris 
 
 ## Reaching Leakesville from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport, and crews travel north to Greene County via US-49 through Hattiesburg and then east on MS-42 into Leakesville. The route is straightforward in clear conditions, but storm events that affect Leakesville often also drop debris on the highway corridors between the coast and the Piney Woods, crews monitor road conditions and route around closures when needed. Scheduling is handled by phone at +12282845200; a project manager will confirm estimated on-site timing when you call.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and crews travel north to Greene County via US-49 through Hattiesburg and then east on MS-42 into Leakesville. The route is straightforward in clear conditions, but storm events that affect Leakesville often also drop debris on the highway corridors between the coast and the Piney Woods, crews monitor road conditions and route around closures when needed. Scheduling is handled by phone at +12282845200; a project manager will confirm estimated on-site timing when you call.
 
 ## Leakesville Insurance Coordination
 
@@ -53,4 +53,4 @@ Storm damage claims in Mississippi are subject to specific wind and hail deducti
 
 One pattern that comes up repeatedly on storm jobs in the Leakesville area: older homes with wood-paneled interior walls, a common finish in Greene County homes built before 1980, absorb and redistribute moisture differently than modern drywall. Tongue-and-groove pine paneling can wick water laterally along the grain for several feet from the original intrusion point, meaning the visible damage on the wall surface understates how far the moisture has actually traveled. Crews probe well beyond the obvious wet zone on these homes and set drying equipment accordingly, which adds time to the job but prevents callbacks from hidden mold growth months later.
 
-If a storm has left your Leakesville home or property with roof damage, downed trees, or water inside the structure, call HomeLyft Restoration MS at +12282845200. A project manager will walk through what you're seeing, explain the next steps, and get a certified crew scheduled for your Greene County address.
+If a storm has left your Leakesville home or property with roof damage, downed trees, or water inside the structure, call HomeLyft Restoration Gulfport at +12282845200. A project manager will walk through what you're seeing, explain the next steps, and get a certified crew scheduled for your Greene County address.

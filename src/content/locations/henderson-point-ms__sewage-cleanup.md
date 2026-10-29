@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in Henderson Point | HomeLyft Restoration MS"
+title: "Emergency Sewage Cleanup and Sanitization in Henderson Point | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Henderson Point"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Henderson Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "sewage cleanup and sanitization henderson point"
@@ -41,7 +41,7 @@ Because the ambient relative humidity in Henderson Point regularly runs above 70
 
 ## Reaching Henderson Point from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, which puts Henderson Point within a reasonable drive east along U.S. 90 and down into the peninsula. The route is straightforward under normal conditions, though the single road in and out of the peninsula means that during post-storm periods, exactly when sewage calls spike, traffic and road conditions can slow access. We factor that into scheduling and communicate arrival windows honestly rather than overpromising. If you're calling during or immediately after a Gulf Coast weather event, let us know when you book so we can route and stage accordingly.
+HomeLyft Restoration Gulfport operates out of Gulfport, which puts Henderson Point within a reasonable drive east along U.S. 90 and down into the peninsula. The route is straightforward under normal conditions, though the single road in and out of the peninsula means that during post-storm periods, exactly when sewage calls spike, traffic and road conditions can slow access. We factor that into scheduling and communicate arrival windows honestly rather than overpromising. If you're calling during or immediately after a Gulf Coast weather event, let us know when you book so we can route and stage accordingly.
 
 ## Henderson Point Insurance & Coordination
 
@@ -51,4 +51,4 @@ Sewage backup losses are frequently covered under a separate sewer backup rider 
 
 One thing that comes up specifically on Henderson Point jobs: the peninsula's narrow lot widths and the proximity of homes to the water mean that exterior sewage discharge, when a backup has surfaced in the yard or under a pier-and-beam crawl space, can be within a short distance of the bay shoreline. Mississippi DEQ has reporting requirements for certain sewage releases near coastal waters, and depending on the volume and proximity, a homeowner may have an obligation to notify the appropriate agency. We're not environmental attorneys and can't give legal advice, but we flag this for every coastal job so that property owners can make an informed call to their county health department or DEQ if the situation warrants it. It's the kind of detail that gets overlooked when people are focused on getting the house clean, and it matters here in a way it simply doesn't on an inland job.
 
-If raw sewage has surfaced in your Henderson Point home, the safest move is to keep people and pets out of the affected area and call HomeLyft Restoration MS at +12282845200. We'll assess the contamination, walk you through the process, and get your home back to a safe, dry condition.
+If raw sewage has surfaced in your Henderson Point home, the safest move is to keep people and pets out of the affected area and call HomeLyft Restoration Gulfport at +12282845200. We'll assess the contamination, walk you through the process, and get your home back to a safe, dry condition.

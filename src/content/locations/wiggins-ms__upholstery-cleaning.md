@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Wiggins, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Wiggins, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Wiggins"
 meta_description: "24/7 upholstery cleaning in Wiggins, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning wiggins"
@@ -38,4 +38,4 @@ We run crews up Highway 49 from our Gulfport base to cover Stone County on a sch
 
 One thing that catches Wiggins homeowners off guard: furniture stored in a garage or unconditioned sunroom during hunting season, common practice here when muddy gear comes off before anyone sits down, picks up moisture from the humidity even without a spill. By the time it comes back inside for winter, mildew has often already started in the padding where you can't see it. If a piece has spent a season in an unconditioned space, it's worth a cleaning and a moisture check before it goes back into regular use, not just a quick vacuum.
 
-If your sofa, sectional, or leather recliner is holding onto odor, stains, or that faint mustiness that never quite airs out, it's worth getting ahead of it before the fabric or foam breaks down further. Call HomeLyft Restoration MS to schedule upholstery cleaning in Wiggins, and we'll walk you through what the fabric or leather actually needs before we start.
+If your sofa, sectional, or leather recliner is holding onto odor, stains, or that faint mustiness that never quite airs out, it's worth getting ahead of it before the fabric or foam breaks down further. Call HomeLyft Restoration Gulfport to schedule upholstery cleaning in Wiggins, and we'll walk you through what the fabric or leather actually needs before we start.

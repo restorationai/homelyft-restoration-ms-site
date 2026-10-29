@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Moss Point, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Moss Point, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Moss Point"
 meta_description: "Crawl space encapsulation in Moss Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation moss point"
@@ -44,10 +44,10 @@ Our team holds IICRC AMRT (Applied Microbial Remediation) and IICRC WRT certific
 
 ## Reaching Moss Point from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport, and Moss Point is accessible via US-90 East through Biloxi and Pascagoula, a route the team travels regularly for Jackson County jobs. Scheduling is handled promptly, and we coordinate arrival windows directly with homeowners so you're not waiting around with an open calendar. Call **+1 (228) 284-5200** to set up an assessment.
+HomeLyft Restoration Gulfport is based in Gulfport, and Moss Point is accessible via US-90 East through Biloxi and Pascagoula, a route the team travels regularly for Jackson County jobs. Scheduling is handled promptly, and we coordinate arrival windows directly with homeowners so you're not waiting around with an open calendar. Call **+1 (228) 284-5200** to set up an assessment.
 
 ## Local Note: What Moss Point's Pier-and-Beam Stock Means for Encapsulation
 
 A detail that matters specifically in Moss Point: a significant portion of the city's residential housing stock was built on pier-and-beam foundations rather than concrete slabs, and many of those homes have crawl spaces with limited clearance, sometimes as little as 18 to 24 inches. Working in a low-clearance crawl space along the Escatawpa River corridor requires installers who are comfortable doing careful, methodical work in tight conditions rather than rushing a liner into place. Improper seaming in a confined space is one of the most common reasons encapsulation fails within a few years. When HomeLyft assesses a Moss Point property, clearance and access points are part of the initial evaluation, not an afterthought discovered on installation day.
 
-If your home in Moss Point is showing signs of musty odors, soft flooring, elevated humidity indoors, or visible mold near floor-level walls, those are signals that the crawl space beneath it is already working against you. A professional encapsulation assessment is the first step toward stopping that cycle, and protecting the investment you've made in your home. Call HomeLyft Restoration MS at **+1 (228) 284-5200** to schedule an on-site evaluation in Moss Point.
+If your home in Moss Point is showing signs of musty odors, soft flooring, elevated humidity indoors, or visible mold near floor-level walls, those are signals that the crawl space beneath it is already working against you. A professional encapsulation assessment is the first step toward stopping that cycle, and protecting the investment you've made in your home. Call HomeLyft Restoration Gulfport at **+1 (228) 284-5200** to schedule an on-site evaluation in Moss Point.

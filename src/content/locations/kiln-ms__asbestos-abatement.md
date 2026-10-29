@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in Kiln, MS | HomeLyft Restoration MS"
+title: "Asbestos Abatement in Kiln, MS | HomeLyft Restoration Gulfport"
 h1: "Asbestos Abatement in Kiln"
 meta_description: "Asbestos abatement in Kiln, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "asbestos abatement kiln"
@@ -38,7 +38,7 @@ Final air clearance sampling confirms that fiber counts meet the clearance crite
 
 ## Reaching Kiln from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, and Kiln is a straightforward run up US-49 North into Hancock County, a route our crews travel regularly for restoration work across the coastal counties. Scheduling an inspection or abatement project in Kiln is handled through our main line at +12282845200. Because asbestos abatement requires advance permitting and laboratory turnaround, projects are coordinated during business hours to ensure all regulatory steps are completed correctly before work begins on your property.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Kiln is a straightforward run up US-49 North into Hancock County, a route our crews travel regularly for restoration work across the coastal counties. Scheduling an inspection or abatement project in Kiln is handled through our main line at +12282845200. Because asbestos abatement requires advance permitting and laboratory turnaround, projects are coordinated during business hours to ensure all regulatory steps are completed correctly before work begins on your property.
 
 ## Local Note
 
@@ -46,4 +46,4 @@ One pattern we see repeatedly in Kiln and the surrounding Hancock County area: o
 
 If your Kiln home was built before 1985 and you are planning any renovation, kitchen remodel, bathroom update, converting an enclosed porch, or removing a popcorn ceiling, call for an inspection before the first nail is pulled. The cost of testing is a fraction of the cost of an uncontrolled release.
 
-Ready to schedule an asbestos inspection or abatement project in Kiln? Contact HomeLyft Restoration MS at +12282845200. Our IICRC-certified team and EPA Lead-Safe Certified staff handle the testing, the regulatory paperwork, and the removal so you can move forward with your project without the liability of unknown materials.
+Ready to schedule an asbestos inspection or abatement project in Kiln? Contact HomeLyft Restoration Gulfport at +12282845200. Our IICRC-certified team and EPA Lead-Safe Certified staff handle the testing, the regulatory paperwork, and the removal so you can move forward with your project without the liability of unknown materials.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Leakesville, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Fire Damage Restoration in Leakesville, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Fire Damage Restoration in Leakesville"
 meta_description: "24/7 emergency fire damage restoration in Leakesville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "fire damage restoration leakesville"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Fire damage emergency in Leakesville? We answer 24/7.** Call now and our crew heads out to secure the property and start the recovery.
 
-When fire moves through a home in Leakesville, it rarely stops at the room where it started. Greene County's humid subtropical climate means that smoke odor, already one of the most stubborn byproducts of structural fire, binds to surfaces faster in high-humidity air, and the older wood-frame construction common throughout this part of rural Mississippi absorbs char and soot deep into framing members that a surface wipe-down will never reach. HomeLyft Restoration MS responds to fire damage calls in Leakesville with an IICRC FSRT-certified team and the equipment to address what the flames left behind at every layer.
+When fire moves through a home in Leakesville, it rarely stops at the room where it started. Greene County's humid subtropical climate means that smoke odor, already one of the most stubborn byproducts of structural fire, binds to surfaces faster in high-humidity air, and the older wood-frame construction common throughout this part of rural Mississippi absorbs char and soot deep into framing members that a surface wipe-down will never reach. HomeLyft Restoration Gulfport responds to fire damage calls in Leakesville with an IICRC FSRT-certified team and the equipment to address what the flames left behind at every layer.
 
 ## Why Leakesville Properties Face Distinct Fire Damage Challenges
 
@@ -57,4 +57,4 @@ If your policy includes additional living expense coverage, we can help you unde
 
 One pattern we have seen repeatedly in Greene County fire jobs: homes with metal roofing, common in rural Leakesville, often show less visible exterior damage after a fire than the interior warrants. Metal roofing handles heat without obvious charring, which can lead homeowners and even some adjusters to underestimate how far smoke has traveled through attic space and down interior wall cavities. We always inspect the attic assembly on metal-roofed homes before finalizing a scope, because the smoke damage up there frequently exceeds what any room-by-room walkthrough reveals.
 
-If your home or a property you manage in Leakesville has been through a fire, whether it gutted a single room or touched every surface, call HomeLyft Restoration MS at +12282845200. We will walk through the damage with you honestly, tell you what restoration requires, and get the work done correctly the first time.
+If your home or a property you manage in Leakesville has been through a fire, whether it gutted a single room or touched every surface, call HomeLyft Restoration Gulfport at +12282845200. We will walk through the damage with you honestly, tell you what restoration requires, and get the work done correctly the first time.

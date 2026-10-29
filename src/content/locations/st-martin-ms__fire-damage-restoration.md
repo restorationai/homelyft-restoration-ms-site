@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in St. Martin, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Fire Damage Restoration in St. Martin, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Fire Damage Restoration in St. Martin"
 meta_description: "24/7 emergency fire damage restoration in St. Martin, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "fire damage restoration st. martin"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Fire damage emergency in St. Martin? We answer 24/7.** Call now and our crew heads out to secure the property and start the recovery.
 
-St. Martin sits in a stretch of Jackson County where Gulf Coast humidity never fully lets go, and when a house fire moves through a wood-frame home here, that moisture-laden air doesn't just carry smoke, it locks soot and odor compounds into every porous surface before the embers cool. HomeLyft Restoration MS responds to fire damage calls across St. Martin and the surrounding Jackson County communities, bringing IICRC FSRT-certified fire and smoke restoration technicians to properties that need more than a surface cleaning.
+St. Martin sits in a stretch of Jackson County where Gulf Coast humidity never fully lets go, and when a house fire moves through a wood-frame home here, that moisture-laden air doesn't just carry smoke, it locks soot and odor compounds into every porous surface before the embers cool. HomeLyft Restoration Gulfport responds to fire damage calls across St. Martin and the surrounding Jackson County communities, bringing IICRC FSRT-certified fire and smoke restoration technicians to properties that need more than a surface cleaning.
 
 ## Why St. Martin Properties Face Particular Fire Damage Challenges
 
@@ -46,7 +46,7 @@ The process follows a defined sequence:
 
 ## Reaching St. Martin from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport, and St. Martin is a direct run east along U.S. 90 or via I-10, a corridor our crews travel regularly for Jackson County calls. We coordinate scheduling promptly after your call and aim to have a crew on-site as quickly as road conditions allow. When you call +12282845200, you reach a team that already knows the route and the region, not a national dispatch center routing a stranger to your door.
+HomeLyft Restoration Gulfport is based in Gulfport, and St. Martin is a direct run east along U.S. 90 or via I-10, a corridor our crews travel regularly for Jackson County calls. We coordinate scheduling promptly after your call and aim to have a crew on-site as quickly as road conditions allow. When you call +12282845200, you reach a team that already knows the route and the region, not a national dispatch center routing a stranger to your door.
 
 ## St. Martin Insurance Coordination
 
@@ -58,4 +58,4 @@ If your policy includes an ALE (additional living expenses) provision, we can al
 
 One pattern we see specifically in St. Martin's older ranch homes is that the original soffit and fascia construction creates a continuous air channel between the attic and the exterior wall cavity. After a kitchen or utility room fire, smoke travels this path and deposits residue inside wall cavities that show no visible char on the surface. A visual inspection alone misses it. Our technicians use thermal imaging and air sampling in these homes to catch hidden smoke migration before drywall is closed up, because reopening finished walls six months later is far more disruptive than finding the problem during the initial scope.
 
-If your home in St. Martin has been through a fire, whether a contained kitchen incident or a more extensive structural loss, call HomeLyft Restoration MS at +12282845200. We will assess the full scope of fire, smoke, and suppression water damage and walk you through a clear restoration plan before any work begins.
+If your home in St. Martin has been through a fire, whether a contained kitchen incident or a more extensive structural loss, call HomeLyft Restoration Gulfport at +12282845200. We will assess the full scope of fire, smoke, and suppression water damage and walk you through a clear restoration plan before any work begins.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Eastabuchie, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Eastabuchie, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Eastabuchie"
 meta_description: "Carpet cleaning in Eastabuchie, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning eastabuchie"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-Eastabuchie sits in the piney woods of Jones County, where the humid Gulf Coast air pushes inland and never really lets go. That persistent humidity, combined with the red clay and sandy loam soil common to this part of Mississippi, means carpets here trap more than just tracked-in dirt. Pollen, mold spores, and fine particulate from unpaved roads work their way deep into carpet fibers, and standard vacuuming barely scratches the surface. HomeLyft Restoration MS brings IICRC-certified deep cleaning methods to Eastabuchie homes and businesses, targeting the specific soils and allergens this climate produces.
+Eastabuchie sits in the piney woods of Jones County, where the humid Gulf Coast air pushes inland and never really lets go. That persistent humidity, combined with the red clay and sandy loam soil common to this part of Mississippi, means carpets here trap more than just tracked-in dirt. Pollen, mold spores, and fine particulate from unpaved roads work their way deep into carpet fibers, and standard vacuuming barely scratches the surface. HomeLyft Restoration Gulfport brings IICRC-certified deep cleaning methods to Eastabuchie homes and businesses, targeting the specific soils and allergens this climate produces.
 
 ## Why Eastabuchie Carpets Face Unique Challenges
 
@@ -36,7 +36,7 @@ Hot-water extraction follows, calibrated to the specific fiber and backing. Truc
 
 ## Reaching Eastabuchie from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport and dispatches to Jones County regularly. The drive up US-49 North is a familiar run for our crews, we travel it for water damage, mold, and fire restoration calls throughout this part of Mississippi, so carpet cleaning appointments in Eastabuchie fit naturally into our scheduling. When you call to book, we will give you a specific arrival window and confirm the day before. We do not operate on a vague "morning" or "afternoon" block, you get a two-hour window and a call when the crew is en route.
+HomeLyft Restoration Gulfport operates out of Gulfport and dispatches to Jones County regularly. The drive up US-49 North is a familiar run for our crews, we travel it for water damage, mold, and fire restoration calls throughout this part of Mississippi, so carpet cleaning appointments in Eastabuchie fit naturally into our scheduling. When you call to book, we will give you a specific arrival window and confirm the day before. We do not operate on a vague "morning" or "afternoon" block, you get a two-hour window and a call when the crew is en route.
 
 ## Equipment and Methods We Use for Carpet
 
@@ -48,4 +48,4 @@ Sanitization is available as an add-on for households with allergy concerns, pet
 
 One thing we have learned working in rural Jones County: homes with well water often have iron and mineral content that leaves a faint rust-colored residue on light-colored carpet near exterior doorways, it comes off boots and shoes after contact with the red soil and then oxidizes in the fiber. Standard spotters do not touch it. We carry a dedicated iron-reducing treatment specifically for this pattern, which shows up far more often in Eastabuchie and the surrounding communities than it does closer to the coast where municipal water is the norm. If you have mystery rust-toned staining near your front or back door, that is almost certainly the culprit.
 
-If your carpets are holding onto the smell of this summer's humidity, the red clay from the last rainstorm, or years of accumulated allergens, a call to HomeLyft Restoration MS is the practical next step. Reach us at +12282845200 to schedule carpet cleaning in Eastabuchie, we will assess the job honestly and give you a clear scope before any work begins.
+If your carpets are holding onto the smell of this summer's humidity, the red clay from the last rainstorm, or years of accumulated allergens, a call to HomeLyft Restoration Gulfport is the practical next step. Reach us at +12282845200 to schedule carpet cleaning in Eastabuchie, we will assess the job honestly and give you a clear scope before any work begins.

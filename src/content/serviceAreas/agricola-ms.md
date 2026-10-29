@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Agricola, MS | HomeLyft Restoration MS"
+title: "Restoration Services in Agricola, MS | HomeLyft Restoration Gulfport"
 h1: "Restoration Services in Agricola"
 meta_description: "Serving Agricola, MS with water, fire, mold, and storm damage restoration. IICRC-certified team. Call +12282845200."
 primary_keyword: "restoration services agricola"
@@ -19,7 +19,7 @@ state: "MS"
 primary: false
 rendered: true
 ---
-When a pipe bursts behind a wall or a storm pushes water under your doors, HomeLyft Restoration MS responds to Agricola property owners with hands-on water damage mitigation, mold remediation, fire and smoke cleanup, and full structural reconstruction. We work directly with your insurance carrier, document every affected material, and get drying equipment running as fast as scheduling allows, so the damage stops spreading while you figure out next steps.
+When a pipe bursts behind a wall or a storm pushes water under your doors, HomeLyft Restoration Gulfport responds to Agricola property owners with hands-on water damage mitigation, mold remediation, fire and smoke cleanup, and full structural reconstruction. We work directly with your insurance carrier, document every affected material, and get drying equipment running as fast as scheduling allows, so the damage stops spreading while you figure out next steps.
 
 ## Restoration emergencies common in Agricola
 
@@ -51,7 +51,7 @@ Septic failures and sewage backups are a real risk on rural George County proper
 
 ## Coverage and how fast we can get there
 
-HomeLyft Restoration MS is headquartered in Gulfport, roughly 45 to 50 miles southwest of Agricola via US-49 North through Wiggins. The drive through Stone and George counties is straightforward on a clear day, though rural two-lane segments between Wiggins and Agricola can add time during heavy rain or when farm equipment is moving. We schedule Agricola calls promptly and will give you a realistic arrival window when you call, (228) 284-5200. Property managers overseeing multiple sites in the Agricola area can arrange standing service agreements so response coordination is already in place before an emergency happens.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, roughly 45 to 50 miles southwest of Agricola via US-49 North through Wiggins. The drive through Stone and George counties is straightforward on a clear day, though rural two-lane segments between Wiggins and Agricola can add time during heavy rain or when farm equipment is moving. We schedule Agricola calls promptly and will give you a realistic arrival window when you call, (228) 284-5200. Property managers overseeing multiple sites in the Agricola area can arrange standing service agreements so response coordination is already in place before an emergency happens.
 
 ## Building stock, site conditions, and permits in Agricola
 
@@ -59,4 +59,4 @@ Agricola is unincorporated, so there is no city hall to visit, building permits 
 
 Older homes here typically sit on masonry piers over an open or partly skirted crawlspace, with slab-on-grade more common in newer builds. On a pier foundation, water follows the joists sideways and the damage shows up rooms away from the leak. Pre-1990 plumbing often means galvanized supply and cast iron drains; some late-80s work used polybutylene, which fails at the fittings without warning.
 
-If you're dealing with water, fire, mold, or a sewage event at an Agricola property, call HomeLyft Restoration MS at **(228) 284-5200**. We'll talk through what you're seeing, give you an honest assessment of urgency, and get a crew scheduled.
+If you're dealing with water, fire, mold, or a sewage event at an Agricola property, call HomeLyft Restoration Gulfport at **(228) 284-5200**. We'll talk through what you're seeing, give you an honest assessment of urgency, and get a crew scheduled.

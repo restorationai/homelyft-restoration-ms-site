@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Lyman, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Lyman, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Lyman"
 meta_description: "Crawl space encapsulation in Lyman, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation lyman"
@@ -46,4 +46,4 @@ We photograph and document conditions thoroughly before any work begins, which g
 
 One thing that comes up specifically in Lyman and the surrounding Harrison County communities: homes on larger rural lots often have crawl spaces that were partially backfilled or graded at odd angles over the years, sometimes to manage surface drainage, sometimes just as part of landscaping projects. That irregular grade means water doesn't pool at one predictable low point; it finds multiple collection areas along the foundation perimeter. When we scope a job here, we spend extra time mapping those low spots and, where necessary, recommend a French drain or sump installation inside the crawl space before laying barrier. Sealing moisture in without addressing where it's entering first creates a different set of problems.
 
-If your home in Lyman has been showing signs of crawl space trouble, musty air, elevated energy bills from a damp, uninsulated crawl, or floors that feel soft underfoot, call HomeLyft Restoration MS at +12282845200. We'll walk through the crawl space with you, give you an honest assessment of what's there, and explain exactly what encapsulation would involve for your specific home.
+If your home in Lyman has been showing signs of crawl space trouble, musty air, elevated energy bills from a damp, uninsulated crawl, or floors that feel soft underfoot, call HomeLyft Restoration Gulfport at +12282845200. We'll walk through the crawl space with you, give you an honest assessment of what's there, and explain exactly what encapsulation would involve for your specific home.

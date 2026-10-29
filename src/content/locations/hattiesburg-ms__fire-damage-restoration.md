@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Hattiesburg, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Fire Damage Restoration in Hattiesburg, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Fire Damage Restoration in Hattiesburg"
 meta_description: "24/7 emergency fire damage restoration in Hattiesburg, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "fire damage restoration hattiesburg"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Fire damage emergency in Hattiesburg? We answer 24/7.** Call now and our crew heads out to secure the property and start the recovery.
 
-A house fire in Hattiesburg hits differently than in drier climates. The Gulf South humidity that settles over Forrest County in the hours after a fire doesn't just linger, it drives smoke residue deeper into porous surfaces, accelerates secondary oxidation on metals, and gives mold a running start on char-dampened framing before restoration crews even arrive. HomeLyft Restoration MS holds IICRC FSRT (Fire & Smoke) certification and responds to fire damage calls across the Hattiesburg area, bringing the equipment and documented process that the scope of damage here actually demands.
+A house fire in Hattiesburg hits differently than in drier climates. The Gulf South humidity that settles over Forrest County in the hours after a fire doesn't just linger, it drives smoke residue deeper into porous surfaces, accelerates secondary oxidation on metals, and gives mold a running start on char-dampened framing before restoration crews even arrive. HomeLyft Restoration Gulfport holds IICRC FSRT (Fire & Smoke) certification and responds to fire damage calls across the Hattiesburg area, bringing the equipment and documented process that the scope of damage here actually demands.
 
 ## Why Hattiesburg Properties See Distinct Fire Damage Challenges
 
@@ -39,7 +39,7 @@ After structural stabilization and board-up if needed, the team moves through co
 
 ## Reaching Hattiesburg from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport and serves Hattiesburg via US-49 North, a direct route that connects the two cities without major interchange delays outside of peak commute windows. Hattiesburg's layout means that properties on the north side of town, toward the Petal bridge area, add a few minutes compared to addresses closer to the Hardy Street corridor. Crews call ahead when staging equipment for larger losses so that access, particularly on narrow residential streets in older parts of the city, is coordinated before the truck arrives.
+HomeLyft Restoration Gulfport is headquartered in Gulfport and serves Hattiesburg via US-49 North, a direct route that connects the two cities without major interchange delays outside of peak commute windows. Hattiesburg's layout means that properties on the north side of town, toward the Petal bridge area, add a few minutes compared to addresses closer to the Hardy Street corridor. Crews call ahead when staging equipment for larger losses so that access, particularly on narrow residential streets in older parts of the city, is coordinated before the truck arrives.
 
 ## Hattiesburg Insurance Coordination for Fire Claims
 
@@ -49,4 +49,4 @@ Fire claims in Mississippi typically involve an adjuster inspection before any s
 
 In Hattiesburg's older residential neighborhoods, many homes were built with heart pine framing, an exceptionally dense, resinous wood that was standard in Mississippi construction through much of the early twentieth century. Heart pine is remarkably fire-resistant compared to modern dimensional lumber, which is one reason some of these older structures survive a fire with more structural integrity than you might expect. The trade-off is that the resin content also means smoke odor binds more stubbornly to exposed framing surfaces. When heart pine joists or wall studs are smoke-coated but structurally sound, standard soda blasting or dry-ice blasting is often the most effective cleaning method, and it's a step that gets skipped if a crew isn't familiar with what they're looking at.
 
-If your home or business in Hattiesburg has been through a fire, the decisions made in the first 48 to 72 hours shape how much of the structure and contents can be saved. Call HomeLyft Restoration MS at +12282845200 to schedule an assessment and get a documented scope started before secondary damage compounds the loss.
+If your home or business in Hattiesburg has been through a fire, the decisions made in the first 48 to 72 hours shape how much of the structure and contents can be saved. Call HomeLyft Restoration Gulfport at +12282845200 to schedule an assessment and get a documented scope started before secondary damage compounds the loss.

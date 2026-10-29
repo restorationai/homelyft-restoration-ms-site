@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in Diamondhead, MS | HomeLyft Restoration MS"
+title: "Asbestos Abatement in Diamondhead, MS | HomeLyft Restoration Gulfport"
 h1: "Asbestos Abatement in Diamondhead"
 meta_description: "Asbestos abatement in Diamondhead, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "asbestos abatement diamondhead"
@@ -38,7 +38,7 @@ For popcorn ceiling asbestos removal specifically, we wet the surface thoroughly
 
 ## Reaching Diamondhead from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport, and Diamondhead sits roughly 20 miles west along the I-10 corridor, a straightforward run that keeps our crew travel time predictable. We schedule asbestos inspections and abatement projects during business hours and will work with your timeline for pre-sale inspections, renovation start dates, or contractor coordination. Call +12282845200 to discuss scheduling; we'll confirm availability and give you a realistic project window before you commit to anything.
+HomeLyft Restoration Gulfport is based in Gulfport, and Diamondhead sits roughly 20 miles west along the I-10 corridor, a straightforward run that keeps our crew travel time predictable. We schedule asbestos inspections and abatement projects during business hours and will work with your timeline for pre-sale inspections, renovation start dates, or contractor coordination. Call +12282845200 to discuss scheduling; we'll confirm availability and give you a realistic project window before you commit to anything.
 
 ## Local Note
 

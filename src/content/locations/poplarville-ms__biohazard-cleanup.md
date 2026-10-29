@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Biohazard Cleanup in Poplarville, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Biohazard Cleanup in Poplarville, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Biohazard Cleanup in Poplarville"
 meta_description: "24/7 emergency biohazard cleanup in Poplarville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "biohazard cleanup poplarville"
@@ -24,7 +24,7 @@ rendered: true
 <!-- emergency-open -->
 **Need biohazard or trauma cleanup in Poplarville? We answer 24/7.** Call now and our crew heads out to handle the cleanup with discretion and care.
 
-When something unexpected and deeply difficult happens at a Poplarville property, the last thing a family or property owner should have to manage is the cleanup. Pearl River County's humid subtropical climate, with its warm, moisture-laden air persisting well into autumn, means that biological material left unaddressed even briefly can accelerate microbial growth in ways that compound an already painful situation. HomeLyft Restoration MS responds to biohazard situations across Poplarville with a certified team trained to handle infectious material, blood, bodily fluids, and sharps removal with full discretion and regulatory compliance.
+When something unexpected and deeply difficult happens at a Poplarville property, the last thing a family or property owner should have to manage is the cleanup. Pearl River County's humid subtropical climate, with its warm, moisture-laden air persisting well into autumn, means that biological material left unaddressed even briefly can accelerate microbial growth in ways that compound an already painful situation. HomeLyft Restoration Gulfport responds to biohazard situations across Poplarville with a certified team trained to handle infectious material, blood, bodily fluids, and sharps removal with full discretion and regulatory compliance.
 
 ## Why Poplarville Properties Present Unique Biohazard Challenges
 
@@ -40,7 +40,7 @@ All biological waste, including sharps, infectious material, and contaminated po
 
 ## Reaching Poplarville from Our Gulfport Base
 
-HomeLyft Restoration MS operates out of Gulfport, reaching Poplarville via US-49 North through Hattiesburg, a route that keeps response practical for Pearl River County calls. Poplarville's relatively compact layout means that once we arrive in the area, we can reach most residential and commercial addresses without significant additional delay. We coordinate scheduling directly with the property owner or designated family contact, and we communicate arrival windows clearly so families are not left waiting without information. Calls to +12282845200 connect directly with our team for scheduling and intake.
+HomeLyft Restoration Gulfport operates out of Gulfport, reaching Poplarville via US-49 North through Hattiesburg, a route that keeps response practical for Pearl River County calls. Poplarville's relatively compact layout means that once we arrive in the area, we can reach most residential and commercial addresses without significant additional delay. We coordinate scheduling directly with the property owner or designated family contact, and we communicate arrival windows clearly so families are not left waiting without information. Calls to +12282845200 connect directly with our team for scheduling and intake.
 
 ## Insurance Coordination for Poplarville Biohazard Claims
 
@@ -50,4 +50,4 @@ Many homeowners in Pearl River County are surprised to learn that standard homeo
 
 One detail that comes up specifically in Poplarville and the surrounding Pearl River County area: many older homes here were built with tongue-and-groove pine flooring laid directly over wood subfloor with minimal vapor barrier beneath. When biological contamination reaches this type of flooring assembly, the material can wick moisture and contaminants laterally along the grain, sometimes several feet beyond the visible affected area. Our assessment process accounts for this specifically, using moisture mapping and surface testing to define the true remediation boundary rather than relying on visual inspection alone. Getting that boundary right the first time avoids incomplete remediation and protects the property owner from recurring issues.
 
-If you are facing a biohazard situation at a property in Poplarville or anywhere in Pearl River County, the team at HomeLyft Restoration MS is ready to help you move through it with as little additional burden as possible. Call +12282845200 to speak with someone who will treat your situation with the seriousness and privacy it deserves.
+If you are facing a biohazard situation at a property in Poplarville or anywhere in Pearl River County, the team at HomeLyft Restoration Gulfport is ready to help you move through it with as little additional burden as possible. Call +12282845200 to speak with someone who will treat your situation with the seriousness and privacy it deserves.

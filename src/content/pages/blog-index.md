@@ -1,8 +1,8 @@
 ---
 archetype: "blog-index"
-title: "Restoration Blog | HomeLyft Restoration MS"
+title: "Restoration Blog | HomeLyft Restoration Gulfport"
 h1: "Restoration Resources and Insights"
-meta_description: "Guides, checklists, and explainers from HomeLyft Restoration MS on water, fire, mold, and storm damage restoration."
+meta_description: "Guides, checklists, and explainers from HomeLyft Restoration Gulfport on water, fire, mold, and storm damage restoration."
 primary_keyword: "restoration blog gulfport"
 secondary_keywords: ["restoration guides", "damage restoration tips", "restoration insights"]
 search_intent: "informational_browse"

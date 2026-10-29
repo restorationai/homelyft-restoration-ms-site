@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in St. Martin, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in St. Martin, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in St. Martin"
 meta_description: "Carpet cleaning in St. Martin, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning st. martin"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-St. Martin sits in a humid subtropical pocket of Jackson County where Gulf Coast air keeps indoor relative humidity elevated for most of the year, and that persistent moisture works its way deep into carpet fibers, padding, and subfloor backing long before you notice a musty smell or visible discoloration. Whether you're dealing with tracked-in red clay from the surrounding wetland corridors, pet odors amplified by the summer heat, or post-storm debris ground into the pile after a tropical weather event, carpet cleaning here isn't the same job it is in a drier climate. HomeLyft Restoration MS brings IICRC-certified technicians out of Gulfport to handle it properly.
+St. Martin sits in a humid subtropical pocket of Jackson County where Gulf Coast air keeps indoor relative humidity elevated for most of the year, and that persistent moisture works its way deep into carpet fibers, padding, and subfloor backing long before you notice a musty smell or visible discoloration. Whether you're dealing with tracked-in red clay from the surrounding wetland corridors, pet odors amplified by the summer heat, or post-storm debris ground into the pile after a tropical weather event, carpet cleaning here isn't the same job it is in a drier climate. HomeLyft Restoration Gulfport brings IICRC-certified technicians out of Gulfport to handle it properly.
 
 ## Why St. Martin Carpets Take a Harder Hit
 
@@ -46,4 +46,4 @@ One pattern HomeLyft technicians have observed repeatedly in St. Martin is that 
 
 If you're in St. Martin and your carpet smells musty or sour within a few weeks of a cleaning by another company, the wetland-adjacent location of your home is worth mentioning when you call us at +12282845200. It changes the diagnosis.
 
-St. Martin homeowners and property managers dealing with stained, odorous, or water-affected carpet deserve a cleaning approach calibrated to Jackson County's climate, not a one-size-fits-all method designed for a drier part of the country. Call HomeLyft Restoration MS at +12282845200 to schedule a carpet assessment and get a clear picture of what your specific floors actually need.
+St. Martin homeowners and property managers dealing with stained, odorous, or water-affected carpet deserve a cleaning approach calibrated to Jackson County's climate, not a one-size-fits-all method designed for a drier part of the country. Call HomeLyft Restoration Gulfport at +12282845200 to schedule a carpet assessment and get a clear picture of what your specific floors actually need.

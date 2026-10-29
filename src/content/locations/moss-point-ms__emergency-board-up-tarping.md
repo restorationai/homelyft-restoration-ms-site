@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Moss Point, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in Moss Point, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in Moss Point"
 meta_description: "24/7 emergency board-up and tarping in Moss Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping moss point"
@@ -41,7 +41,7 @@ The team is IICRC FSRT certified for fire and smoke response, which means the bo
 
 ## Reaching Moss Point from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport, with the primary route to Moss Point running east on US-90 through Pascagoula and into the city via Highway 613. That corridor stays accessible in most storm conditions, though post-hurricane debris on US-90 near the Pascagoula River bridge can require rerouting through I-10. The team monitors road conditions actively after major weather events and communicates estimated arrival times directly, no automated dispatch loops. If you're calling from Moss Point, give the cross street or nearest landmark when you call +12282845200 so routing can be confirmed before the crew loads out.
+HomeLyft Restoration Gulfport is based in Gulfport, with the primary route to Moss Point running east on US-90 through Pascagoula and into the city via Highway 613. That corridor stays accessible in most storm conditions, though post-hurricane debris on US-90 near the Pascagoula River bridge can require rerouting through I-10. The team monitors road conditions actively after major weather events and communicates estimated arrival times directly, no automated dispatch loops. If you're calling from Moss Point, give the cross street or nearest landmark when you call +12282845200 so routing can be confirmed before the crew loads out.
 
 ## Moss Point Insurance and Documentation
 
@@ -53,4 +53,4 @@ For fire losses, the documentation package also captures the condition of adjace
 
 Moss Point's proximity to tidal waterways means that properties near the Escatawpa River corridor can experience ground saturation that affects how emergency vehicles and equipment stage on-site. Soft shoulders and low-lying driveways that look solid after a dry week can become unstable within hours of heavy rain. The crew accounts for this when selecting equipment, lighter staging setups and extended ladder configurations are sometimes necessary to avoid driving heavy material loads across saturated ground close to the structure. It's a small detail that doesn't show up in a generic job estimate but matters significantly for properties in the lower-lying sections of the city.
 
-When a storm or fire leaves your Moss Point property open to the elements, the window for preventing secondary damage is short. Call HomeLyft Restoration MS at +12282845200 to get a crew moving toward your address, bring the cross street, describe the opening, and the team will confirm what materials are being loaded before they leave the yard.
+When a storm or fire leaves your Moss Point property open to the elements, the window for preventing secondary damage is short. Call HomeLyft Restoration Gulfport at +12282845200 to get a crew moving toward your address, bring the cross street, describe the opening, and the team will confirm what materials are being loaded before they leave the yard.

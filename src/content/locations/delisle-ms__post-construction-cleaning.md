@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in DeLisle, MS | HomeLyft Restoration MS"
+title: "Post-Construction and Specialty Cleaning in DeLisle, MS | HomeLyft Restoration Gulfport"
 h1: "Post-Construction and Specialty Cleaning in DeLisle"
 meta_description: "Post-construction and specialty cleaning in DeLisle, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "post-construction and specialty cleaning delisle"
@@ -50,4 +50,4 @@ If a project is in a more rural part of the DeLisle area, down a shell road or b
 
 One pattern that comes up regularly on Gulf Coast post-construction jobs: the combination of high humidity and new drywall primer creates a surface that looks clean but holds a fine dust film that shows up under raking light during the final walkthrough. In Harrison County's climate, that film re-attracts airborne particulates faster than it would in a lower-humidity region. The fix is a final microfiber wipe-down performed after the HVAC system has run for at least a few hours, letting the system pull airborne dust down to surfaces before the last cleaning pass. It's a small sequencing detail that makes a real difference in whether the space looks finished or just swept.
 
-If your DeLisle project is wrapping up and the builder's punch list is getting shorter, call HomeLyft Restoration MS at +12282845200 to schedule the post-construction clean that gets the space ready for its first occupants, without the dust, haze, and debris that a standard janitorial crew isn't equipped to handle.
+If your DeLisle project is wrapping up and the builder's punch list is getting shorter, call HomeLyft Restoration Gulfport at +12282845200 to schedule the post-construction clean that gets the space ready for its first occupants, without the dust, haze, and debris that a standard janitorial crew isn't equipped to handle.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Hide-A-Way Lake, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Hide-A-Way Lake, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Hide-A-Way Lake"
 meta_description: "Renovations, remodels and general contracting in Hide-A-Way Lake, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting hide-a-way lake"
@@ -38,7 +38,7 @@ For kitchen and bathroom remodels specifically, we sequence the work to minimize
 
 ## Reaching Hide-A-Way Lake from Our Gulfport Office
 
-HomeLyft Restoration MS is headquartered in Gulfport, and our crews travel regularly to Rankin County for both restoration and general contracting work. The route up I-49 and across to the Brandon and Florence corridor is straightforward, and we schedule project visits and milestone inspections to minimize disruption to your week. For active rebuilds, we coordinate a site supervisor schedule at the start of the project so you always know when someone will be on-site and who to call with questions.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and our crews travel regularly to Rankin County for both restoration and general contracting work. The route up I-49 and across to the Brandon and Florence corridor is straightforward, and we schedule project visits and milestone inspections to minimize disruption to your week. For active rebuilds, we coordinate a site supervisor schedule at the start of the project so you always know when someone will be on-site and who to call with questions.
 
 Because we work across Mississippi, from the Coast to the central counties, we carry the relationships with regional suppliers that matter when materials are on allocation or when a specific lumber grade or window unit needs to be sourced quickly to keep a timeline intact.
 
@@ -52,4 +52,4 @@ For renovation work that follows water damage, fire damage, or mold remediation,
 
 These aren't credentials we list to fill space, they directly affect how the work gets done and what documentation you receive at the end of the project.
 
-If you're ready to move forward on a renovation, remodel, or post-damage rebuild at your Hide-A-Way Lake property, call HomeLyft Restoration MS at +12282845200. We'll schedule a site assessment, walk through the scope honestly, and give you a clear picture of timeline and cost before any work begins.
+If you're ready to move forward on a renovation, remodel, or post-damage rebuild at your Hide-A-Way Lake property, call HomeLyft Restoration Gulfport at +12282845200. We'll schedule a site assessment, walk through the scope honestly, and give you a clear picture of timeline and cost before any work begins.

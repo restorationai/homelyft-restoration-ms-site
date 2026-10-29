@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Benndale, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in Benndale, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in Benndale"
 meta_description: "24/7 emergency board-up and tarping in Benndale, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping benndale"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Emergency Board-Up and Tarping"
 rendered: true
 ---
-Benndale sits in the piney woods of George County, where Gulf Coast storm tracks push inland with surprising force, and when a pine comes down through a roof or a window blows out during a fast-moving squall, the window between damage and disaster is measured in hours, not days. Emergency board-up and tarping is the difference between a manageable repair and a gutted interior, and HomeLyft Restoration MS responds to exactly that kind of call throughout Benndale and the surrounding George County communities.
+Benndale sits in the piney woods of George County, where Gulf Coast storm tracks push inland with surprising force, and when a pine comes down through a roof or a window blows out during a fast-moving squall, the window between damage and disaster is measured in hours, not days. Emergency board-up and tarping is the difference between a manageable repair and a gutted interior, and HomeLyft Restoration Gulfport responds to exactly that kind of call throughout Benndale and the surrounding George County communities.
 
 ## Why Benndale Properties Face Elevated Board-Up and Tarping Risks
 
@@ -54,4 +54,4 @@ George County properties insured under Mississippi wind and hail policies, parti
 
 One thing that catches out-of-area contractors in the Benndale corridor: the red clay and sandy loam soil mix common in George County means that after a heavy rain event, which often accompanies the same storm that caused the roof damage, ground conditions around the structure can become unstable quickly. Ladder and lift placement requires checking the soil before setting up, especially on properties with shallow drainage or near creek bottoms. Our crews assess footing conditions before staging equipment, which matters both for safety and for avoiding additional property damage during the board-up itself.
 
-If your home or property in Benndale has sustained storm damage, fire damage, or any breach that's left it exposed, call HomeLyft Restoration MS at +12282845200. We'll walk you through what needs to happen first and get a crew moving toward George County.
+If your home or property in Benndale has sustained storm damage, fire damage, or any breach that's left it exposed, call HomeLyft Restoration Gulfport at +12282845200. We'll walk you through what needs to happen first and get a crew moving toward George County.

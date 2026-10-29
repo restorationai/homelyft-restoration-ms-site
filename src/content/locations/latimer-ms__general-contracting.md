@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Latimer, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Latimer, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Latimer"
 meta_description: "Renovations, remodels and general contracting in Latimer, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting latimer"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Latimer sits in Harrison County where the Gulf Coast's humidity and storm cycles do a slow, steady number on residential structures, and when homeowners here finally decide to renovate, they often discover that decades of moisture intrusion, wind-driven rain, and shifting sandy soils have complicated what looked like a straightforward kitchen update or bathroom remodel. HomeLyft Restoration MS brings general contracting experience calibrated to exactly that reality, handling everything from post-damage rebuilds to full-scale home renovations for Latimer properties.
+Latimer sits in Harrison County where the Gulf Coast's humidity and storm cycles do a slow, steady number on residential structures, and when homeowners here finally decide to renovate, they often discover that decades of moisture intrusion, wind-driven rain, and shifting sandy soils have complicated what looked like a straightforward kitchen update or bathroom remodel. HomeLyft Restoration Gulfport brings general contracting experience calibrated to exactly that reality, handling everything from post-damage rebuilds to full-scale home renovations for Latimer properties.
 
 ## Why Latimer Homes Present Unique Renovation Challenges
 
@@ -46,4 +46,4 @@ For post-damage rebuild projects where timing is tied to an insurance claim, the
 
 One pattern that comes up repeatedly in Latimer renovation projects is the presence of previous storm repairs that were completed quickly after a named storm but not necessarily to current building standards. Post-Katrina repairs in particular sometimes used materials or methods that met the urgency of the moment rather than long-term durability. When a homeowner opens a wall for a bathroom remodel and finds insulation that was packed in wet and never fully dried, or sheathing that was replaced without addressing the underlying flashing detail, the renovation scope expands. HomeLyft's IICRC-certified background means the team can assess and address those latent moisture conditions as part of the remodel rather than flagging them as a separate project, keeping the overall timeline and cost more predictable. The company's FORTIFIED Building Roofing MS Windstorm Certification also means that roofing components addressed during a renovation can be brought up to FORTIFIED standards, which can have a meaningful effect on wind insurance premiums for Harrison County properties.
 
-If your Latimer home is ready for a kitchen remodel, bathroom renovation, or a full post-damage rebuild, call HomeLyft Restoration MS at +12282845200 to schedule a project assessment. The conversation starts with your property's specific conditions, not a generic estimate template.
+If your Latimer home is ready for a kitchen remodel, bathroom renovation, or a full post-damage rebuild, call HomeLyft Restoration Gulfport at +12282845200 to schedule a project assessment. The conversation starts with your property's specific conditions, not a generic estimate template.

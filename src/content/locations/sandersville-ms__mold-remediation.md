@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Sandersville, MS | HomeLyft Restoration MS"
+title: "Mold Remediation in Sandersville, MS | HomeLyft Restoration Gulfport"
 h1: "Mold Remediation in Sandersville"
 meta_description: "Mold remediation in Sandersville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "mold remediation sandersville"
@@ -38,7 +38,7 @@ Drying in Sandersville's climate takes longer than the national average. When ou
 
 ## Reaching Sandersville from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport and dispatches crews throughout Mississippi. Sandersville is accessible via US-84 and the state highway network through Laurel and into Jones County. Because we cannot provide a guaranteed on-site minute figure for this service area, we encourage you to call +12282845200 to get a realistic scheduling window based on current crew availability. Mold remediation, unlike an active flood, does not always require same-hour response, but it does require prompt scheduling: every additional day of elevated moisture is another day the colony can expand.
+HomeLyft Restoration Gulfport is headquartered in Gulfport and dispatches crews throughout Mississippi. Sandersville is accessible via US-84 and the state highway network through Laurel and into Jones County. Because we cannot provide a guaranteed on-site minute figure for this service area, we encourage you to call +12282845200 to get a realistic scheduling window based on current crew availability. Mold remediation, unlike an active flood, does not always require same-hour response, but it does require prompt scheduling: every additional day of elevated moisture is another day the colony can expand.
 
 ## Sandersville Insurance Coordination
 
@@ -48,4 +48,4 @@ Whether mold is covered depends heavily on the cause. A sudden pipe burst that w
 
 In Jones County's older rural communities, homes with pier-and-beam foundations often have crawl spaces that were never intended to be accessed regularly, access hatches are small, clearance is low, and the soil grade sometimes slopes toward the foundation rather than away from it. Crews working in Sandersville need compact equipment and experience working in confined spaces. We bring articulating lights, compact air movers designed for low-clearance areas, and OSHA-trained technicians familiar with confined-space protocols, details that matter when the mold problem is three feet below the living room floor and two feet of headroom is all you have to work with.
 
-If you are seeing signs of mold growth in your Sandersville home, discoloration, persistent musty odor, or unexplained allergy symptoms that improve when you leave the house, call HomeLyft Restoration MS at +12282845200. We will assess the situation, explain what we find in plain language, and walk you through a remediation plan that addresses the moisture source, not just the visible growth.
+If you are seeing signs of mold growth in your Sandersville home, discoloration, persistent musty odor, or unexplained allergy symptoms that improve when you leave the house, call HomeLyft Restoration Gulfport at +12282845200. We will assess the situation, explain what we find in plain language, and walk you through a remediation plan that addresses the moisture source, not just the visible growth.

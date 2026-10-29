@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Water Removal & Cleanup in Henderson Point, MS | HomeLyft Restoration MS"
+title: "Emergency Water Removal & Cleanup in Henderson Point, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Water Removal & Cleanup in Henderson Point"
 meta_description: "24/7 emergency water removal & cleanup in Henderson Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency water removal & cleanup henderson point"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
-**Water spreading across your floors in Henderson Point after a burst pipe, supply line failure, or storm surge backflow?** Call HomeLyft Restoration MS at (228) 284-5200. We answer 24/7, and every hour standing water sits against drywall, subflooring, or crawlspace framing is an hour closer to warping, mold colonization, and a bigger repair bill.
+**Water spreading across your floors in Henderson Point after a burst pipe, supply line failure, or storm surge backflow?** Call HomeLyft Restoration Gulfport at (228) 284-5200. We answer 24/7, and every hour standing water sits against drywall, subflooring, or crawlspace framing is an hour closer to warping, mold colonization, and a bigger repair bill.
 
 Henderson Point sits on a low, flat peninsula along the Mississippi Gulf Coast, which means groundwater is often close to the surface and drainage is slow even after a routine summer storm. Homes here, many built on pier-and-beam or slab foundations suited to the sandy coastal soil, handle water differently than inland construction. A slab home traps water under flooring and behind baseboards where it's easy to miss; a pier-and-beam home lets water pool in the crawlspace, where it can sit unnoticed for days, feeding mold growth into the floor joists before anyone smells it upstairs.
 
@@ -44,4 +44,4 @@ Coastal Mississippi carriers are accustomed to distinguishing wind-driven rain i
 
 On Henderson Point's pier-and-beam homes, we check the crawlspace vapor barrier before we ever call a job finished. A compromised or missing barrier lets ground moisture re-enter framing within days of a drying job wrapping up, which means a homeowner can end up with a repeat mold call that actually stems from the foundation, not the original leak. We flag this during extraction rather than waiting for it to surface later.
 
-If water is moving through your Henderson Point home right now, don't wait on it to recede on its own. Standing water and saturated framing on this stretch of the coast don't dry at the same rate as they would further inland, and the longer it sits, the more of your home ends up part of the repair. Call HomeLyft Restoration MS for emergency water removal and cleanup, we're set up to respond around the clock and get extraction underway fast.
+If water is moving through your Henderson Point home right now, don't wait on it to recede on its own. Standing water and saturated framing on this stretch of the coast don't dry at the same rate as they would further inland, and the longer it sits, the more of your home ends up part of the repair. Call HomeLyft Restoration Gulfport for emergency water removal and cleanup, we're set up to respond around the clock and get extraction underway fast.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Reconstruction Services in Waveland, MS | HomeLyft Restoration MS"
+title: "Reconstruction Services in Waveland, MS | HomeLyft Restoration Gulfport"
 h1: "Reconstruction Services in Waveland"
 meta_description: "24/7 reconstruction services in Waveland, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "reconstruction services waveland"
@@ -42,4 +42,4 @@ Structural rebuild work in a wind-exposed coastal city calls for materials and f
 
 One thing that trips up reconstruction projects in Waveland: a lot of the rebuild-era homes have stairs, ramps, or landings added separately from the main structure to meet flood elevation requirements, and those additions don't always show up correctly on older permit records. When we're rebuilding after fire or storm damage, we check the elevation certificate against the actual structure first, because replacing access points without matching the certified elevation can hold up a final inspection even after the main rebuild is done right.
 
-If fire, storm, or water damage has left a Waveland property needing more than repair, structural reconstruction that accounts for the city's elevated foundations and coastal exposure is the difference between a rebuild that passes inspection the first time and one that doesn't. Call HomeLyft Restoration MS to get a crew out to assess the structure and start the rebuild scope.
+If fire, storm, or water damage has left a Waveland property needing more than repair, structural reconstruction that accounts for the city's elevated foundations and coastal exposure is the difference between a rebuild that passes inspection the first time and one that doesn't. Call HomeLyft Restoration Gulfport to get a crew out to assess the structure and start the rebuild scope.

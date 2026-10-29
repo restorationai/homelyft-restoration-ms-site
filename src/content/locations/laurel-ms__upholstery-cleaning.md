@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Laurel, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Laurel, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Laurel"
 meta_description: "24/7 upholstery cleaning in Laurel, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning laurel"
@@ -38,4 +38,4 @@ We run crews up from Gulfport along Highway 49, which puts most of Laurel within
 
 One thing that catches a lot of Laurel homeowners off guard: furniture stored in an unconditioned garage or a converted carport, even for a short stretch during a move or renovation, picks up moisture and odor far faster than furniture that stays inside. We've found that pieces pulled out of storage after even a few humid weeks often need a deeper extraction pass than furniture that's been living inside the house, because the fabric has had uninterrupted exposure to swings in temperature and humidity without any air conditioning to pull moisture back out.
 
-If your sofa, sectional, or favorite armchair in Laurel is holding onto odor, visible staining, or that damp feeling that never quite goes away, it's worth having it cleaned properly instead of masking it with a spray and hoping. Call HomeLyft Restoration MS and we'll get a crew scheduled to bring it back to a clean, dry, breathable state.
+If your sofa, sectional, or favorite armchair in Laurel is holding onto odor, visible staining, or that damp feeling that never quite goes away, it's worth having it cleaned properly instead of masking it with a spray and hoping. Call HomeLyft Restoration Gulfport and we'll get a crew scheduled to bring it back to a clean, dry, breathable state.

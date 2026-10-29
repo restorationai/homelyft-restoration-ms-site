@@ -64,7 +64,7 @@ Don't start tearing into walls yet. Here's a methodical approach:
 
 If the affected area is larger than roughly 10 square feet, about the size of a standard interior door, the EPA recommends professional remediation rather than DIY cleanup. That threshold drops lower if the mold is inside an HVAC system (which can distribute spores throughout the entire house), if the affected material is structural (floor joists, wall studs), or if anyone in the household has a compromised immune system or a diagnosed mold sensitivity.
 
-A qualified remediation team will establish containment using negative air pressure and poly sheeting before any material is removed, use HEPA-filtered air scrubbers during the work, and verify clearance with post-remediation testing before reopening the space. If you're in the Gulfport area and the signs above are adding up, HomeLyft Restoration MS handles mold remediation and can help you understand the scope of what you're dealing with before you commit to a course of action. Reach them at (228) 284-5200.
+A qualified remediation team will establish containment using negative air pressure and poly sheeting before any material is removed, use HEPA-filtered air scrubbers during the work, and verify clearance with post-remediation testing before reopening the space. If you're in the Gulfport area and the signs above are adding up, HomeLyft Restoration Gulfport handles mold remediation and can help you understand the scope of what you're dealing with before you commit to a course of action. Reach them at (228) 284-5200.
 
 ## The Recovery Timeline
 

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Hattiesburg, MS | HomeLyft Restoration MS"
+title: "Mold Remediation in Hattiesburg, MS | HomeLyft Restoration Gulfport"
 h1: "Mold Remediation in Hattiesburg"
 meta_description: "Mold remediation in Hattiesburg, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "mold remediation hattiesburg"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Mold Remediation"
 rendered: true
 ---
-Hattiesburg's subtropical humidity doesn't let up, even in winter, indoor relative humidity regularly climbs into ranges where mold can colonize porous materials within 24 to 48 hours of a water event. That means a slow roof leak over a weekend, a sweating HVAC line in a crawl space, or a washing machine supply hose that finally gives way can produce visible mold growth before most homeowners realize there's a problem. HomeLyft Restoration MS holds IICRC AMRT (Applied Microbial Remediation Technician) certification, which means the technicians arriving at your door have been trained specifically in mold assessment, containment, and remediation, not just general cleanup.
+Hattiesburg's subtropical humidity doesn't let up, even in winter, indoor relative humidity regularly climbs into ranges where mold can colonize porous materials within 24 to 48 hours of a water event. That means a slow roof leak over a weekend, a sweating HVAC line in a crawl space, or a washing machine supply hose that finally gives way can produce visible mold growth before most homeowners realize there's a problem. HomeLyft Restoration Gulfport holds IICRC AMRT (Applied Microbial Remediation Technician) certification, which means the technicians arriving at your door have been trained specifically in mold assessment, containment, and remediation, not just general cleanup.
 
 ## Why Hattiesburg Properties See Mold Issues
 
@@ -38,7 +38,7 @@ For crawl space mold, we address the source, typically ground moisture vapor, wi
 
 ## Reaching Hattiesburg from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport and dispatches to Hattiesburg via US-49 North, a route that connects the two cities in roughly 70 miles. When you call to schedule, our team will confirm an arrival window based on current crew availability and your location within the Hattiesburg area. We serve addresses throughout the city and the surrounding Forrest County area, and we'll give you a realistic time estimate when you call, not a vague promise.
+HomeLyft Restoration Gulfport is headquartered in Gulfport and dispatches to Hattiesburg via US-49 North, a route that connects the two cities in roughly 70 miles. When you call to schedule, our team will confirm an arrival window based on current crew availability and your location within the Hattiesburg area. We serve addresses throughout the city and the surrounding Forrest County area, and we'll give you a realistic time estimate when you call, not a vague promise.
 
 ## Hattiesburg Insurance Coordination
 
@@ -48,4 +48,4 @@ Mold claims in Mississippi can be complicated by policy language that distinguis
 
 One pattern we've observed repeatedly in Hattiesburg: homes with original hardwood floors over pier-and-beam crawl spaces often show mold on the underside of the subfloor long before the finished hardwood above shows any cupping or discoloration. Homeowners sometimes dismiss a faint musty smell as "old house smell" for months. By the time floor boards begin to visibly warp, the mold colony underneath can span a significant portion of the crawl space. If your home has a crawl space and you're noticing any musty odor, even intermittently, it's worth having the crawl space inspected before the problem reaches the finished floor level.
 
-If mold has shown up in your Hattiesburg home, the next step is a proper assessment, not a can of store-brand spray. Call HomeLyft Restoration MS at (228) 284-5200 to schedule an inspection and get a clear picture of what you're dealing with before conditions get worse.
+If mold has shown up in your Hattiesburg home, the next step is a proper assessment, not a can of store-brand spray. Call HomeLyft Restoration Gulfport at (228) 284-5200 to schedule an inspection and get a clear picture of what you're dealing with before conditions get worse.

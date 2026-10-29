@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in Ocean Springs | HomeLyft Restoration MS"
+title: "Emergency Sewage Cleanup and Sanitization in Ocean Springs | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Ocean Springs"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Ocean Springs, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "sewage cleanup and sanitization ocean springs"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Sewage backup in Ocean Springs? We answer 24/7.** Call now and our crew heads out to contain the contamination and start the cleanup.
 
-Ocean Springs sits in a coastal stretch of Jackson County where the water table runs shallow, the soil stays saturated for days after a Gulf storm, and older sewer laterals were laid decades before modern materials standards. When a sewer line backs up or a septic system overflows here, the contamination doesn't stay put, it wicks into crawl spaces, soaks into pier-and-beam subfloors, and migrates toward adjacent rooms faster than most homeowners expect. HomeLyft Restoration MS responds to sewage backup and raw sewage removal calls across Ocean Springs, bringing IICRC-certified technicians and EPA Lead-Safe practices to a problem that demands more than a mop and bleach.
+Ocean Springs sits in a coastal stretch of Jackson County where the water table runs shallow, the soil stays saturated for days after a Gulf storm, and older sewer laterals were laid decades before modern materials standards. When a sewer line backs up or a septic system overflows here, the contamination doesn't stay put, it wicks into crawl spaces, soaks into pier-and-beam subfloors, and migrates toward adjacent rooms faster than most homeowners expect. HomeLyft Restoration Gulfport responds to sewage backup and raw sewage removal calls across Ocean Springs, bringing IICRC-certified technicians and EPA Lead-Safe practices to a problem that demands more than a mop and bleach.
 
 ## Why Ocean Springs Properties See Sewage Backup Issues
 
@@ -44,7 +44,7 @@ Category 3 water, the classification for raw sewage, requires a structured respo
 
 ## Reaching Ocean Springs from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport, and Ocean Springs is a direct run east on US-90 or I-10, a corridor our crews travel regularly for calls across Jackson County. We schedule prompt arrival windows and will give you an honest ETA when you call. If your property is in the older residential sections near downtown Ocean Springs or closer to the Back Bay waterfront, let us know, access through some of those narrower streets occasionally requires us to stage equipment differently, and knowing the address in advance helps us come prepared.
+HomeLyft Restoration Gulfport is based in Gulfport, and Ocean Springs is a direct run east on US-90 or I-10, a corridor our crews travel regularly for calls across Jackson County. We schedule prompt arrival windows and will give you an honest ETA when you call. If your property is in the older residential sections near downtown Ocean Springs or closer to the Back Bay waterfront, let us know, access through some of those narrower streets occasionally requires us to stage equipment differently, and knowing the address in advance helps us come prepared.
 
 ## Insurance Coordination for Ocean Springs Homeowners
 
@@ -54,4 +54,4 @@ Sewage backup claims are handled differently from standard water damage claims u
 
 One thing we've learned working in Ocean Springs specifically: homes with crawl spaces near the Back Bay area often have pier-and-beam foundations where the vapor barrier has degraded or was never installed to modern standards. When sewage reaches those crawl spaces, the contamination doesn't just sit on the ground, it absorbs into the wood sill plates and floor joists, and the enclosed space traps the odor and humidity. Standard extraction misses it. We always include a crawl space inspection on Ocean Springs sewage calls, because what's visible from the interior is rarely the full picture.
 
-If you're dealing with a sewage backup, septic overflow, or sewer line backup anywhere in Ocean Springs, call HomeLyft Restoration MS at +12282845200. We'll assess the situation honestly, explain exactly what needs to happen, and get your home back to a safe, livable condition.
+If you're dealing with a sewage backup, septic overflow, or sewer line backup anywhere in Ocean Springs, call HomeLyft Restoration Gulfport at +12282845200. We'll assess the situation honestly, explain exactly what needs to happen, and get your home back to a safe, livable condition.

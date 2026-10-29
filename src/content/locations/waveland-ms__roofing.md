@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Roofing Installation and Replacement in Waveland, MS | HomeLyft Restoration MS"
+title: "Roofing Installation and Replacement in Waveland, MS | HomeLyft Restoration Gulfport"
 h1: "Roofing Installation and Replacement in Waveland"
 meta_description: "24/7 roofing installation and replacement in Waveland, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "roofing installation and replacement waveland"
@@ -40,4 +40,4 @@ One detail that catches out-of-town roofers: in Waveland, standard galvanized fa
 
 A roof replacement in Waveland is also a scheduling conversation, not just a materials one. Hurricane season runs June through November along this part of the coast, and we plan installations to avoid leaving a deck exposed during an active tropical outlook whenever possible. If storm damage has already happened, we'll get a tarp or temporary dry-in done first so the structure underneath isn't taking on additional water while the full replacement is scheduled.
 
-If your roof is past its service life, showing storm damage, or just due for an inspection before the next named storm season, HomeLyft Restoration MS handles roofing installation and replacement across Waveland and the surrounding Hancock County area. Call +1 (228) 284-5200 to get a roof inspection scheduled and a straight answer on repair versus replacement.
+If your roof is past its service life, showing storm damage, or just due for an inspection before the next named storm season, HomeLyft Restoration Gulfport handles roofing installation and replacement across Waveland and the surrounding Hancock County area. Call +1 (228) 284-5200 to get a roof inspection scheduled and a straight answer on repair versus replacement.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Hurley, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Hurley, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Hurley"
 meta_description: "Renovations, remodels and general contracting in Hurley, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting hurley"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Hurley sits in Jackson County's humid pine belt, where summer heat and humidity push well past what most building materials tolerate gracefully, and where older homes built during the mid-century timber-industry boom were often constructed with regional pine framing and materials that behave very differently under a renovation than modern lumber does. Whether you're converting a dated kitchen, reconfiguring a bathroom, or rebuilding sections of a home after storm or water damage, HomeLyft Restoration MS brings licensed general contracting experience, license #RO 2728, that accounts for the specific demands this corner of coastal Mississippi places on any construction project.
+Hurley sits in Jackson County's humid pine belt, where summer heat and humidity push well past what most building materials tolerate gracefully, and where older homes built during the mid-century timber-industry boom were often constructed with regional pine framing and materials that behave very differently under a renovation than modern lumber does. Whether you're converting a dated kitchen, reconfiguring a bathroom, or rebuilding sections of a home after storm or water damage, HomeLyft Restoration Gulfport brings licensed general contracting experience, license #RO 2728, that accounts for the specific demands this corner of coastal Mississippi places on any construction project.
 
 ## Why Hurley Homes Present Unique Renovation Challenges
 
@@ -44,4 +44,4 @@ Our operations are headquartered in Gulfport, and Hurley is a regular part of ou
 
 One thing that catches out-of-area contractors off guard in this part of Jackson County is the behavior of original heart pine framing found in homes built between the 1940s and 1960s. Heart pine is extraordinarily dense and hard, it holds fasteners well and resists rot better than modern lumber, but it does not accept standard drywall screws cleanly, and it can split if pre-drilling is skipped. More importantly, when these homes have experienced any moisture intrusion, the pine framing often looks sound on the surface while harboring moisture deeper in the grain than a standard moisture meter reading captures. We use both pin and pinless meters at multiple depths before closing up any wall cavity, because a reading that looks acceptable on heart pine at surface depth can mask conditions that will feed mold growth behind new drywall within a season.
 
-If your home or investment property in the Hurley area is ready for a kitchen remodel, bathroom renovation, addition, or a full post-damage rebuild, call HomeLyft Restoration MS at +12282845200. We'll schedule a walkthrough, give you a clear scope and timeline, and handle the permitting and coordination so the project moves without the surprises that renovation work in this climate tends to produce.
+If your home or investment property in the Hurley area is ready for a kitchen remodel, bathroom renovation, addition, or a full post-damage rebuild, call HomeLyft Restoration Gulfport at +12282845200. We'll schedule a walkthrough, give you a clear scope and timeline, and handle the permitting and coordination so the project moves without the surprises that renovation work in this climate tends to produce.

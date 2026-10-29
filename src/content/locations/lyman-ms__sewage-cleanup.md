@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Sewage Cleanup and Sanitization in Lyman, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Sewage Cleanup and Sanitization in Lyman, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Lyman"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Lyman, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "sewage cleanup and sanitization lyman"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Sewage backup in Lyman? We answer 24/7.** Call now and our crew heads out to contain the contamination and start the cleanup.
 
-Lyman sits in Harrison County where the Gulf Coast's humidity and high water table create conditions that turn a slow-draining toilet or a gurgling floor drain into a full sewage backup faster than most homeowners expect. When raw sewage surfaces inside a home, soaking into subfloor wood, wicking up drywall, pooling under cabinetry, every hour without professional extraction increases both the health risk and the remediation cost. HomeLyft Restoration MS responds to sewage backup calls across Lyman, bringing IICRC-certified technicians and commercial-grade sanitization equipment to get contaminated water out and the structure properly dried and disinfected.
+Lyman sits in Harrison County where the Gulf Coast's humidity and high water table create conditions that turn a slow-draining toilet or a gurgling floor drain into a full sewage backup faster than most homeowners expect. When raw sewage surfaces inside a home, soaking into subfloor wood, wicking up drywall, pooling under cabinetry, every hour without professional extraction increases both the health risk and the remediation cost. HomeLyft Restoration Gulfport responds to sewage backup calls across Lyman, bringing IICRC-certified technicians and commercial-grade sanitization equipment to get contaminated water out and the structure properly dried and disinfected.
 
 ## Why Lyman Properties Experience Sewage Backups
 
@@ -47,7 +47,7 @@ Sewage is classified as Category 3 water, the most contaminated class, because i
 
 ## Reaching Lyman from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport, which puts Lyman within practical reach via US-49 North. When a call comes in, our team loads equipment and heads out promptly, sewage jobs don't wait, and neither do we. If you're coordinating access or have a gated entry, calling ahead when you reach us at +12282845200 helps the crew get on-site without delay.
+HomeLyft Restoration Gulfport is based in Gulfport, which puts Lyman within practical reach via US-49 North. When a call comes in, our team loads equipment and heads out promptly, sewage jobs don't wait, and neither do we. If you're coordinating access or have a gated entry, calling ahead when you reach us at +12282845200 helps the crew get on-site without delay.
 
 ## Insurance Coordination for Sewage Backup Claims in Lyman
 
@@ -57,4 +57,4 @@ Sewage backup coverage is one of the more contested areas of homeowner insurance
 
 In Harrison County, homes built on pier-and-beam foundations, still common in older parts of Lyman, present a specific challenge during sewage cleanup: the crawl space beneath the floor system can collect contaminated water that isn't immediately visible from inside the home. Technicians who aren't familiar with this construction type may miss a saturated crawl space entirely, leaving a hidden source of odor and microbial growth. Our inspection always includes the crawl space on pier-and-beam structures, and when contamination is present there, we treat it as part of the primary affected area, not an afterthought.
 
-If sewage has backed up into your Lyman home, the safest call is a prompt one. Reach HomeLyft Restoration MS at +12282845200 and describe what you're seeing, we'll tell you exactly what to expect and get a certified crew moving toward your address.
+If sewage has backed up into your Lyman home, the safest call is a prompt one. Reach HomeLyft Restoration Gulfport at +12282845200 and describe what you're seeing, we'll tell you exactly what to expect and get a certified crew moving toward your address.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in McLain, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in McLain, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in McLain"
 meta_description: "Crawl space encapsulation in McLain, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation mclain"
@@ -42,10 +42,10 @@ Once the space is cleared and any remediation work is complete, the process move
 
 ## Reaching McLain from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport, and McLain is roughly a two-hour drive north through Wiggins and up into Greene County. Because encapsulation is a scheduled service rather than an emergency call, the team coordinates arrival windows in advance so homeowners aren't waiting around. When the crew arrives, they come prepared for the full scope, McLain is not a short drive, and no one wants to make a second trip for forgotten materials.
+HomeLyft Restoration Gulfport is based in Gulfport, and McLain is roughly a two-hour drive north through Wiggins and up into Greene County. Because encapsulation is a scheduled service rather than an emergency call, the team coordinates arrival windows in advance so homeowners aren't waiting around. When the crew arrives, they come prepared for the full scope, McLain is not a short drive, and no one wants to make a second trip for forgotten materials.
 
 ## Local Note: What Working in Greene County Homes Teaches You
 
 Older pier-and-beam homes in rural Greene County often have crawl space clearances that are tighter than what you'd find in newer construction, sometimes as little as 18 to 24 inches of working height. That changes how material is staged and moved into the space, and it means the crew needs to work methodically rather than quickly. It also means a thorough inspection matters more, because low-clearance spaces are harder to see completely from the access hatch. The team accounts for this on McLain jobs by budgeting extra inspection time before any material is quoted or ordered.
 
-If you've noticed a musty smell coming from your floors, seen condensation on ductwork under the house, or simply know your crawl space has never been sealed, this is the right time to have it looked at. Call HomeLyft Restoration MS at +12282845200 to schedule an assessment for your McLain home, the sooner the space is sealed, the less damage accumulates through the next rainy season.
+If you've noticed a musty smell coming from your floors, seen condensation on ductwork under the house, or simply know your crawl space has never been sealed, this is the right time to have it looked at. Call HomeLyft Restoration Gulfport at +12282845200 to schedule an assessment for your McLain home, the sooner the space is sealed, the less damage accumulates through the next rainy season.

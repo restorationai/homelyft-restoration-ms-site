@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Lumberton, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Lumberton, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Lumberton"
 meta_description: "Crawl space encapsulation in Lumberton, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation lumberton"
@@ -42,10 +42,10 @@ Our team holds IICRC AMRT certification in mold remediation and EPA Lead-Safe ce
 
 ## Reaching Lumberton from Our Gulfport Operations
 
-HomeLyft Restoration MS operates out of Gulfport and dispatches to Lamar County regularly. The most direct route from Gulfport follows U.S. Highway 49 north through Hattiesburg and into Lumberton, a corridor we travel frequently for both emergency water damage calls and scheduled encapsulation projects. Because encapsulation is a planned service rather than an emergency response, we schedule Lumberton appointments to allow adequate on-site time without the pressure of a same-day crisis. When you call **+1 (228) 284-5200**, our scheduling team will confirm availability and give you a realistic arrival window based on current workload.
+HomeLyft Restoration Gulfport operates out of Gulfport and dispatches to Lamar County regularly. The most direct route from Gulfport follows U.S. Highway 49 north through Hattiesburg and into Lumberton, a corridor we travel frequently for both emergency water damage calls and scheduled encapsulation projects. Because encapsulation is a planned service rather than an emergency response, we schedule Lumberton appointments to allow adequate on-site time without the pressure of a same-day crisis. When you call **+1 (228) 284-5200**, our scheduling team will confirm availability and give you a realistic arrival window based on current workload.
 
 ## Local Note: What Lumberton's Soil Profile Means for Encapsulation Longevity
 
 One thing that becomes obvious after working in Lamar County is that the expansive clay soils common here can shift seasonally, swelling when wet, contracting in dry summers. That movement can stress vapor barrier seams and pull liner edges away from foundation walls over time if the installation doesn't account for it. On Lumberton projects, we use mechanical fasteners and wide overlap seams rather than relying solely on adhesive tape at the wall transitions. It adds time to the installation, but it's the difference between an encapsulation that holds for 20 years and one that starts failing at the edges within three or four seasons. If you've had a previous encapsulation that's showing gaps or lifting at the walls, that's almost certainly what happened.
 
-If your home in or around Lumberton has a crawl space that smells musty, has floors that feel soft or springy, or runs noticeably cold in winter despite adequate heating, those are signs the space beneath your floor is working against you. Call HomeLyft Restoration MS at **+1 (228) 284-5200** to schedule an inspection, we'll tell you exactly what's happening under there and what it will take to fix it permanently.
+If your home in or around Lumberton has a crawl space that smells musty, has floors that feel soft or springy, or runs noticeably cold in winter despite adequate heating, those are signs the space beneath your floor is working against you. Call HomeLyft Restoration Gulfport at **+1 (228) 284-5200** to schedule an inspection, we'll tell you exactly what's happening under there and what it will take to fix it permanently.

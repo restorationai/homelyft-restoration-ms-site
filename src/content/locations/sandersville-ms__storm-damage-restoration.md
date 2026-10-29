@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Sandersville, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Storm Damage Restoration in Sandersville, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Storm Damage Restoration in Sandersville"
 meta_description: "24/7 emergency storm damage restoration in Sandersville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "storm damage restoration sandersville"
@@ -41,7 +41,7 @@ Reconstruction, framing repairs, sheathing replacement, roofing, interior drywal
 
 ## Reaching Sandersville from Our Nearest Crews
 
-HomeLyft Restoration MS is headquartered in Gulfport, and we maintain a network of crews that can be routed to the Sandersville area via US-84 and MS-28 corridors. Because we don't publish a fixed response-time guarantee for inland calls, we're straightforward with every homeowner: call us at +12282845200 as soon as the storm passes and we will give you an honest estimated arrival window based on crew location and road conditions at that moment. Storm events that affect a wide geographic area can create competing demand, and we'd rather tell you the truth than overpromise.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and we maintain a network of crews that can be routed to the Sandersville area via US-84 and MS-28 corridors. Because we don't publish a fixed response-time guarantee for inland calls, we're straightforward with every homeowner: call us at +12282845200 as soon as the storm passes and we will give you an honest estimated arrival window based on crew location and road conditions at that moment. Storm events that affect a wide geographic area can create competing demand, and we'd rather tell you the truth than overpromise.
 
 If you can safely do so while waiting, photograph all exterior damage from ground level, move valuables away from wet areas, and avoid entering rooms where ceiling material appears to be sagging, waterlogged drywall can fail without warning.
 
@@ -55,4 +55,4 @@ If your home was built before 1978, our EPA Lead-Safe Certified status matters: 
 
 One pattern we've noticed in older homes in this part of Jones County: original tongue-and-groove roof decking, common on houses built before the 1970s, holds moisture differently than modern OSB or plywood. When rain gets under a compromised shingle layer and soaks into solid-wood decking, the boards swell, cup, and can push roofing nails upward, creating new leak points even after the initial breach is repaired. We probe for this condition during every post-storm roof assessment in the area, because missing it means a roof that leaks again after the first hard rain following reconstruction.
 
-If a storm has left your Sandersville home with an open roof, standing water in a room, or a tree resting on your structure, call HomeLyft Restoration MS at +12282845200. We'll assess the damage honestly, secure the structure, and walk you through every step from emergency response through final reconstruction.
+If a storm has left your Sandersville home with an open roof, standing water in a room, or a tree resting on your structure, call HomeLyft Restoration Gulfport at +12282845200. We'll assess the damage honestly, secure the structure, and walk you through every step from emergency response through final reconstruction.

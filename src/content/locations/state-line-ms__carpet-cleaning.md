@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in State Line, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in State Line, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in State Line"
 meta_description: "Carpet cleaning in State Line, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning state line"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-State Line sits right on the Mississippi-Alabama border, where the humid subtropical climate means carpet fibers stay damp longer than most homeowners expect, and in a town where red clay soil tracks in from unpaved shoulders and rural driveways, that combination turns a routine spill into a set stain faster than it would in a drier climate. HomeLyft Restoration MS brings professional-grade carpet cleaning to State Line and the surrounding Greene County corridor, using extraction and drying methods calibrated to the moisture levels and soil types that are genuinely common here.
+State Line sits right on the Mississippi-Alabama border, where the humid subtropical climate means carpet fibers stay damp longer than most homeowners expect, and in a town where red clay soil tracks in from unpaved shoulders and rural driveways, that combination turns a routine spill into a set stain faster than it would in a drier climate. HomeLyft Restoration Gulfport brings professional-grade carpet cleaning to State Line and the surrounding Greene County corridor, using extraction and drying methods calibrated to the moisture levels and soil types that are genuinely common here.
 
 ## Why State Line Properties See Stubborn Carpet Problems
 
@@ -46,4 +46,4 @@ Carpet sanitization, relevant for homes with pets, young children, or following 
 
 One thing that surprises homeowners new to this part of Greene County: the pine pollen season here runs from late February through April and deposits a fine, acidic dust that settles into carpet pile and gradually yellows light-colored fibers if it isn't extracted regularly. It's not visible the way mud is, but it's acidic enough to degrade nylon carpet fiber over time. Homeowners in State Line who schedule a professional deep clean in early May, right after pollen season closes, tend to see noticeably better long-term color retention than those who wait until fall. It's a small timing detail that makes a real difference in carpet lifespan in this specific climate.
 
-For questions about scheduling or to get a same-week appointment for your State Line home or business, call HomeLyft Restoration MS at **+1 (228) 284-5200**. We'll assess your carpet type, the specific soiling conditions in your space, and give you a straightforward plan, no upselling, no surprises.
+For questions about scheduling or to get a same-week appointment for your State Line home or business, call HomeLyft Restoration Gulfport at **+1 (228) 284-5200**. We'll assess your carpet type, the specific soiling conditions in your space, and give you a straightforward plan, no upselling, no surprises.

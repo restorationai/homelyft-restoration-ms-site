@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Biohazard Cleanup in Long Beach, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Biohazard Cleanup in Long Beach, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Biohazard Cleanup in Long Beach"
 meta_description: "24/7 emergency biohazard cleanup in Long Beach, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "biohazard cleanup long beach"
@@ -52,4 +52,4 @@ Biohazard remediation is frequently covered under homeowners' insurance policies
 
 One thing our technicians have learned working in Long Beach specifically: the crawl spaces beneath older pier-and-beam homes in this area often have inadequate cross-ventilation, which means humidity and odor from a contamination event on the ground floor can migrate downward and linger in the crawl space long after the primary cleanup is complete. We routinely inspect below the subfloor on these properties even when the initial call doesn't mention it, because in Long Beach's climate, what's underneath the house matters as much as what's inside it.
 
-If you're facing a biohazard situation at a Long Beach property, the most important step is also the simplest: call before you attempt to handle anything yourself. Our certified team handles the logistics, the regulatory requirements, and the documentation, so you can focus on what comes next. Reach HomeLyft Restoration MS at +12282845200.
+If you're facing a biohazard situation at a Long Beach property, the most important step is also the simplest: call before you attempt to handle anything yourself. Our certified team handles the logistics, the regulatory requirements, and the documentation, so you can focus on what comes next. Reach HomeLyft Restoration Gulfport at +12282845200.

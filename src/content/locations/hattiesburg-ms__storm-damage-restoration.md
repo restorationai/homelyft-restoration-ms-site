@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Hattiesburg, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Storm Damage Restoration in Hattiesburg, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Storm Damage Restoration in Hattiesburg"
 meta_description: "24/7 emergency storm damage restoration in Hattiesburg, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "storm damage restoration hattiesburg"
@@ -41,7 +41,7 @@ Structural repairs, framing, sheathing, roofing, drywall, follow only after mois
 
 ## Reaching Hattiesburg from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport and serves the Hattiesburg area via US-49 North. The drive typically runs about 70 miles, and our crews stage equipment before departure so the truck arriving on your street is already loaded for the scope of work described on the call, not making a second trip for dehumidifiers. For properties on the northern or western edges of the city, we coordinate routing in advance to avoid delays through high-traffic corridors near the university district after major weather events, when road closures and debris removal can affect access.
+HomeLyft Restoration Gulfport is headquartered in Gulfport and serves the Hattiesburg area via US-49 North. The drive typically runs about 70 miles, and our crews stage equipment before departure so the truck arriving on your street is already loaded for the scope of work described on the call, not making a second trip for dehumidifiers. For properties on the northern or western edges of the city, we coordinate routing in advance to avoid delays through high-traffic corridors near the university district after major weather events, when road closures and debris removal can affect access.
 
 ## Hattiesburg Insurance Coordination
 
@@ -51,4 +51,4 @@ Most homeowners in the Hattiesburg area carry a standard HO-3 policy, but wind a
 
 One pattern that comes up repeatedly on Hattiesburg jobs after a significant wind event: homes in older neighborhoods with large tree coverage often have damage to ridge vents and attic baffles that goes unnoticed because the ceiling below shows no staining. Attic insulation absorbs the intrusion and holds moisture against the roof deck for weeks. By the time a brown spot appears on the drywall, the sheathing above it may already have active mold colonization. On every Hattiesburg storm job, we pull attic access and take moisture readings at the deck, not just at the visible ceiling plane, before we close out the assessment.
 
-If a storm has left your Hattiesburg home with a compromised roof, standing water, or structural damage you're not sure how to scope, call HomeLyft Restoration MS at (228) 284-5200. We'll walk through what we're seeing with you in plain language and get a documented estimate started before conditions have a chance to get worse.
+If a storm has left your Hattiesburg home with a compromised roof, standing water, or structural damage you're not sure how to scope, call HomeLyft Restoration Gulfport at (228) 284-5200. We'll walk through what we're seeing with you in plain language and get a documented estimate started before conditions have a chance to get worse.

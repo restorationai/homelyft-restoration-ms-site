@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Roofing Installation and Replacement in Pass Christian, MS | HomeLyft Restoration MS"
+title: "Roofing Installation and Replacement in Pass Christian, MS | HomeLyft Restoration Gulfport"
 h1: "Roofing Installation and Replacement in Pass Christian"
 meta_description: "24/7 roofing installation and replacement in Pass Christian, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "roofing installation and replacement pass christian"
@@ -40,4 +40,4 @@ Mississippi coastal insurers increasingly look for FORTIFIED roofing standards w
 
 One thing we watch for on Pass Christian jobs that doesn't come up as often inland: homes close to the water often have HVAC condensate lines, satellite mounts, or solar conduit routed through the roof deck in ways that weren't part of the original plan, usually added after a rebuild. We trace those penetrations during tear-off so nothing gets re-roofed over and sealed in by accident, since a buried, unflashed penetration is one of the more common slow leaks we find in homes along this stretch of coast.
 
-If your roof is showing granule loss in the gutters, curling shingles, or soft spots near the chimney, don't wait for the next named storm to find out how bad it is. Call HomeLyft Restoration MS for a roofing installation or replacement estimate in Pass Christian, and we'll tell you straight whether you're looking at a repair or a full replacement before any work starts.
+If your roof is showing granule loss in the gutters, curling shingles, or soft spots near the chimney, don't wait for the next named storm to find out how bad it is. Call HomeLyft Restoration Gulfport for a roofing installation or replacement estimate in Pass Christian, and we'll tell you straight whether you're looking at a repair or a full replacement before any work starts.

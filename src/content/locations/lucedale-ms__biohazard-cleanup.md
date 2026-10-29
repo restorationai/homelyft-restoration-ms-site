@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Biohazard Cleanup in Lucedale, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Biohazard Cleanup in Lucedale, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Biohazard Cleanup in Lucedale"
 meta_description: "24/7 emergency biohazard cleanup in Lucedale, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "biohazard cleanup lucedale"
@@ -24,7 +24,7 @@ rendered: true
 <!-- emergency-open -->
 **Need biohazard or trauma cleanup in Lucedale? We answer 24/7.** Call now and our crew heads out to handle the cleanup with discretion and care.
 
-When something traumatic happens at a home or property in Lucedale, the last thing a family should have to manage is the cleanup. George County's rural character means properties here are often spread across wooded acreage, down long driveways, and far from the nearest neighbor, which can delay discovery and compound the urgency of professional remediation. HomeLyft Restoration MS responds to biohazard situations throughout the Lucedale area with discretion, proper containment, and full regulatory compliance, so affected families can focus on what matters most.
+When something traumatic happens at a home or property in Lucedale, the last thing a family should have to manage is the cleanup. George County's rural character means properties here are often spread across wooded acreage, down long driveways, and far from the nearest neighbor, which can delay discovery and compound the urgency of professional remediation. HomeLyft Restoration Gulfport responds to biohazard situations throughout the Lucedale area with discretion, proper containment, and full regulatory compliance, so affected families can focus on what matters most.
 
 ## Why Lucedale Properties Present Unique Biohazard Challenges
 
@@ -46,7 +46,7 @@ Finally, the space is deodorized and cleared. Odor in biohazard situations is no
 
 ## Reaching Lucedale from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport and serves the Lucedale area via US-98, which connects the Gulf Coast to George County in roughly 60 to 70 miles depending on the specific address. Rural properties north and east of Lucedale proper, particularly those accessed by county roads off MS-63, may require additional coordination for equipment staging, especially when long driveways or soft ground conditions are involved. When you call, the team will ask about access specifics upfront so there are no delays on arrival.
+HomeLyft Restoration Gulfport is headquartered in Gulfport and serves the Lucedale area via US-98, which connects the Gulf Coast to George County in roughly 60 to 70 miles depending on the specific address. Rural properties north and east of Lucedale proper, particularly those accessed by county roads off MS-63, may require additional coordination for equipment staging, especially when long driveways or soft ground conditions are involved. When you call, the team will ask about access specifics upfront so there are no delays on arrival.
 
 Scheduling is handled directly by phone at +12282845200. Because biohazard situations are time-sensitive, calls are prioritized and routed to a team member who can give you a realistic arrival window based on current crew availability.
 
@@ -60,4 +60,4 @@ If the property is a rental or estate situation, coordination with property mana
 
 One thing that comes up specifically in George County properties: older homes in the Lucedale area were frequently built with heart pine subflooring, a dense, resinous wood that was common in South Mississippi construction through the mid-20th century. Heart pine is more resistant to moisture absorption than modern OSB or plywood, which is good in some respects, but it also means that surface contamination can sit on top of the wood rather than being immediately absorbed, making thorough surface treatment essential. At the same time, gaps between planks in older heart pine floors can allow fluids to reach the crawl space below, which requires inspection of the substructure even when the finished floor looks intact.
 
-If you're dealing with a situation at a property in the Lucedale area, call HomeLyft Restoration MS at +12282845200. The conversation is confidential, there's no obligation, and the team can walk you through what to expect before anyone sets foot on the property.
+If you're dealing with a situation at a property in the Lucedale area, call HomeLyft Restoration Gulfport at +12282845200. The conversation is confidential, there's no obligation, and the team can walk you through what to expect before anyone sets foot on the property.

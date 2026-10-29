@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Biohazard Cleanup in Pascagoula, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Biohazard Cleanup in Pascagoula, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Biohazard Cleanup in Pascagoula"
 meta_description: "24/7 emergency biohazard cleanup in Pascagoula, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "biohazard cleanup pascagoula"
@@ -42,7 +42,7 @@ Our team holds IICRC certification and is OSHA trained, and we carry the documen
 
 ## Reaching Pascagoula from Our Gulfport Base
 
-HomeLyft Restoration MS operates out of Gulfport, and Pascagoula is a regular part of our service area via US-90 East along the coast. The drive through Long Beach, Pass Christian, Bay St. Louis, and into Jackson County is a route our crews know well. We coordinate scheduling directly with the property contact, whether that's a homeowner, a property manager, a funeral home, or a housing authority representative, and we communicate arrival times clearly so there are no surprises.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Pascagoula is a regular part of our service area via US-90 East along the coast. The drive through Long Beach, Pass Christian, Bay St. Louis, and into Jackson County is a route our crews know well. We coordinate scheduling directly with the property contact, whether that's a homeowner, a property manager, a funeral home, or a housing authority representative, and we communicate arrival times clearly so there are no surprises.
 
 For properties in tighter residential blocks or near the industrial corridors, we plan vehicle staging in advance. Discretion matters: our vehicles are unmarked, and we work without drawing unnecessary attention to the address.
 
@@ -56,4 +56,4 @@ If coverage is uncertain, we can walk through the policy language with you befor
 
 Pascagoula's proximity to the Singing River Industrial Complex and the Port of Pascagoula means that a meaningful share of the city's housing was built quickly and densely during mid-century industrial expansion. Many of those homes have original crawl space vents that face prevailing southerly winds off the Gulf, which is good for passive ventilation in normal conditions, but means that during a biohazard event, airborne particulates can migrate into the crawl space faster than in homes with closed-foundation designs. We account for this during our initial assessment and treat the crawl space as a potentially affected zone rather than assuming contamination stayed above the slab.
 
-If you're managing a difficult situation in Pascagoula and need a team that will handle it carefully, completely, and without adding to the stress of an already hard day, call HomeLyft Restoration MS at (228) 284-5200. We'll tell you exactly what to expect before we start.
+If you're managing a difficult situation in Pascagoula and need a team that will handle it carefully, completely, and without adding to the stress of an already hard day, call HomeLyft Restoration Gulfport at (228) 284-5200. We'll tell you exactly what to expect before we start.

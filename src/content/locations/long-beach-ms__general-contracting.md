@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Long Beach, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Long Beach, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Long Beach"
 meta_description: "Renovations, remodels and general contracting in Long Beach, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting long beach"
@@ -50,4 +50,4 @@ If your property falls under a homeowners association, we obtain the required ar
 
 One thing that catches out-of-area contractors off guard in Long Beach: the combination of slab foundations and older cast-iron drain lines in homes built in the 1960s and 1970s means bathroom remodels frequently uncover deteriorated pipe that wasn't visible on any pre-demo inspection. We build a cast-iron assessment into our scope process for homes of that era, it's a quick camera inspection that can save a homeowner from a mid-project change order that doubles the timeline. It's a small step that reflects how this particular stretch of the Coast was built, and it's the kind of detail that only comes from working here regularly.
 
-If you're ready to move a Long Beach renovation from the planning stage to the permit stage, call HomeLyft Restoration MS at +12282845200. We'll walk the property, talk through the scope honestly, and give you a written estimate that accounts for what coastal Mississippi construction actually requires.
+If you're ready to move a Long Beach renovation from the planning stage to the permit stage, call HomeLyft Restoration Gulfport at +12282845200. We'll walk the property, talk through the scope honestly, and give you a written estimate that accounts for what coastal Mississippi construction actually requires.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Hurley, MS | HomeLyft Restoration MS"
+title: "Mold Remediation in Hurley, MS | HomeLyft Restoration Gulfport"
 h1: "Mold Remediation in Hurley"
 meta_description: "Mold remediation in Hurley, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "mold remediation hurley"
@@ -38,7 +38,7 @@ In Hurley's older pier-and-beam homes, the process often includes crawl space en
 
 ## Reaching Hurley from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport, with Hurley accessible via US-90 east through Pascagoula and into Jackson County. The route is straightforward, and the team dispatches to Jackson County properties for both inspections and full remediation projects. Scheduling is handled during business hours, call +12282845200 to discuss your situation, get a sense of scope, and arrange an on-site moisture assessment.
+HomeLyft Restoration Gulfport is based in Gulfport, with Hurley accessible via US-90 east through Pascagoula and into Jackson County. The route is straightforward, and the team dispatches to Jackson County properties for both inspections and full remediation projects. Scheduling is handled during business hours, call +12282845200 to discuss your situation, get a sense of scope, and arrange an on-site moisture assessment.
 
 For properties farther out along the county roads west of Hurley, it helps to have the physical address ready when you call, since rural route addresses can vary from mapping software. The team is familiar with the area and can confirm access logistics before the visit.
 
@@ -52,4 +52,4 @@ For any property in Jackson County where a lender or insurer requires post-remed
 
 One pattern that comes up repeatedly in Hurley's older homes is the combination of tongue-and-groove pine subfloor over an unsealed crawl space. That pine is dense and slow to absorb surface water, which can make a crawl space moisture problem look minor from above, until the subfloor is pulled and the underside shows significant fungal staining that never telegraphed upstairs. If a home in this area has a musty smell that seems stronger in the morning or after rain, and the crawl space hasn't been inspected recently, that's the first place to look before assuming the issue is limited to what's visible.
 
-If you're dealing with visible growth, a persistent smell, or a recent water event in your Hurley home, the right move is an assessment before the problem expands further into the structure. Call HomeLyft Restoration MS at +12282845200 to schedule a moisture inspection and get a clear picture of what remediation in your specific property will involve.
+If you're dealing with visible growth, a persistent smell, or a recent water event in your Hurley home, the right move is an assessment before the problem expands further into the structure. Call HomeLyft Restoration Gulfport at +12282845200 to schedule a moisture inspection and get a clear picture of what remediation in your specific property will involve.

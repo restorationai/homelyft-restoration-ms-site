@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Eastabuchie, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Eastabuchie, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Eastabuchie"
 meta_description: "Crawl space encapsulation in Eastabuchie, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation eastabuchie"
@@ -51,4 +51,4 @@ For dehumidification, we size the unit to the actual square footage of the crawl
 
 One thing that comes up repeatedly in Eastabuchie and the surrounding Jones County area: homes built on sloped lots often have one end of the crawl space that is nearly at grade and another end with three or four feet of clearance. Water doesn't distribute evenly in those spaces, it pools at the low end, sometimes against a foundation wall, and that corner is almost always where the worst rot and mold damage shows up. When we inspect a home on a sloped lot here, we pay particular attention to that downhill corner and often recommend a sump pit at that low point before the liner goes in, so any water that gets past the liner has somewhere to go rather than pooling under it.
 
-If you are dealing with a damp crawl space, soft spots in your floor, or a musty smell coming up through the subfloor in your Eastabuchie home, the crawl space is the most likely source. Call HomeLyft Restoration MS at +12282845200 to schedule an inspection, we will assess the space, explain what we find, and give you a clear picture of what encapsulation will involve for your specific property.
+If you are dealing with a damp crawl space, soft spots in your floor, or a musty smell coming up through the subfloor in your Eastabuchie home, the crawl space is the most likely source. Call HomeLyft Restoration Gulfport at +12282845200 to schedule an inspection, we will assess the space, explain what we find, and give you a clear picture of what encapsulation will involve for your specific property.

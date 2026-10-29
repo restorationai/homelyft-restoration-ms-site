@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in Wiggins, MS | HomeLyft Restoration MS"
+title: "Contents Restoration and Storage in Wiggins, MS | HomeLyft Restoration Gulfport"
 h1: "Contents Restoration and Storage in Wiggins"
 meta_description: "Contents restoration and storage in Wiggins, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "contents restoration and storage wiggins"
@@ -38,7 +38,7 @@ Throughout the process, you have access to a digital inventory so you can identi
 
 ## Reaching Wiggins from Our Gulfport Base
 
-HomeLyft Restoration MS operates out of Gulfport, and Wiggins is a straightforward run up US-49 North through the Pine Belt. The route is direct and well-maintained, which means our crew and equipment can reach Stone County properties without the routing complications that affect some more rural areas of South Mississippi. We serve the broader Wiggins area including properties along the county roads that branch off the US-49 corridor, and we coordinate access details with you before arrival so there are no delays once the truck is on site.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Wiggins is a straightforward run up US-49 North through the Pine Belt. The route is direct and well-maintained, which means our crew and equipment can reach Stone County properties without the routing complications that affect some more rural areas of South Mississippi. We serve the broader Wiggins area including properties along the county roads that branch off the US-49 corridor, and we coordinate access details with you before arrival so there are no delays once the truck is on site.
 
 Because our hours are not listed as 24/7, we encourage you to call +12282845200 as early as possible after a loss event so we can schedule prompt dispatch and begin the pack-out before secondary damage advances.
 
@@ -52,4 +52,4 @@ IICRC-certified firms are recognized by most major insurance carriers as qualifi
 
 One thing that comes up repeatedly on Wiggins-area jobs is the prevalence of solid-wood furniture built from locally sourced pine and hardwoods, pieces that were made regionally, sometimes by hand, and that families have owned for generations. This furniture responds to water and smoke damage differently than the particleboard-and-veneer construction common in big-box store pieces. Solid pine, in particular, absorbs moisture deeply but also releases it more predictably under controlled drying conditions, which means restoration is often genuinely viable where a replacement approach would be the default elsewhere. We assess each piece individually rather than applying a blanket write-off policy, and in our experience working in Stone County, that approach recovers items that matter to families and saves carriers money on replacement costs at the same time.
 
-If a fire, flood, or storm has left your Wiggins home and its contents in disarray, call HomeLyft Restoration MS at +12282845200. We'll inventory, pack out, restore, and store your belongings with the documentation your insurance claim requires, and return them to you when your home is ready.
+If a fire, flood, or storm has left your Wiggins home and its contents in disarray, call HomeLyft Restoration Gulfport at +12282845200. We'll inventory, pack out, restore, and store your belongings with the documentation your insurance claim requires, and return them to you when your home is ready.

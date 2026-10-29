@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Lead Paint Abatement in Picayune, MS | HomeLyft Restoration MS"
+title: "Lead Paint Abatement in Picayune, MS | HomeLyft Restoration Gulfport"
 h1: "Lead Paint Abatement in Picayune"
 meta_description: "24/7 lead paint abatement in Picayune, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "lead paint abatement picayune"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Lead Paint Abatement"
 rendered: true
 ---
-**Lead Paint Abatement in Picayune?** If your home near downtown Picayune was built before the 1978 federal ban on residential lead paint, peeling trim or a window sash that's been painted over a dozen times may be doing more than looking dated. Mississippi's humidity cycles push old paint through swelling and cracking faster than drier climates, which means lead-based layers chip and chalk sooner, turning a cosmetic fix into a dust hazard. HomeLyft Restoration MS handles testing, containment, and removal so the work gets done safely, not just quickly.
+**Lead Paint Abatement in Picayune?** If your home near downtown Picayune was built before the 1978 federal ban on residential lead paint, peeling trim or a window sash that's been painted over a dozen times may be doing more than looking dated. Mississippi's humidity cycles push old paint through swelling and cracking faster than drier climates, which means lead-based layers chip and chalk sooner, turning a cosmetic fix into a dust hazard. HomeLyft Restoration Gulfport handles testing, containment, and removal so the work gets done safely, not just quickly.
 
 ## Why Picayune Properties See Lead Paint Issues
 
@@ -38,4 +38,4 @@ Any renovation, repair, or painting work disturbing six square feet or more of p
 
 Homes along Picayune's older streets near the rail corridor often have lead paint trapped under newer vinyl siding installed during the 1980s and 90s retrofitting boom. When that siding gets pulled during a storm repair or remodel, crews sometimes assume the original wood underneath is clean because it's been covered for decades. It isn't automatically safe, and covered paint can still generate dust once disturbed, so we test underneath before any demolition proceeds rather than after.
 
-If you're planning a renovation on an older Picayune property, or you've noticed chipping paint on trim, siding, or window sashes, call HomeLyft Restoration MS at (228) 284-5200. We'll test first, explain what the results mean for your project, and handle abatement under EPA Lead-Safe practices so your home, your family, and your crew stay protected through the work.
+If you're planning a renovation on an older Picayune property, or you've noticed chipping paint on trim, siding, or window sashes, call HomeLyft Restoration Gulfport at (228) 284-5200. We'll test first, explain what the results mean for your project, and handle abatement under EPA Lead-Safe practices so your home, your family, and your crew stay protected through the work.

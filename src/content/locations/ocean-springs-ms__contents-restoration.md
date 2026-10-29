@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in Ocean Springs, MS | HomeLyft Restoration MS"
+title: "Contents Restoration and Storage in Ocean Springs, MS | HomeLyft Restoration Gulfport"
 h1: "Contents Restoration and Storage in Ocean Springs"
 meta_description: "Contents restoration and storage in Ocean Springs, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "contents restoration and storage ocean springs"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Contents Restoration and Storage"
 rendered: true
 ---
-Ocean Springs sits squarely in the path of Gulf Coast weather, the kind that pushes salt-laden humidity through window seams for months at a time, then occasionally delivers a named storm that leaves furniture, artwork, and family heirlooms soaked or smoke-damaged overnight. When that happens, the contents of your home need more than a wipe-down; they need a structured pack-out, professional cleaning, and climate-controlled storage while your property is being dried or rebuilt. HomeLyft Restoration MS handles that entire chain, from the moment we inventory your belongings on-site to the day we return them to your restored home.
+Ocean Springs sits squarely in the path of Gulf Coast weather, the kind that pushes salt-laden humidity through window seams for months at a time, then occasionally delivers a named storm that leaves furniture, artwork, and family heirlooms soaked or smoke-damaged overnight. When that happens, the contents of your home need more than a wipe-down; they need a structured pack-out, professional cleaning, and climate-controlled storage while your property is being dried or rebuilt. HomeLyft Restoration Gulfport handles that entire chain, from the moment we inventory your belongings on-site to the day we return them to your restored home.
 
 ## Why Ocean Springs Homes Face Elevated Contents Damage Risk
 
@@ -51,4 +51,4 @@ If your policy includes additional living expense (ALE) coverage, the period you
 
 One thing we've learned working along the Gulf Coast: salt air doesn't just affect structures, it accelerates tarnishing and corrosion on metal hardware, picture frames, and electronics even when those items appear undamaged after a loss event. In Ocean Springs, where homes close to the Back Bay or the shoreline experience consistent salt-laden breezes, we pay particular attention to metal components during the contents inspection. A brass lamp base or a cast-iron decorative piece that looks fine on pack-out day may show accelerated pitting within weeks if not properly cleaned and treated before storage. We flag those items during inventory so they get the right surface treatment before going into the facility.
 
-If your home in Ocean Springs has been affected by water, fire, or storm damage, the contents inside deserve the same careful attention as the structure itself. Call HomeLyft Restoration MS at +12282845200 to schedule a contents assessment, we'll walk through your home, document what's there, and give you a clear picture of what can be restored before anything leaves the property.
+If your home in Ocean Springs has been affected by water, fire, or storm damage, the contents inside deserve the same careful attention as the structure itself. Call HomeLyft Restoration Gulfport at +12282845200 to schedule a contents assessment, we'll walk through your home, document what's there, and give you a clear picture of what can be restored before anything leaves the property.

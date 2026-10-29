@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Picayune, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Picayune, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Picayune"
 meta_description: "24/7 upholstery cleaning in Picayune, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning picayune"
@@ -38,4 +38,4 @@ We're based out of Gulfport, and getting to Picayune is a straightforward run up
 
 One thing we watch for on Picayune jobs specifically: furniture kept in sunrooms or converted porches, which are common additions on older lots around town, tends to have UV-faded fabric on one side and humidity-darkened fabric on the other. Cleaning both evenly requires testing solution on the faded side first, since sun-damaged fibers can react differently to extraction chemistry than fabric that's stayed out of direct light. Skipping that test step is how you get a blotchy result on furniture that already had uneven wear going in.
 
-If your upholstery has started holding onto odors, feels damp to the touch on humid days, or just looks tired next to everything else in the room, it's worth getting it professionally cleaned before the problem sets deeper into the padding. Call HomeLyft Restoration MS at (228) 284-5200 to schedule upholstery cleaning for your Picayune home, whether it's a single leather recliner or a full living room set.
+If your upholstery has started holding onto odors, feels damp to the touch on humid days, or just looks tired next to everything else in the room, it's worth getting it professionally cleaned before the problem sets deeper into the padding. Call HomeLyft Restoration Gulfport at (228) 284-5200 to schedule upholstery cleaning for your Picayune home, whether it's a single leather recliner or a full living room set.

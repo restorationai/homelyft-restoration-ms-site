@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Moss Point, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Water Damage Restoration in Moss Point, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Water Damage Restoration in Moss Point"
 meta_description: "24/7 emergency water damage restoration in Moss Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "water damage restoration moss point"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Water damage emergency in Moss Point? We answer 24/7.** Call now and our crew heads out to stop the water and start drying your property.
 
-Moss Point sits at the confluence of the Escatawba and Pascagoula Rivers, which means the water table here is rarely far below your foundation, and when a supply line bursts, a roof leak soaks through, or a storm pushes water under your doors, the moisture doesn't just sit on the surface. It migrates fast through slab seams, subflooring, and wall cavities in ways that catch homeowners off guard. HomeLyft Restoration MS responds to water damage calls across Moss Point, bringing IICRC-certified water damage and structural drying technicians to assess, extract, and dry your property before secondary damage compounds the loss.
+Moss Point sits at the confluence of the Escatawba and Pascagoula Rivers, which means the water table here is rarely far below your foundation, and when a supply line bursts, a roof leak soaks through, or a storm pushes water under your doors, the moisture doesn't just sit on the surface. It migrates fast through slab seams, subflooring, and wall cavities in ways that catch homeowners off guard. HomeLyft Restoration Gulfport responds to water damage calls across Moss Point, bringing IICRC-certified water damage and structural drying technicians to assess, extract, and dry your property before secondary damage compounds the loss.
 
 ## Why Moss Point Properties Face Elevated Water Damage Risk
 
@@ -41,7 +41,7 @@ For homes with pier-and-beam construction, crawl space drying is a separate but 
 
 ## Reaching Moss Point from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, and Moss Point is accessible via US-90 east through Biloxi and Pascagoula, a route our crews run regularly for Jackson County calls. We schedule arrival times honestly based on current conditions and crew availability, and we'll give you a realistic window when you call rather than a promise we can't keep. When you call **+1 (228) 284-5200**, a team member will confirm your address, ask a few quick triage questions about the water source and affected areas, and get a crew dispatched.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Moss Point is accessible via US-90 east through Biloxi and Pascagoula, a route our crews run regularly for Jackson County calls. We schedule arrival times honestly based on current conditions and crew availability, and we'll give you a realistic window when you call rather than a promise we can't keep. When you call **+1 (228) 284-5200**, a team member will confirm your address, ask a few quick triage questions about the water source and affected areas, and get a crew dispatched.
 
 ## Moss Point Insurance Coordination
 
@@ -53,4 +53,4 @@ If you have a separate flood policy through the National Flood Insurance Program
 
 In Moss Point's older pier-and-beam homes, we've found that original heart pine subfloor boards, common in houses built before 1970, behave very differently from modern OSB or plywood during drying. Heart pine is dense and slow to release moisture, which means standard drying timelines can underestimate how long the structure actually needs equipment running. Pulling equipment too early because surface readings look acceptable is one of the most common reasons secondary mold problems develop in these homes weeks after a water event. Our technicians check both surface and deep-probe readings before signing off on a dry structure in any home with original wood framing.
 
-If your home in Moss Point has experienced water intrusion, from a plumbing failure, storm event, appliance leak, or any other source, call HomeLyft Restoration MS at **+1 (228) 284-5200**. We'll walk you through what to expect, get moisture readings on-site, and build a drying plan around your specific structure rather than a generic checklist.
+If your home in Moss Point has experienced water intrusion, from a plumbing failure, storm event, appliance leak, or any other source, call HomeLyft Restoration Gulfport at **+1 (228) 284-5200**. We'll walk you through what to expect, get moisture readings on-site, and build a drying plan around your specific structure rather than a generic checklist.

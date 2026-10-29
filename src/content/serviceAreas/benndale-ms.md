@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Benndale, MS | HomeLyft Restoration MS"
+title: "Restoration Services in Benndale, MS | HomeLyft Restoration Gulfport"
 h1: "Restoration Services in Benndale"
 meta_description: "Serving Benndale, MS with water, fire, mold, and storm damage restoration. IICRC-certified team. Call +12282845200."
 primary_keyword: "restoration services benndale"
@@ -19,7 +19,7 @@ state: "MS"
 primary: false
 rendered: true
 ---
-When a pipe bursts under a pier-and-beam floor or a summer storm pushes water through an aging roof in Benndale, HomeLyft Restoration MS handles the extraction, drying, and structural repair so the damage stops spreading and your property gets back to livable condition. We serve George County from our Gulfport base, coordinating water damage mitigation, mold remediation, fire and smoke cleanup, and full reconstruction for homeowners and property managers throughout the Benndale area.
+When a pipe bursts under a pier-and-beam floor or a summer storm pushes water through an aging roof in Benndale, HomeLyft Restoration Gulfport handles the extraction, drying, and structural repair so the damage stops spreading and your property gets back to livable condition. We serve George County from our Gulfport base, coordinating water damage mitigation, mold remediation, fire and smoke cleanup, and full reconstruction for homeowners and property managers throughout the Benndale area.
 
 ## Restoration emergencies common in Benndale
 
@@ -61,4 +61,4 @@ Older wood-frame houses in this part of the pine belt were plumbed with galvaniz
 
 Sandy coastal-plain soil drains fast at the surface but perches water over tighter clay layers, which is why crawlspaces here stay damp long after the yard looks dry. Manufactured and modular homes are common locally, and their belly wrap holds water instead of shedding it.
 
-If you're dealing with water, fire, mold, or sewage damage at a Benndale property, call HomeLyft Restoration MS at (228) 284-5200. We'll talk through what you're seeing, give you an honest assessment of next steps, and schedule a crew to get out to George County as soon as possible.
+If you're dealing with water, fire, mold, or sewage damage at a Benndale property, call HomeLyft Restoration Gulfport at (228) 284-5200. We'll talk through what you're seeing, give you an honest assessment of next steps, and schedule a crew to get out to George County as soon as possible.

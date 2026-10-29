@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Water Leak Detection in Long Beach, MS | HomeLyft Restoration MS"
+title: "Water Leak Detection in Long Beach, MS | HomeLyft Restoration Gulfport"
 h1: "Water Leak Detection in Long Beach"
 meta_description: "24/7 water leak detection in Long Beach, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "water leak detection long beach"
@@ -42,4 +42,4 @@ Slab leaks and hidden wall leaks often fall into a gray area with insurance: car
 
 Coastal Mississippi homes near the water table in Harrison County often have crawlspace or slab transitions where a single slow leak can travel along the vapor barrier or foundation footing before surfacing somewhere visibly distant from the actual source, sometimes ten or fifteen feet away under the flooring. We've learned not to trust the spot where the stain shows up; we trace the line back with the acoustic and thermal equipment before anyone starts cutting.
 
-If you're hearing a faint hiss behind a wall, watching a water bill climb, or just noticed a warm spot on an otherwise cool tile floor in your Long Beach home, don't wait for it to become a bigger repair. Call HomeLyft Restoration MS (License #RO 2728) and we'll bring the detection equipment that pinpoints the source before it turns into a slab replacement or mold problem.
+If you're hearing a faint hiss behind a wall, watching a water bill climb, or just noticed a warm spot on an otherwise cool tile floor in your Long Beach home, don't wait for it to become a bigger repair. Call HomeLyft Restoration Gulfport (License #RO 2728) and we'll bring the detection equipment that pinpoints the source before it turns into a slab replacement or mold problem.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Lucedale, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Lucedale, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Lucedale"
 meta_description: "Carpet cleaning in Lucedale, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning lucedale"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-Lucedale sits in the heart of George County, where long, humid summers and clay-heavy soils create a particular challenge for interior textiles. That combination, heat that rarely breaks before October, moisture that lingers in slab-on-grade homes, and red clay tracked in from unpaved driveways, works deep into carpet fibers in ways that a standard vacuum pass simply cannot address. HomeLyft Restoration MS brings truck-mounted hot-water extraction and IICRC-certified technicians to Lucedale homes and businesses, targeting the embedded grit and humidity-fed odors that accumulate season after season in this part of Mississippi.
+Lucedale sits in the heart of George County, where long, humid summers and clay-heavy soils create a particular challenge for interior textiles. That combination, heat that rarely breaks before October, moisture that lingers in slab-on-grade homes, and red clay tracked in from unpaved driveways, works deep into carpet fibers in ways that a standard vacuum pass simply cannot address. HomeLyft Restoration Gulfport brings truck-mounted hot-water extraction and IICRC-certified technicians to Lucedale homes and businesses, targeting the embedded grit and humidity-fed odors that accumulate season after season in this part of Mississippi.
 
 ## Why Lucedale Properties See Stubborn Carpet Problems
 
@@ -48,7 +48,7 @@ Local businesses, from medical offices near the George County courthouse distric
 
 ## Reaching Lucedale from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport and serves Lucedale via U.S. 49 north through Wiggins into George County. Scheduling is handled by phone at +12282845200, and the team coordinates arrival windows so you are not waiting around an open-ended block. For jobs that require equipment staging, particularly larger commercial spaces or whole-home cleans in properties with limited driveway access, the crew confirms logistics in advance so the visit runs efficiently.
+HomeLyft Restoration Gulfport is headquartered in Gulfport and serves Lucedale via U.S. 49 north through Wiggins into George County. Scheduling is handled by phone at +12282845200, and the team coordinates arrival windows so you are not waiting around an open-ended block. For jobs that require equipment staging, particularly larger commercial spaces or whole-home cleans in properties with limited driveway access, the crew confirms logistics in advance so the visit runs efficiently.
 
 ## Local Note
 
@@ -56,4 +56,4 @@ One pattern that comes up repeatedly in Lucedale: homes built on pier-and-beam f
 
 If your home has that older pier-and-beam construction and you have noticed persistent mustiness that comes back after cleaning, mention it when you call, it changes the approach from the start.
 
-For carpet cleaning in Lucedale that accounts for George County's climate, soil, and housing stock rather than treating every job identically, call HomeLyft Restoration MS at +12282845200 and describe what you are dealing with. The assessment is straightforward, and the process is calibrated to what your specific carpet and home actually need.
+For carpet cleaning in Lucedale that accounts for George County's climate, soil, and housing stock rather than treating every job identically, call HomeLyft Restoration Gulfport at +12282845200 and describe what you are dealing with. The assessment is straightforward, and the process is calibrated to what your specific carpet and home actually need.

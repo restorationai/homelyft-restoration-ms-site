@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Water Damage Restoration in Pass Christian, MS | HomeLyft Restoration MS"
+title: "Emergency Water Damage Restoration in Pass Christian, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Water Damage Restoration in Pass Christian"
 meta_description: "24/7 emergency water damage restoration in Pass Christian, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "water damage restoration pass christian"
@@ -57,4 +57,4 @@ We photograph affected materials, document moisture readings, and prepare the ki
 
 One thing we've learned working coastal Harrison County: Pass Christian's older wood-frame homes, particularly those rebuilt or substantially renovated after Katrina, often used engineered lumber products like LVL beams and I-joists in the floor system. These materials are structurally strong, but they are significantly more vulnerable to water than the solid-sawn lumber they replaced, delamination can begin within days of sustained moisture exposure. When we're working in a post-Katrina rebuild, we treat the floor system as a priority and monitor it closely throughout the drying cycle, because replacing an engineered floor system is far more expensive than the extra day of drying it takes to protect it.
 
-If you're dealing with water damage in Pass Christian, whether it's a supply line that let go overnight or storm-driven moisture that found its way in, call HomeLyft Restoration MS at +12282845200. We'll assess the damage honestly, start extraction and drying without delay, and document everything your insurance carrier needs to process your claim.
+If you're dealing with water damage in Pass Christian, whether it's a supply line that let go overnight or storm-driven moisture that found its way in, call HomeLyft Restoration Gulfport at +12282845200. We'll assess the damage honestly, start extraction and drying without delay, and document everything your insurance carrier needs to process your claim.

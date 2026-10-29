@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Removal & Cleanup in Long Beach, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Water Removal & Cleanup in Long Beach, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Water Removal & Cleanup in Long Beach"
 meta_description: "24/7 emergency water removal & cleanup in Long Beach, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency water removal & cleanup long beach"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
-**Water pooling under your flooring in Long Beach right now?** Call HomeLyft Restoration MS and we answer 24/7, no after-hours voicemail, no waiting until Monday. Long Beach sits low and flat along the Mississippi Sound, and when a pipe bursts or a storm surge pushes water inland, that water doesn't drain, it sits, and it starts working into subfloor, insulation, and drywall within hours. Standing water in a Gulf Coast home behaves differently than it does further north, and how fast you act changes what gets saved.
+**Water pooling under your flooring in Long Beach right now?** Call HomeLyft Restoration Gulfport and we answer 24/7, no after-hours voicemail, no waiting until Monday. Long Beach sits low and flat along the Mississippi Sound, and when a pipe bursts or a storm surge pushes water inland, that water doesn't drain, it sits, and it starts working into subfloor, insulation, and drywall within hours. Standing water in a Gulf Coast home behaves differently than it does further north, and how fast you act changes what gets saved.
 
 ## Why Long Beach Properties See Water Damage and Flooding Issues
 
@@ -38,4 +38,4 @@ Most carriers covering Gulf Coast properties are used to water claims here, but 
 
 One thing that catches people off guard here: a slab home in Long Beach that floods from the street side often has water intrusion under the slab perimeter that doesn't show up as a wet carpet pattern, it shows up as a cupping or lifting along the baseboards first. We check baseboard moisture on every slab call for that reason, even when the visible damage looks contained to one room.
 
-If water is actively spreading through your Long Beach home, don't wait for it to look worse before calling. HomeLyft Restoration MS is licensed (#RO 2728), IICRC-trained in water mitigation and structural drying, and ready to start extraction and drying the same day we're called, day or night.
+If water is actively spreading through your Long Beach home, don't wait for it to look worse before calling. HomeLyft Restoration Gulfport is licensed (#RO 2728), IICRC-trained in water mitigation and structural drying, and ready to start extraction and drying the same day we're called, day or night.

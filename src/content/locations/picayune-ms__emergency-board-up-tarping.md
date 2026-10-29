@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Picayune, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in Picayune, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in Picayune"
 meta_description: "24/7 emergency board-up and tarping in Picayune, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping picayune"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Need an emergency board-up in Picayune? We answer 24/7.** Call now and our crew heads out to secure broken windows, doors and roofs.
 
-Picayune sits in Pearl River County at the edge of Mississippi's piney woods, where Gulf-fed storm systems can stall and dump rain for days, and where a single overnight thunderstorm can leave a homeowner staring at a hole in their roof or a shattered window by morning. When that happens, the gap between the damage you have right now and the damage you'll have in 48 hours is almost entirely determined by how fast the opening gets covered. HomeLyft Restoration MS dispatches board-up and tarping crews from Gulfport to Picayune to stop that clock.
+Picayune sits in Pearl River County at the edge of Mississippi's piney woods, where Gulf-fed storm systems can stall and dump rain for days, and where a single overnight thunderstorm can leave a homeowner staring at a hole in their roof or a shattered window by morning. When that happens, the gap between the damage you have right now and the damage you'll have in 48 hours is almost entirely determined by how fast the opening gets covered. HomeLyft Restoration Gulfport dispatches board-up and tarping crews from Gulfport to Picayune to stop that clock.
 
 ## Why Picayune Properties Face Elevated Board-Up and Tarping Needs
 
@@ -55,4 +55,4 @@ If your carrier requires a written scope prior to authorizing mitigation work, w
 
 One thing that catches homeowners off guard in Picayune is how quickly Spanish moss and pine debris accumulate on tarped roofs after a storm, within a few days, the added organic load can create pooling under the tarp that defeats the drainage slope we set at installation. If your property has mature longleaf pines or live oaks close to the roofline, let the crew know when you call. We'll set a steeper baton angle and advise you on a simple check you can do from the ground to confirm the tarp is still shedding water properly between our visits.
 
-If you're dealing with a breach right now, storm damage, a fire-damaged window, or a roof opening that can't wait, call HomeLyft Restoration MS at +12282845200. We serve Picayune and Pearl River County and will get a crew moving toward your property as quickly as scheduling allows.
+If you're dealing with a breach right now, storm damage, a fire-damaged window, or a roof opening that can't wait, call HomeLyft Restoration Gulfport at +12282845200. We serve Picayune and Pearl River County and will get a crew moving toward your property as quickly as scheduling allows.

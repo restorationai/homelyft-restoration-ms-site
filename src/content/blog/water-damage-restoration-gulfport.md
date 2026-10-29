@@ -92,10 +92,10 @@ Key things to verify before signing anything:
 
 For an independent look at the top-rated options in the area, see our [5 Best Water Damage Restoration Companies in Gulfport, MS (2026)](/blog/best-water-damage-restoration-company-in-gulfport-ms/).
 
-If you need a certified crew on-site now, HomeLyft Restoration MS (IICRC WRT, ASD, and AMRT certified, Mississippi license RO 2728) provides 24/7 emergency water damage response throughout Gulfport and the surrounding Gulf Coast. Call (228) 284-5200.
+If you need a certified crew on-site now, HomeLyft Restoration Gulfport (IICRC WRT, ASD, and AMRT certified, Mississippi license RO 2728) provides 24/7 emergency water damage response throughout Gulfport and the surrounding Gulf Coast. Call (228) 284-5200.
 
 ---
 
-**About HomeLyft Restoration MS**
+**About HomeLyft Restoration Gulfport**
 
-HomeLyft Restoration MS is an IICRC-certified firm serving Gulfport, MS and the surrounding Gulf Coast since 2022 (Mississippi license RO 2728). The company holds IICRC certifications in water damage restoration (WRT), applied structural drying (ASD), mold remediation (AMRT), and fire and smoke restoration (FSRT), and is EPA Lead-Safe certified. Services include water damage restoration, fire damage restoration, mold remediation, storm damage restoration, sewage cleanup, biohazard cleanup, asbestos abatement, emergency board-up and tarping, contents restoration, crawl space encapsulation, carpet cleaning, post-construction cleaning, and general contracting.
+HomeLyft Restoration Gulfport is an IICRC-certified firm serving Gulfport, MS and the surrounding Gulf Coast since 2022 (Mississippi license RO 2728). The company holds IICRC certifications in water damage restoration (WRT), applied structural drying (ASD), mold remediation (AMRT), and fire and smoke restoration (FSRT), and is EPA Lead-Safe certified. Services include water damage restoration, fire damage restoration, mold remediation, storm damage restoration, sewage cleanup, biohazard cleanup, asbestos abatement, emergency board-up and tarping, contents restoration, crawl space encapsulation, carpet cleaning, post-construction cleaning, and general contracting.

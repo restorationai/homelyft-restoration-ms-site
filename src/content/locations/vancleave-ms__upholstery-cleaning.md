@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Vancleave, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Vancleave, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Vancleave"
 meta_description: "24/7 upholstery cleaning in Vancleave, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning vancleave"
@@ -42,4 +42,4 @@ One thing we watch for specifically on Jackson County service calls: homes on la
 
 Our equipment list is built around the humidity problem more than the dirt problem, since dirt is easy and trapped moisture is not. We use truck-mounted and portable hot water extraction systems depending on the piece and the room, moisture meters to confirm cushion and frame moisture before we call a job finished, and enzyme-based pretreatments for pet odor and organic staining that are common in homes with dogs, cats, or hunting dogs that come inside after a day outdoors. For leather, we carry separate cleaning and conditioning products so oil-based conditioner never contacts a fabric piece by mistake. Every step is documented with before-and-after photos, which matters if a piece was damaged by a covered water event and you're working with a homeowner's insurance carrier on contents cleaning.
 
-If your sofa smells like the last humid summer never quite left it, or a leather chair is starting to crack along the seams, it's worth having it looked at before the damage becomes permanent. Call HomeLyft Restoration MS at (228) 284-5200 to schedule upholstery cleaning for your Vancleave home, and we'll walk you through what your specific furniture needs before we start any work.
+If your sofa smells like the last humid summer never quite left it, or a leather chair is starting to crack along the seams, it's worth having it looked at before the damage becomes permanent. Call HomeLyft Restoration Gulfport at (228) 284-5200 to schedule upholstery cleaning for your Vancleave home, and we'll walk you through what your specific furniture needs before we start any work.

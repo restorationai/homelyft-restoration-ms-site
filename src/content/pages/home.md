@@ -1,8 +1,8 @@
 ---
 archetype: "home"
-title: "Water Damage Restoration in Gulfport, MS | HomeLyft Restoration MS"
+title: "Water Damage Restoration in Gulfport, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Water Damage Restoration in Gulfport, MS"
-meta_description: "HomeLyft Restoration MS provides water damage restoration in Gulfport, MS, answering 24/7. IICRC certified. Call (228) 284-5200 now."
+meta_description: "HomeLyft Restoration Gulfport provides water damage restoration in Gulfport, MS, answering 24/7. IICRC certified. Call (228) 284-5200 now."
 primary_keyword: "water damage restoration gulfport"
 secondary_keywords: ["best restoration company in gulfport", "restoration company gulfport", "water damage restoration near me"]
 search_intent: "local_commercial"
@@ -15,7 +15,7 @@ breadcrumb: [{"name": "Home", "url": "/"}]
 faq: [{"question": "How quickly can HomeLyft get to my property?", "answer": "Response time depends on your location within our service area and current call volume \u2014 call +12282845200 and we'll give you an honest estimate for your specific situation. The sooner water or smoke damage is addressed, the less secondary damage you're likely to face, so we treat scheduling as urgent even when the emergency feels like it's stabilized."}, {"question": "Do you bill my insurance company directly?", "answer": "In most cases, yes. We document the loss with photographs, moisture readings, and a written scope of work that meets what adjusters need to process a claim. We work with most major carriers and can communicate directly with your adjuster throughout the project, which reduces the back-and-forth you'd otherwise have to manage yourself."}, {"question": "What should I do while I'm waiting for your crew to arrive?", "answer": "If it's safe to do so, shut off the water source if you're dealing with a pipe or appliance leak, and move valuables out of the affected area. Don't run fans on your own into a space with potential mold \u2014 that can spread spores further before containment is set up. For fire or smoke damage, avoid disturbing soot surfaces, as rubbing them in can make staining permanent."}, {"question": "What certifications does your team hold?", "answer": "HomeLyft is an IICRC Certified Firm with technicians credentialed in Water Restoration (WRT), Structural Drying (ASD), Fire and Smoke Restoration (FSRT), and Applied Microbial Remediation (AMRT). The team is also EPA Lead-Safe Certified and OSHA trained, and the company holds Mississippi contractor license RO 2728."}, {"question": "Do you offer free estimates?", "answer": "Call us at +12282845200 to discuss your situation and we'll walk you through what an assessment involves for your type of damage. In many insurance-covered losses, the inspection and documentation process is part of the claim itself rather than an out-of-pocket cost \u2014 something we can clarify once we understand what you're dealing with."}, {"question": "What if my damage happened outside of normal business hours?", "answer": "Call +12282845200 and you'll reach someone who can help you understand your options and prioritize next steps. We recommend calling as soon as you discover damage rather than waiting \u2014 even if full remediation can't begin immediately, early guidance on what to do (and what not to do) can limit how far the damage spreads."}]
 rendered: true
 ---
-When water soaks through your drywall, smoke odor settles into every surface, or mold starts spreading behind a wall you can't see, the clock matters more than anything else. HomeLyft Restoration MS handles water damage, fire and smoke damage, mold remediation, and storm damage for homeowners, businesses, and property managers across the Mississippi Gulf Coast and surrounding area, with the certifications and equipment to do it right the first time.
+When water soaks through your drywall, smoke odor settles into every surface, or mold starts spreading behind a wall you can't see, the clock matters more than anything else. HomeLyft Restoration Gulfport handles water damage, fire and smoke damage, mold remediation, and storm damage for homeowners, businesses, and property managers across the Mississippi Gulf Coast and surrounding area, with the certifications and equipment to do it right the first time.
 
 ## Services we handle
 
@@ -37,7 +37,7 @@ What you won't get here is a crew that shows up, pulls a few wet baseboards, dro
 
 ## Service area
 
-HomeLyft Restoration MS is based in Gulfport and serves communities across the Mississippi Gulf Coast. That includes Biloxi, Hattiesburg, Pascagoula, Long Beach, Pass Christian, and the surrounding Harrison, Jackson, and Forrest County areas.
+HomeLyft Restoration Gulfport is based in Gulfport and serves communities across the Mississippi Gulf Coast. That includes Biloxi, Hattiesburg, Pascagoula, Long Beach, Pass Christian, and the surrounding Harrison, Jackson, and Forrest County areas.
 
 The Gulf Coast's combination of high humidity, hurricane exposure, and aging residential construction creates damage patterns that are genuinely different from what you'd see inland. Crawl spaces hold moisture longer. Older homes often have materials, plaster, older insulation, lead-based paint, that require specific handling. Knowing the region means fewer surprises mid-project.
 

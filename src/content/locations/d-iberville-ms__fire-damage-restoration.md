@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in D'Iberville, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Fire Damage Restoration in D'Iberville, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Fire Damage Restoration in D'Iberville"
 meta_description: "24/7 emergency fire damage restoration in D'Iberville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "fire damage restoration d'iberville"
@@ -48,7 +48,7 @@ Our team holds the IICRC FSRT (Fire and Smoke Restoration Technician) credential
 
 ## Reaching D'Iberville from Our Gulfport Base
 
-HomeLyft Restoration MS operates out of Gulfport, putting D'Iberville within close reach via I-110 and US-90. We schedule prompt response and can coordinate directly with D'Iberville's local fire marshal office for post-fire re-entry authorization when a property has been red-tagged, a step that trips up out-of-area contractors unfamiliar with the process.
+HomeLyft Restoration Gulfport operates out of Gulfport, putting D'Iberville within close reach via I-110 and US-90. We schedule prompt response and can coordinate directly with D'Iberville's local fire marshal office for post-fire re-entry authorization when a property has been red-tagged, a step that trips up out-of-area contractors unfamiliar with the process.
 
 ## D'Iberville Insurance Coordination
 
@@ -60,4 +60,4 @@ If your property carries a wind or flood endorsement alongside your fire policy,
 
 D'Iberville properties built in the years immediately following Hurricane Katrina, roughly 2006 through 2010, frequently used a mix of materials sourced during a regional supply shortage: non-standard OSB thicknesses, varying insulation types, and in some cases, Chinese-manufactured drywall that was later flagged for off-gassing issues. When fire damage requires partial or full drywall replacement in homes of that vintage, we test before we replace, because installing new material over a pre-existing problem creates a compounding liability. It's a detail that matters specifically to this area and this era of construction.
 
-If your D'Iberville home has been damaged by fire, the recovery timeline starts the moment you make the call. Smoke chemistry, coastal humidity, and structural complexity all work against delay. Reach HomeLyft Restoration MS at **+1 (228) 284-5200** to schedule an assessment and get a documented scope in hand before conditions deteriorate further.
+If your D'Iberville home has been damaged by fire, the recovery timeline starts the moment you make the call. Smoke chemistry, coastal humidity, and structural complexity all work against delay. Reach HomeLyft Restoration Gulfport at **+1 (228) 284-5200** to schedule an assessment and get a documented scope in hand before conditions deteriorate further.

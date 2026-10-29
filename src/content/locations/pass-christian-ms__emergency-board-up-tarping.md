@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Pass Christian, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in Pass Christian, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in Pass Christian"
 meta_description: "24/7 emergency board-up and tarping in Pass Christian, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping pass christian"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Need an emergency board-up in Pass Christian? We answer 24/7.** Call now and our crew heads out to secure broken windows, doors and roofs.
 
-Pass Christian sits directly in the path of Gulf storm systems that roll off the Mississippi Sound with little warning, and when a hurricane shutter fails, a tree limb punches through a roof, or a fire leaves a wall exposed to the elements, every hour without a proper board-up or tarp multiplies the damage inside. HomeLyft Restoration MS responds to those calls from our Gulfport location, bringing plywood, heavy-duty polyethylene tarping, and the hardware to make it hold, not just overnight, but through whatever weather follows the initial event.
+Pass Christian sits directly in the path of Gulf storm systems that roll off the Mississippi Sound with little warning, and when a hurricane shutter fails, a tree limb punches through a roof, or a fire leaves a wall exposed to the elements, every hour without a proper board-up or tarp multiplies the damage inside. HomeLyft Restoration Gulfport responds to those calls from our Gulfport location, bringing plywood, heavy-duty polyethylene tarping, and the hardware to make it hold, not just overnight, but through whatever weather follows the initial event.
 
 ## Why Pass Christian Properties See Elevated Board-Up and Tarping Needs
 
@@ -51,4 +51,4 @@ Emergency board-up and tarping is typically covered under the "protective measur
 
 Pass Christian's older beachfront and near-beach homes, many built in the postwar decades before modern vapor barriers were standard, have exterior wall cavities that trap salt-laden moisture after a storm breach. When we remove a board-up panel weeks later and the wall behind it shows staining or soft spots, that's often not new water intrusion; it's latent moisture that was already in the assembly. We flag those conditions in writing so homeowners aren't blindsided when a reconstruction contractor opens the wall and finds deteriorated sheathing. It's a pattern we see specifically in this stretch of the coast, and it's worth knowing before you assume a clean board-up means a dry wall.
 
-If your Pass Christian home or business has an opening that needs to be secured today, call HomeLyft Restoration MS at +12282845200. We'll confirm the crew, the route, and the materials before we leave the yard, so when we arrive, the work starts immediately.
+If your Pass Christian home or business has an opening that needs to be secured today, call HomeLyft Restoration Gulfport at +12282845200. We'll confirm the crew, the route, and the materials before we leave the yard, so when we arrive, the work starts immediately.

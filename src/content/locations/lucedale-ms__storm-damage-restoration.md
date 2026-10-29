@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Lucedale, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Storm Damage Restoration in Lucedale, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Storm Damage Restoration in Lucedale"
 meta_description: "24/7 emergency storm damage restoration in Lucedale, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "storm damage restoration lucedale"
@@ -35,7 +35,7 @@ Roofing materials matter here, too. Older three-tab shingles, still prevalent on
 
 Every job starts with a systematic exterior and interior inspection, not a quick walk-around, but a documented assessment that photographs every point of water intrusion, every compromised structural member, and every area of saturated material. That documentation matters both for the repair scope and for the insurance claim that follows.
 
-Emergency tarping and board-up come next, stopping active weather exposure before any drying equipment goes in. Once the structure is stabilized, we extract standing water, remove unsalvageable materials, and deploy commercial-grade drying systems calibrated to the actual moisture readings in the structure, not a generic setup. Structural drying follows the IICRC S500 standard, with daily moisture mapping to confirm the building is returning to baseline before reconstruction begins. HomeLyft Restoration MS holds IICRC AMRT certification, which matters on storm jobs because mold assessment and remediation can be folded into the same project if early colonization is discovered during tear-out.
+Emergency tarping and board-up come next, stopping active weather exposure before any drying equipment goes in. Once the structure is stabilized, we extract standing water, remove unsalvageable materials, and deploy commercial-grade drying systems calibrated to the actual moisture readings in the structure, not a generic setup. Structural drying follows the IICRC S500 standard, with daily moisture mapping to confirm the building is returning to baseline before reconstruction begins. HomeLyft Restoration Gulfport holds IICRC AMRT certification, which matters on storm jobs because mold assessment and remediation can be folded into the same project if early colonization is discovered during tear-out.
 
 For roofing work, the team is FORTIFIED Building Roofing MS Windstorm Certified, a designation that carries real weight in George County, where insurance carriers increasingly look for FORTIFIED-compliant repairs when issuing or renewing policies on homes in high-wind-risk areas.
 
@@ -53,4 +53,4 @@ HomeLyft prepares a detailed loss report with time-stamped photos, moisture read
 
 One pattern that shows up repeatedly on Lucedale storm jobs: homes with metal roofing installed over original decking without a proper underlayment upgrade. Metal roofing is increasingly popular in George County for its wind resistance, but when it's installed over aging, moisture-damaged OSB or skip-sheathing without replacing the underlayment, a single storm breach can push water into a cavity that's been slowly deteriorating for years. The visible damage looks minor from the attic; the actual wet zone in the wall cavity below can extend several feet in either direction. Thermal imaging during the initial inspection catches this, and changes the scope of the job significantly compared to what a surface-only assessment would find.
 
-If a recent storm has left your Lucedale home with a compromised roof, standing water, or structural concerns, call HomeLyft Restoration MS at +12282845200 to schedule an assessment. The sooner the moisture is documented and controlled, the smaller the repair scope, and the stronger your insurance claim.
+If a recent storm has left your Lucedale home with a compromised roof, standing water, or structural concerns, call HomeLyft Restoration Gulfport at +12282845200 to schedule an assessment. The sooner the moisture is documented and controlled, the smaller the repair scope, and the stronger your insurance claim.

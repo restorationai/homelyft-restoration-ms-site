@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Moselle, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Moselle, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Moselle"
 meta_description: "Carpet cleaning in Moselle, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning moselle"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-Moselle sits in Jones County where the humid Gulf Coast air pushes north and settles into homes year-round, and that persistent moisture is exactly what makes carpet maintenance here more demanding than in drier climates. Red clay soil from the surrounding pine belt tracks in easily, and when summer humidity keeps indoor relative humidity elevated for months at a stretch, carpet fibers hold onto that grit, pet dander, and organic residue in ways that routine vacuuming simply cannot address. HomeLyft Restoration MS brings IICRC-certified carpet cleaning to Moselle homeowners and businesses who need more than a surface pass.
+Moselle sits in Jones County where the humid Gulf Coast air pushes north and settles into homes year-round, and that persistent moisture is exactly what makes carpet maintenance here more demanding than in drier climates. Red clay soil from the surrounding pine belt tracks in easily, and when summer humidity keeps indoor relative humidity elevated for months at a stretch, carpet fibers hold onto that grit, pet dander, and organic residue in ways that routine vacuuming simply cannot address. HomeLyft Restoration Gulfport brings IICRC-certified carpet cleaning to Moselle homeowners and businesses who need more than a surface pass.
 
 ## Why Moselle Properties See Stubborn Carpet Soiling
 
@@ -43,7 +43,7 @@ For commercial properties, offices, rental units, or retail spaces in the Mosell
 
 ## Reaching Moselle from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport and serves communities across Mississippi, including Moselle via US-49 North through Hattiesburg and into Jones County. Scheduling is handled by phone at +12282845200, call to confirm availability and get a same-week appointment in most cases. We do not publish specific response-time guarantees in minutes, but Moselle is a regular service area and not a remote outlier on our coverage map.
+HomeLyft Restoration Gulfport is headquartered in Gulfport and serves communities across Mississippi, including Moselle via US-49 North through Hattiesburg and into Jones County. Scheduling is handled by phone at +12282845200, call to confirm availability and get a same-week appointment in most cases. We do not publish specific response-time guarantees in minutes, but Moselle is a regular service area and not a remote outlier on our coverage map.
 
 For property managers handling multiple units or landlords turning over rentals in the Moselle area, we can coordinate multi-unit scheduling to minimize disruption.
 
@@ -57,4 +57,4 @@ Our team holds IICRC certification, which means the cleaning methods and drying 
 
 One pattern we've noticed in Jones County homes: houses built on pier-and-beam foundations, which are fairly common in older Moselle-area neighborhoods, tend to have subfloor gaps that allow humid air to migrate upward through the flooring system. After a deep carpet cleaning, that upward vapor drive can slow drying times noticeably compared to a slab-on-grade home. When we're working in a pier-and-beam property, we adjust airflow placement and may extend monitoring time to make sure the carpet backing reaches an acceptable moisture reading before we pack up. It's a small detail that makes a real difference in whether the carpet stays fresh or develops a musty smell within a week.
 
-If you're dealing with stained, matted, or odor-holding carpet in Moselle, call HomeLyft Restoration MS at +12282845200 to schedule a cleaning assessment. We'll give you a straight answer on what the carpet needs and what results are realistic, no upselling, no vague estimates.
+If you're dealing with stained, matted, or odor-holding carpet in Moselle, call HomeLyft Restoration Gulfport at +12282845200 to schedule a cleaning assessment. We'll give you a straight answer on what the carpet needs and what results are realistic, no upselling, no vague estimates.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Latimer, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Latimer, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Latimer"
 meta_description: "Carpet cleaning in Latimer, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning latimer"
@@ -42,7 +42,7 @@ Every job starts with a walk-through to assess pile type, soiling level, and any
 
 ## Reaching Latimer from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, which puts Latimer well within our regular service area along the Harrison County corridor. Scheduling is handled during business hours, call **+1 (228) 284-5200** to book an appointment and confirm availability for your address. We coordinate arrival windows so you're not waiting around all day, and we'll confirm the route and any access considerations when we schedule.
+HomeLyft Restoration Gulfport operates out of Gulfport, which puts Latimer well within our regular service area along the Harrison County corridor. Scheduling is handled during business hours, call **+1 (228) 284-5200** to book an appointment and confirm availability for your address. We coordinate arrival windows so you're not waiting around all day, and we'll confirm the route and any access considerations when we schedule.
 
 ## Commercial Carpet Cleaning in Latimer
 
@@ -52,4 +52,4 @@ Office suites, retail spaces, and light-commercial properties in the Latimer are
 
 One thing that comes up regularly in Gulf Coast carpet cleaning, and Latimer is no different, is what happens after a window-unit air conditioner or a portable dehumidifier leaks onto carpet near an exterior wall. The water itself may evaporate within a day or two, but the mineral deposits and mold-friendly moisture that wick into the carpet backing don't disappear with it. By the time a musty smell is noticeable, the backing is often already colonized. If you've had any slow appliance leaks or condensation pooling near a wall unit, mention it during scheduling, we'll bring a moisture meter to check the backing before we start, which changes how we approach the pre-treatment and drying phases.
 
-If your carpets have been holding onto odors, stains, or that flat, matted look that vacuuming won't fix, a professional deep clean calibrated to Latimer's climate and your specific carpet type is the practical next step. Call HomeLyft Restoration MS at **+1 (228) 284-5200** to schedule your appointment.
+If your carpets have been holding onto odors, stains, or that flat, matted look that vacuuming won't fix, a professional deep clean calibrated to Latimer's climate and your specific carpet type is the practical next step. Call HomeLyft Restoration Gulfport at **+1 (228) 284-5200** to schedule your appointment.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Lyman, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Storm Damage Restoration in Lyman, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Storm Damage Restoration in Lyman"
 meta_description: "24/7 emergency storm damage restoration in Lyman, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "storm damage restoration lyman"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Storm damage emergency in Lyman? We answer 24/7.** Call now and our crew heads out to secure the property and stop further damage.
 
-Lyman sits squarely in the path of Gulf Coast weather systems that roll in from the south with little warning, the kind of storms that drop a 60-foot pine across a roofline in Harrison County before a homeowner has time to pull their car into the garage. When that happens, the damage compounds fast: wind-driven rain soaks into wall cavities, insulation loses its R-value overnight, and what looked like a roofing problem on Monday becomes a mold concern by the weekend. HomeLyft Restoration MS responds to storm damage in Lyman with the same IICRC-certified process we use across the Mississippi Gulf Coast, calibrated to the specific way these homes are built and the way these storms behave.
+Lyman sits squarely in the path of Gulf Coast weather systems that roll in from the south with little warning, the kind of storms that drop a 60-foot pine across a roofline in Harrison County before a homeowner has time to pull their car into the garage. When that happens, the damage compounds fast: wind-driven rain soaks into wall cavities, insulation loses its R-value overnight, and what looked like a roofing problem on Monday becomes a mold concern by the weekend. HomeLyft Restoration Gulfport responds to storm damage in Lyman with the same IICRC-certified process we use across the Mississippi Gulf Coast, calibrated to the specific way these homes are built and the way these storms behave.
 
 ## Why Lyman Properties Are Vulnerable to Storm Damage
 
@@ -58,4 +58,4 @@ Storm claims in Mississippi can move slowly if the documentation package isn't c
 
 One thing that catches Lyman homeowners off guard after a major storm: the attic space in many homes built here in the 1980s and 1990s uses faced fiberglass batt insulation that traps moisture against the facing rather than releasing it. After wind-driven rain gets into the attic cavity, that insulation can read as "dry" on a surface moisture meter while holding significant water weight against the sheathing below. We probe and weigh suspect sections rather than relying on surface readings alone, it's the difference between catching hidden rot early and discovering it six months later during a sale inspection.
 
-If your Lyman home has taken storm damage, whether it's a tree through the roof, wind-lifted shingles letting in water, or a flooded crawl space after a slow-moving Gulf system, call HomeLyft Restoration MS at +12282845200. We'll assess the full scope, document it properly, and get your property stabilized and rebuilt.
+If your Lyman home has taken storm damage, whether it's a tree through the roof, wind-lifted shingles letting in water, or a flooded crawl space after a slow-moving Gulf system, call HomeLyft Restoration Gulfport at +12282845200. We'll assess the full scope, document it properly, and get your property stabilized and rebuilt.

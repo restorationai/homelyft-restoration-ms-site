@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Leakesville, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Water Damage Restoration in Leakesville, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Water Damage Restoration in Leakesville"
 meta_description: "24/7 emergency water damage restoration in Leakesville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "water damage restoration leakesville"
@@ -39,7 +39,7 @@ Structural drying in Greene County's climate requires more aggressive dehumidifi
 
 ## Reaching Leakesville from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport and dispatches to Greene County via US-98 East through Hattiesburg and into the Leakesville area. The drive covers roughly 120 miles, so we want to be straightforward: this is not a same-hour response for most calls. What we can offer is prompt scheduling, clear communication about arrival windows, and guidance over the phone on immediate steps, shutting off the water supply, moving valuables off wet flooring, and avoiding the use of standard household fans that can spread contaminated water droplets before proper extraction. For active plumbing emergencies, stopping the water source is always the first priority while you wait for a crew.
+HomeLyft Restoration Gulfport is headquartered in Gulfport and dispatches to Greene County via US-98 East through Hattiesburg and into the Leakesville area. The drive covers roughly 120 miles, so we want to be straightforward: this is not a same-hour response for most calls. What we can offer is prompt scheduling, clear communication about arrival windows, and guidance over the phone on immediate steps, shutting off the water supply, moving valuables off wet flooring, and avoiding the use of standard household fans that can spread contaminated water droplets before proper extraction. For active plumbing emergencies, stopping the water source is always the first priority while you wait for a crew.
 
 ## Insurance Coordination for Leakesville Claims
 
@@ -49,4 +49,4 @@ Most standard homeowner policies in Mississippi cover sudden and accidental wate
 
 Homes throughout Greene County that were built before the 1980s frequently used Kraft-faced fiberglass batt insulation in exterior walls and under floors. When this insulation gets wet, the paper facing traps moisture against the framing rather than allowing it to escape, and standard drying timelines don't apply. We've found that wall cavities in these older Leakesville-area homes often require targeted flood cuts, removing a horizontal band of drywall to expose and directly dry the framing and insulation behind it, rather than attempting to dry through the wall surface alone. Skipping that step almost always leads to mold colonization inside the wall cavity within a week, even when surface readings look acceptable.
 
-If your home in Leakesville or the surrounding Greene County area has taken on water, call HomeLyft Restoration MS at +12282845200. We'll walk you through what to do right now, give you an honest timeline for getting a crew on-site, and handle the documentation your insurance company needs from day one.
+If your home in Leakesville or the surrounding Greene County area has taken on water, call HomeLyft Restoration Gulfport at +12282845200. We'll walk you through what to do right now, give you an honest timeline for getting a crew on-site, and handle the documentation your insurance company needs from day one.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Escatawpa, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Escatawpa, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Escatawpa"
 meta_description: "24/7 upholstery cleaning in Escatawpa, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning escatawpa"
@@ -40,4 +40,4 @@ We run out of Gulfport and cover Jackson County routinely, including Escatawpa a
 
 Homes set back from Highway 613 toward the river bottom tend to run a few degrees more humid indoors than homes closer to the interstate, even with comparable AC systems, simply because of tree cover and lower elevation trapping moisture near the ground. We factor that into drying time estimates on upholstery jobs out that way. A couch that dries in four hours near the highway might need closer to six in a shaded, low-lying yard, and we adjust our air mover placement and revisit timing accordingly rather than assuming a flat number for every address.
 
-If your sofa, sectional, or leather recliner has started holding onto odor, feeling damp to the touch, or showing soil that a vacuum won't lift, it's worth a professional look before the fibers or leather grain take permanent damage. Call HomeLyft Restoration MS at (228) 284-5200 to get upholstery cleaning scheduled for your Escatawpa home.
+If your sofa, sectional, or leather recliner has started holding onto odor, feeling damp to the touch, or showing soil that a vacuum won't lift, it's worth a professional look before the fibers or leather grain take permanent damage. Call HomeLyft Restoration Gulfport at (228) 284-5200 to get upholstery cleaning scheduled for your Escatawpa home.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Ocean Springs, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Ocean Springs, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Ocean Springs"
 meta_description: "Crawl space encapsulation in Ocean Springs, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation ocean springs"
@@ -44,10 +44,10 @@ Encapsulation in a high-humidity coastal environment requires more than rolling 
 
 ## Reaching Ocean Springs from Our Gulfport Location
 
-HomeLyft Restoration MS operates out of Gulfport, which puts Ocean Springs roughly 15 to 20 minutes east via US-90 or I-10, depending on traffic and the specific part of the city. The eastern neighborhoods closer to the Back Bay waterfront are accessible via Washington Avenue and Government Street. We schedule Ocean Springs jobs directly and can typically get a crew on-site within a business day for inspection and scoping, call +12282845200 to get on the calendar.
+HomeLyft Restoration Gulfport operates out of Gulfport, which puts Ocean Springs roughly 15 to 20 minutes east via US-90 or I-10, depending on traffic and the specific part of the city. The eastern neighborhoods closer to the Back Bay waterfront are accessible via Washington Avenue and Government Street. We schedule Ocean Springs jobs directly and can typically get a crew on-site within a business day for inspection and scoping, call +12282845200 to get on the calendar.
 
 ## Local Note: What Pier-and-Beam Homes Here Actually Need
 
 One thing that comes up repeatedly on older Ocean Springs properties: the original pier-and-beam construction often leaves crawl space heights that vary significantly from one end of the house to the other, sometimes as little as 18 inches in a corner, which makes proper liner installation genuinely difficult without the right low-profile equipment. A contractor unfamiliar with this housing stock may underestimate labor or skip sealing the low sections entirely, which defeats the purpose. These homes also frequently have original brick piers that need to be wrapped and sealed individually rather than treated as part of a continuous wall surface. Getting those details right is what separates an encapsulation that lasts from one that fails in the first wet season.
 
-If you're noticing soft spots in your floors, elevated humidity inside the home, or a persistent earthy smell, the crawl space is the likely source. Call HomeLyft Restoration MS at +12282845200 to schedule an inspection, addressing moisture at the foundation level in Ocean Springs is almost always less expensive than dealing with the structural and air-quality consequences of leaving it alone.
+If you're noticing soft spots in your floors, elevated humidity inside the home, or a persistent earthy smell, the crawl space is the likely source. Call HomeLyft Restoration Gulfport at +12282845200 to schedule an inspection, addressing moisture at the foundation level in Ocean Springs is almost always less expensive than dealing with the structural and air-quality consequences of leaving it alone.

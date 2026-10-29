@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Helena, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Storm Damage Restoration in Helena, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Storm Damage Restoration in Helena"
 meta_description: "24/7 emergency storm damage restoration in Helena, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "storm damage restoration helena"
@@ -41,7 +41,7 @@ Tree and debris removal is coordinated alongside drying, not after. Waiting unti
 
 ## Reaching Helena from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport, and we dispatch crews across Mississippi for storm work. Helena is a longer haul, we won't pretend otherwise, but storm damage restoration in a river-corridor community like this one requires a team that understands Delta conditions, not just a local handyman with a tarp. When you call +12282845200, we'll give you an honest arrival window based on current crew availability and road conditions, and we'll walk you through immediate protective steps you can take while we're en route.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and we dispatch crews across Mississippi for storm work. Helena is a longer haul, we won't pretend otherwise, but storm damage restoration in a river-corridor community like this one requires a team that understands Delta conditions, not just a local handyman with a tarp. When you call +12282845200, we'll give you an honest arrival window based on current crew availability and road conditions, and we'll walk you through immediate protective steps you can take while we're en route.
 
 ## Helena Insurance Coordination
 

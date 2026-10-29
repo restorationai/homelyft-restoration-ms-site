@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Agricola, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Agricola, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Agricola"
 meta_description: "Crawl space encapsulation in Agricola, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation agricola"
@@ -45,7 +45,7 @@ Because Stone County's soils can hold significant ground moisture even during dr
 
 ## Reaching Agricola from Our Gulfport Base
 
-HomeLyft Restoration MS is headquartered in Gulfport, and our crews travel regularly to Stone County for restoration and encapsulation work. Agricola is accessible via US-49 north through Wiggins, a route our team knows well from serving the broader Stone and George County area. We schedule Agricola appointments with travel time built in and confirm arrival windows directly with homeowners, no vague "sometime in the morning" windows.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and our crews travel regularly to Stone County for restoration and encapsulation work. Agricola is accessible via US-49 north through Wiggins, a route our team knows well from serving the broader Stone and George County area. We schedule Agricola appointments with travel time built in and confirm arrival windows directly with homeowners, no vague "sometime in the morning" windows.
 
 ## What Encapsulation Costs and How Insurance Factors In
 
@@ -55,4 +55,4 @@ Crawl space encapsulation is typically a preventive or remediation-driven projec
 
 One thing that comes up specifically in Stone County's older rural homes, including properties on the outskirts of Agricola, is the presence of original hand-poured concrete piers rather than continuous block or poured perimeter foundations. These pier-only foundations create gaps at the perimeter that standard vapor barrier termination details don't account for. We've adapted our installation approach for this foundation type, using flexible mastic and mechanical fasteners at irregular pier bases rather than a straight perimeter seal, which keeps the barrier continuous even where the foundation geometry is uneven. It's a small detail that makes a significant difference in long-term performance.
 
-If your Agricola home has been showing signs of musty odors, soft spots in the floor, or elevated humidity in lower rooms, the crawl space is usually the first place to look. Call HomeLyft Restoration MS at +12282845200 to schedule an inspection, we'll give you an honest assessment of what's happening under your home and what it will take to fix it.
+If your Agricola home has been showing signs of musty odors, soft spots in the floor, or elevated humidity in lower rooms, the crawl space is usually the first place to look. Call HomeLyft Restoration Gulfport at +12282845200 to schedule an inspection, we'll give you an honest assessment of what's happening under your home and what it will take to fix it.

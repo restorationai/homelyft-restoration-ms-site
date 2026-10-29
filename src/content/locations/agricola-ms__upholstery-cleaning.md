@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Agricola, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Agricola, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Agricola"
 meta_description: "24/7 upholstery cleaning in Agricola, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning agricola"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Upholstery Cleaning"
 rendered: true
 ---
-**Upholstery holding onto a musty smell no matter how often you vacuum it?** In Agricola's humid, rural stretch of South Mississippi, that's less about dirt and more about moisture working its way into cushions and never fully drying out. Whether it's a leather recliner that's gone stiff and cracked or a fabric sofa that smells like the last rainy week, HomeLyft Restoration MS cleans upholstery the way it needs to be cleaned in this climate: deep extraction first, then real drying, not just a surface pass with a rented machine.
+**Upholstery holding onto a musty smell no matter how often you vacuum it?** In Agricola's humid, rural stretch of South Mississippi, that's less about dirt and more about moisture working its way into cushions and never fully drying out. Whether it's a leather recliner that's gone stiff and cracked or a fabric sofa that smells like the last rainy week, HomeLyft Restoration Gulfport cleans upholstery the way it needs to be cleaned in this climate: deep extraction first, then real drying, not just a surface pass with a rented machine.
 
 ## Why Agricola Upholstery Takes More Than a Quick Clean
 
@@ -38,4 +38,4 @@ We're based out of Gulfport and run calls out into Agricola and the surrounding 
 
 A lot of Agricola homes run window units or a single central system that cycles less aggressively than what you'd see in a newer subdivision closer to Gulfport or Ocean Springs. That means indoor humidity swings more through the day, and upholstery near an exterior wall or a screened porch entry tends to hold moisture longer than furniture in the center of the house. When we clean in those rooms, we run extraction passes a little lighter on water and lean harder on air movement afterward, because oversaturating a cushion that's already sitting in a humid room just extends the drying window and raises the odds of a mildew smell coming back within a week.
 
-If your sofa, sectional, or leather furniture in Agricola is holding onto odor, stains, or that heavy, damp feeling that won't air out, it's worth getting it professionally extracted before the fibers or the padding underneath start to break down. Call HomeLyft Restoration MS at (228) 284-5200 and we'll walk through what your upholstery needs, whether that's a straightforward fabric clean or leather that needs conditioning after a rough summer.
+If your sofa, sectional, or leather furniture in Agricola is holding onto odor, stains, or that heavy, damp feeling that won't air out, it's worth getting it professionally extracted before the fibers or the padding underneath start to break down. Call HomeLyft Restoration Gulfport at (228) 284-5200 and we'll walk through what your upholstery needs, whether that's a straightforward fabric clean or leather that needs conditioning after a rough summer.

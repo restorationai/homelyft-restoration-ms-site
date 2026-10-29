@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Diamondhead, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in Diamondhead, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in Diamondhead"
 meta_description: "24/7 emergency board-up and tarping in Diamondhead, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping diamondhead"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Need an emergency board-up in Diamondhead? We answer 24/7.** Call now and our crew heads out to secure broken windows, doors and roofs.
 
-Diamondhead sits squarely in the Gulf Coast's hurricane corridor, and when a storm peels back roofing or a fire blows out windows, the humid Mississippi air moves in fast, within hours, exposed framing and insulation begin absorbing moisture that compounds the original damage. Getting plywood over openings and heavy-duty tarps secured to ridge lines before the next rain band arrives is not a precaution; it's the difference between a manageable repair and a full structural rebuild. HomeLyft Restoration MS responds to those calls from our Gulfport base and works through Diamondhead's winding residential streets to get properties sealed before conditions worsen.
+Diamondhead sits squarely in the Gulf Coast's hurricane corridor, and when a storm peels back roofing or a fire blows out windows, the humid Mississippi air moves in fast, within hours, exposed framing and insulation begin absorbing moisture that compounds the original damage. Getting plywood over openings and heavy-duty tarps secured to ridge lines before the next rain band arrives is not a precaution; it's the difference between a manageable repair and a full structural rebuild. HomeLyft Restoration Gulfport responds to those calls from our Gulfport base and works through Diamondhead's winding residential streets to get properties sealed before conditions worsen.
 
 ## Why Diamondhead Properties Face Particular Board-Up and Tarping Demands
 
@@ -55,4 +55,4 @@ On the insurance side, we photograph and document every step of the board-up pro
 
 Diamondhead's golf-course-adjacent lots often have mature oak and pine canopy that adds serious storm debris risk, but those same trees can complicate roof access. Overhanging limbs sometimes need to be cleared before a ladder or extension can safely reach the damaged section of a roof. Our crews carry a chainsaw and hand saws on every board-up call in this area specifically because waiting for a separate tree service would cost hours. We clear what's necessary for safe access, document the removal, and include it in the claim package so you are not absorbing that cost out of pocket.
 
-If your Diamondhead property has taken storm, fire, or impact damage and needs openings sealed before the next rain, call HomeLyft Restoration MS at +12282845200. We will confirm a crew, give you a realistic arrival estimate, and get your property protected, roof tarping, window board-up, and full documentation handled in a single visit.
+If your Diamondhead property has taken storm, fire, or impact damage and needs openings sealed before the next rain, call HomeLyft Restoration Gulfport at +12282845200. We will confirm a crew, give you a realistic arrival estimate, and get your property protected, roof tarping, window board-up, and full documentation handled in a single visit.

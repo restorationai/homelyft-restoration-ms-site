@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in DeLisle, MS | HomeLyft Restoration MS"
+title: "Restoration Services in DeLisle, MS | HomeLyft Restoration Gulfport"
 h1: "Restoration Services in DeLisle"
 meta_description: "Serving DeLisle, MS with water, fire, mold, and storm damage restoration. IICRC-certified team. Call +12282845200."
 primary_keyword: "restoration services delisle"
@@ -19,7 +19,7 @@ state: "MS"
 primary: false
 rendered: true
 ---
-When a pipe bursts under a pier-and-beam floor or a Gulf storm pushes water through a crawl space in DeLisle, HomeLyft Restoration MS responds with the equipment and process knowledge to stop the damage from compounding. We handle water extraction, structural drying, mold remediation, fire and smoke cleanup, and reconstruction for homes and commercial properties throughout DeLisle and the surrounding Stone and Harrison County areas, managing the work from the first call through the final inspection so property owners are not left coordinating multiple contractors.
+When a pipe bursts under a pier-and-beam floor or a Gulf storm pushes water through a crawl space in DeLisle, HomeLyft Restoration Gulfport responds with the equipment and process knowledge to stop the damage from compounding. We handle water extraction, structural drying, mold remediation, fire and smoke cleanup, and reconstruction for homes and commercial properties throughout DeLisle and the surrounding Stone and Harrison County areas, managing the work from the first call through the final inspection so property owners are not left coordinating multiple contractors.
 
 ## Restoration emergencies common in DeLisle
 
@@ -47,7 +47,7 @@ Once mitigation is complete, we handle the rebuild, drywall, flooring, cabinetry
 
 ## Coverage and how fast we can get there
 
-HomeLyft Restoration MS is headquartered in Gulfport, roughly 15 to 18 miles from central DeLisle via US-49 North or the US-90 corridor connecting into the Pass Christian and DeLisle area. That puts DeLisle well within our primary service zone, not a distant coverage stretch. When you call during business hours, we work to schedule a same-day assessment so the drying clock does not run longer than necessary. Call us at (228) 284-5200 to confirm current scheduling availability.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, roughly 15 to 18 miles from central DeLisle via US-49 North or the US-90 corridor connecting into the Pass Christian and DeLisle area. That puts DeLisle well within our primary service zone, not a distant coverage stretch. When you call during business hours, we work to schedule a same-day assessment so the drying clock does not run longer than necessary. Call us at (228) 284-5200 to confirm current scheduling availability.
 
 ## Building stock, site conditions, and permits in DeLisle
 
@@ -55,4 +55,4 @@ DeLisle is unincorporated, so permits for structural repair, reroofing, or rebui
 
 Material vintage matters as much as the paperwork. Mid-century homes here often still have galvanized supply and cast-iron drains that fail from the inside out, while pre-1978 layers mean lead paint and asbestos in floor tile or joint compound. Post-Katrina rebuilds run PEX and engineered lumber, which absorbs and holds water differently.
 
-If you are dealing with water, mold, fire, or storm damage at a DeLisle property, the longer the affected materials stay wet or smoke-exposed, the more the scope, and the cost, tends to grow. Call HomeLyft Restoration MS at (228) 284-5200 during business hours to schedule an assessment and get a clear picture of what the damage actually involves.
+If you are dealing with water, mold, fire, or storm damage at a DeLisle property, the longer the affected materials stay wet or smoke-exposed, the more the scope, and the cost, tends to grow. Call HomeLyft Restoration Gulfport at (228) 284-5200 during business hours to schedule an assessment and get a clear picture of what the damage actually involves.

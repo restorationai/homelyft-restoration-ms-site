@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in St. Martin, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in St. Martin, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in St. Martin"
 meta_description: "24/7 upholstery cleaning in St. Martin, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning st. martin"
@@ -42,4 +42,4 @@ Most upholstery cleaning in St. Martin is paid out of pocket rather than filed w
 
 A detail that catches a lot of homeowners off guard: furniture stored against exterior walls in St. Martin's older block and frame homes tends to trap more humidity behind it than furniture pulled a few inches off the wall, because those walls don't breathe the same way newer construction does. We check the back and underside of cushions and frames during every visit for early mildew signs that haven't reached the visible fabric yet, since catching it there is a lot easier than treating a fully colonized cushion.
 
-If your sofa, sectional, or leather furniture in St. Martin is holding onto odor, feeling damp after humid stretches, or showing early mildew spotting, call HomeLyft Restoration MS at (228) 284-5200 to get on the schedule. We bring the same moisture-aware approach to a living room couch that we bring to a full water damage job, because in this climate, furniture care and water management are the same problem.
+If your sofa, sectional, or leather furniture in St. Martin is holding onto odor, feeling damp after humid stretches, or showing early mildew spotting, call HomeLyft Restoration Gulfport at (228) 284-5200 to get on the schedule. We bring the same moisture-aware approach to a living room couch that we bring to a full water damage job, because in this climate, furniture care and water management are the same problem.

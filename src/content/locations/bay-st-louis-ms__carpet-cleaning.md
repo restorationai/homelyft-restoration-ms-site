@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Bay St. Louis, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Bay St. Louis, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Bay St. Louis"
 meta_description: "Carpet cleaning in Bay St. Louis, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning bay st. louis"
@@ -32,7 +32,7 @@ Homes that were rebuilt or renovated after Hurricane Katrina, a significant port
 
 ## Our Carpet Cleaning Process, Calibrated for the Gulf Coast
 
-Because of the humidity and salt-air factors, the process here isn't the same as running a hot-water extraction unit through a landlocked home in a drier climate. The HomeLyft Restoration MS team, an IICRC Certified Firm, approaches Bay St. Louis carpet cleaning in deliberate stages.
+Because of the humidity and salt-air factors, the process here isn't the same as running a hot-water extraction unit through a landlocked home in a drier climate. The HomeLyft Restoration Gulfport team, an IICRC Certified Firm, approaches Bay St. Louis carpet cleaning in deliberate stages.
 
 First, a dry soil extraction pass removes the fine coastal sand and particulate that pre-vacuuming alone misses. Then a pH-balanced pre-treatment is applied and given dwell time calibrated to the fiber type, synthetic loop, cut pile, and natural fiber carpets each respond differently, and the heat and humidity here can accelerate chemical reactions, so timing matters. Hot-water extraction follows, using truck-mounted equipment that delivers consistent temperature and suction regardless of ambient conditions outside.
 
@@ -42,7 +42,7 @@ For commercial properties, restaurants near the waterfront, retail spaces, hospi
 
 ## Reaching Bay St. Louis from Gulfport
 
-The HomeLyft Restoration MS office is based in Gulfport, roughly 30 miles east of Bay St. Louis along US-90 and I-10. Depending on traffic and the specific part of the city, whether that's a property close to downtown near the Old Town district or farther north toward the Highway 603 corridor, drive time typically runs 35 to 50 minutes. We schedule Bay St. Louis appointments with that travel window in mind and confirm arrival times when you book, so you're not left guessing.
+The HomeLyft Restoration Gulfport office is based in Gulfport, roughly 30 miles east of Bay St. Louis along US-90 and I-10. Depending on traffic and the specific part of the city, whether that's a property close to downtown near the Old Town district or farther north toward the Highway 603 corridor, drive time typically runs 35 to 50 minutes. We schedule Bay St. Louis appointments with that travel window in mind and confirm arrival times when you book, so you're not left guessing.
 
 For scheduling, call us at (228) 284-5200 during business hours and we'll find a time that works around your household or commercial operation.
 

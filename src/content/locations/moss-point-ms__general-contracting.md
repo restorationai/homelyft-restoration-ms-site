@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Moss Point, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Moss Point, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Moss Point"
 meta_description: "Renovations, remodels and general contracting in Moss Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting moss point"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Moss Point sits at the confluence of the Escatawba and Pascagoula rivers, which means the soil shifts, the humidity rarely relents, and older homes along the city's established residential streets carry decades of weather-driven wear. Renovating or remodeling here isn't the same as working in a drier inland market, it calls for a general contractor who understands how Gulf Coast conditions affect framing, finishes, and foundation work before the first nail goes in. HomeLyft Restoration MS brings that regional literacy to every kitchen remodel, bathroom update, and post-damage rebuild we take on in Moss Point.
+Moss Point sits at the confluence of the Escatawba and Pascagoula rivers, which means the soil shifts, the humidity rarely relents, and older homes along the city's established residential streets carry decades of weather-driven wear. Renovating or remodeling here isn't the same as working in a drier inland market, it calls for a general contractor who understands how Gulf Coast conditions affect framing, finishes, and foundation work before the first nail goes in. HomeLyft Restoration Gulfport brings that regional literacy to every kitchen remodel, bathroom update, and post-damage rebuild we take on in Moss Point.
 
 ## Why Moss Point Homes Present Unique Renovation Challenges
 
@@ -57,4 +57,4 @@ For projects that blend insurance-covered repair with elective upgrades, a homeo
 
 Moss Point's proximity to tidal waterways means that crawl spaces on properties closer to the river corridors tend to accumulate ground moisture at rates that surprise homeowners who moved here from drier climates. Before any kitchen or bathroom remodel that involves new flooring, we check crawl space relative humidity and, where readings are elevated, recommend encapsulation or ventilation improvements as part of the project. Skipping that step and installing hardwood or laminate over a wet crawl is one of the most common reasons a renovation fails within two or three years in this part of Jackson County.
 
-If you're planning a renovation, remodel, or post-damage rebuild in Moss Point, call HomeLyft Restoration MS at +12282845200 to schedule a project assessment. We'll walk the property with you, give you an honest read on what the structure needs, and build a scope that holds up to Gulf Coast conditions for the long term.
+If you're planning a renovation, remodel, or post-damage rebuild in Moss Point, call HomeLyft Restoration Gulfport at +12282845200 to schedule a project assessment. We'll walk the property with you, give you an honest read on what the structure needs, and build a scope that holds up to Gulf Coast conditions for the long term.

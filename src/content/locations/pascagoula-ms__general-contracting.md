@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Pascagoula, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Pascagoula, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Pascagoula"
 meta_description: "Renovations, remodels and general contracting in Pascagoula, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting pascagoula"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Pascagoula's position along the Gulf Coast means renovation and remodeling projects here carry a set of pressures that inland Mississippi contractors rarely encounter, salt air that accelerates metal corrosion, hurricane-season scheduling windows that compress project timelines, and a housing stock that ranges from mid-century bungalows to post-Katrina rebuilds, each with its own structural personality. HomeLyft Restoration MS brings licensed general contracting (RO 2728) and EPA Lead-Safe certification to Pascagoula homeowners and property managers who need renovation work done right the first time, whether that's a kitchen remodel, a bathroom overhaul, or a full post-damage rebuild.
+Pascagoula's position along the Gulf Coast means renovation and remodeling projects here carry a set of pressures that inland Mississippi contractors rarely encounter, salt air that accelerates metal corrosion, hurricane-season scheduling windows that compress project timelines, and a housing stock that ranges from mid-century bungalows to post-Katrina rebuilds, each with its own structural personality. HomeLyft Restoration Gulfport brings licensed general contracting (RO 2728) and EPA Lead-Safe certification to Pascagoula homeowners and property managers who need renovation work done right the first time, whether that's a kitchen remodel, a bathroom overhaul, or a full post-damage rebuild.
 
 ## Why Pascagoula Properties Present Unique Renovation Challenges
 
@@ -42,4 +42,4 @@ Pascagoula renovation projects fall under Jackson County building department jur
 
 One thing that catches out-of-area contractors in Pascagoula: homes near the river's flood plain, particularly those that were elevated after Katrina, often have utility connections (gas, water, electrical service entrance) routed in ways that don't match standard construction drawings. The elevation work moved the finished floor but didn't always relocate the utility penetrations proportionally. Before any kitchen or bathroom remodel that involves moving plumbing or electrical, it's worth having a licensed plumber and electrician walk the crawl space or utility chase before demo begins. We build that pre-demo utility verification into every project scope as a standard step, not an add-on.
 
-If you're ready to move forward on a renovation or remodel in Pascagoula, or you've just come through a water or fire loss and need a contractor who can take the project from remediation to finished space, call HomeLyft Restoration MS at (228) 284-5200. We work across Pascagoula and the broader Jackson County area, and we'll give you a straight assessment of what your project actually involves before any work begins.
+If you're ready to move forward on a renovation or remodel in Pascagoula, or you've just come through a water or fire loss and need a contractor who can take the project from remediation to finished space, call HomeLyft Restoration Gulfport at (228) 284-5200. We work across Pascagoula and the broader Jackson County area, and we'll give you a straight assessment of what your project actually involves before any work begins.

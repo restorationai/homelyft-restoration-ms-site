@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in Wade, MS | HomeLyft Restoration MS"
+title: "Asbestos Abatement in Wade, MS | HomeLyft Restoration Gulfport"
 h1: "Asbestos Abatement in Wade"
 meta_description: "Asbestos abatement in Wade, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "asbestos abatement wade"
@@ -38,7 +38,7 @@ For popcorn ceiling asbestos removal specifically, we wet the texture thoroughly
 
 ## Reaching Wade from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport, and our crews travel regularly into Forrest County and the surrounding region for specialty abatement work. Wade is accessible via US-49 North, a route our teams know well from servicing properties across the Pine Belt corridor. While asbestos abatement is a scheduled service, not an emergency dispatch, we work to get inspections scheduled promptly so that your renovation timeline or insurance claim doesn't stall waiting on an abatement clearance.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and our crews travel regularly into Forrest County and the surrounding region for specialty abatement work. Wade is accessible via US-49 North, a route our teams know well from servicing properties across the Pine Belt corridor. While asbestos abatement is a scheduled service, not an emergency dispatch, we work to get inspections scheduled promptly so that your renovation timeline or insurance claim doesn't stall waiting on an abatement clearance.
 
 ## Wade Insurance & Contractor Coordination
 
@@ -50,4 +50,4 @@ If you're a contractor who's uncovered suspect material on a Wade job site, Miss
 
 One thing worth knowing about older homes in the Wade area and the broader unincorporated stretches of Forrest County: many were built with combination materials, for example, a floor that has vinyl tile over original hardwood, with asbestos-containing mastic in between. Homeowners sometimes assume that because the hardwood underneath looks salvageable, they can simply pull up the vinyl themselves. That mastic layer is where the hazard lives. We've seen this scenario repeatedly on properties in this part of the county, and it's one of the more common situations where a well-intentioned DIY project creates a regulated abatement event. If you're not certain what's under your floors, a sample costs far less than an emergency remediation.
 
-If you're facing a renovation, a damage claim, or simply a material you're not sure about in your Wade home or commercial property, call HomeLyft Restoration MS at +12282845200. Our EPA Lead-Safe Certified and IICRC-credentialed team will walk you through the inspection and abatement process so you know exactly what comes next, no guesswork, no unnecessary delays.
+If you're facing a renovation, a damage claim, or simply a material you're not sure about in your Wade home or commercial property, call HomeLyft Restoration Gulfport at +12282845200. Our EPA Lead-Safe Certified and IICRC-credentialed team will walk you through the inspection and abatement process so you know exactly what comes next, no guesswork, no unnecessary delays.

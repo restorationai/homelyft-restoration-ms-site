@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Eastabuchie, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Fire Damage Restoration in Eastabuchie, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Fire Damage Restoration in Eastabuchie"
 meta_description: "24/7 emergency fire damage restoration in Eastabuchie, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "fire damage restoration eastabuchie"
@@ -44,11 +44,11 @@ Once the scope is defined, the process moves in a deliberate sequence:
 - **Structural drying** of suppression water using calibrated desiccant or refrigerant dehumidifiers, logged to IICRC S500 standards
 - **Reconstruction** scoped and permitted through Jones County's building department
 
-Because HomeLyft Restoration MS holds both IICRC FSRT (Fire & Smoke) and EPA Lead-Safe certification, work on pre-1978 homes, common in this part of Jones County, follows required lead-safe protocols during any demolition phase.
+Because HomeLyft Restoration Gulfport holds both IICRC FSRT (Fire & Smoke) and EPA Lead-Safe certification, work on pre-1978 homes, common in this part of Jones County, follows required lead-safe protocols during any demolition phase.
 
 ## Reaching Eastabuchie from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport and dispatches crews north into Jones County via US-49. Eastabuchie sits along that corridor, which keeps routing straightforward even when crews are coming from the coast. For scheduling and response, call +12282845200, the team can give you a realistic arrival window based on current crew availability and road conditions on US-49.
+HomeLyft Restoration Gulfport is headquartered in Gulfport and dispatches crews north into Jones County via US-49. Eastabuchie sits along that corridor, which keeps routing straightforward even when crews are coming from the coast. For scheduling and response, call +12282845200, the team can give you a realistic arrival window based on current crew availability and road conditions on US-49.
 
 ## Insurance Coordination for Eastabuchie Fire Claims
 
@@ -58,4 +58,4 @@ Fire claims in Mississippi tend to move faster when the documentation package is
 
 In older pier-and-beam homes common to rural Jones County, smoke from a structure fire doesn't just travel upward, it pressurizes into the crawl space through gaps in the subfloor and around plumbing penetrations. That crawl space smoke load is easy to miss during a visual inspection and is one of the most common sources of persistent odor complaints months after a fire. During every Eastabuchie assessment, technicians inspect the crawl space specifically for soot deposition and smoke-saturated insulation, because treating the living space while leaving the crawl space untreated is an incomplete job.
 
-If a fire has left your Eastabuchie home or property in Jones County with char damage, smoke odor, or structural questions, the next step is a documented assessment, not guesswork. Call HomeLyft Restoration MS at +12282845200 to schedule a technician visit and get a clear picture of what the restoration actually involves.
+If a fire has left your Eastabuchie home or property in Jones County with char damage, smoke odor, or structural questions, the next step is a documented assessment, not guesswork. Call HomeLyft Restoration Gulfport at +12282845200 to schedule a technician visit and get a clear picture of what the restoration actually involves.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in State Line, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in State Line, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in State Line"
 meta_description: "24/7 emergency board-up and tarping in State Line, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping state line"
@@ -42,7 +42,7 @@ For **roof tarping**, we use a batten-and-screw method rather than simply drapin
 
 ## Reaching State Line from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport, and State Line is one of the longer drives in our service area, roughly 120 miles north via US-49 through Hattiesburg. We're transparent about that distance. When you call, we'll give you an honest estimated arrival window based on current conditions and crew availability, not a number we can't back up. For situations where the breach is actively letting in weather, we'll walk you through interim steps, moving valuables, using available tarps or plastic sheeting to slow infiltration, while our crew is en route.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and State Line is one of the longer drives in our service area, roughly 120 miles north via US-49 through Hattiesburg. We're transparent about that distance. When you call, we'll give you an honest estimated arrival window based on current conditions and crew availability, not a number we can't back up. For situations where the breach is actively letting in weather, we'll walk you through interim steps, moving valuables, using available tarps or plastic sheeting to slow infiltration, while our crew is en route.
 
 ## State Line Insurance Coordination
 
@@ -54,4 +54,4 @@ If your carrier requires a preferred vendor or has a specific documentation form
 
 One thing that catches property owners off guard in this part of Greene County: the combination of high summer humidity and a freshly breached roof creates conditions where mold can begin colonizing exposed wood framing in as little as 48 to 72 hours. State Line's warm, humid climate doesn't pause for insurance paperwork. A properly installed tarp buys you time, but only if it's sealed at the edges and not just draped. We've seen situations where a loosely placed tarp let wind-driven rain wick under the edge and wet the same framing it was supposed to protect. The method matters as much as the speed.
 
-If you're dealing with storm damage, fire damage, or any breach that's left your State Line home or commercial property exposed, call HomeLyft Restoration MS at **+1 (228) 284-5200**. We'll assess the situation honestly, give you a real arrival estimate, and secure the structure so the damage stops where it is today.
+If you're dealing with storm damage, fire damage, or any breach that's left your State Line home or commercial property exposed, call HomeLyft Restoration Gulfport at **+1 (228) 284-5200**. We'll assess the situation honestly, give you a real arrival estimate, and secure the structure so the damage stops where it is today.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Gulf Hills, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Gulf Hills, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Gulf Hills"
 meta_description: "24/7 upholstery cleaning in Gulf Hills, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning gulf hills"
@@ -42,4 +42,4 @@ Upholstery damage from named storms and heavy rain events is a recurring claim t
 
 A lot of coastal Mississippi homes built from the 1960s through the 1980s include a glassed-in Florida room or screened porch, and that's often where the family keeps its most-used upholstered furniture: a wicker set, a daybed, an extra sofa. These rooms routinely run warmer and more humid than the rest of the house in July and August because they have less insulation and limited airflow. When we clean upholstery in a Florida room, we plan for longer dry times and often bring in a portable dehumidifier for a few hours afterward, because the standard room-temperature drying assumptions that work in a climate-controlled living room simply don't apply out there.
 
-If your sofa has that faint damp-basement smell, or your leather chair feels stiffer than it did last spring, it's worth having it cleaned before the next humid stretch sets in rather than after. HomeLyft Restoration MS is IICRC-certified and licensed in Mississippi (#RO 2728), and we're set up to handle both routine upholstery cleaning and the storm-related furniture damage that's common in Gulf Hills homes. Call +1 228 284 5200 to get on the schedule.
+If your sofa has that faint damp-basement smell, or your leather chair feels stiffer than it did last spring, it's worth having it cleaned before the next humid stretch sets in rather than after. HomeLyft Restoration Gulfport is IICRC-certified and licensed in Mississippi (#RO 2728), and we're set up to handle both routine upholstery cleaning and the storm-related furniture damage that's common in Gulf Hills homes. Call +1 228 284 5200 to get on the schedule.

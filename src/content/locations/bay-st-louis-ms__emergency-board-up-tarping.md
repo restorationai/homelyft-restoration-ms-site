@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Bay St. Louis, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in Bay St. Louis, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in Bay St. Louis"
 meta_description: "24/7 emergency board-up and tarping in Bay St. Louis, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping bay st. louis"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Need an emergency board-up in Bay St. Louis? We answer 24/7.** Call now and our crew heads out to secure broken windows, doors and roofs.
 
-Bay St. Louis sits on a narrow peninsula where Gulf humidity, hurricane-season wind shear, and salt-laden air conspire against exposed structures year-round. When a storm punches through a roof, a fire vents through a window, or a tree drops across a dormer, the window between the damage event and the next rain band is often measured in hours, not days. HomeLyft Restoration MS responds from Gulfport to secure Bay St. Louis properties with structural board-up and heavy-duty roof tarping before secondary water intrusion compounds what's already a difficult loss.
+Bay St. Louis sits on a narrow peninsula where Gulf humidity, hurricane-season wind shear, and salt-laden air conspire against exposed structures year-round. When a storm punches through a roof, a fire vents through a window, or a tree drops across a dormer, the window between the damage event and the next rain band is often measured in hours, not days. HomeLyft Restoration Gulfport responds from Gulfport to secure Bay St. Louis properties with structural board-up and heavy-duty roof tarping before secondary water intrusion compounds what's already a difficult loss.
 
 ## Why Bay St. Louis Properties Face Elevated Board-Up and Tarping Needs
 
@@ -41,7 +41,7 @@ Once openings are secured, we walk the perimeter with you (or your property mana
 
 ## Reaching Bay St. Louis from Our Gulfport Base
 
-HomeLyft Restoration MS operates out of Gulfport, putting Bay St. Louis within practical reach via US-90 westbound through Long Beach and Pass Christian. The run along the coast highway is straightforward outside of post-storm traffic, though after a significant weather event the drawbridge at the Bay St. Louis Bridge on US-90 can create queuing delays, something we account for by staging equipment early when a named storm is in the forecast. For properties on the north side of the city near the CSX rail corridor or along Washington Street, we typically approach via I-10 and MS-607 to avoid the waterfront congestion that follows major wind events.
+HomeLyft Restoration Gulfport operates out of Gulfport, putting Bay St. Louis within practical reach via US-90 westbound through Long Beach and Pass Christian. The run along the coast highway is straightforward outside of post-storm traffic, though after a significant weather event the drawbridge at the Bay St. Louis Bridge on US-90 can create queuing delays, something we account for by staging equipment early when a named storm is in the forecast. For properties on the north side of the city near the CSX rail corridor or along Washington Street, we typically approach via I-10 and MS-607 to avoid the waterfront congestion that follows major wind events.
 
 We schedule promptly and coordinate arrival windows directly with you or your insurance adjuster so there's no ambiguity about when the crew will be on site.
 
@@ -55,4 +55,4 @@ If your policy includes an HOA master policy layer, common in some of the newer 
 
 One thing that catches out-of-area crews working in Bay St. Louis: the city's older raised cottages often have roof decking that runs diagonally rather than perpendicular to the rafters, a traditional framing pattern common in pre-1960 Gulf Coast construction. Diagonal decking is structurally sound but means standard tarp batten layouts don't always land on solid wood. Our crews know to probe for rafter lines before driving fasteners, which prevents the tarp anchor points from pulling out in the first stiff breeze off the Bay. It's a small detail that makes a real difference in how long a temporary roof hold-up actually holds.
 
-If a storm, fire, or structural failure has left your Bay St. Louis property exposed, call HomeLyft Restoration MS at +12282845200. We'll assess the damage, secure every opening, and hand you documentation your insurer can act on, so the next rain band doesn't turn a manageable claim into a gut-renovation.
+If a storm, fire, or structural failure has left your Bay St. Louis property exposed, call HomeLyft Restoration Gulfport at +12282845200. We'll assess the damage, secure every opening, and hand you documentation your insurer can act on, so the next rain band doesn't turn a manageable claim into a gut-renovation.

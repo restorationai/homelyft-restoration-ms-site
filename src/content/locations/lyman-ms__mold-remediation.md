@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Lyman, MS | HomeLyft Restoration MS"
+title: "Mold Remediation in Lyman, MS | HomeLyft Restoration Gulfport"
 h1: "Mold Remediation in Lyman"
 meta_description: "Mold remediation in Lyman, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "mold remediation lyman"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Mold Remediation"
 rendered: true
 ---
-Lyman sits in Harrison County where the Gulf Coast's subtropical humidity doesn't quit, summer air routinely stays above 70% relative humidity for weeks at a stretch, and that moisture finds its way into crawl spaces, wall cavities, and attic decking faster than most homeowners expect. A slow plumbing drip, a poorly sealed crawl space vent, or a single heavy rain event can create the conditions mold needs to colonize within 24 to 48 hours. HomeLyft Restoration MS holds IICRC AMRT certification specifically for mold remediation, and the team works under Mississippi contractor license #RO 2728, so when you call about a mold problem in Lyman, you're reaching a crew that is credentialed, insured, and familiar with what coastal Mississippi construction actually looks like from the inside.
+Lyman sits in Harrison County where the Gulf Coast's subtropical humidity doesn't quit, summer air routinely stays above 70% relative humidity for weeks at a stretch, and that moisture finds its way into crawl spaces, wall cavities, and attic decking faster than most homeowners expect. A slow plumbing drip, a poorly sealed crawl space vent, or a single heavy rain event can create the conditions mold needs to colonize within 24 to 48 hours. HomeLyft Restoration Gulfport holds IICRC AMRT certification specifically for mold remediation, and the team works under Mississippi contractor license #RO 2728, so when you call about a mold problem in Lyman, you're reaching a crew that is credentialed, insured, and familiar with what coastal Mississippi construction actually looks like from the inside.
 
 ## Why Lyman Properties See Mold Issues
 
@@ -46,4 +46,4 @@ One thing that comes up repeatedly on Lyman jobs: homes with older fiberglass ba
 
 Mold remediation claims in Mississippi can be complicated by policy language around "sudden and accidental" versus "long-term seepage", insurers often push back on coverage when they can argue the source was a slow leak rather than a discrete event. The documentation we produce during remediation, moisture mapping, photos of the source, material condition notes, is specifically structured to support your adjuster's review and give the claim the clearest possible foundation. We work directly with most major carriers and can communicate with your adjuster on scope and pricing so you're not translating between contractor and insurance language on your own.
 
-If you're seeing discoloration on drywall, a persistent musty odor in a room that won't clear, or you've had any water intrusion in the last few weeks, don't wait to see if it resolves on its own. Call HomeLyft Restoration MS at +12282845200 to schedule a mold assessment for your Lyman property, the sooner the moisture source and affected material are identified, the smaller the remediation scope and the lower the cost.
+If you're seeing discoloration on drywall, a persistent musty odor in a room that won't clear, or you've had any water intrusion in the last few weeks, don't wait to see if it resolves on its own. Call HomeLyft Restoration Gulfport at +12282845200 to schedule a mold assessment for your Lyman property, the sooner the moisture source and affected material are identified, the smaller the remediation scope and the lower the cost.

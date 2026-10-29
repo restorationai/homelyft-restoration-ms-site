@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Removal & Cleanup in Bay St. Louis, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Water Removal & Cleanup in Bay St. Louis, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Water Removal & Cleanup in Bay St. Louis"
 meta_description: "24/7 emergency water removal & cleanup in Bay St. Louis, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency water removal & cleanup bay st. louis"
@@ -42,4 +42,4 @@ Most water damage claims in this area involve either a homeowner's policy or, fo
 
 One thing that trips up a lot of out-of-town restoration crews: homes near the Bay of St. Louis often have crawlspace vents that were sealed or modified after Katrina-era rebuilds to meet updated flood venting requirements, which changes how air moves (or doesn't move) under the house. Before we set up drying equipment in a crawlspace, we check whether those vents are functioning the way they were designed to, because a sealed or blocked vent can trap moisture indefinitely even after the standing water is gone.
 
-If you've got standing water, a soaked crawlspace, or a slab leak anywhere in Bay St. Louis, call HomeLyft Restoration MS now. We're licensed (#RO 2728), IICRC-trained in water mitigation and structural drying, and set up to handle extraction and drying for both the raised historic homes near Old Town and the newer slab construction further back from the bay.
+If you've got standing water, a soaked crawlspace, or a slab leak anywhere in Bay St. Louis, call HomeLyft Restoration Gulfport now. We're licensed (#RO 2728), IICRC-trained in water mitigation and structural drying, and set up to handle extraction and drying for both the raised historic homes near Old Town and the newer slab construction further back from the bay.

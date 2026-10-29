@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in Lumberton, MS | HomeLyft Restoration MS"
+title: "Asbestos Abatement in Lumberton, MS | HomeLyft Restoration Gulfport"
 h1: "Asbestos Abatement in Lumberton"
 meta_description: "Asbestos abatement in Lumberton, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "asbestos abatement lumberton"
@@ -38,10 +38,10 @@ Because we hold EPA Lead-Safe Certification and are an IICRC Certified Firm, we'
 
 ## Reaching Lumberton from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, and Lumberton is accessible via US-98 West through Hattiesburg, a straightforward route that keeps our project teams moving efficiently across Lamar County. We schedule inspections and abatement crews with enough lead time to coordinate access, particularly for properties on rural routes or longer driveways common in the county's more spread-out residential areas. Call +12282845200 to discuss scheduling; we'll confirm availability and give you a realistic timeline before any commitment is made.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Lumberton is accessible via US-98 West through Hattiesburg, a straightforward route that keeps our project teams moving efficiently across Lamar County. We schedule inspections and abatement crews with enough lead time to coordinate access, particularly for properties on rural routes or longer driveways common in the county's more spread-out residential areas. Call +12282845200 to discuss scheduling; we'll confirm availability and give you a realistic timeline before any commitment is made.
 
 ## Local Note
 
 One pattern we've noticed in Lumberton and the surrounding Lamar County area: homes that were re-roofed in the 1970s sometimes have a layer of asbestos-containing roofing felt beneath the current shingles, a detail that doesn't show up until a roofing contractor pulls the old material. If you're planning a full tear-off roof replacement on a home built before 1980, it's worth having the existing felt tested before your roofing crew starts work. Discovering asbestos mid-project stalls the job and can create unexpected cost overruns; a pre-demolition inspection costs a fraction of an emergency abatement stoppage.
 
-Scheduling an asbestos inspection before your Lumberton renovation begins is the single most effective way to protect your timeline, your budget, and the people working in the space. Contact HomeLyft Restoration MS at +12282845200 to arrange testing and get a clear picture of what's in your walls, ceilings, and floors before the first nail is pulled.
+Scheduling an asbestos inspection before your Lumberton renovation begins is the single most effective way to protect your timeline, your budget, and the people working in the space. Contact HomeLyft Restoration Gulfport at +12282845200 to arrange testing and get a clear picture of what's in your walls, ceilings, and floors before the first nail is pulled.

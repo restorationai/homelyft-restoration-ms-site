@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Lucedale, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in Lucedale, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in Lucedale"
 meta_description: "24/7 emergency board-up and tarping in Lucedale, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping lucedale"
@@ -38,7 +38,7 @@ For window and door board-up, plywood panels are cut to fit the rough opening, a
 
 ## Reaching Lucedale from Our Operations
 
-HomeLyft Restoration MS dispatches from the Gulf Coast and coordinates crews across South Mississippi. Lucedale is accessible via US-98, which connects George County to the broader region. Because Lucedale is an inland market, not a coastal suburb, we schedule Lucedale calls with realistic drive-time expectations and communicate an estimated arrival window when you call. We don't quote response-time minutes we can't guarantee; we give you a real window and we hit it. Call us at +12282845200 to get a crew scheduled.
+HomeLyft Restoration Gulfport dispatches from the Gulf Coast and coordinates crews across South Mississippi. Lucedale is accessible via US-98, which connects George County to the broader region. Because Lucedale is an inland market, not a coastal suburb, we schedule Lucedale calls with realistic drive-time expectations and communicate an estimated arrival window when you call. We don't quote response-time minutes we can't guarantee; we give you a real window and we hit it. Call us at +12282845200 to get a crew scheduled.
 
 ## Insurance Documentation for Lucedale Claims
 
@@ -48,4 +48,4 @@ Most homeowner policies in Mississippi cover sudden and accidental damage from s
 
 One thing that catches out-of-area crews working in Lucedale: a significant portion of residential properties here sit on larger rural lots with long gravel driveways, and the main structure may not be visible from the road. After a storm, downed tree limbs frequently block driveway access before we even reach the house. Our crews carry a chainsaw and basic debris-clearing tools specifically because Lucedale and rural George County jobs routinely require cutting a path to the structure before board-up work can begin, something that rarely comes up on a tight suburban lot but is almost a given on a wooded half-acre parcel off a county road.
 
-If your Lucedale home or commercial property has been left open by storm damage, fire, or a break-in, don't wait to see what the next weather system brings. Call HomeLyft Restoration MS at +12282845200 and get a crew moving toward Lucedale today.
+If your Lucedale home or commercial property has been left open by storm damage, fire, or a break-in, don't wait to see what the next weather system brings. Call HomeLyft Restoration Gulfport at +12282845200 and get a crew moving toward Lucedale today.

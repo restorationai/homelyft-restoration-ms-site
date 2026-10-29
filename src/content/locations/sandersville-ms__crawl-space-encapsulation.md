@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Sandersville, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Sandersville, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Sandersville"
 meta_description: "Crawl space encapsulation in Sandersville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation sandersville"
@@ -38,7 +38,7 @@ In Sandersville homes with older masonry piers or block foundation walls, we pay
 
 ## Reaching Sandersville from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport and serves communities across Mississippi, including Sandersville and the surrounding Jones County area. Scheduling is handled directly through our office at +12282845200. Because crawl space encapsulation is a planned project rather than an emergency extraction, we coordinate site visits and project start dates to fit your schedule, call to discuss availability and we'll work out a timeline that makes sense for your home.
+HomeLyft Restoration Gulfport is headquartered in Gulfport and serves communities across Mississippi, including Sandersville and the surrounding Jones County area. Scheduling is handled directly through our office at +12282845200. Because crawl space encapsulation is a planned project rather than an emergency extraction, we coordinate site visits and project start dates to fit your schedule, call to discuss availability and we'll work out a timeline that makes sense for your home.
 
 ## Local Note: What We See in Sandersville Crawl Spaces
 
@@ -46,4 +46,4 @@ One pattern that comes up consistently in Sandersville and the broader Jones Cou
 
 If you're noticing soft spots in your floors, a musty smell that lingers even after cleaning, or higher-than-expected energy bills in a home with crawl space HVAC, those are signs worth investigating before the damage compounds.
 
-Crawl space encapsulation is one of the highest-return investments a Sandersville homeowner can make in the long-term health of their structure. Call HomeLyft Restoration MS at +12282845200 to schedule an assessment, we'll give you a clear picture of what's happening beneath your home and what it will take to protect it.
+Crawl space encapsulation is one of the highest-return investments a Sandersville homeowner can make in the long-term health of their structure. Call HomeLyft Restoration Gulfport at +12282845200 to schedule an assessment, we'll give you a clear picture of what's happening beneath your home and what it will take to protect it.

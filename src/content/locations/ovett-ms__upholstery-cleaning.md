@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Ovett, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Ovett, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Ovett"
 meta_description: "24/7 upholstery cleaning in Ovett, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning ovett"
@@ -38,4 +38,4 @@ Ovett sits well north of our Gulfport headquarters, out toward the Jones and Jas
 
 A lot of the older farmhouse sofas and recliners we see out around Ovett were reupholstered decades ago with cotton or cotton-blend fabric that's since been patched or re-stuffed at home. That extra layer of batting holds moisture longer than factory-original padding, so we usually extend the drying time on those pieces and recommend running a fan or dehumidifier nearby for a few hours after cleaning, especially in summer when the outdoor humidity doesn't give the fabric much help drying on its own.
 
-If your sofa, couch, or favorite recliner in Ovett is holding onto a musty smell, ground-in soil, or sun-cracked leather, call HomeLyft Restoration MS at (228) 284-5200. We'll walk through what your specific fabric or leather needs before we ever set foot on the cushions.
+If your sofa, couch, or favorite recliner in Ovett is holding onto a musty smell, ground-in soil, or sun-cracked leather, call HomeLyft Restoration Gulfport at (228) 284-5200. We'll walk through what your specific fabric or leather needs before we ever set foot on the cushions.

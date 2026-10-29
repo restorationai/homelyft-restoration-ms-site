@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in DeLisle, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in DeLisle, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in DeLisle"
 meta_description: "24/7 upholstery cleaning in DeLisle, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning delisle"
@@ -38,4 +38,4 @@ Our crews run out of Gulfport, and DeLisle is a short, direct trip along the coa
 
 Homes and rentals near the lower-lying stretches close to the Wolf River tend to run their HVAC systems less aggressively in shoulder seasons, spring and fall, than homes further from the water, since the temperature swings feel milder here. That small habit is exactly when upholstery picks up the most ambient moisture, because the air conditioning isn't running enough to pull humidity out of the room. We factor that into scheduling: if you're cleaning upholstery in DeLisle during April or October, plan for a longer drying window than you'd expect in July, when the AC is working overtime and pulling moisture out of the air anyway.
 
-If your sofa smells musty no matter how often you vacuum it, or your leather chair has started to feel stiff and dry along the seams, it's worth having it looked at before the padding or finish is damaged beyond a simple clean. Call HomeLyft Restoration MS to schedule upholstery cleaning in DeLisle, whether it's one sofa or a full house of fabric and leather furniture that's been holding onto coastal humidity longer than it should.
+If your sofa smells musty no matter how often you vacuum it, or your leather chair has started to feel stiff and dry along the seams, it's worth having it looked at before the padding or finish is damaged beyond a simple clean. Call HomeLyft Restoration Gulfport to schedule upholstery cleaning in DeLisle, whether it's one sofa or a full house of fabric and leather furniture that's been holding onto coastal humidity longer than it should.

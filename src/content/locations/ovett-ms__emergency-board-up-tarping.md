@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Ovett, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in Ovett, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in Ovett"
 meta_description: "24/7 emergency board-up and tarping in Ovett, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping ovett"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Need an emergency board-up in Ovett? We answer 24/7.** Call now and our crew heads out to secure broken windows, doors and roofs.
 
-Ovett sits in the piney woods of Jones County, where summer thunderstorms roll through fast and hard, and where a single fallen pine can punch through a roof before the rain even stops. When that happens, or when a house fire blows out windows and leaves walls exposed to the elements, every hour the structure sits open accelerates the damage. HomeLyft Restoration MS boards up openings, secures doors, and installs heavy-duty polyethylene tarps to stop weather, pests, and trespassers from turning a manageable loss into a gut-renovation.
+Ovett sits in the piney woods of Jones County, where summer thunderstorms roll through fast and hard, and where a single fallen pine can punch through a roof before the rain even stops. When that happens, or when a house fire blows out windows and leaves walls exposed to the elements, every hour the structure sits open accelerates the damage. HomeLyft Restoration Gulfport boards up openings, secures doors, and installs heavy-duty polyethylene tarps to stop weather, pests, and trespassers from turning a manageable loss into a gut-renovation.
 
 ## Why Ovett Properties Face Particular Board-Up and Tarping Risks
 
@@ -39,7 +39,7 @@ For roof openings, we use 6-mil reinforced polyethylene tarps anchored with dime
 
 ## Reaching Ovett from Our Gulfport Base
 
-HomeLyft Restoration MS operates out of Gulfport, and Ovett is roughly a two-hour drive north via US-49 through Hattiesburg and into Jones County. That distance is honest, and we won't pretend otherwise. What we can tell you is that we dispatch with a fully loaded service vehicle, tarps, OSB stock, fasteners, ladders, and safety gear, so there's no second trip to a supply house once we arrive. For Jones County properties, we also coordinate with local contacts when access or staging is complicated by rural roads or long private driveways, which are common on the acreage parcels that make up much of the Ovett area.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Ovett is roughly a two-hour drive north via US-49 through Hattiesburg and into Jones County. That distance is honest, and we won't pretend otherwise. What we can tell you is that we dispatch with a fully loaded service vehicle, tarps, OSB stock, fasteners, ladders, and safety gear, so there's no second trip to a supply house once we arrive. For Jones County properties, we also coordinate with local contacts when access or staging is complicated by rural roads or long private driveways, which are common on the acreage parcels that make up much of the Ovett area.
 
 If you're waiting on our arrival, the most useful thing you can do is photograph the damage from a safe distance, shut off utilities if there's any fire or electrical involvement, and keep people away from the structure until we've assessed stability.
 
@@ -53,4 +53,4 @@ If your policy has a mitigation clause requiring action within a specific window
 
 Something worth knowing about properties in the Ovett area: the clay-heavy soils common through this part of Jones County can make ladder and equipment staging tricky after a heavy rain, the ground softens quickly and extension ladders need to be footed on boards or stabilized platforms rather than set directly in the yard. It's a small thing, but it affects how fast a crew can safely get onto a roof. We carry ground boards specifically for this reason, and it's part of why we ask about site conditions when you call, not to delay, but to arrive prepared.
 
-If your home has been opened by storm damage, fire, or a break-in, call HomeLyft Restoration MS at +12282845200. We'll gather the details, give you an honest arrival estimate for Ovett, and get the structure secured so the rest of the recovery process can move forward on solid footing.
+If your home has been opened by storm damage, fire, or a break-in, call HomeLyft Restoration Gulfport at +12282845200. We'll gather the details, give you an honest arrival estimate for Ovett, and get the structure secured so the rest of the recovery process can move forward on solid footing.

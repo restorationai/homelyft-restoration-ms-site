@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Big Point, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Big Point, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Big Point"
 meta_description: "Renovations, remodels and general contracting in Big Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting big point"
@@ -38,7 +38,7 @@ Our team holds EPA Lead-Safe Certification, which is relevant for any home in th
 
 ## Reaching Big Point from Our Gulfport Base
 
-HomeLyft Restoration MS operates out of Gulfport, putting us well-positioned to serve Jackson County communities along the coast. Big Point is accessible via US-90 east through Ocean Springs, and our crews are familiar with the back roads that cut through the area when traffic on the main corridor backs up. We schedule project visits and crew mobilization to minimize downtime on your job, if materials are being delivered or a subcontractor is arriving, we coordinate timing so the site isn't sitting idle.
+HomeLyft Restoration Gulfport operates out of Gulfport, putting us well-positioned to serve Jackson County communities along the coast. Big Point is accessible via US-90 east through Ocean Springs, and our crews are familiar with the back roads that cut through the area when traffic on the main corridor backs up. We schedule project visits and crew mobilization to minimize downtime on your job, if materials are being delivered or a subcontractor is arriving, we coordinate timing so the site isn't sitting idle.
 
 For renovation projects that run across multiple weeks, we establish a consistent on-site schedule so neighbors and the property itself aren't disrupted by unpredictable crew arrivals.
 
@@ -46,4 +46,4 @@ For renovation projects that run across multiple weeks, we establish a consisten
 
 One thing that catches out-of-area contractors in this part of Jackson County: the combination of high humidity and older balloon-frame construction means that freshly installed drywall can absorb ambient moisture before it's even primed if the work is done during the wrong season without climate control on-site. We run dehumidification during finish phases on projects in this area, not just during mitigation, because a bathroom remodel that looks perfect in October can show tape-joint cracking by February if the drywall cured in a humid environment. It's a small operational detail that makes a measurable difference in the finished product.
 
-If you're planning a renovation, remodel, or new construction project in Big Point, call HomeLyft Restoration MS at +12282845200. We'll schedule a site walkthrough, give you a straight assessment of what the project actually involves, and build a scope that accounts for what coastal Mississippi construction demands, not what a generic template assumes.
+If you're planning a renovation, remodel, or new construction project in Big Point, call HomeLyft Restoration Gulfport at +12282845200. We'll schedule a site walkthrough, give you a straight assessment of what the project actually involves, and build a scope that accounts for what coastal Mississippi construction demands, not what a generic template assumes.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Diamondhead, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Diamondhead, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Diamondhead"
 meta_description: "Crawl space encapsulation in Diamondhead, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation diamondhead"
@@ -44,7 +44,7 @@ In Diamondhead's climate, skipping the dehumidifier step is a common shortcut th
 
 ## Reaching Diamondhead from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, roughly 25 miles east of Diamondhead via US-90 or I-10. Scheduling is handled directly by our team, call +12282845200 to set up an inspection or to get a crawl space assessment on the calendar. We work across Hancock County and are familiar with the access patterns and property layouts typical of Diamondhead's planned community streets.
+HomeLyft Restoration Gulfport operates out of Gulfport, roughly 25 miles east of Diamondhead via US-90 or I-10. Scheduling is handled directly by our team, call +12282845200 to set up an inspection or to get a crawl space assessment on the calendar. We work across Hancock County and are familiar with the access patterns and property layouts typical of Diamondhead's planned community streets.
 
 ## Local Note
 
@@ -54,4 +54,4 @@ Diamond Head was developed as a planned community, and many of its homes share a
 
 A properly encapsulated crawl space in Diamondhead typically pays for itself in reduced HVAC load, lower humidity inside the living space, and avoided repairs to floor framing and insulation. Wood that stays below 19% moisture content doesn't rot and doesn't attract wood-destroying insects, both of which are active concerns in Hancock County's climate. We can also coordinate with your homeowner's insurance carrier if there's a documented moisture event that triggered the damage; our documentation process includes moisture logs and photographs that support the claim narrative.
 
-If you're dealing with a crawl space that smells, feels damp underfoot, or hasn't been looked at since the home was built, call HomeLyft Restoration MS at +12282845200. We'll tell you honestly what the space needs, and what it doesn't.
+If you're dealing with a crawl space that smells, feels damp underfoot, or hasn't been looked at since the home was built, call HomeLyft Restoration Gulfport at +12282845200. We'll tell you honestly what the space needs, and what it doesn't.

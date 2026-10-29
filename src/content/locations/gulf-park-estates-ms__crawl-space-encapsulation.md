@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Gulf Park Estates, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Gulf Park Estates, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Gulf Park Estates"
 meta_description: "Crawl space encapsulation in Gulf Park Estates, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation gulf park estates"
@@ -48,4 +48,4 @@ The IICRC AMRT certification held by our team means we're trained to identify an
 
 One pattern we see regularly in Gulf Park Estates is crawl spaces where the original pier blocks have settled unevenly over the years, leaving low points where water pools after heavy rain. This is partly a soil issue, the sandy substrate here doesn't provide the uniform bearing capacity you'd find on clay-heavy soils further inland, and partly a consequence of storm surge events that have shifted foundations incrementally over decades. Before we encapsulate, we flag those low spots and, where necessary, recommend installing a sump or drain tile to manage water that would otherwise pond against the liner. Skipping that step and simply laying a barrier over a low-drainage area is a shortcut that tends to fail within a few seasons.
 
-If you're in Gulf Park Estates and you've noticed soft spots in your floor, a musty odor that intensifies in summer, or energy bills that seem high relative to your square footage, a crawl space inspection is a reasonable first step. Call HomeLyft Restoration MS at +12282845200 to schedule an assessment, we're based in Gulfport and work throughout Jackson County, and we can give you a straight answer about what your crawl space actually needs.
+If you're in Gulf Park Estates and you've noticed soft spots in your floor, a musty odor that intensifies in summer, or energy bills that seem high relative to your square footage, a crawl space inspection is a reasonable first step. Call HomeLyft Restoration Gulfport at +12282845200 to schedule an assessment, we're based in Gulfport and work throughout Jackson County, and we can give you a straight answer about what your crawl space actually needs.

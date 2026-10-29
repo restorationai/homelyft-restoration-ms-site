@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Wiggins, MS | HomeLyft Restoration MS"
+title: "Restoration Services in Wiggins, MS | HomeLyft Restoration Gulfport"
 h1: "Restoration Services in Wiggins"
 meta_description: "Serving Wiggins, MS with water, fire, mold, and storm damage restoration. IICRC-certified team. Call +12282845200."
 primary_keyword: "restoration services wiggins"
@@ -19,7 +19,7 @@ state: "MS"
 primary: false
 rendered: true
 ---
-When a pipe bursts under a pier-and-beam floor or a slow roof leak finally soaks through the ceiling drywall, Wiggins property owners need someone who can assess the damage quickly and start drying before mold takes hold. HomeLyft Restoration MS handles water damage mitigation, fire and smoke cleanup, mold remediation, and reconstruction for homes and commercial properties throughout Stone County, working directly with insurance carriers so you are not left managing the paperwork alone.
+When a pipe bursts under a pier-and-beam floor or a slow roof leak finally soaks through the ceiling drywall, Wiggins property owners need someone who can assess the damage quickly and start drying before mold takes hold. HomeLyft Restoration Gulfport handles water damage mitigation, fire and smoke cleanup, mold remediation, and reconstruction for homes and commercial properties throughout Stone County, working directly with insurance carriers so you are not left managing the paperwork alone.
 
 ## Restoration emergencies common in Wiggins
 
@@ -45,7 +45,7 @@ Once mitigation is complete, damaged drywall, flooring, cabinetry, and framing n
 
 ## Coverage and how fast we can get there
 
-HomeLyft Restoration MS is headquartered in Gulfport, roughly 50 miles south of Wiggins via US-49 North. That route runs straight through the heart of Stone County and is the primary corridor our crews travel when responding to calls in the Wiggins area. Scheduling is handled by phone at (228) 284-5200, call to discuss your situation and we will confirm availability and an estimated arrival window based on current crew deployment. We serve the full Wiggins area including properties along the US-49 corridor, rural routes throughout Stone County, and surrounding communities.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, roughly 50 miles south of Wiggins via US-49 North. That route runs straight through the heart of Stone County and is the primary corridor our crews travel when responding to calls in the Wiggins area. Scheduling is handled by phone at (228) 284-5200, call to discuss your situation and we will confirm availability and an estimated arrival window based on current crew deployment. We serve the full Wiggins area including properties along the US-49 corridor, rural routes throughout Stone County, and surrounding communities.
 
 ## Building stock, site conditions, and permits in Wiggins
 
@@ -55,4 +55,4 @@ Soils here are the sandy Coastal Plain type, water drains fast but re-saturates 
 
 Structural repair permits come from the City of Wiggins inside city limits and Stone County outside them. Mississippi enforces a statewide residential code, and flood-zone parcels add elevation requirements.
 
-If you are dealing with water, fire, or mold damage at a Wiggins property, call HomeLyft Restoration MS at **(228) 284-5200** to speak with someone who can walk you through next steps and get a crew scheduled.
+If you are dealing with water, fire, or mold damage at a Wiggins property, call HomeLyft Restoration Gulfport at **(228) 284-5200** to speak with someone who can walk you through next steps and get a crew scheduled.

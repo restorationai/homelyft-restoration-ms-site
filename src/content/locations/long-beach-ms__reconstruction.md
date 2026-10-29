@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Reconstruction Services in Long Beach, MS | HomeLyft Restoration MS"
+title: "Reconstruction Services in Long Beach, MS | HomeLyft Restoration Gulfport"
 h1: "Reconstruction Services in Long Beach"
 meta_description: "24/7 reconstruction services in Long Beach, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "reconstruction services long beach"
@@ -38,4 +38,4 @@ Coastal Mississippi claims often involve more than one policy, a homeowner's pol
 
 Homes along Long Beach's flood-zone streets frequently carry elevation certificates that specify the lowest habitable floor height. When we reconstruct after a flood or storm loss on one of these properties, we check that certificate before framing begins, because rebuilding below the certified elevation can jeopardize the homeowner's flood insurance rating going forward. It's a step that's easy to skip and expensive to get wrong.
 
-If fire, storm, or flood damage has left part of your Long Beach property needing to be rebuilt, call HomeLyft Restoration MS at (228) 284-5200. We're licensed in Mississippi under RO 2728, and our crews handle the reconstruction from framing through final finish, coordinated with the insurance and permitting steps that coastal rebuilds require.
+If fire, storm, or flood damage has left part of your Long Beach property needing to be rebuilt, call HomeLyft Restoration Gulfport at (228) 284-5200. We're licensed in Mississippi under RO 2728, and our crews handle the reconstruction from framing through final finish, coordinated with the insurance and permitting steps that coastal rebuilds require.

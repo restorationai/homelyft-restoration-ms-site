@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Picayune, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Picayune, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Picayune"
 meta_description: "Crawl space encapsulation in Picayune, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation picayune"
@@ -46,6 +46,6 @@ For moisture control inside the sealed envelope, we size dehumidifiers to the ac
 
 One thing that comes up repeatedly in Picayune and the surrounding Pearl River County area: homes built on pier-and-beam foundations often have crawl spaces with inconsistent clearance, sometimes as little as 18 inches in one section and over 36 inches in another, depending on how the lot was graded. That variation affects both the difficulty of installation and the type of liner termination that works at the walls. Contractors who quote a flat per-square-foot price without physically inspecting the space first are often working from assumptions that don't hold in this area. A proper inspection before quoting isn't just good practice here, it's necessary to give an accurate scope.
 
-HomeLyft Restoration MS is an IICRC Certified Firm with AMRT (Applied Microbial Remediation Technician) and ASD (Applied Structural Drying) credentials, and the team is EPA Lead-Safe Certified, relevant in Picayune's older housing stock where lead-based paint on wood framing is a realistic possibility during crawl space work.
+HomeLyft Restoration Gulfport is an IICRC Certified Firm with AMRT (Applied Microbial Remediation Technician) and ASD (Applied Structural Drying) credentials, and the team is EPA Lead-Safe Certified, relevant in Picayune's older housing stock where lead-based paint on wood framing is a realistic possibility during crawl space work.
 
-If you're dealing with musty odors, soft flooring, or visible moisture damage in a Picayune home, call HomeLyft Restoration MS at +12282845200 to schedule an inspection. We'll assess the actual condition of your crawl space and give you a clear picture of what encapsulation involves for your specific property, no guesswork, no generic quotes.
+If you're dealing with musty odors, soft flooring, or visible moisture damage in a Picayune home, call HomeLyft Restoration Gulfport at +12282845200 to schedule an inspection. We'll assess the actual condition of your crawl space and give you a clear picture of what encapsulation involves for your specific property, no guesswork, no generic quotes.

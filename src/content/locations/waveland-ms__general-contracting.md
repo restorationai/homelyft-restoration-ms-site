@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Waveland, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Waveland, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Waveland"
 meta_description: "Renovations, remodels and general contracting in Waveland, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting waveland"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Waveland sits on one of the most storm-exposed stretches of the Mississippi Gulf Coast, and that geography shapes every renovation project here in ways that don't apply inland. Salt-laden air accelerates corrosion on fasteners and flashing, hurricane-code requirements govern everything from roof decking attachment to window ratings, and many homes rebuilt after Katrina are now approaching the age where their original post-storm finishes need a serious upgrade. Whether you're updating a coastal bungalow, converting a garage into living space, or rebuilding after wind or water damage, HomeLyft Restoration MS brings licensed general contracting (RO #2728) and hands-on construction experience to Waveland and the surrounding Hancock County coast.
+Waveland sits on one of the most storm-exposed stretches of the Mississippi Gulf Coast, and that geography shapes every renovation project here in ways that don't apply inland. Salt-laden air accelerates corrosion on fasteners and flashing, hurricane-code requirements govern everything from roof decking attachment to window ratings, and many homes rebuilt after Katrina are now approaching the age where their original post-storm finishes need a serious upgrade. Whether you're updating a coastal bungalow, converting a garage into living space, or rebuilding after wind or water damage, HomeLyft Restoration Gulfport brings licensed general contracting (RO #2728) and hands-on construction experience to Waveland and the surrounding Hancock County coast.
 
 ## Why Waveland Homes Present Unique Renovation Challenges
 
@@ -50,4 +50,4 @@ A significant portion of Waveland's housing stock was built or substantially reb
 
 If your home falls into this post-Katrina rebuild window and you haven't had the exterior assessed recently, it's worth doing before you invest in interior finishes. We can include that evaluation as part of the initial project walkthrough at no additional charge.
 
-Ready to talk through your project? Call HomeLyft Restoration MS at +1 (228) 284-5200 to schedule a walkthrough at your Waveland property. We'll give you a clear picture of scope, timeline, and cost before any commitment is made.
+Ready to talk through your project? Call HomeLyft Restoration Gulfport at +1 (228) 284-5200 to schedule a walkthrough at your Waveland property. We'll give you a clear picture of scope, timeline, and cost before any commitment is made.

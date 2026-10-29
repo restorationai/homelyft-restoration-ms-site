@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in Petal, MS | HomeLyft Restoration MS"
+title: "Asbestos Abatement in Petal, MS | HomeLyft Restoration Gulfport"
 h1: "Asbestos Abatement in Petal"
 meta_description: "Asbestos abatement in Petal, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "asbestos abatement petal"
@@ -36,7 +36,7 @@ For popcorn ceiling asbestos removal, one of the most common requests we receive
 
 ## Reaching Petal from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport and serves Petal by traveling US-49 north through Hattiesburg, a route that keeps scheduling straightforward for both inspections and multi-day abatement projects. Because asbestos abatement is planned work rather than an emergency call, we schedule site visits and project start dates in advance to ensure the full crew, containment equipment, and disposal logistics are coordinated before anyone sets foot in your home. Homeowners in Petal can reach us directly at +12282845200 to arrange an inspection appointment.
+HomeLyft Restoration Gulfport operates out of Gulfport and serves Petal by traveling US-49 north through Hattiesburg, a route that keeps scheduling straightforward for both inspections and multi-day abatement projects. Because asbestos abatement is planned work rather than an emergency call, we schedule site visits and project start dates in advance to ensure the full crew, containment equipment, and disposal logistics are coordinated before anyone sets foot in your home. Homeowners in Petal can reach us directly at +12282845200 to arrange an inspection appointment.
 
 ## Local Note
 
@@ -44,4 +44,4 @@ One thing that comes up repeatedly on Petal jobs: homes built in the 1960s and e
 
 If you're planning to sell a Petal home built before 1978, many buyers' lenders and inspectors will flag both materials during due diligence. Getting a combined inspection and any necessary abatement completed before listing removes a common negotiation obstacle and gives you cleaner documentation to hand over at closing.
 
-When you're ready to move forward, whether you've already found suspect materials or you simply want a baseline inspection before a remodel, call HomeLyft Restoration MS at +12282845200. We'll walk through what's in your Petal home, what needs to come out, and what the project will realistically look like from first sample to final clearance.
+When you're ready to move forward, whether you've already found suspect materials or you simply want a baseline inspection before a remodel, call HomeLyft Restoration Gulfport at +12282845200. We'll walk through what's in your Petal home, what needs to come out, and what the project will realistically look like from first sample to final clearance.

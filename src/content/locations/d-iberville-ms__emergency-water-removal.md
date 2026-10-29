@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Removal & Cleanup in D'Iberville, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Water Removal & Cleanup in D'Iberville, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Water Removal & Cleanup in D'Iberville"
 meta_description: "24/7 emergency water removal & cleanup in D'Iberville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency water removal & cleanup d'iberville"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
-**Water damage emergency in D'Iberville?** Call HomeLyft Restoration MS now and we'll get a crew moving. We answer 24/7, and if you're standing in ankle-deep water wondering whether the subfloor underneath your carpet is already soaking it up, the honest answer in a Harrison County slab home is usually yes. D'Iberville's mix of newer slab construction and older pier-and-beam homes near the Tchoutacabouffa River means water behaves differently from one street to the next, which changes how fast extraction needs to happen.
+**Water damage emergency in D'Iberville?** Call HomeLyft Restoration Gulfport now and we'll get a crew moving. We answer 24/7, and if you're standing in ankle-deep water wondering whether the subfloor underneath your carpet is already soaking it up, the honest answer in a Harrison County slab home is usually yes. D'Iberville's mix of newer slab construction and older pier-and-beam homes near the Tchoutacabouffa River means water behaves differently from one street to the next, which changes how fast extraction needs to happen.
 
 ## Why D'Iberville Properties See Water Damage Fast
 
@@ -38,4 +38,4 @@ Most of the water losses we see in D'Iberville come from plumbing failures, wate
 
 Crawlspace vapor barriers in older D'Iberville homes near the river bottomland are often installed loosely or torn from years of ground moisture and pest activity, which means a plumbing leak above can drip straight through to bare soil instead of pooling where it's easy to spot. We check the vapor barrier condition on every crawlspace call in that part of the city, because a torn barrier changes both the drying plan and the risk of recurring moisture problems after we leave.
 
-Water sitting in a D'Iberville home doesn't wait for business hours, and neither do we. Call HomeLyft Restoration MS for emergency water removal and cleanup, and we'll have a crew on the way to assess the damage, start extraction, and get the drying process documented for your insurance carrier from the first visit.
+Water sitting in a D'Iberville home doesn't wait for business hours, and neither do we. Call HomeLyft Restoration Gulfport for emergency water removal and cleanup, and we'll have a crew on the way to assess the damage, start extraction, and get the drying process documented for your insurance carrier from the first visit.

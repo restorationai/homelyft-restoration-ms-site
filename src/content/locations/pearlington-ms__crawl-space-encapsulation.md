@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Pearlington, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Pearlington, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Pearlington"
 meta_description: "Crawl space encapsulation in Pearlington, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation pearlington"
@@ -46,4 +46,4 @@ The IICRC AMRT standard that guides our mold remediation work also informs how w
 
 One thing that comes up repeatedly on Pearlington jobs is the presence of older pier-and-beam homes where the crawl space clearance is very shallow, sometimes under 18 inches, because the original builders set the piers low to keep the structure close to grade. That tight clearance makes installation physically demanding and limits the equipment that can be used. It also means moisture problems tend to be more severe, because air circulation is almost nonexistent. When we quote a job in this area, we always ask about clearance upfront so we can plan the installation approach and give you an accurate scope rather than a number that changes once someone gets under the house.
 
-For scheduling or to get a moisture assessment on your property, call HomeLyft Restoration MS at +12282845200. A crawl space problem in Pearlington's climate does not improve on its own, the sooner a barrier goes in, the less remediation work the structure will need down the road.
+For scheduling or to get a moisture assessment on your property, call HomeLyft Restoration Gulfport at +12282845200. A crawl space problem in Pearlington's climate does not improve on its own, the sooner a barrier goes in, the less remediation work the structure will need down the road.

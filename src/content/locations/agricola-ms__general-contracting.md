@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Agricola, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Agricola, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Agricola"
 meta_description: "Renovations, remodels and general contracting in Agricola, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting agricola"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Agricola sits in the humid, storm-prone corridor of Stone County where Gulf Coast weather patterns push hard against older residential building stock year after year. When a renovation project here isn't planned with that reality in mind, the moisture load, the wind exposure, the way decades of humidity work into wood framing, the finished product can start showing its age before the paint dries. HomeLyft Restoration MS brings licensed general contracting (RO #2728) and a background in post-damage rebuilding to Agricola homeowners who want work done right the first time, whether that's a full kitchen remodel, a bathroom gut-and-replace, or a structural rebuild after storm or water damage.
+Agricola sits in the humid, storm-prone corridor of Stone County where Gulf Coast weather patterns push hard against older residential building stock year after year. When a renovation project here isn't planned with that reality in mind, the moisture load, the wind exposure, the way decades of humidity work into wood framing, the finished product can start showing its age before the paint dries. HomeLyft Restoration Gulfport brings licensed general contracting (RO #2728) and a background in post-damage rebuilding to Agricola homeowners who want work done right the first time, whether that's a full kitchen remodel, a bathroom gut-and-replace, or a structural rebuild after storm or water damage.
 
 ## Why Agricola Homes Present Unique Renovation Challenges
 
@@ -46,4 +46,4 @@ For homeowners dealing with post-storm or post-flood conditions that require bot
 
 One pattern that shows up repeatedly in Stone County renovation work: homes built on pier-and-beam foundations in this area often have crawl spaces that have never had proper vapor barriers installed, and decades of ground moisture have quietly compromised the sill plates and floor joists. A bathroom remodel or kitchen renovation that opens the subfloor is an opportunity to address that underlying condition, and skipping it means the new finish work sits on a deteriorating base. It's not a glamorous line item, but it's the kind of thing that separates a renovation that holds up for twenty years from one that needs revisiting in five.
 
-If you're planning a remodel in Agricola or anywhere in Stone County, call HomeLyft Restoration MS at +12282845200 to schedule a walk-through. The conversation starts with your goals and the condition of what's already there, because in this climate, both matter.
+If you're planning a remodel in Agricola or anywhere in Stone County, call HomeLyft Restoration Gulfport at +12282845200 to schedule a walk-through. The conversation starts with your goals and the condition of what's already there, because in this climate, both matter.

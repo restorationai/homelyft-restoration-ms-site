@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in State Line, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in State Line, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in State Line"
 meta_description: "24/7 upholstery cleaning in State Line, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning state line"
@@ -38,4 +38,4 @@ Our crews come up from Gulfport, typically routed through Lucedale and along Hig
 
 One thing we watch for on State Line calls that doesn't come up as often on the coast: well water staining. A lot of homes out here run on private wells rather than municipal water, and iron or sulfur content in that water can leave a rust-colored ring on fabric upholstery if a drink spills or a pet's water bowl tips over near the couch. Standard spot cleaners often can't touch that discoloration because it's a mineral stain, not a soil stain, so we use a different chelating pre-treatment before extraction. If you've got a stubborn orange-brown ring on a cushion that nothing else has lifted, that's usually why.
 
-Whether it's a leather recliner that's dried out over a Mississippi winter or a fabric sectional that's held onto years of farm dust and pet odor, we bring the same hot-water extraction and low-moisture steam equipment out to State Line that we use on coastal jobs, just with a drive and a drying plan built around this county's humidity. Call HomeLyft Restoration MS at (228) 284-5200 to get a State Line upholstery cleaning appointment on the schedule.
+Whether it's a leather recliner that's dried out over a Mississippi winter or a fabric sectional that's held onto years of farm dust and pet odor, we bring the same hot-water extraction and low-moisture steam equipment out to State Line that we use on coastal jobs, just with a drive and a drying plan built around this county's humidity. Call HomeLyft Restoration Gulfport at (228) 284-5200 to get a State Line upholstery cleaning appointment on the schedule.

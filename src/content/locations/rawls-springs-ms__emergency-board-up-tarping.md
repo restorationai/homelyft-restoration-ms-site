@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Rawls Springs, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in Rawls Springs, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in Rawls Springs"
 meta_description: "24/7 emergency board-up and tarping in Rawls Springs, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping rawls springs"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Emergency Board-Up and Tarping"
 rendered: true
 ---
-Rawls Springs sits in Forrest County where Gulf Coast humidity never fully lets go, and when a storm tears shingles loose or a fire punches through a wall, that moisture moves fast, into exposed framing, insulation, and drywall within hours. HomeLyft Restoration MS responds to those open-structure emergencies with structural board-up and heavy-duty roof tarping designed to stop the clock on secondary damage before the next rain band rolls in from the south.
+Rawls Springs sits in Forrest County where Gulf Coast humidity never fully lets go, and when a storm tears shingles loose or a fire punches through a wall, that moisture moves fast, into exposed framing, insulation, and drywall within hours. HomeLyft Restoration Gulfport responds to those open-structure emergencies with structural board-up and heavy-duty roof tarping designed to stop the clock on secondary damage before the next rain band rolls in from the south.
 
 ## Why Rawls Springs Properties Are Especially Vulnerable After Structural Damage
 
@@ -48,4 +48,4 @@ Most homeowner policies in Mississippi cover emergency protective measures, boar
 
 One pattern we've seen repeatedly on wood-frame homes in the Rawls Springs area: older roof structures often use lighter rafter sizing than modern code requires, and when a storm removes multiple shingles in a concentrated area, the exposed decking can begin to cup or warp within 24 to 48 hours in summer heat. By the time a standard tarp is installed, the deck surface is no longer flat, which means the tarp won't shed water cleanly at the edges. We account for this by checking decking flatness before finalizing tarp placement and, where significant cupping has already occurred, adjusting batten positioning to redirect runoff away from the compromised zone rather than pooling it there.
 
-If a storm, fire, or impact has left your Rawls Springs property exposed, call HomeLyft Restoration MS at +12282845200. Describe what you're seeing, the size of the opening, whether there's active weather in the area, and whether the structure has fire involvement, and we'll get the right crew and materials moving toward Forrest County.
+If a storm, fire, or impact has left your Rawls Springs property exposed, call HomeLyft Restoration Gulfport at +12282845200. Describe what you're seeing, the size of the opening, whether there's active weather in the area, and whether the structure has fire involvement, and we'll get the right crew and materials moving toward Forrest County.

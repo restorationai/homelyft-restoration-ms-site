@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in McLain, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in McLain, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in McLain"
 meta_description: "Carpet cleaning in McLain, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning mclain"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-McLain sits in Greene County, deep in the humid pine belt of south Mississippi, where summer humidity rarely dips below 70% and afternoon thunderstorms can push moisture through screen doors and into living rooms before you've had time to close a window. That combination of heat, humidity, and the fine red-clay soil common to this part of the state works its way into carpet fibers faster than most homeowners expect, and once it's there, a standard vacuum pass won't touch it. HomeLyft Restoration MS brings professional-grade deep carpet cleaning to McLain and the surrounding Greene County area, using extraction methods and drying protocols designed for the specific conditions here in south Mississippi.
+McLain sits in Greene County, deep in the humid pine belt of south Mississippi, where summer humidity rarely dips below 70% and afternoon thunderstorms can push moisture through screen doors and into living rooms before you've had time to close a window. That combination of heat, humidity, and the fine red-clay soil common to this part of the state works its way into carpet fibers faster than most homeowners expect, and once it's there, a standard vacuum pass won't touch it. HomeLyft Restoration Gulfport brings professional-grade deep carpet cleaning to McLain and the surrounding Greene County area, using extraction methods and drying protocols designed for the specific conditions here in south Mississippi.
 
 ## Why McLain Carpets Accumulate Grime Faster Than You'd Think
 
@@ -53,4 +53,4 @@ We document stain locations and pre-existing wear before we begin, so there's no
 
 One thing that comes up specifically in Greene County is the prevalence of well water in rural McLain homes. Water with high iron content, common in this part of the state, can leave a faint rust-colored cast on light carpet near exterior doors if a wet mop or steam cleaner deposits mineral-laden water and it's allowed to dry slowly. We use filtered water in our extraction equipment and test the rinse water pH on-site before application, which prevents the secondary staining that can happen when iron-rich water meets carpet fibers. It's a small detail, but it's the kind of thing that separates a clean result from a "why does it look worse now?" callback.
 
-If you're in McLain or anywhere in Greene County and your carpet has reached the point where vacuuming isn't making a visible difference, call HomeLyft Restoration MS at +12282845200 to schedule a professional deep cleaning. We'll assess the fiber type, the soiling pattern, and the drying conditions specific to your home before we start, because carpet cleaning in south Mississippi isn't a one-size-fits-all job.
+If you're in McLain or anywhere in Greene County and your carpet has reached the point where vacuuming isn't making a visible difference, call HomeLyft Restoration Gulfport at +12282845200 to schedule a professional deep cleaning. We'll assess the fiber type, the soiling pattern, and the drying conditions specific to your home before we start, because carpet cleaning in south Mississippi isn't a one-size-fits-all job.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Hattiesburg, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Hattiesburg, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Hattiesburg"
 meta_description: "Crawl space encapsulation in Hattiesburg, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation hattiesburg"
@@ -36,7 +36,7 @@ Once drainage is confirmed, we install a 20-mil reinforced polyethylene vapor ba
 
 ## Reaching Hattiesburg from Our Gulfport Base
 
-HomeLyft Restoration MS operates out of Gulfport and covers the Hattiesburg market regularly. The US-49 corridor connects our team directly to the city, and we schedule Hattiesburg appointments with enough lead time to arrive with a fully stocked truck, liner rolls, sump equipment, dehumidifiers, and diagnostic tools, so the job doesn't stall waiting on materials. For homeowners in areas farther from the 49 interchange, we coordinate arrival windows in advance so you're not waiting around all day.
+HomeLyft Restoration Gulfport operates out of Gulfport and covers the Hattiesburg market regularly. The US-49 corridor connects our team directly to the city, and we schedule Hattiesburg appointments with enough lead time to arrive with a fully stocked truck, liner rolls, sump equipment, dehumidifiers, and diagnostic tools, so the job doesn't stall waiting on materials. For homeowners in areas farther from the 49 interchange, we coordinate arrival windows in advance so you're not waiting around all day.
 
 ## Insurance and Documentation for Hattiesburg Homeowners
 
@@ -46,4 +46,4 @@ Crawl space encapsulation sits in a gray zone for homeowners' insurance: if the 
 
 One pattern we've noticed in Hattiesburg-area homes with older pier-and-beam construction: the crawl space access hatches are frequently undersized by modern standards, sometimes as narrow as 18 inches, which was common practice when the homes were built. Getting full encapsulation materials through a tight hatch adds time to the job and occasionally requires cutting a larger access panel in an inconspicuous location. We flag this during the initial assessment so there are no surprises on installation day, and any new access panel we cut is framed, insulated, and fitted with a proper sealed door as part of the scope.
 
-If moisture is working its way into your home's structure, the longer it goes unaddressed, the more expensive the repair gets. Call HomeLyft Restoration MS at +12282845200 to schedule a crawl space assessment in Hattiesburg, we'll tell you exactly what's happening under your home and what it will take to fix it for good.
+If moisture is working its way into your home's structure, the longer it goes unaddressed, the more expensive the repair gets. Call HomeLyft Restoration Gulfport at +12282845200 to schedule a crawl space assessment in Hattiesburg, we'll tell you exactly what's happening under your home and what it will take to fix it for good.

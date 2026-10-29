@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Removal & Cleanup in Diamondhead, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Water Removal & Cleanup in Diamondhead, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Water Removal & Cleanup in Diamondhead"
 meta_description: "24/7 emergency water removal & cleanup in Diamondhead, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency water removal & cleanup diamondhead"
@@ -42,4 +42,4 @@ Many Diamondhead properties sit within community associations tied to the origin
 
 Homes directly along Diamondhead's canal system sometimes have backflow or check-valve issues on drain lines that let canal water push back into a low-lying yard or crawlspace area during high water events, which can look like a plumbing leak when it's actually external water finding its way in. We check for that distinction early, since treating a backflow issue like an internal pipe break wastes time and can miss the actual source.
 
-If water is spreading through your Diamondhead home right now, don't wait to see if it stops on its own. Call HomeLyft Restoration MS at (228) 284-5200 for emergency water removal and cleanup, we're set up to respond around the clock across Diamondhead's canal-front and inland neighborhoods alike.
+If water is spreading through your Diamondhead home right now, don't wait to see if it stops on its own. Call HomeLyft Restoration Gulfport at (228) 284-5200 for emergency water removal and cleanup, we're set up to respond around the clock across Diamondhead's canal-front and inland neighborhoods alike.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Wade, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Wade, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Wade"
 meta_description: "Carpet cleaning in Wade, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning wade"
@@ -48,4 +48,4 @@ All products used are safe for re-occupancy after drying, though we'll give you 
 
 One thing that comes up regularly in the Wade area: homes on pier-and-beam foundations with crawl spaces that haven't been encapsulated often have carpet padding that stays damp even when the carpet surface feels dry. The crawl space humidity migrates upward, and if the vapor barrier underneath is compromised or absent, which is common in homes built before the 1980s, the padding acts like a sponge. We check for this during the walkthrough, because cleaning the carpet without addressing that underlying moisture means the musty smell will return within weeks. If we spot a crawl space concern, we'll flag it so you can address it before or after the cleaning.
 
-If you're in Wade and dealing with carpet that smells off, looks dingy despite regular vacuuming, or has stains that have resisted everything you've tried, call HomeLyft Restoration MS at +12282845200. Our IICRC-certified team works throughout Forrest County and can schedule a visit to your Wade home or business to assess what it actually needs, no guesswork, no upsell pressure.
+If you're in Wade and dealing with carpet that smells off, looks dingy despite regular vacuuming, or has stains that have resisted everything you've tried, call HomeLyft Restoration Gulfport at +12282845200. Our IICRC-certified team works throughout Forrest County and can schedule a visit to your Wade home or business to assess what it actually needs, no guesswork, no upsell pressure.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Biloxi, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Biloxi, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Biloxi"
 meta_description: "24/7 upholstery cleaning in Biloxi, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning biloxi"
@@ -42,4 +42,4 @@ We're based just up the coast in Gulfport, with Highway 90 and I-10 giving direc
 
 One thing that surprises a lot of Biloxi homeowners: furniture that looks fine on the surface can still be holding a fair amount of moisture from months of humid indoor air, especially cushions with foam inserts. We've found that a quick moisture check before cleaning tells us whether a piece needs extra drying time afterward, because adding cleaning moisture on top of ambient humidity that's already saturated the foam is how mildew odor sets in a week later. It's a small step, but it's specific to how furniture behaves in a Gulf Coast climate versus a drier region.
 
-If your sofa, sectional, or leather furniture is holding onto beach sand, salt air residue, or a musty smell that won't air out, HomeLyft Restoration MS can get a crew scheduled in Biloxi and treat the fabric or leather appropriately for the coastal climate it's living in. Call anytime, day or night, to get on the schedule.
+If your sofa, sectional, or leather furniture is holding onto beach sand, salt air residue, or a musty smell that won't air out, HomeLyft Restoration Gulfport can get a crew scheduled in Biloxi and treat the fabric or leather appropriately for the coastal climate it's living in. Call anytime, day or night, to get on the schedule.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in St. Martin, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in St. Martin, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in St. Martin"
 meta_description: "Crawl space encapsulation in St. Martin, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation st. martin"
@@ -36,7 +36,7 @@ Once the space is cleared and dried, we install a reinforced vapor barrier, typi
 
 ## Reaching St. Martin from Our Gulfport Location
 
-HomeLyft Restoration MS operates out of Gulfport, which puts St. Martin within practical reach for scheduled inspections and project work. The drive via U.S. 90 east or I-10 to the Lamey Bridge Road corridor covers the distance without the delays you'd face routing through downtown Biloxi. For homeowners scheduling an encapsulation assessment, we coordinate arrival windows that work around your schedule, call +12282845200 to set up a time.
+HomeLyft Restoration Gulfport operates out of Gulfport, which puts St. Martin within practical reach for scheduled inspections and project work. The drive via U.S. 90 east or I-10 to the Lamey Bridge Road corridor covers the distance without the delays you'd face routing through downtown Biloxi. For homeowners scheduling an encapsulation assessment, we coordinate arrival windows that work around your schedule, call +12282845200 to set up a time.
 
 ## What Encapsulation Costs and Whether Insurance Applies
 
@@ -46,4 +46,4 @@ Crawl space encapsulation is generally considered a preventive improvement rathe
 
 One thing that comes up repeatedly in St. Martin crawl spaces, particularly in homes built on slabs with partial crawl sections or in pier-and-beam construction closer to the low-lying areas near Bayou Portage, is that the vapor barrier installation has to account for seasonal water table shifts. After a wet spring, groundwater in some areas of Jackson County can rise high enough to pool against the foundation interior. A standard 6-mil poly sheet will fail under those conditions, it lifts, tears at the seams, and defeats the purpose entirely. The heavier reinforced liners we use, properly anchored and sealed, are designed to stay in place even when the ground beneath them is temporarily saturated.
 
-If your St. Martin home has been living with a damp crawl space through another Gulf Coast summer, the right encapsulation system can change the feel of the entire house, less humidity at floor level, less strain on your HVAC, and a foundation environment that's no longer feeding the conditions mold needs to grow. Call HomeLyft Restoration MS at +12282845200 to schedule an on-site evaluation.
+If your St. Martin home has been living with a damp crawl space through another Gulf Coast summer, the right encapsulation system can change the feel of the entire house, less humidity at floor level, less strain on your HVAC, and a foundation environment that's no longer feeding the conditions mold needs to grow. Call HomeLyft Restoration Gulfport at +12282845200 to schedule an on-site evaluation.

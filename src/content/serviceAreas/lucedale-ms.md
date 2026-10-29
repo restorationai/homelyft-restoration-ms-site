@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Lucedale, MS | HomeLyft Restoration MS"
+title: "Restoration Services in Lucedale, MS | HomeLyft Restoration Gulfport"
 h1: "Restoration Services in Lucedale"
 meta_description: "Serving Lucedale, MS with water, fire, mold, and storm damage restoration. IICRC-certified team. Call +12282845200."
 primary_keyword: "restoration services lucedale"
@@ -19,7 +19,7 @@ state: "MS"
 primary: false
 rendered: true
 ---
-When a pipe bursts behind a wall or a storm pushes water under the doors of a George County home, the clock starts immediately. HomeLyft Restoration MS handles water damage mitigation, mold remediation, fire and smoke cleanup, and structural drying for property owners throughout Lucedale, working directly with insurance carriers and staying on-site until the job is genuinely finished, not just surface-dry.
+When a pipe bursts behind a wall or a storm pushes water under the doors of a George County home, the clock starts immediately. HomeLyft Restoration Gulfport handles water damage mitigation, mold remediation, fire and smoke cleanup, and structural drying for property owners throughout Lucedale, working directly with insurance carriers and staying on-site until the job is genuinely finished, not just surface-dry.
 
 ## Restoration emergencies common in Lucedale
 
@@ -53,4 +53,4 @@ Away from the older core, a lot of Lucedale's housing went up from the 1950s onw
 
 Structural repairs inside the city limits are permitted by the City of Lucedale; work outside them goes through George County. If the property sits in a mapped flood zone, repairs valued at half the structure's worth or more trigger the NFIP substantial-damage rules, which changes the rebuild scope entirely.
 
-If you are dealing with water, fire, smoke, or mold damage at a Lucedale property, call HomeLyft Restoration MS at **(228) 284-5200**. We will walk you through next steps, explain what the mitigation process looks like for your specific situation, and get scheduling started.
+If you are dealing with water, fire, smoke, or mold damage at a Lucedale property, call HomeLyft Restoration Gulfport at **(228) 284-5200**. We will walk you through next steps, explain what the mitigation process looks like for your specific situation, and get scheduling started.

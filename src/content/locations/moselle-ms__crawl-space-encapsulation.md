@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Moselle, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Moselle, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Moselle"
 meta_description: "Crawl space encapsulation in Moselle, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation moselle"
@@ -44,10 +44,10 @@ The goal isn't just to install plastic sheeting, it's to create a controlled env
 
 ## Reaching Moselle from Our Gulfport Base
 
-HomeLyft Restoration MS operates out of Gulfport and serves communities across Mississippi, including Moselle and the surrounding Jones County area. Scheduling is handled by phone at +12282845200, and our team coordinates arrival windows that work around your schedule. While Moselle is an inland community rather than a Gulf Coast location, our crews make the drive regularly for encapsulation projects, it's not a service we subcontract out or hand off to a third party.
+HomeLyft Restoration Gulfport operates out of Gulfport and serves communities across Mississippi, including Moselle and the surrounding Jones County area. Scheduling is handled by phone at +12282845200, and our team coordinates arrival windows that work around your schedule. While Moselle is an inland community rather than a Gulf Coast location, our crews make the drive regularly for encapsulation projects, it's not a service we subcontract out or hand off to a third party.
 
 ## Local Note: What Moselle's Soil Does After a Rain
 
 One thing that becomes clear after working crawl spaces in this part of Jones County is how deceptive the dry season can be. A homeowner will have an inspection done in September, see no standing water, and assume the crawl space is fine. Then February and March arrive with back-to-back rain systems, and that same crawl space has two inches of water sitting on bare soil for three weeks. The clay content in the soil here doesn't drain, it holds. A vapor barrier alone won't solve that if surface grading or foundation drainage is pushing water toward the home, which is why our inspections always include a look at exterior grading and downspout discharge before we finalize a scope of work. Fixing the crawl space without addressing the source is a short-term answer.
 
-If you're seeing signs of moisture damage, soft flooring, or musty odors in your Moselle home, the crawl space is almost always the first place to look. Call HomeLyft Restoration MS at +12282845200 to schedule an inspection and get a clear picture of what's happening beneath your floors before the next rainy season compounds the problem.
+If you're seeing signs of moisture damage, soft flooring, or musty odors in your Moselle home, the crawl space is almost always the first place to look. Call HomeLyft Restoration Gulfport at +12282845200 to schedule an inspection and get a clear picture of what's happening beneath your floors before the next rainy season compounds the problem.

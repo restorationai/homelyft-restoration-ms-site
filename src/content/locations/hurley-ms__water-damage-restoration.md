@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Hurley, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Water Damage Restoration in Hurley, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Water Damage Restoration in Hurley"
 meta_description: "24/7 emergency water damage restoration in Hurley, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "water damage restoration hurley"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Water damage emergency in Hurley? We answer 24/7.** Call now and our crew heads out to stop the water and start drying your property.
 
-Hurley sits in the piney woods of Jackson County where the soil shifts between sandy loam and dense clay, and when a water line bursts or a storm pushes water under a crawl space door, that clay holds moisture against your foundation like a sponge. Homes here see standing water linger longer than coastal properties do, and the humid Gulf air that rolls inland through the county keeps relative humidity elevated even on dry days, slowing evaporation and giving mold a shorter window to take hold than most homeowners expect. HomeLyft Restoration MS responds to water damage calls across Hurley and the surrounding Jackson County communities, bringing IICRC-certified water damage and structural drying technicians to your door.
+Hurley sits in the piney woods of Jackson County where the soil shifts between sandy loam and dense clay, and when a water line bursts or a storm pushes water under a crawl space door, that clay holds moisture against your foundation like a sponge. Homes here see standing water linger longer than coastal properties do, and the humid Gulf air that rolls inland through the county keeps relative humidity elevated even on dry days, slowing evaporation and giving mold a shorter window to take hold than most homeowners expect. HomeLyft Restoration Gulfport responds to water damage calls across Hurley and the surrounding Jackson County communities, bringing IICRC-certified water damage and structural drying technicians to your door.
 
 ## Why Hurley Properties Are Vulnerable to Water Damage
 
@@ -47,7 +47,7 @@ Every job starts with a thorough moisture assessment, not just the room that loo
 
 ## Reaching Hurley from Our Gulfport Base
 
-HomeLyft Restoration MS operates out of Gulfport, and Hurley is reachable via US-49 North through the heart of Jackson County. Call us at **+1 (228) 284-5200** to schedule service. Our team will confirm an arrival window and walk you through the steps to take before we arrive, including shutting off the water supply if the source is an active leak and avoiding the use of household fans, which can spread airborne contaminants in a sewage backup situation.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Hurley is reachable via US-49 North through the heart of Jackson County. Call us at **+1 (228) 284-5200** to schedule service. Our team will confirm an arrival window and walk you through the steps to take before we arrive, including shutting off the water supply if the source is an active leak and avoiding the use of household fans, which can spread airborne contaminants in a sewage backup situation.
 
 We coordinate directly with your insurance adjuster once on-site, providing the moisture mapping data and scope documentation that carriers require to process structural drying claims.
 
@@ -61,4 +61,4 @@ We photograph and document the source of loss, the affected materials, and the m
 
 In the older pier-and-beam homes common to the Hurley area, crawl space access hatches are sometimes located inside closets or utility rooms, not on the exterior. When we arrive for a water damage call, we ask about access points before we unload equipment, because discovering a blocked interior hatch after setup wastes time you don't have when subfloor joists are sitting in water. If your home has a crawl space and you're not sure where the access is, check your original home inspection report or look along interior hallway walls near the center of the house, that's where builders in this region most commonly placed them.
 
-If you're dealing with water in your home in Hurley or anywhere in Jackson County, call HomeLyft Restoration MS at **+1 (228) 284-5200**. The faster extraction and drying begin, the smaller the scope of repairs, and the stronger your insurance documentation will be from day one.
+If you're dealing with water in your home in Hurley or anywhere in Jackson County, call HomeLyft Restoration Gulfport at **+1 (228) 284-5200**. The faster extraction and drying begin, the smaller the scope of repairs, and the stronger your insurance documentation will be from day one.

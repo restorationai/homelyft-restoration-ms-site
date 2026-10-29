@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in Sandersville, MS | HomeLyft Restoration MS"
+title: "Asbestos Abatement in Sandersville, MS | HomeLyft Restoration Gulfport"
 h1: "Asbestos Abatement in Sandersville"
 meta_description: "Asbestos abatement in Sandersville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "asbestos abatement sandersville"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Asbestos Abatement"
 rendered: true
 ---
-Sandersville sits in the heart of Mississippi's older rural housing corridor, where decades-old construction methods and materials are still very much present inside walls, attics, floor tiles, and ceiling textures. If you've pulled back a section of popcorn ceiling or disturbed old floor adhesive during a renovation and seen that telltale gray-white fiber texture underneath, the concern is legitimate, asbestos was a standard building material in Mississippi homes built before 1980, and Sandersville's housing stock includes a significant share of structures from that era. HomeLyft Restoration MS handles asbestos testing, inspection, and full abatement for residential and commercial properties across the area, working under EPA Lead-Safe certification and OSHA training standards.
+Sandersville sits in the heart of Mississippi's older rural housing corridor, where decades-old construction methods and materials are still very much present inside walls, attics, floor tiles, and ceiling textures. If you've pulled back a section of popcorn ceiling or disturbed old floor adhesive during a renovation and seen that telltale gray-white fiber texture underneath, the concern is legitimate, asbestos was a standard building material in Mississippi homes built before 1980, and Sandersville's housing stock includes a significant share of structures from that era. HomeLyft Restoration Gulfport handles asbestos testing, inspection, and full abatement for residential and commercial properties across the area, working under EPA Lead-Safe certification and OSHA training standards.
 
 ## Why Sandersville Properties See Asbestos Risks
 
@@ -43,10 +43,10 @@ For popcorn ceiling asbestos removal specifically, one of the most common reques
 
 ## Reaching Sandersville from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport, and our crews travel regularly to serve clients across Mississippi's interior counties. Scheduling is handled during business hours, call +12282845200 to discuss your timeline and get an inspection appointment on the calendar. Because asbestos abatement is a planned, permitted process rather than an emergency-response service, advance scheduling works in your favor: it gives us time to pull any required county notifications and coordinate with the lab before we arrive on-site.
+HomeLyft Restoration Gulfport is based in Gulfport, and our crews travel regularly to serve clients across Mississippi's interior counties. Scheduling is handled during business hours, call +12282845200 to discuss your timeline and get an inspection appointment on the calendar. Because asbestos abatement is a planned, permitted process rather than an emergency-response service, advance scheduling works in your favor: it gives us time to pull any required county notifications and coordinate with the lab before we arrive on-site.
 
 ## Local Note
 
 One pattern that comes up specifically in older Sandersville-area homes is the presence of asbestos-containing duct tape and pipe joint compound on original forced-air heating systems. These systems were installed before central air conditioning was common in rural Mississippi, and the duct insulation wrap and joint sealants used through the early 1970s frequently tested positive for chrysotile asbestos. Homeowners who've had HVAC upgrades done in the last decade sometimes discover the old ductwork was left in place behind new equipment, meaning the ACMs are still there, just out of sight. If your home has had HVAC work done but the original duct runs weren't fully replaced, that's worth including in your inspection scope.
 
-If you've recently purchased an older property in the Sandersville area, or if you're planning any renovation that involves disturbing walls, floors, ceilings, or mechanical systems in a pre-1980 structure, the right first step is a proper asbestos inspection, not a DIY assumption either way. Call HomeLyft Restoration MS at +12282845200 to schedule testing and get a clear picture of what you're working with before any demo work begins.
+If you've recently purchased an older property in the Sandersville area, or if you're planning any renovation that involves disturbing walls, floors, ceilings, or mechanical systems in a pre-1980 structure, the right first step is a proper asbestos inspection, not a DIY assumption either way. Call HomeLyft Restoration Gulfport at +12282845200 to schedule testing and get a clear picture of what you're working with before any demo work begins.

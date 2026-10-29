@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Ocean Springs, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Ocean Springs, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Ocean Springs"
 meta_description: "Carpet cleaning in Ocean Springs, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning ocean springs"
@@ -50,6 +50,6 @@ One pattern that comes up repeatedly in Ocean Springs homes built in the 1960s a
 
 ## Reaching Ocean Springs from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, and Ocean Springs is a straightforward run east on I-10 or US-90 depending on traffic and the specific address. Scheduling is handled by phone at +12282845200, call to confirm availability and arrange a time that works for your household or business.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Ocean Springs is a straightforward run east on I-10 or US-90 depending on traffic and the specific address. Scheduling is handled by phone at +12282845200, call to confirm availability and arrange a time that works for your household or business.
 
-For carpet cleaning in Ocean Springs, call HomeLyft Restoration MS at **+12282845200**. Whether it's a single room that took on storm water or a full commercial property due for its annual deep clean, we'll give you an honest assessment and a clear scope before any work begins.
+For carpet cleaning in Ocean Springs, call HomeLyft Restoration Gulfport at **+12282845200**. Whether it's a single room that took on storm water or a full commercial property due for its annual deep clean, we'll give you an honest assessment and a clear scope before any work begins.

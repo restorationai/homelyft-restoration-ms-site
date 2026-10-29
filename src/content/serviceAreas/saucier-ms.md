@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Saucier, MS | HomeLyft Restoration MS"
+title: "Restoration Services in Saucier, MS | HomeLyft Restoration Gulfport"
 h1: "Restoration Services in Saucier"
 meta_description: "Serving Saucier, MS with water, fire, mold, and storm damage restoration. IICRC-certified team. Call +12282845200."
 primary_keyword: "restoration services saucier"
@@ -19,7 +19,7 @@ state: "MS"
 primary: false
 rendered: true
 ---
-When a pipe bursts behind a wall or a summer storm pushes water under the slab, Saucier property owners need someone who knows the area, not a call center routing you to whoever is available. HomeLyft Restoration MS handles water damage mitigation, mold remediation, fire and smoke cleanup, and structural drying for homes and commercial properties throughout Saucier and the surrounding Stone and Harrison County corridor. From the first call to the final walk-through, the same crew that starts your job finishes it.
+When a pipe bursts behind a wall or a summer storm pushes water under the slab, Saucier property owners need someone who knows the area, not a call center routing you to whoever is available. HomeLyft Restoration Gulfport handles water damage mitigation, mold remediation, fire and smoke cleanup, and structural drying for homes and commercial properties throughout Saucier and the surrounding Stone and Harrison County corridor. From the first call to the final walk-through, the same crew that starts your job finishes it.
 
 ## Restoration emergencies common in Saucier
 
@@ -47,7 +47,7 @@ Once mitigation is complete, many homeowners want one contractor to handle the r
 
 ## Coverage and how fast we can get there
 
-HomeLyft Restoration MS is headquartered in Gulfport, roughly 20 miles south of Saucier via US-49 North. That route is a straightforward drive with no significant interchange delays under normal conditions, putting our crew in Saucier without the routing complexity that affects contractors coming from the east or west along I-10. Properties deeper into the Saucier community, farther off 49 on county roads, add modest travel time, but the same Gulfport-based crew services the full area. Call us at +12282845200 to discuss scheduling and we will give you an honest arrival window based on current crew availability.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, roughly 20 miles south of Saucier via US-49 North. That route is a straightforward drive with no significant interchange delays under normal conditions, putting our crew in Saucier without the routing complexity that affects contractors coming from the east or west along I-10. Properties deeper into the Saucier community, farther off 49 on county roads, add modest travel time, but the same Gulfport-based crew services the full area. Call us at +12282845200 to discuss scheduling and we will give you an honest arrival window based on current crew availability.
 
 ## Building stock, site conditions, and permits in Saucier
 
@@ -57,4 +57,4 @@ The ground here is mostly sandy coastal-plain soil with clay lenses underneath. 
 
 Homes from the 1980s and 1990s may still have polybutylene supply lines. Older houses can hide galvanized steel and cast-iron drains, and a hard January freeze finds every uninsulated run.
 
-If your Saucier property has water damage, smoke damage, or a mold concern you have been putting off, the right time to call is before the problem grows. Reach HomeLyft Restoration MS at +12282845200 to schedule an assessment.
+If your Saucier property has water damage, smoke damage, or a mold concern you have been putting off, the right time to call is before the problem grows. Reach HomeLyft Restoration Gulfport at +12282845200 to schedule an assessment.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Helena, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Helena, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Helena"
 meta_description: "Crawl space encapsulation in Helena, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation helena"
@@ -45,7 +45,7 @@ The result is a conditioned, semi-enclosed space that behaves more like a baseme
 
 ## Reaching Helena from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport and serves Helena and the broader Phillips County area. Helena is a longer drive from the Gulf Coast than our typical service radius, so we coordinate scheduling carefully to ensure the crew arrives with the right materials and equipment staged for the full job, we don't make multiple trips when one properly planned visit will do. When you call to schedule, we'll confirm availability and give you a realistic arrival window so you're not waiting around.
+HomeLyft Restoration Gulfport is headquartered in Gulfport and serves Helena and the broader Phillips County area. Helena is a longer drive from the Gulf Coast than our typical service radius, so we coordinate scheduling carefully to ensure the crew arrives with the right materials and equipment staged for the full job, we don't make multiple trips when one properly planned visit will do. When you call to schedule, we'll confirm availability and give you a realistic arrival window so you're not waiting around.
 
 ## Equipment & Methods We Use for Crawl Space Encapsulation
 
@@ -55,4 +55,4 @@ The barrier material we use is rated for ground contact and puncture resistance,
 
 One thing that comes up specifically in Helena and the surrounding Delta communities: homes with crawl spaces that back up to drainage ditches or agricultural irrigation channels can experience seasonal moisture surges that are more pronounced than typical groundwater intrusion. After heavy spring rains, those channels can run high enough to push water laterally through the soil toward foundations, even homes that sit on slightly elevated lots. If your property is within a few hundred feet of a drainage channel, that's worth mentioning when you call, because it affects both the drainage component of the encapsulation design and the dehumidification sizing.
 
-If you're dealing with a damp crawl space, deteriorating insulation, or unexplained musty odors in your Helena home, the right next step is an honest assessment of what's actually happening under the floor. Call HomeLyft Restoration MS at +12282845200 to schedule an inspection and get a clear picture of what encapsulation would involve for your specific property.
+If you're dealing with a damp crawl space, deteriorating insulation, or unexplained musty odors in your Helena home, the right next step is an honest assessment of what's actually happening under the floor. Call HomeLyft Restoration Gulfport at +12282845200 to schedule an inspection and get a clear picture of what encapsulation would involve for your specific property.

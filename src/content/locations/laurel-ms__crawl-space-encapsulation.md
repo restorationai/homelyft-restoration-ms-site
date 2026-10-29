@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Laurel, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Laurel, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Laurel"
 meta_description: "Crawl space encapsulation in Laurel, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation laurel"
@@ -44,10 +44,10 @@ The IICRC AMRT (Applied Microbial Remediation Technician) certification our team
 
 ## Reaching Laurel from Our Team
 
-HomeLyft Restoration MS is headquartered in Gulfport, and our crews serve Laurel and the broader Jones County area. Scheduling is handled directly through our office at +12282845200. Because crawl space encapsulation is a planned project rather than an emergency extraction, we coordinate site visits in advance to make sure the right crew size and material load arrive together, no partial-day delays waiting for a second truck.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and our crews serve Laurel and the broader Jones County area. Scheduling is handled directly through our office at +12282845200. Because crawl space encapsulation is a planned project rather than an emergency extraction, we coordinate site visits in advance to make sure the right crew size and material load arrive together, no partial-day delays waiting for a second truck.
 
 ## Local Note
 
 One thing that comes up specifically in Laurel's older residential neighborhoods: homes built on pier-and-beam foundations in the 1950s and 1960s often have crawl space clearances of 18 inches or less, below the 24-inch minimum that makes standard encapsulation work comfortable and safe. In those tight spaces, the membrane installation requires hand-laying rather than rolling, seam tape applied flat rather than overlapped, and smaller dehumidifier units positioned carefully to allow future service access. It takes longer, and homeowners should expect a slightly extended project timeline compared to a newer home with a full 36-inch clearance. We scope this during the initial inspection so there are no surprises on install day.
 
-If you are dealing with soft floors, a persistent musty smell, or visible moisture damage in your Laurel home's crawl space, the right time to act is before the next rainy season compounds the problem. Call HomeLyft Restoration MS at +12282845200 to schedule an inspection and get a clear picture of what your crawl space actually needs.
+If you are dealing with soft floors, a persistent musty smell, or visible moisture damage in your Laurel home's crawl space, the right time to act is before the next rainy season compounds the problem. Call HomeLyft Restoration Gulfport at +12282845200 to schedule an inspection and get a clear picture of what your crawl space actually needs.

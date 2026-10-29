@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in Lyman, MS | HomeLyft Restoration MS"
+title: "Contents Restoration and Storage in Lyman, MS | HomeLyft Restoration Gulfport"
 h1: "Contents Restoration and Storage in Lyman"
 meta_description: "Contents restoration and storage in Lyman, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "contents restoration and storage lyman"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Contents Restoration and Storage"
 rendered: true
 ---
-Lyman sits in Harrison County where Gulf Coast humidity rarely lets up, summer air that feels like a warm, wet towel means that smoke residue clings harder to upholstered furniture, and water-soaked fabrics can begin to smell within hours of a loss. When a fire, flood, or storm tears through a home here, the belongings inside face a second threat from the climate itself. HomeLyft Restoration MS handles contents pack-out, professional cleaning, and secure storage so that your furniture, documents, clothing, and keepsakes are protected while your home is being repaired, not left sitting in a garage to absorb more moisture.
+Lyman sits in Harrison County where Gulf Coast humidity rarely lets up, summer air that feels like a warm, wet towel means that smoke residue clings harder to upholstered furniture, and water-soaked fabrics can begin to smell within hours of a loss. When a fire, flood, or storm tears through a home here, the belongings inside face a second threat from the climate itself. HomeLyft Restoration Gulfport handles contents pack-out, professional cleaning, and secure storage so that your furniture, documents, clothing, and keepsakes are protected while your home is being repaired, not left sitting in a garage to absorb more moisture.
 
 ## Why Lyman Homes See Elevated Contents Damage
 
@@ -46,4 +46,4 @@ For Lyman homeowners whose policies include additional living expense coverage, 
 
 One pattern that comes up repeatedly in Harrison County contents jobs is the presence of antique or heirloom pine furniture, the kind of longleaf yellow pine pieces that were built locally generations ago and have been passed down through families. This wood is extraordinarily dense and holds smoke and water differently than modern softwood furniture. It tends to resist surface staining but can check and crack if dried too aggressively. When we encounter these pieces on a Lyman job, we slow the drying process and use a conservator-grade wood conditioner before any refinishing is attempted. Rushing that step on a piece of irreplaceable furniture is not a trade-off worth making.
 
-If you are dealing with a loss in Lyman and need to know what can be saved, call HomeLyft Restoration MS at +12282845200. We will walk through the affected rooms with you, give you an honest assessment of what is restorable, and handle the pack-out so you can focus on the rest of the recovery process.
+If you are dealing with a loss in Lyman and need to know what can be saved, call HomeLyft Restoration Gulfport at +12282845200. We will walk through the affected rooms with you, give you an honest assessment of what is restorable, and handle the pack-out so you can focus on the rest of the recovery process.

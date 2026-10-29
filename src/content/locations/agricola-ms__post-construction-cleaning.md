@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Agricola, MS | HomeLyft Restoration MS"
+title: "Post-Construction and Specialty Cleaning in Agricola, MS | HomeLyft Restoration Gulfport"
 h1: "Post-Construction and Specialty Cleaning in Agricola"
 meta_description: "Post-construction and specialty cleaning in Agricola, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "post-construction and specialty cleaning agricola"
@@ -56,4 +56,4 @@ On commercial or multi-unit projects, we coordinate staging and access around ac
 
 One pattern that comes up consistently on renovation projects in Stone County's older rural homes: original pine subfloor boards, common in homes built before the 1970s, have gaps that widen and narrow with seasonal humidity swings. After a renovation, construction debris, drywall crumble, and adhesive drips fall into those gaps and are essentially invisible until the homeowner turns on the heat in fall and smells scorched dust. A thorough post-construction clean on these homes includes targeted extraction along every subfloor seam before new flooring goes down, not just a surface pass. It's a small step that prevents a frustrating callback six months later.
 
-If you're wrapping up a project in Agricola and want a final clean done right before the inspector or the new occupant walks through, call HomeLyft Restoration MS at +12282845200. We work across Stone County and dispatch from Gulfport, coordinating scheduling to fit your project timeline.
+If you're wrapping up a project in Agricola and want a final clean done right before the inspector or the new occupant walks through, call HomeLyft Restoration Gulfport at +12282845200. We work across Stone County and dispatch from Gulfport, coordinating scheduling to fit your project timeline.

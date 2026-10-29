@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Leakesville, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in Leakesville, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in Leakesville"
 meta_description: "24/7 emergency board-up and tarping in Leakesville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping leakesville"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Need an emergency board-up in Leakesville? We answer 24/7.** Call now and our crew heads out to secure broken windows, doors and roofs.
 
-Greene County's position in the longleaf pine belt means Leakesville takes a direct hit from Gulf-fed storms that push inland faster than coastal radar suggests. When a fast-moving squall tears shingles off a wood-frame home on the south side of town or a falling pine limb punches through a window, the gap between the damage and the next rain band can be measured in hours, sometimes less. HomeLyft Restoration MS boards up openings and installs heavy-duty roof tarps to close that gap before a manageable repair becomes a gut-renovation.
+Greene County's position in the longleaf pine belt means Leakesville takes a direct hit from Gulf-fed storms that push inland faster than coastal radar suggests. When a fast-moving squall tears shingles off a wood-frame home on the south side of town or a falling pine limb punches through a window, the gap between the damage and the next rain band can be measured in hours, sometimes less. HomeLyft Restoration Gulfport boards up openings and installs heavy-duty roof tarps to close that gap before a manageable repair becomes a gut-renovation.
 
 ## Why Leakesville Properties Face Elevated Board-Up and Tarping Risk
 
@@ -49,4 +49,4 @@ Most homeowner policies in Mississippi cover emergency protective measures, boar
 
 One thing we've learned working in rural Mississippi counties like Greene: older homes here were often built with heart pine framing, dense, resinous wood that resists rot better than modern lumber but is also heavier and less forgiving when a rafter is partially compromised. When we're installing tarp battens on a heart pine roof deck, we pre-drill every fastener hole to avoid splitting the wood, and we use longer structural screws to get adequate bite. It takes a few extra minutes, but it means the tarp stays put and the repair crew isn't dealing with additional framing damage when they arrive.
 
-If your home in Leakesville has taken storm or fire damage and you need openings secured before the next weather system moves through Greene County, call HomeLyft Restoration MS at +12282845200. We'll assess the situation, give you an honest arrival estimate, and get your property protected with materials and methods built for what Mississippi weather actually does, not what it does on average.
+If your home in Leakesville has taken storm or fire damage and you need openings secured before the next weather system moves through Greene County, call HomeLyft Restoration Gulfport at +12282845200. We'll assess the situation, give you an honest arrival estimate, and get your property protected with materials and methods built for what Mississippi weather actually does, not what it does on average.

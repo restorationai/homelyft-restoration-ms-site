@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Sandersville, MS | HomeLyft Restoration MS"
+title: "Post-Construction and Specialty Cleaning in Sandersville, MS | HomeLyft Restoration Gulfport"
 h1: "Post-Construction and Specialty Cleaning in Sandersville"
 meta_description: "Post-construction and specialty cleaning in Sandersville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "post-construction and specialty cleaning sandersville"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Post-Construction and Specialty Cleaning"
 rendered: true
 ---
-Sandersville sits in the heart of Jones County, where the humid subtropical climate means construction dust doesn't just settle, it clings. Drywall particles absorb ambient moisture, silica-laden sawdust packs into HVAC returns, and caulk overspray hazes across windows before a contractor's truck is out of the driveway. Whether you've just finished a kitchen gut-renovation, a commercial tenant build-out, or a full addition, the gap between "construction complete" and "move-in ready" is wider than most people expect, and that gap is exactly where HomeLyft Restoration MS works.
+Sandersville sits in the heart of Jones County, where the humid subtropical climate means construction dust doesn't just settle, it clings. Drywall particles absorb ambient moisture, silica-laden sawdust packs into HVAC returns, and caulk overspray hazes across windows before a contractor's truck is out of the driveway. Whether you've just finished a kitchen gut-renovation, a commercial tenant build-out, or a full addition, the gap between "construction complete" and "move-in ready" is wider than most people expect, and that gap is exactly where HomeLyft Restoration Gulfport works.
 
 ## Why Sandersville Properties Require Careful Post-Construction Cleanup
 
@@ -58,4 +58,4 @@ Our team travels from the Gulf Coast to Jones County for scheduled post-construc
 
 One thing that comes up repeatedly on Sandersville renovation projects: older homes in Jones County were often built with wide roof overhangs and deep soffits designed for the climate, and renovations that add dormers or alter rooflines frequently leave sawdust and insulation debris packed into those soffit cavities. It's not visible from inside or outside, but it becomes an odor source, especially in summer, and can attract pests. On projects involving roofline changes, we include soffit cavity inspection as part of the scope rather than treating it as an add-on.
 
-If you're wrapping up a renovation in Sandersville and want the space genuinely ready for occupancy, not just surface-swept, call HomeLyft Restoration MS at +12282845200. We'll assess the scope, give you a clear timeline, and handle the detail work that makes the difference between a space that looks finished and one that actually is.
+If you're wrapping up a renovation in Sandersville and want the space genuinely ready for occupancy, not just surface-swept, call HomeLyft Restoration Gulfport at +12282845200. We'll assess the scope, give you a clear timeline, and handle the detail work that makes the difference between a space that looks finished and one that actually is.

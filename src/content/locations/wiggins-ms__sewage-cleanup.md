@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in Wiggins, MS | HomeLyft Restoration MS"
+title: "Emergency Sewage Cleanup and Sanitization in Wiggins, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Wiggins"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Wiggins, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "sewage cleanup and sanitization wiggins"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Sewage backup in Wiggins? We answer 24/7.** Call now and our crew heads out to contain the contamination and start the cleanup.
 
-When a sewer line backs up or a septic system overflows in Wiggins, the mess doesn't wait for a convenient time, and in Stone County's humid, clay-heavy soil, standing sewage soaks into subfloor materials and crawl space framing faster than most homeowners expect. Raw sewage carries bacteria, viruses, and parasites that make a flooded bathroom or utility room genuinely hazardous, not just unpleasant. HomeLyft Restoration MS responds to sewage backup calls across Wiggins and the surrounding Stone County area, bringing IICRC-certified technicians and commercial-grade sanitization equipment to get your home or business back to a safe, livable condition.
+When a sewer line backs up or a septic system overflows in Wiggins, the mess doesn't wait for a convenient time, and in Stone County's humid, clay-heavy soil, standing sewage soaks into subfloor materials and crawl space framing faster than most homeowners expect. Raw sewage carries bacteria, viruses, and parasites that make a flooded bathroom or utility room genuinely hazardous, not just unpleasant. HomeLyft Restoration Gulfport responds to sewage backup calls across Wiggins and the surrounding Stone County area, bringing IICRC-certified technicians and commercial-grade sanitization equipment to get your home or business back to a safe, livable condition.
 
 ## Why Wiggins Properties Are Vulnerable to Sewage Backup
 
@@ -47,7 +47,7 @@ Sewage cleanup is a multi-phase process, and cutting corners on any step creates
 
 ## Reaching Wiggins from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport and dispatches to Wiggins via US-49 North through the Hattiesburg corridor or directly up MS-26 depending on crew location and traffic. Stone County is a regular part of our service area, this is not a fringe dispatch. When you call, the team coordinates routing in real time to reach your address as promptly as conditions allow. Scheduling is handled during business hours; call +12282845200 to reach a live team member and get a technician on the calendar.
+HomeLyft Restoration Gulfport is headquartered in Gulfport and dispatches to Wiggins via US-49 North through the Hattiesburg corridor or directly up MS-26 depending on crew location and traffic. Stone County is a regular part of our service area, this is not a fringe dispatch. When you call, the team coordinates routing in real time to reach your address as promptly as conditions allow. Scheduling is handled during business hours; call +12282845200 to reach a live team member and get a technician on the calendar.
 
 ## Wiggins Insurance Coordination for Sewage Damage Claims
 
@@ -57,4 +57,4 @@ Sewage backup claims in Mississippi are frequently misunderstood at the policy l
 
 One thing that comes up repeatedly on Wiggins sewage jobs is the interaction between clay subsoil and pier-and-beam construction. When sewage migrates into a crawl space built over clay, the clay holds moisture long after the visible contamination is removed, it does not drain or evaporate the way sandy soil does. That trapped moisture keeps relative humidity elevated under the floor, which prolongs the structural drying phase and creates secondary mold risk if the crawl is closed back up too soon. On Stone County jobs with crawl space involvement, the drying timeline is extended and crawl space encapsulation is assessed before the job is closed out.
 
-If your home in Wiggins or the surrounding Stone County area is dealing with a sewage backup, septic overflow, or sewer line failure, call HomeLyft Restoration MS at +12282845200. The sooner extraction and sanitization begin, the less structural damage and secondary contamination you will face.
+If your home in Wiggins or the surrounding Stone County area is dealing with a sewage backup, septic overflow, or sewer line failure, call HomeLyft Restoration Gulfport at +12282845200. The sooner extraction and sanitization begin, the less structural damage and secondary contamination you will face.

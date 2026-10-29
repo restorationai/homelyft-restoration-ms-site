@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Roofing Installation and Replacement in Gautier, MS | HomeLyft Restoration MS"
+title: "Roofing Installation and Replacement in Gautier, MS | HomeLyft Restoration Gulfport"
 h1: "Roofing Installation and Replacement in Gautier"
 meta_description: "24/7 roofing installation and replacement in Gautier, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "roofing installation and replacement gautier"
@@ -42,4 +42,4 @@ Homes closer to the Pascagoula River floodplain tend to run slightly higher humi
 
 We install both architectural asphalt shingle systems and standing seam metal, depending on budget and wind exposure, and we use ring-shank nails and enhanced fastening patterns on every tear-off, not just where code minimums require it. Flashing at chimneys, vents, and valleys is replaced rather than reused, since reused flashing is one of the more common causes of slow leaks that surface months after a roof looks finished. For FORTIFIED-eligible installations, sealed roof decking and additional attachment points are documented and photographed to meet the evaluator's requirements.
 
-A roof replacement in Gautier is a bigger decision than picking a shingle color. It's wind rating, ventilation, decking condition, and whether the job is documented well enough to support an insurance claim or a FORTIFIED designation down the road. If you're weighing a repair against a full replacement, or you've already got a damaged roof and an adjuster on the way, call HomeLyft Restoration MS at (228) 284-5200 to get a straight assessment before you commit either way.
+A roof replacement in Gautier is a bigger decision than picking a shingle color. It's wind rating, ventilation, decking condition, and whether the job is documented well enough to support an insurance claim or a FORTIFIED designation down the road. If you're weighing a repair against a full replacement, or you've already got a damaged roof and an adjuster on the way, call HomeLyft Restoration Gulfport at (228) 284-5200 to get a straight assessment before you commit either way.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in St. Martin, MS | HomeLyft Restoration MS"
+title: "Asbestos Abatement in St. Martin, MS | HomeLyft Restoration Gulfport"
 h1: "Asbestos Abatement in St. Martin"
 meta_description: "Asbestos abatement in St. Martin, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "asbestos abatement st. martin"
@@ -36,7 +36,7 @@ For popcorn ceiling asbestos removal, one of the more common requests we handle 
 
 ## Reaching St. Martin from Gulfport
 
-HomeLyft Restoration MS operates out of Gulfport, which puts St. Martin well within our regular service area. The drive along U.S. 90 or via I-10 keeps travel time manageable, and we schedule site visits for inspections and abatement work with the same efficiency we bring to any Jackson County job. When you call +12282845200, you'll speak with someone who can confirm scheduling availability and walk you through what to expect before anyone sets foot on your property.
+HomeLyft Restoration Gulfport operates out of Gulfport, which puts St. Martin well within our regular service area. The drive along U.S. 90 or via I-10 keeps travel time manageable, and we schedule site visits for inspections and abatement work with the same efficiency we bring to any Jackson County job. When you call +12282845200, you'll speak with someone who can confirm scheduling availability and walk you through what to expect before anyone sets foot on your property.
 
 ## St. Martin Insurance Coordination
 
@@ -46,4 +46,4 @@ Asbestos abatement triggered by a covered loss, storm damage, a sudden pipe fail
 
 One pattern that comes up repeatedly in St. Martin and the surrounding Jackson County communities: homes that received post-Katrina repairs in 2005 and 2006 sometimes have a layered history, original 1960s materials underneath, patch repairs from the 1980s, and storm-era work on top. That stratigraphy matters during an inspection because asbestos-containing materials may be present in layers that aren't immediately visible. An inspector who isn't looking for that layering can miss a positive material entirely. When we inspect older homes in this area, we sample at multiple depths where repairs are evident, not just the surface layer.
 
-If you're planning a renovation, a roof replacement, or dealing with storm damage in St. Martin, don't assume the materials are safe because the house "looks newer." Call HomeLyft Restoration MS at +12282845200 to schedule an asbestos inspection before work begins, it's the step that keeps a manageable project from becoming a regulated cleanup.
+If you're planning a renovation, a roof replacement, or dealing with storm damage in St. Martin, don't assume the materials are safe because the house "looks newer." Call HomeLyft Restoration Gulfport at +12282845200 to schedule an asbestos inspection before work begins, it's the step that keeps a manageable project from becoming a regulated cleanup.

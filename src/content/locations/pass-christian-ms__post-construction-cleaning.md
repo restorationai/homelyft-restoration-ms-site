@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Pass Christian, MS | HomeLyft Restoration MS"
+title: "Post-Construction and Specialty Cleaning in Pass Christian, MS | HomeLyft Restoration Gulfport"
 h1: "Post-Construction and Specialty Cleaning in Pass Christian"
 meta_description: "Post-construction and specialty cleaning in Pass Christian, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "post-construction and specialty cleaning pass christian"
@@ -52,4 +52,4 @@ One thing that catches out-of-area cleaning crews in Pass Christian is the dew p
 
 ## Closing
 
-If your Pass Christian renovation or new construction is approaching final inspection and you need a cleaning crew that understands Gulf Coast conditions, not just a generic checklist, call HomeLyft Restoration MS at +12282845200 to schedule your post-construction clean. The team brings the equipment, the certifications, and the local knowledge to hand the space back to you ready for occupancy.
+If your Pass Christian renovation or new construction is approaching final inspection and you need a cleaning crew that understands Gulf Coast conditions, not just a generic checklist, call HomeLyft Restoration Gulfport at +12282845200 to schedule your post-construction clean. The team brings the equipment, the certifications, and the local knowledge to hand the space back to you ready for occupancy.

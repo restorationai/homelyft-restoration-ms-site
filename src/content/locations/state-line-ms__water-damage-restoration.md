@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in State Line, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Water Damage Restoration in State Line, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Water Damage Restoration in State Line"
 meta_description: "24/7 emergency water damage restoration in State Line, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "water damage restoration state line"
@@ -41,7 +41,7 @@ Because many State Line homes have pier-and-beam or block foundations with crawl
 
 ## Reaching State Line from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport, and State Line is roughly a two-hour drive north via US-98 through Hattiesburg and into Greene County. We want to be transparent: State Line is one of our more distant service areas in Mississippi, which means scheduling a prompt response requires a call during our business hours so we can dispatch a crew with the right equipment loaded and coordinated for the drive. When you call +12282845200, our team will give you an honest arrival window so you can take the right immediate steps, stopping the water source, moving valuables off wet floors, and opening interior doors to start air circulation, while we're en route.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and State Line is roughly a two-hour drive north via US-98 through Hattiesburg and into Greene County. We want to be transparent: State Line is one of our more distant service areas in Mississippi, which means scheduling a prompt response requires a call during our business hours so we can dispatch a crew with the right equipment loaded and coordinated for the drive. When you call +12282845200, our team will give you an honest arrival window so you can take the right immediate steps, stopping the water source, moving valuables off wet floors, and opening interior doors to start air circulation, while we're en route.
 
 ## State Line Insurance Coordination
 

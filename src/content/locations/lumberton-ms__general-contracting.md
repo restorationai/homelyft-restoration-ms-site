@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Lumberton, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Lumberton, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Lumberton"
 meta_description: "Renovations, remodels and general contracting in Lumberton, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting lumberton"
@@ -26,7 +26,7 @@ Lumberton sits in the heart of Lamar County where the humid Gulf Coast climate p
 
 Lamar County's humidity averages push well above 70% for much of the year, and Lumberton's older residential blocks reflect decades of that exposure. Pier-and-beam foundations common in homes built before the 1980s shift seasonally with the clay-heavy soil, creating uneven subfloors that a standard remodel crew from out of the area might miss entirely. What looks like a cosmetic kitchen update can reveal soft joists, outdated knob-and-tube wiring behind cabinet walls, or galvanized plumbing that's been slowly corroding for thirty years.
 
-There's also the lead-paint factor. Homes constructed before 1978, and Lumberton has many, require EPA Lead-Safe certified contractors for any renovation that disturbs painted surfaces. HomeLyft Restoration MS carries that certification, which matters both for your family's safety and for keeping the project compliant with Mississippi Department of Health guidelines.
+There's also the lead-paint factor. Homes constructed before 1978, and Lumberton has many, require EPA Lead-Safe certified contractors for any renovation that disturbs painted surfaces. HomeLyft Restoration Gulfport carries that certification, which matters both for your family's safety and for keeping the project compliant with Mississippi Department of Health guidelines.
 
 Post-storm rebuild work adds another layer. Lamar County sits in a zone where Gulf-origin wind events cause real structural damage, and insurance-driven rebuilds have to meet current Mississippi Residential Building Code standards even when the original structure predated them. Our team is FORTIFIED Building and Roofing certified for Mississippi windstorm standards, so rebuilt rooflines and exterior assemblies are documented and rated correctly from the start.
 
@@ -42,7 +42,7 @@ Post-damage rebuilds follow a parallel track: insurance documentation first, the
 
 ## Reaching Lumberton from Our Gulfport Base
 
-HomeLyft Restoration MS operates out of Gulfport, and Lumberton is a straightforward run up US-49 into Lamar County, a route our crews travel regularly for both restoration and renovation work throughout the Pine Belt region. We schedule Lumberton projects with enough lead time to coordinate material deliveries locally and avoid the delays that come from last-minute sourcing on a job site an hour from our warehouse.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Lumberton is a straightforward run up US-49 into Lamar County, a route our crews travel regularly for both restoration and renovation work throughout the Pine Belt region. We schedule Lumberton projects with enough lead time to coordinate material deliveries locally and avoid the delays that come from last-minute sourcing on a job site an hour from our warehouse.
 
 For larger projects, we stage materials at the job site rather than making daily supply runs, which keeps the schedule tighter and the disruption to your household or business shorter.
 
@@ -50,4 +50,4 @@ For larger projects, we stage materials at the job site rather than making daily
 
 One thing that catches renovation crews unfamiliar with this part of Mississippi off guard: Lumberton's underlying soil is predominantly Oktibbeha and Brooksville clay series, expansive soils that swell when wet and shrink when dry. A kitchen remodel that includes new tile flooring needs to account for this movement, or grout lines crack within a season. We use uncoupling membrane systems under tile installations in Lumberton homes specifically because of this soil behavior, and we check pier heights before committing to any flooring finish that doesn't tolerate flex. It's a small detail that saves a costly callback.
 
-If you're ready to move forward on a renovation, remodel, or post-damage rebuild in Lumberton, call HomeLyft Restoration MS at +12282845200 to schedule a walkthrough. We'll give you a clear scope, a realistic timeline, and a straight answer on what the project actually involves, no vague estimates, no surprises once the walls are open.
+If you're ready to move forward on a renovation, remodel, or post-damage rebuild in Lumberton, call HomeLyft Restoration Gulfport at +12282845200 to schedule a walkthrough. We'll give you a clear scope, a realistic timeline, and a straight answer on what the project actually involves, no vague estimates, no surprises once the walls are open.

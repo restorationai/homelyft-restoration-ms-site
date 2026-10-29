@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in D'Iberville, MS | HomeLyft Restoration MS"
+title: "Contents Restoration and Storage in D'Iberville, MS | HomeLyft Restoration Gulfport"
 h1: "Contents Restoration and Storage in D'Iberville"
 meta_description: "Contents restoration and storage in D'Iberville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "contents restoration and storage d'iberville"
@@ -50,4 +50,4 @@ Our team operates out of Gulfport and reaches D'Iberville via US-49 North, a str
 
 One pattern we've noticed working in D'Iberville is how many homes in this area have screened rear porches that double as storage and living space, outdoor furniture, seasonal decorations, small appliances, even electronics. These items are often the first to show smoke or water damage after a loss event, and because they're on a covered-but-not-conditioned porch, they've typically been through years of Gulf Coast humidity cycling already. That prior exposure means wood joints are often looser and fabric is more brittle than it looks. We flag porch contents for closer evaluation during inventory rather than assuming they'll clean up the same way interior furniture does.
 
-If a fire, flood, or storm has left your D'Iberville home in disarray, the sooner your belongings are out of the affected environment, the more of them we can save. Call HomeLyft Restoration MS at +12282845200 to schedule a contents pack-out assessment, we'll walk through the property with you, explain what's restorable and what isn't, and get your items into safe storage while your home is brought back to pre-loss condition.
+If a fire, flood, or storm has left your D'Iberville home in disarray, the sooner your belongings are out of the affected environment, the more of them we can save. Call HomeLyft Restoration Gulfport at +12282845200 to schedule a contents pack-out assessment, we'll walk through the property with you, explain what's restorable and what isn't, and get your items into safe storage while your home is brought back to pre-loss condition.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Reconstruction Services in Biloxi, MS | HomeLyft Restoration MS"
+title: "Reconstruction Services in Biloxi, MS | HomeLyft Restoration Gulfport"
 h1: "Reconstruction Services in Biloxi"
 meta_description: "24/7 reconstruction services in Biloxi, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "reconstruction services biloxi"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Reconstruction Services"
 rendered: true
 ---
-**Rebuilding after storm or fire damage in Biloxi requires more than carpentry.** Reconstruction Services from HomeLyft Restoration MS means putting a structure back together the way the Mississippi Gulf Coast actually requires: elevated framing where flood codes demand it, wind-rated materials where hurricane exposure is a given, and permitting handled correctly the first time so Harrison County inspectors don't send you back to the drawing board.
+**Rebuilding after storm or fire damage in Biloxi requires more than carpentry.** Reconstruction Services from HomeLyft Restoration Gulfport means putting a structure back together the way the Mississippi Gulf Coast actually requires: elevated framing where flood codes demand it, wind-rated materials where hurricane exposure is a given, and permitting handled correctly the first time so Harrison County inspectors don't send you back to the drawing board.
 
 ## Why Biloxi Properties See Reconstruction Needs
 
@@ -38,4 +38,4 @@ Coastal Mississippi rebuilds almost always touch flood insurance, wind insurance
 
 One detail that catches out-of-town contractors off guard: a lot of Biloxi housing stock near the water sits on piers or elevated slabs from post-Katrina rebuilds, while blocks further inland still have original 1960s-70s slab construction. That mix means two houses on the same street can require completely different foundation approaches during reconstruction, so we verify elevation and foundation type on-site before finalizing a structural scope rather than assuming based on the neighborhood.
 
-If a storm, fire, or long-term leak has left your Biloxi property needing more than patchwork repair, HomeLyft Restoration MS handles the structural reconstruction from framing to final finish, coordinated with whichever other services the loss requires. Call to get a scope started and the permitting conversation moving.
+If a storm, fire, or long-term leak has left your Biloxi property needing more than patchwork repair, HomeLyft Restoration Gulfport handles the structural reconstruction from framing to final finish, coordinated with whichever other services the loss requires. Call to get a scope started and the permitting conversation moving.

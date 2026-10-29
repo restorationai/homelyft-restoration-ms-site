@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Reconstruction Services in Gautier, MS | HomeLyft Restoration MS"
+title: "Reconstruction Services in Gautier, MS | HomeLyft Restoration Gulfport"
 h1: "Reconstruction Services in Gautier"
 meta_description: "24/7 reconstruction services in Gautier, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "reconstruction services gautier"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Reconstruction Services"
 rendered: true
 ---
-Rebuilding after a fire, storm, or burst pipe looks different on the Mississippi Gulf Coast than it does further inland, and Gautier is a good example of why. Many homes here sit on slab or pier foundations built to handle storm surge and sandy soil, and a reconstruction job has to account for that from the framing stage forward, not just patch over what burned or flooded. Reconstruction Services from HomeLyft Restoration MS means putting a Jackson County property back together the way it was built to withstand, not just the way it looked before the damage.
+Rebuilding after a fire, storm, or burst pipe looks different on the Mississippi Gulf Coast than it does further inland, and Gautier is a good example of why. Many homes here sit on slab or pier foundations built to handle storm surge and sandy soil, and a reconstruction job has to account for that from the framing stage forward, not just patch over what burned or flooded. Reconstruction Services from HomeLyft Restoration Gulfport means putting a Jackson County property back together the way it was built to withstand, not just the way it looked before the damage.
 
 ## Why Gautier Properties See Reconstruction Needs
 
@@ -42,4 +42,4 @@ Gulf Coast properties frequently carry separate wind and flood policies, and a s
 
 Because Gautier sits in a region where Fortified Home standards are increasingly the baseline for wind-zone rebuilding, a reconstruction after storm or fire damage is often a chance to upgrade roof decking attachment, gable bracing, and opening protection to current wind-rated specs, not just restore the original materials. We hold Fortified Building Roofing certification for Mississippi windstorm work, so when a rebuild touches the roof system, we build it to the standard that actually holds up in the next storm season, not just the standard the house had before.
 
-If a fire, storm, or water loss has left part of your Gautier home needing more than a patch job, HomeLyft Restoration MS handles the reconstruction from framing to final finish, coordinated with your insurance and Jackson County permitting along the way. Call +1 (228) 284-5200 to walk through what a rebuild looks like for your property.
+If a fire, storm, or water loss has left part of your Gautier home needing more than a patch job, HomeLyft Restoration Gulfport handles the reconstruction from framing to final finish, coordinated with your insurance and Jackson County permitting along the way. Call +1 (228) 284-5200 to walk through what a rebuild looks like for your property.

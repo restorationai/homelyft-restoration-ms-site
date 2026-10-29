@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Diamondhead, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Fire Damage Restoration in Diamondhead, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Fire Damage Restoration in Diamondhead"
 meta_description: "24/7 emergency fire damage restoration in Diamondhead, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "fire damage restoration diamondhead"
@@ -39,7 +39,7 @@ From there, the sequence runs: emergency board-up and tarping to secure the stru
 
 ## Reaching Diamondhead from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport, and Diamondhead is a direct run up U.S. 90 and I-10 West, a route our crews know well from serving Hancock County properties. When you call +12282845200, we gather enough information on that first call to dispatch the right crew configuration and equipment load for a fire loss, not a generic service vehicle. Bringing the right gear the first time, ozone units, hydroxyl generators, HEPA extraction equipment, and structural assessment tools, means fewer trips and faster progress on your property.
+HomeLyft Restoration Gulfport is based in Gulfport, and Diamondhead is a direct run up U.S. 90 and I-10 West, a route our crews know well from serving Hancock County properties. When you call +12282845200, we gather enough information on that first call to dispatch the right crew configuration and equipment load for a fire loss, not a generic service vehicle. Bringing the right gear the first time, ozone units, hydroxyl generators, HEPA extraction equipment, and structural assessment tools, means fewer trips and faster progress on your property.
 
 ## Insurance Coordination for Diamondhead Fire Claims
 
@@ -49,4 +49,4 @@ Fire losses in Diamondhead almost always involve a homeowner's insurance claim, 
 
 Diamond head's planned community layout includes a significant number of homes with shared-wall or zero-lot-line configurations in certain sections, and fire restoration in those situations requires coordination with adjacent property owners before any exterior work, including board-up, scaffolding, or debris staging, can proceed. We've navigated those conversations before. It's worth flagging when you call if your property shares a wall or sits close to a neighbor's structure, so we can factor access and neighbor notification into the initial site plan rather than discovering it on arrival.
 
-If your home in Diamondhead has sustained fire or smoke damage, the most important thing you can do right now is limit foot traffic through affected areas and avoid running the HVAC system, which circulates soot particles and embeds odor deeper into ductwork and soft surfaces. Call HomeLyft Restoration MS at +12282845200 to schedule an assessment and start the documentation process before more of your home's materials reach the point of no return.
+If your home in Diamondhead has sustained fire or smoke damage, the most important thing you can do right now is limit foot traffic through affected areas and avoid running the HVAC system, which circulates soot particles and embeds odor deeper into ductwork and soft surfaces. Call HomeLyft Restoration Gulfport at +12282845200 to schedule an assessment and start the documentation process before more of your home's materials reach the point of no return.

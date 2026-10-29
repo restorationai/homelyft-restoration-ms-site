@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Henderson Point, MS | HomeLyft Restoration MS"
+title: "Mold Remediation in Henderson Point, MS | HomeLyft Restoration Gulfport"
 h1: "Mold Remediation in Henderson Point"
 meta_description: "Mold remediation in Henderson Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "mold remediation henderson point"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Mold Remediation"
 rendered: true
 ---
-Henderson Point sits on a narrow peninsula where the Bay of St. Louis meets the open Gulf, and that geography does something particular to the air inside homes here: it stays wet. When a slow roof leak, a crawl space seep, or a malfunctioning HVAC drain line goes unnoticed for even 48 to 72 hours in this climate, mold doesn't just appear, it colonizes. HomeLyft Restoration MS handles mold remediation for Henderson Point properties from our Gulfport base, and the coastal Mississippi conditions we work in every week shape every decision we make on a job.
+Henderson Point sits on a narrow peninsula where the Bay of St. Louis meets the open Gulf, and that geography does something particular to the air inside homes here: it stays wet. When a slow roof leak, a crawl space seep, or a malfunctioning HVAC drain line goes unnoticed for even 48 to 72 hours in this climate, mold doesn't just appear, it colonizes. HomeLyft Restoration Gulfport handles mold remediation for Henderson Point properties from our Gulfport base, and the coastal Mississippi conditions we work in every week shape every decision we make on a job.
 
 ## Why Henderson Point Properties See Mold Issues
 
@@ -48,4 +48,4 @@ Mold claims along the Mississippi Gulf Coast often involve questions about wheth
 
 One thing that surprises homeowners on the Henderson Point peninsula is how quickly mold can establish in HVAC ductwork. The combination of cool conditioned air inside metal ducts and the extremely humid outdoor air that infiltrates around duct joints creates persistent condensation surfaces, particularly in homes where duct systems run through unconditioned crawl spaces or attic spaces. We inspect duct interiors as part of every mold assessment here, because a remediated wall cavity will re-inoculate within a season if the duct system is actively distributing spores through the living space.
 
-If you're seeing discoloration on walls, smelling that distinct musty-earth odor after rain, or dealing with a water event that wasn't dried out within the first day or two, call HomeLyft Restoration MS at +12282845200. We'll assess the situation honestly and give you a clear picture of what remediation involves before any work begins.
+If you're seeing discoloration on walls, smelling that distinct musty-earth odor after rain, or dealing with a water event that wasn't dried out within the first day or two, call HomeLyft Restoration Gulfport at +12282845200. We'll assess the situation honestly and give you a clear picture of what remediation involves before any work begins.

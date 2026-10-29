@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Petal, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Petal, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Petal"
 meta_description: "Crawl space encapsulation in Petal, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation petal"
@@ -52,4 +52,4 @@ Dehumidifier sizing is equally critical. An undersized unit runs continuously wi
 
 One pattern we see consistently in the Petal area: homes that back up to drainage ditches or low-lying areas near the Leaf River corridor tend to have crawl spaces that stay wet well after surface water recedes. The water table in these low spots remains elevated for weeks following significant rain events, which means ground vapor pressure stays high long after the yard looks dry. If your home sits in one of these lower-elevation pockets, a passive vapor barrier alone may not be sufficient, active dehumidification is almost always part of the right solution, and we factor that into the scope before the first barrier roll is cut.
 
-If you're seeing musty odors coming through your floors, soft spots in the subfloor, or higher-than-usual cooling bills during Petal's summer months, those are signals worth acting on before the damage compounds. Call HomeLyft Restoration MS at +12282845200 to schedule a crawl space evaluation, we'll give you a clear picture of what's happening under your home and what it will take to fix it.
+If you're seeing musty odors coming through your floors, soft spots in the subfloor, or higher-than-usual cooling bills during Petal's summer months, those are signals worth acting on before the damage compounds. Call HomeLyft Restoration Gulfport at +12282845200 to schedule a crawl space evaluation, we'll give you a clear picture of what's happening under your home and what it will take to fix it.

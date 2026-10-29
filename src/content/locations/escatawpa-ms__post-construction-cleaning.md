@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Escatawpa, MS | HomeLyft Restoration MS"
+title: "Post-Construction and Specialty Cleaning in Escatawpa, MS | HomeLyft Restoration Gulfport"
 h1: "Post-Construction and Specialty Cleaning in Escatawpa"
 meta_description: "Post-construction and specialty cleaning in Escatawpa, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "post-construction and specialty cleaning escatawpa"
@@ -54,6 +54,6 @@ One thing that catches out-of-area cleaning crews in Escatawpa: the clay soil co
 
 ## Reaching Escatawpa from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport and serves Escatawpa and the broader Jackson County area. Scheduling is handled by phone at +12282845200, call to discuss your project timeline, get a scope assessment, and lock in a cleaning date that works around your contractor's punch-list schedule. We coordinate directly with general contractors and project managers so the cleaning phase doesn't become a scheduling bottleneck at the end of a build.
+HomeLyft Restoration Gulfport is based in Gulfport and serves Escatawpa and the broader Jackson County area. Scheduling is handled by phone at +12282845200, call to discuss your project timeline, get a scope assessment, and lock in a cleaning date that works around your contractor's punch-list schedule. We coordinate directly with general contractors and project managers so the cleaning phase doesn't become a scheduling bottleneck at the end of a build.
 
-If your Escatawpa project is wrapping up and you need a certified, detail-oriented team for the final clean, or a specialty clean involving lead-safe protocols, odor treatment, or phased commercial work, call HomeLyft Restoration MS. We know what Gulf Coast construction sites leave behind, and we know how to clear it properly before the first occupant walks through the door.
+If your Escatawpa project is wrapping up and you need a certified, detail-oriented team for the final clean, or a specialty clean involving lead-safe protocols, odor treatment, or phased commercial work, call HomeLyft Restoration Gulfport. We know what Gulf Coast construction sites leave behind, and we know how to clear it properly before the first occupant walks through the door.

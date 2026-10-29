@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Smoke Damage Restoration in Laurel, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Smoke Damage Restoration in Laurel, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Smoke Damage Restoration in Laurel"
 meta_description: "24/7 emergency smoke damage restoration in Laurel, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "smoke damage restoration laurel"
@@ -42,4 +42,4 @@ We run crews out from our Gulfport base up into Jones County on a regular basis,
 
 Laurel's historic district has a mix of homes under local preservation guidelines, which means exterior trim, original windows, and siding sometimes can't simply be stripped and replaced the way they could in a newer subdivision. When a fire or smoke event touches one of these properties, we document the original materials closely and lean toward restoration methods, like specialized wood cleaning and sealing, over wholesale replacement, so the repair holds up to any preservation review tied to the property.
 
-If smoke or soot has settled into your Laurel home, whether from a structure fire, a chimney issue, or drifting wildfire smoke, the residue only gets harder to remove the longer it sits. HomeLyft Restoration MS carries IICRC FSRT certification for fire and smoke work and answers around the clock, so call +12282845200 and we'll get a crew assessing the damage and started on cleanup.
+If smoke or soot has settled into your Laurel home, whether from a structure fire, a chimney issue, or drifting wildfire smoke, the residue only gets harder to remove the longer it sits. HomeLyft Restoration Gulfport carries IICRC FSRT certification for fire and smoke work and answers around the clock, so call +12282845200 and we'll get a crew assessing the damage and started on cleanup.

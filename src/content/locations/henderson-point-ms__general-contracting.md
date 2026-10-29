@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Henderson Point, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Henderson Point, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Henderson Point"
 meta_description: "Renovations, remodels and general contracting in Henderson Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting henderson point"
@@ -42,4 +42,4 @@ Our crews operate out of Gulfport and reach Henderson Point via U.S. 90 west thr
 
 One thing that catches homeowners off guard on Henderson Point renovations is how quickly salt-laden air degrades finish materials that would hold up fine twenty miles inland. Standard interior-grade cabinet hardware, hollow-core exterior doors, and even certain paint formulations show accelerated corrosion and adhesion failure within a few seasons when the home is within a few hundred feet of open water. When we spec a kitchen remodel or bathroom renovation on this peninsula, we default to marine-grade or stainless hardware, solid-core exterior doors with fiberglass or aluminum cladding, and primers rated for high-humidity coastal environments. It adds a modest amount to material costs upfront and saves a full replacement cycle within five years, a trade most homeowners are glad they made.
 
-If your Henderson Point home needs a renovation that accounts for everything the coast throws at it, storm exposure, salt air, aging structure, and permit requirements specific to this wind zone, call HomeLyft Restoration MS at +12282845200. We'll walk the property, give you a scope that reflects actual conditions, and build it to last on this peninsula.
+If your Henderson Point home needs a renovation that accounts for everything the coast throws at it, storm exposure, salt air, aging structure, and permit requirements specific to this wind zone, call HomeLyft Restoration Gulfport at +12282845200. We'll walk the property, give you a scope that reflects actual conditions, and build it to last on this peninsula.

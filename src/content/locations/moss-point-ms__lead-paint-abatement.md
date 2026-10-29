@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Lead Paint Abatement in Moss Point, MS | HomeLyft Restoration MS"
+title: "Lead Paint Abatement in Moss Point, MS | HomeLyft Restoration Gulfport"
 h1: "Lead Paint Abatement in Moss Point"
 meta_description: "24/7 lead paint abatement in Moss Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "lead paint abatement moss point"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Lead Paint Abatement"
 rendered: true
 ---
-**Lead paint abatement in Moss Point** usually starts with a simple question from a homeowner: the trim is peeling again, and they want to know if it's safe to sand it themselves before repainting. In a city where much of the housing stock dates back to the shipbuilding and paper-mill boom of the mid-20th century, that peeling trim is often original lead-based paint, and disturbing it without containment can spread dust through the whole house. HomeLyft Restoration MS is EPA Lead-Safe Certified, and we test, contain, and remove lead paint the way the work practices actually require, not the shortcut version.
+**Lead paint abatement in Moss Point** usually starts with a simple question from a homeowner: the trim is peeling again, and they want to know if it's safe to sand it themselves before repainting. In a city where much of the housing stock dates back to the shipbuilding and paper-mill boom of the mid-20th century, that peeling trim is often original lead-based paint, and disturbing it without containment can spread dust through the whole house. HomeLyft Restoration Gulfport is EPA Lead-Safe Certified, and we test, contain, and remove lead paint the way the work practices actually require, not the shortcut version.
 
 ## Why Moss Point Homes Often Carry Lead Paint Risk
 
@@ -38,4 +38,4 @@ We run crews out of Gulfport across the Mississippi Gulf Coast, and Moss Point s
 
 One thing that catches homeowners off guard in Moss Point specifically: the combination of river humidity and salt air off the Sound makes old paint film go brittle and friable faster than it would further inland, so chips that look intact on the surface can crumble the moment they're touched. We factor that into how aggressively we contain a work area here, especially on exterior siding and porch ceilings, where paint that looks stable during the initial walkthrough can start shedding dust within minutes of light scraping.
 
-If you're planning a renovation on an older Moss Point property, or you've just noticed peeling paint on trim, window sills, or a porch ceiling, get it tested before anyone starts sanding. HomeLyft Restoration MS handles lead paint testing and abatement for homes throughout Moss Point and the surrounding Jackson County area, and we can walk you through what a compliant work plan looks like before the first sheet of poly goes up.
+If you're planning a renovation on an older Moss Point property, or you've just noticed peeling paint on trim, window sills, or a porch ceiling, get it tested before anyone starts sanding. HomeLyft Restoration Gulfport handles lead paint testing and abatement for homes throughout Moss Point and the surrounding Jackson County area, and we can walk you through what a compliant work plan looks like before the first sheet of poly goes up.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Removal & Cleanup in Pearlington, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Water Removal & Cleanup in Pearlington, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Water Removal & Cleanup in Pearlington"
 meta_description: "24/7 emergency water removal & cleanup in Pearlington, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency water removal & cleanup pearlington"
@@ -42,4 +42,4 @@ A large share of Pearlington sits in a FEMA-mapped flood zone, so many homeowner
 
 On pier-and-beam homes around Pearlington, we routinely find that a kitchen or bathroom leak reads dry on the finished floor within a day, while the crawlspace underneath stays saturated for a week or more because the vapor barrier traps moisture against the soil. We always pull access panels and check the crawlspace directly rather than relying on surface readings alone, since that hidden moisture is what drives mold growth and subfloor rot if it's missed.
 
-Water sitting under a Pearlington home or spreading across a flooded floor needs extraction before it settles into framing and insulation, not after. Call HomeLyft Restoration MS at (228) 284-5200 for emergency water removal and cleanup, and we'll get a crew moving toward Hancock County right away.
+Water sitting under a Pearlington home or spreading across a flooded floor needs extraction before it settles into framing and insulation, not after. Call HomeLyft Restoration Gulfport at (228) 284-5200 for emergency water removal and cleanup, and we'll get a crew moving toward Hancock County right away.

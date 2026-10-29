@@ -4,15 +4,15 @@
 
 export const brand = {
   slug: "homelyft-restoration-ms",
-  displayName: "HomeLyft Restoration MS",
-  shortName: "HomeLyft Restoration MS",
-  legalName: "HomeLyft Restoration MS",
+  displayName: "HomeLyft Restoration Gulfport",
+  shortName: "HomeLyft Restoration Gulfport",
+  legalName: "HomeLyft Restoration",
   // Registered DBA / trade name — filled by rename_site_sync.py the moment
   // the state approves the client's DBA filing (empty until then). When set,
   // the footer carries the "[legal] doing business as [DBA]" line and schema
   // declares it as the business name, so Google/BrightLocal find the new
   // name corroborated on the site before and during the GBP rename.
-  dbaName: "",
+  dbaName: "HomeLyft Restoration Gulfport-24/7 Emergency Plumbing, Water & Fire Restoration",
   domain: "homelyft.net",
   canonicalUrl: "https://homelyft.net",
   phone: "+12282845200",
@@ -89,7 +89,7 @@ export const brand = {
   tradeNoun: "restoration",
   specialistPhrase: "Damage Restoration Specialists",
   announcementSuffix: "24/7 Emergency Response",
-  homeAboutBlurb: "HomeLyft Restoration MS serves Gulfport and the surrounding MS area with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery — and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
+  homeAboutBlurb: "HomeLyft Restoration Gulfport serves Gulfport and the surrounding MS area with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery — and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
 } as const;
 
 export const entityId = `${brand.canonicalUrl}/#identity`;

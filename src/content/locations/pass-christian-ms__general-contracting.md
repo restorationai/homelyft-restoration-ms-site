@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Pass Christian, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Pass Christian, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Pass Christian"
 meta_description: "Renovations, remodels and general contracting in Pass Christian, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting pass christian"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Pass Christian sits on a narrow strip of Harrison County coastline where Gulf humidity, storm surge history, and a housing stock that includes everything from post-Katrina rebuilds to Victorian-era cottages creates a renovation environment unlike anything you'd find inland. Whether you're gutting a kitchen that's held onto decades of salt-air damage, converting a sun-porch addition that never met current wind-load codes, or starting a full post-damage rebuild after a named storm, the contracting work here demands someone who understands both the craft and the coastal regulatory landscape. HomeLyft Restoration MS brings that combination from our Gulfport base, licensed under Mississippi contractor license #RO 2728.
+Pass Christian sits on a narrow strip of Harrison County coastline where Gulf humidity, storm surge history, and a housing stock that includes everything from post-Katrina rebuilds to Victorian-era cottages creates a renovation environment unlike anything you'd find inland. Whether you're gutting a kitchen that's held onto decades of salt-air damage, converting a sun-porch addition that never met current wind-load codes, or starting a full post-damage rebuild after a named storm, the contracting work here demands someone who understands both the craft and the coastal regulatory landscape. HomeLyft Restoration Gulfport brings that combination from our Gulfport base, licensed under Mississippi contractor license #RO 2728.
 
 ## Why Pass Christian Properties Present Unique Renovation Challenges
 
@@ -46,4 +46,4 @@ One thing that catches out-of-area contractors working in Pass Christian: the ci
 
 If your home sits in or near the historic downtown area, bring that up on your first call with us. It shapes the permit timeline and the material choices from day one.
 
-Ready to talk through your renovation or remodel in Pass Christian? Call HomeLyft Restoration MS at +12282845200 to schedule a walk-through. We'll give you a straight assessment of what the project involves, what the local code requirements mean for your specific address, and what a realistic timeline looks like, no pressure, no guesswork.
+Ready to talk through your renovation or remodel in Pass Christian? Call HomeLyft Restoration Gulfport at +12282845200 to schedule a walk-through. We'll give you a straight assessment of what the project involves, what the local code requirements mean for your specific address, and what a realistic timeline looks like, no pressure, no guesswork.

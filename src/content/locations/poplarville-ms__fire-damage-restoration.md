@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Poplarville, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Fire Damage Restoration in Poplarville, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Fire Damage Restoration in Poplarville"
 meta_description: "24/7 emergency fire damage restoration in Poplarville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "fire damage restoration poplarville"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Fire damage emergency in Poplarville? We answer 24/7.** Call now and our crew heads out to secure the property and start the recovery.
 
-When fire moves through a home in Poplarville, it rarely travels alone. The humid Gulf Coast air that hangs over Pearl River County year-round means smoke residue clings harder, odors penetrate deeper into wood framing and insulation, and secondary moisture damage from firefighting water can begin within hours, sometimes before the fire marshal has cleared the property. HomeLyft Restoration MS holds IICRC FSRT (Fire & Smoke Restoration) certification and responds to fire damage calls across Poplarville and the surrounding Pearl River County area, bringing the equipment and documentation needed to move a family from crisis to recovery.
+When fire moves through a home in Poplarville, it rarely travels alone. The humid Gulf Coast air that hangs over Pearl River County year-round means smoke residue clings harder, odors penetrate deeper into wood framing and insulation, and secondary moisture damage from firefighting water can begin within hours, sometimes before the fire marshal has cleared the property. HomeLyft Restoration Gulfport holds IICRC FSRT (Fire & Smoke Restoration) certification and responds to fire damage calls across Poplarville and the surrounding Pearl River County area, bringing the equipment and documentation needed to move a family from crisis to recovery.
 
 ## Why Poplarville Properties Face Distinct Fire Damage Challenges
 
@@ -56,4 +56,4 @@ Most standard homeowner's policies cover fire damage restoration, but the docume
 
 Older homes in the Poplarville area that were built before modern electrical codes were adopted often have knob-and-tube or early aluminum wiring that fire investigators flag as a contributing factor in residential fires. After the fire marshal clears the property, we routinely coordinate with a licensed electrician before our crews begin interior work, not because we are required to, but because disturbing compromised wiring during demo can create a second hazard. If your home was built before 1970, mention it when you call so we can plan accordingly.
 
-If your home or business in Poplarville has been affected by fire, the hours immediately after the event are the most consequential for limiting long-term damage. Call HomeLyft Restoration MS at +12282845200 to schedule an assessment and get a documented scope of work in front of your insurance adjuster as quickly as possible.
+If your home or business in Poplarville has been affected by fire, the hours immediately after the event are the most consequential for limiting long-term damage. Call HomeLyft Restoration Gulfport at +12282845200 to schedule an assessment and get a documented scope of work in front of your insurance adjuster as quickly as possible.

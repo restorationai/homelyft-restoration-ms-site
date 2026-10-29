@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Gautier, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Board-Up and Tarping in Gautier, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Board-Up and Tarping in Gautier"
 meta_description: "24/7 emergency board-up and tarping in Gautier, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency board-up and tarping gautier"
@@ -52,4 +52,4 @@ We provide all of that as a standard part of every job. We've worked with the ma
 
 One thing that catches out-of-area contractors working in Gautier: the soil conditions near the Pascagoula River floodplain mean that ground saturation after heavy rain can make ladder and equipment staging genuinely hazardous on properties with soft yards or unpaved side access. We keep track of which neighborhoods are more likely to have this issue after significant rainfall events and plan accordingly, bringing ground protection boards when the job address suggests soft-ground conditions rather than discovering the problem on arrival.
 
-If your Gautier home has taken storm or fire damage and you need openings secured before the next weather system moves through, call HomeLyft Restoration MS at +12282845200. We'll give you a straight answer on timing, materials, and what your insurer will need to see, no runaround, no upsell pressure, just the work done right so the rest of the restoration process starts from a protected structure.
+If your Gautier home has taken storm or fire damage and you need openings secured before the next weather system moves through, call HomeLyft Restoration Gulfport at +12282845200. We'll give you a straight answer on timing, materials, and what your insurer will need to see, no runaround, no upsell pressure, just the work done right so the rest of the restoration process starts from a protected structure.

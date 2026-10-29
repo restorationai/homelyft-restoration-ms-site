@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Hattiesburg, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Hattiesburg, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Hattiesburg"
 meta_description: "Carpet cleaning in Hattiesburg, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning hattiesburg"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-Hattiesburg's humid subtropical climate, long, muggy summers and mild but damp winters, creates conditions that carpets absorb like a sponge. Red clay soil from the Piney Woods region tracks in on shoes year-round, and the moisture that lingers from spring thunderstorms works its way into carpet fibers long before you can smell it. HomeLyft Restoration MS brings IICRC-certified carpet cleaning to Hattiesburg homes and businesses, addressing the specific grime patterns this part of Mississippi actually produces, not a one-size-fits-all approach borrowed from a drier climate.
+Hattiesburg's humid subtropical climate, long, muggy summers and mild but damp winters, creates conditions that carpets absorb like a sponge. Red clay soil from the Piney Woods region tracks in on shoes year-round, and the moisture that lingers from spring thunderstorms works its way into carpet fibers long before you can smell it. HomeLyft Restoration Gulfport brings IICRC-certified carpet cleaning to Hattiesburg homes and businesses, addressing the specific grime patterns this part of Mississippi actually produces, not a one-size-fits-all approach borrowed from a drier climate.
 
 ## Why Hattiesburg Properties See Persistent Carpet Problems
 
@@ -44,7 +44,7 @@ For commercial carpet cleaning, offices, medical suites, apartment common areas,
 
 ## Reaching Hattiesburg from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport and regularly serves the Hattiesburg market via US-49 North. The drive puts our crews in the greater Hattiesburg area for scheduled appointments, and we coordinate arrival windows when you call to book. If your property is on the north or west side of the city, let our scheduling team know, routing through US-98 or Hardy Street often makes more sense depending on traffic, and we plan accordingly so equipment arrives ready to work rather than delayed.
+HomeLyft Restoration Gulfport is headquartered in Gulfport and regularly serves the Hattiesburg market via US-49 North. The drive puts our crews in the greater Hattiesburg area for scheduled appointments, and we coordinate arrival windows when you call to book. If your property is on the north or west side of the city, let our scheduling team know, routing through US-98 or Hardy Street often makes more sense depending on traffic, and we plan accordingly so equipment arrives ready to work rather than delayed.
 
 ## Equipment & Methods We Use for Carpet
 
@@ -56,4 +56,4 @@ For carpet sanitization, a common request in rental properties and homes with pe
 
 One pattern we see repeatedly in Hattiesburg properties: homes built on slab foundations in subdivisions developed during the 1980s and 1990s often have carpet installed directly over concrete with a thin foam pad. During wet seasons, that concrete slab can wick ground moisture upward, and the pad holds it against the carpet backing for weeks. Homeowners notice a musty smell they assume is coming from the walls, but the source is often the carpet itself. A thorough extraction followed by aggressive drying with air movers usually resolves the odor without carpet replacement, but only if the underlying moisture source (poor exterior grading, gutter drainage issues) is also addressed. We flag this when we see it so you are not cleaning the same carpet twice.
 
-For a professional carpet cleaning appointment in Hattiesburg, call HomeLyft Restoration MS at **+1 (228) 284-5200**. We will assess your carpet type, soiling level, and drying conditions before we begin, and leave you with a realistic timeline for when the floor will be ready to use again.
+For a professional carpet cleaning appointment in Hattiesburg, call HomeLyft Restoration Gulfport at **+1 (228) 284-5200**. We will assess your carpet type, soiling level, and drying conditions before we begin, and leave you with a realistic timeline for when the floor will be ready to use again.

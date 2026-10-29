@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in Sandersville | HomeLyft Restoration MS"
+title: "Emergency Sewage Cleanup and Sanitization in Sandersville | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Sandersville"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Sandersville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "sewage cleanup and sanitization sandersville"
@@ -37,7 +37,7 @@ After sanitization, structural drying begins. In Sandersville's climate, ambient
 
 ## Reaching Sandersville from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport, and Sandersville calls are routed through our dispatch team for scheduling. Because Sandersville is an interior Mississippi community rather than a coastal market, we coordinate logistics carefully to make sure the right equipment and crew arrive together, there is no benefit to a fast truck that shows up without the extraction or drying capacity the job requires. When you call +12282845200, our team will confirm scheduling details and give you a clear arrival window so you are not left waiting without information. While we are traveling, we can walk you through immediate steps: stop using water in the structure, avoid the contaminated area, and if the backup originated from a municipal line, notify the city public works department to document the event.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and Sandersville calls are routed through our dispatch team for scheduling. Because Sandersville is an interior Mississippi community rather than a coastal market, we coordinate logistics carefully to make sure the right equipment and crew arrive together, there is no benefit to a fast truck that shows up without the extraction or drying capacity the job requires. When you call +12282845200, our team will confirm scheduling details and give you a clear arrival window so you are not left waiting without information. While we are traveling, we can walk you through immediate steps: stop using water in the structure, avoid the contaminated area, and if the backup originated from a municipal line, notify the city public works department to document the event.
 
 ## Sandersville Insurance Coordination
 
@@ -47,4 +47,4 @@ Sewage backup coverage is one of the more misunderstood line items in a standard
 
 One pattern we have seen in older Sandersville-area homes with pier-and-beam construction: when a sewage backup saturates the crawl space, the vapor barrier, if one exists at all, often traps contaminated moisture against the soil rather than containing it. Removing and replacing that barrier is a step some contractors skip, but leaving degraded plastic sheeting soaked with Category 3 water in an enclosed crawl space creates an ongoing odor and microbial problem that surfaces months later. In this part of Mississippi, where crawl spaces are common and ventilation is limited, that detail matters.
 
-If sewage has backed up into your Sandersville home or property, the sooner extraction begins, the less structural material ends up in a dumpster. Call HomeLyft Restoration MS at +12282845200 to schedule an assessment and get a clear picture of what the cleanup involves before committing to anything.
+If sewage has backed up into your Sandersville home or property, the sooner extraction begins, the less structural material ends up in a dumpster. Call HomeLyft Restoration Gulfport at +12282845200 to schedule an assessment and get a clear picture of what the cleanup involves before committing to anything.

@@ -75,4 +75,4 @@ If a professional inspection confirms active mold growth beyond a small, isolate
 
 A proper remediation follows containment protocols to prevent cross-contamination, removes affected porous materials rather than treating them in place, and addresses the underlying moisture issue. After work is complete, post-remediation air sampling confirms that spore counts have returned to normal levels before the space is reopened.
 
-If you're at that stage, or if you're still trying to determine whether you are, HomeLyft Restoration MS handles both professional mold inspection and full remediation for properties across the Gulfport area. Call **(228) 284-5200** to talk through what you're seeing and get a straight answer on next steps.
+If you're at that stage, or if you're still trying to determine whether you are, HomeLyft Restoration Gulfport handles both professional mold inspection and full remediation for properties across the Gulfport area. Call **(228) 284-5200** to talk through what you're seeing and get a straight answer on next steps.

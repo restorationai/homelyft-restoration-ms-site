@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Helena, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Fire Damage Restoration in Helena, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Fire Damage Restoration in Helena"
 meta_description: "24/7 emergency fire damage restoration in Helena, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "fire damage restoration helena"
@@ -47,7 +47,7 @@ Once the scope is agreed upon, the process moves through four phases:
 
 ## Reaching Helena from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport, and Helena sits in the Delta region of the state, a meaningful distance. We want to be straightforward about that geography: we schedule Helena-area jobs with advance coordination rather than implying we are around the corner. When you call, our team will give you an honest arrival window and, where possible, dispatch the crew with the right equipment pre-loaded for the specific job scope so that no time is lost on a return trip for materials. For Helena properties, that typically means arriving with both structural drying equipment and fire-specific cleaning supplies staged together.
+HomeLyft Restoration Gulfport is headquartered in Gulfport, and Helena sits in the Delta region of the state, a meaningful distance. We want to be straightforward about that geography: we schedule Helena-area jobs with advance coordination rather than implying we are around the corner. When you call, our team will give you an honest arrival window and, where possible, dispatch the crew with the right equipment pre-loaded for the specific job scope so that no time is lost on a return trip for materials. For Helena properties, that typically means arriving with both structural drying equipment and fire-specific cleaning supplies staged together.
 
 ## Helena Insurance Coordination
 
@@ -57,4 +57,4 @@ Fire damage claims in Mississippi are governed by the same standard homeowner's 
 
 One thing that comes up specifically in Helena and the surrounding Phillips County area: many older homes here were built with heart pine framing, an extremely dense, resinous wood that was common in Delta construction through the mid-1900s. Heart pine is remarkably durable, but it holds smoke odor tenaciously because of its high resin content. Standard odor-blocking primers that work fine on modern pine or OSB often fail on heart pine after a fire. Our technicians account for this by using encapsulant-grade sealers rated for resinous substrates before any finish coat goes on, skipping that step is one of the most common reasons a fire-restored home still smells like smoke six months later.
 
-If your Helena home has been through a fire, whether the damage is confined to one room or has spread through the structure, call HomeLyft Restoration MS at +1 (228) 284-5200. We will walk you through what the assessment involves, give you a realistic picture of the restoration timeline, and get the documentation started so your insurance claim moves forward without unnecessary delays.
+If your Helena home has been through a fire, whether the damage is confined to one room or has spread through the structure, call HomeLyft Restoration Gulfport at +1 (228) 284-5200. We will walk you through what the assessment involves, give you a realistic picture of the restoration timeline, and get the documentation started so your insurance claim moves forward without unnecessary delays.

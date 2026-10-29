@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Moss Point, MS | HomeLyft Restoration MS"
+title: "Upholstery Cleaning in Moss Point, MS | HomeLyft Restoration Gulfport"
 h1: "Upholstery Cleaning in Moss Point"
 meta_description: "24/7 upholstery cleaning in Moss Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "upholstery cleaning moss point"
@@ -42,4 +42,4 @@ For fabric upholstery we use hot water extraction equipment designed for furnitu
 
 One thing that catches people off guard: furniture kept in Moss Point sunrooms or on covered porches, which is common given how many homes here are built to take advantage of the river breeze, often looks fine on the surface but has moisture sitting deep in the cushion foam underneath. We check foam density and moisture level before cleaning rather than just the visible fabric, because adding steam or water on top of foam that's already damp can push a piece toward mildew instead of away from it.
 
-If your sofa, sectional, or leather chair in Moss Point is holding onto odor, feeling damp to the touch, or just due for a deep clean after a humid summer, give HomeLyft Restoration MS a call at (228) 284-5200 to get a cleaning scheduled around your household's routine.
+If your sofa, sectional, or leather chair in Moss Point is holding onto odor, feeling damp to the touch, or just due for a deep clean after a humid summer, give HomeLyft Restoration Gulfport a call at (228) 284-5200 to get a cleaning scheduled around your household's routine.

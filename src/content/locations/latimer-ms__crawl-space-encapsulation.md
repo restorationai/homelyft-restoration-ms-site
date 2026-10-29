@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Latimer, MS | HomeLyft Restoration MS"
+title: "Crawl Space Encapsulation in Latimer, MS | HomeLyft Restoration Gulfport"
 h1: "Crawl Space Encapsulation in Latimer"
 meta_description: "Crawl space encapsulation in Latimer, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "crawl space encapsulation latimer"
@@ -48,4 +48,4 @@ All work is documented with before-and-after photos and moisture readings, which
 
 One pattern we see consistently in Harrison County crawl spaces: homes built on sloped lots where one side of the foundation is partially below grade tend to accumulate water at that low corner even when the rest of the crawl space is relatively dry. The clay soil channels water toward the lowest point of the foundation perimeter. In these situations, encapsulation alone isn't always sufficient, a French drain or interior perimeter drain channel needs to be installed first to redirect water before the barrier goes down. Skipping that step and encapsulating over a wet corner is a mistake that shows up within one rainy season. We assess drainage conditions before any material goes in, not after.
 
-If you're noticing musty odors coming through your floors, higher-than-usual humidity inside the home during summer, or floors that feel soft or springy in spots, the crawl space is worth a close look. HomeLyft Restoration MS serves Latimer and the surrounding Harrison County area from our Gulfport base. Call **+1 (228) 284-5200** to schedule an inspection, we'll give you a straight assessment of what's under your home and what it will take to keep it dry.
+If you're noticing musty odors coming through your floors, higher-than-usual humidity inside the home during summer, or floors that feel soft or springy in spots, the crawl space is worth a close look. HomeLyft Restoration Gulfport serves Latimer and the surrounding Harrison County area from our Gulfport base. Call **+1 (228) 284-5200** to schedule an inspection, we'll give you a straight assessment of what's under your home and what it will take to keep it dry.

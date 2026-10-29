@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Sandersville, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Sandersville, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Sandersville"
 meta_description: "Carpet cleaning in Sandersville, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning sandersville"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-Sandersville sits in the heart of Mississippi, where long humid summers and mild but damp winters create near-perfect conditions for carpet fibers to trap red clay soil, mildew odors, and allergens year-round. That combination, sticky Gulf-influenced humidity pushing inland and the region's iron-rich dirt tracking in from unpaved shoulders and rural driveways, means carpets here work harder than they would in a drier climate. HomeLyft Restoration MS brings IICRC-certified deep cleaning methods specifically calibrated for that reality, not a one-size-fits-all truck-mount package.
+Sandersville sits in the heart of Mississippi, where long humid summers and mild but damp winters create near-perfect conditions for carpet fibers to trap red clay soil, mildew odors, and allergens year-round. That combination, sticky Gulf-influenced humidity pushing inland and the region's iron-rich dirt tracking in from unpaved shoulders and rural driveways, means carpets here work harder than they would in a drier climate. HomeLyft Restoration Gulfport brings IICRC-certified deep cleaning methods specifically calibrated for that reality, not a one-size-fits-all truck-mount package.
 
 ## Why Sandersville Properties See Stubborn Carpet Problems
 
@@ -36,7 +36,7 @@ Office buildings, retail spaces, and rental properties in the area deal with a s
 
 ## Reaching Sandersville from Gulfport
 
-HomeLyft Restoration MS is headquartered in Gulfport and serves communities across Mississippi, including Sandersville. Scheduling is handled by phone at +12282845200, call to confirm appointment windows and get an honest arrival estimate based on current routing and crew availability. We don't publish minute-based response guarantees we can't back up; what we can tell you is that jobs are scheduled with realistic drive-time buffers so crews arrive ready to work, not rushed.
+HomeLyft Restoration Gulfport is headquartered in Gulfport and serves communities across Mississippi, including Sandersville. Scheduling is handled by phone at +12282845200, call to confirm appointment windows and get an honest arrival estimate based on current routing and crew availability. We don't publish minute-based response guarantees we can't back up; what we can tell you is that jobs are scheduled with realistic drive-time buffers so crews arrive ready to work, not rushed.
 
 ## Local Note
 
@@ -46,4 +46,4 @@ One pattern we've noticed working in Sandersville and the surrounding Jones Coun
 
 For households with allergy sufferers, young children, or pets, sanitization goes beyond soil removal. We apply an EPA-registered antimicrobial treatment after extraction that targets bacteria and mold spores embedded in the pile, particularly relevant in Sandersville's climate where spore counts in outdoor air are elevated through much of the year. This step also neutralizes the organic compounds that cause pet odors rather than masking them with fragrance. The treatment is safe for re-occupancy once the carpet is dry, typically within two to four hours depending on ambient conditions and airflow.
 
-If your carpets are holding onto that distinctive damp-summer smell or you're seeing traffic lanes that won't vacuum out, call HomeLyft Restoration MS at +12282845200. We'll assess what's actually going on with your carpet in Sandersville and give you a straight answer on what cleaning can fix and what it can't.
+If your carpets are holding onto that distinctive damp-summer smell or you're seeing traffic lanes that won't vacuum out, call HomeLyft Restoration Gulfport at +12282845200. We'll assess what's actually going on with your carpet in Sandersville and give you a straight answer on what cleaning can fix and what it can't.

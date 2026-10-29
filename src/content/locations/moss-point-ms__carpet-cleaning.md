@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Moss Point, MS | HomeLyft Restoration MS"
+title: "Carpet Cleaning in Moss Point, MS | HomeLyft Restoration Gulfport"
 h1: "Carpet Cleaning in Moss Point"
 meta_description: "Carpet cleaning in Moss Point, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "carpet cleaning moss point"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-Moss Point sits at the confluence of the Escatawba and Pascagoula rivers, and that geography does something specific to carpets here: the air stays thick with humidity for most of the year, and when Gulf moisture pushes inland, especially after storm systems roll through Jackson County, carpet fibers hold onto that dampness in ways that accelerate odor, matting, and microbial growth. If your carpets smell musty even after a dry spell, or if traffic lanes look dingy no matter how often you vacuum, the local climate is likely working against you. HomeLyft Restoration MS brings IICRC-certified deep cleaning methods calibrated for exactly these conditions, serving Moss Point homeowners and commercial properties from our Gulfport base.
+Moss Point sits at the confluence of the Escatawba and Pascagoula rivers, and that geography does something specific to carpets here: the air stays thick with humidity for most of the year, and when Gulf moisture pushes inland, especially after storm systems roll through Jackson County, carpet fibers hold onto that dampness in ways that accelerate odor, matting, and microbial growth. If your carpets smell musty even after a dry spell, or if traffic lanes look dingy no matter how often you vacuum, the local climate is likely working against you. HomeLyft Restoration Gulfport brings IICRC-certified deep cleaning methods calibrated for exactly these conditions, serving Moss Point homeowners and commercial properties from our Gulfport base.
 
 ## Why Moss Point Carpets Face a Tougher Fight
 
@@ -52,4 +52,4 @@ One pattern we've noticed in Moss Point specifically: homes that sit on pier-and
 
 If your home has this foundation type and you've had repeated issues with musty-smelling carpet despite cleaning, the fix may involve addressing crawl space ventilation alongside the carpet service itself, something worth discussing when you call.
 
-Ready to get Moss Point's humidity and soil out of your carpets for good? Call HomeLyft Restoration MS at +12282845200 to schedule your carpet cleaning appointment. We'll assess your specific fiber type, soil load, and foundation conditions before we start, because in this climate, a one-size approach leaves too much behind.
+Ready to get Moss Point's humidity and soil out of your carpets for good? Call HomeLyft Restoration Gulfport at +12282845200 to schedule your carpet cleaning appointment. We'll assess your specific fiber type, soil load, and foundation conditions before we start, because in this climate, a one-size approach leaves too much behind.

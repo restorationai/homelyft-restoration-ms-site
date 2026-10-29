@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Removal & Cleanup in Pass Christian, MS | HomeLyft Restoration MS"
+title: "24/7 Emergency Water Removal & Cleanup in Pass Christian, MS | HomeLyft Restoration Gulfport"
 h1: "24/7 Emergency Water Removal & Cleanup in Pass Christian"
 meta_description: "24/7 emergency water removal & cleanup in Pass Christian, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "emergency water removal & cleanup pass christian"
@@ -20,7 +20,7 @@ state: "MS"
 service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
-**Standing water in your Pass Christian home or business?** Call HomeLyft Restoration MS now, we answer 24/7 and send an IICRC-trained crew to start extraction before a burst pipe, roof leak, or storm surge backup turns into a mold problem. Pass Christian's close proximity to the Gulf and its mix of raised historic cottages and newer elevated construction both create their own water removal challenges, and the sooner a crew pulls standing water from flooring and wall cavities, the less structural drying you'll need later.
+**Standing water in your Pass Christian home or business?** Call HomeLyft Restoration Gulfport now, we answer 24/7 and send an IICRC-trained crew to start extraction before a burst pipe, roof leak, or storm surge backup turns into a mold problem. Pass Christian's close proximity to the Gulf and its mix of raised historic cottages and newer elevated construction both create their own water removal challenges, and the sooner a crew pulls standing water from flooring and wall cavities, the less structural drying you'll need later.
 
 ## Why Pass Christian Properties See Water Removal Emergencies
 
@@ -42,4 +42,4 @@ Because so much of Pass Christian sits in a FEMA-mapped flood zone, many homeown
 
 Many of Pass Christian's older cottages and cottages rebuilt in the historic style after Katrina use board-and-batten or shiplap siding over open stud cavities rather than modern insulated wall assemblies. That construction actually helps us: there's less insulation to pull and replace, but it also means a wall that looks dry at the surface can still be wicking moisture up from a sill plate that sat in water for hours, so we check sill and band joist moisture on every extraction call in the historic district even when the homeowner hasn't noticed a problem there yet.
 
-If water is spreading across your floors right now, don't wait for it to find its way into the walls. HomeLyft Restoration MS is on call around the clock for emergency water removal and cleanup across Pass Christian, from pier-elevated homes near the harbor to slab-built properties further from the water, and getting a crew on-site quickly is the single biggest factor in what you save.
+If water is spreading across your floors right now, don't wait for it to find its way into the walls. HomeLyft Restoration Gulfport is on call around the clock for emergency water removal and cleanup across Pass Christian, from pier-elevated homes near the harbor to slab-built properties further from the water, and getting a crew on-site quickly is the single biggest factor in what you save.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Wade, MS | HomeLyft Restoration MS"
+title: "Renovations, Remodels and General Contracting in Wade, MS | HomeLyft Restoration Gulfport"
 h1: "Renovations, Remodels and General Contracting in Wade"
 meta_description: "Renovations, remodels and general contracting in Wade, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "renovations, remodels and general contracting wade"
@@ -38,10 +38,10 @@ For post-damage rebuilds, situations where water intrusion, fire, or storm damag
 
 ## Reaching Wade from Our Gulfport Base
 
-HomeLyft Restoration MS operates out of Gulfport, and Wade is accessible via US-49 North through Hattiesburg, a route our crews run regularly for Forrest County projects. For renovation and remodeling work, scheduling is coordinated in advance so crews arrive with the right materials and subcontractors staged appropriately. We don't treat Wade as a remote outpost; Forrest County is a consistent part of our service area, and project managers stay in contact with clients throughout the build rather than leaving homeowners to chase updates.
+HomeLyft Restoration Gulfport operates out of Gulfport, and Wade is accessible via US-49 North through Hattiesburg, a route our crews run regularly for Forrest County projects. For renovation and remodeling work, scheduling is coordinated in advance so crews arrive with the right materials and subcontractors staged appropriately. We don't treat Wade as a remote outpost; Forrest County is a consistent part of our service area, and project managers stay in contact with clients throughout the build rather than leaving homeowners to chase updates.
 
 ## Local Note
 
 One thing contractors unfamiliar with this part of Mississippi sometimes underestimate: the clay-heavy soil common in Forrest County expands and contracts significantly with seasonal rainfall, and that movement telegraphs into slab foundations and pier-and-beam structures alike. In Wade-area homes on pier-and-beam foundations, it's worth checking for floor joist deflection and shimming needs before laying new flooring, tile especially will crack within a year if the subfloor isn't stable. We factor that inspection into every flooring-related remodel scope in this area, because fixing it after the tile is set costs three times as much as addressing it before.
 
-If you're planning a renovation, remodel, or rebuild in Wade and want a contractor who knows what's behind these walls before the first cut is made, call HomeLyft Restoration MS at +12282845200. We'll schedule a walkthrough, give you an honest scope, and build it right the first time.
+If you're planning a renovation, remodel, or rebuild in Wade and want a contractor who knows what's behind these walls before the first cut is made, call HomeLyft Restoration Gulfport at +12282845200. We'll schedule a walkthrough, give you an honest scope, and build it right the first time.

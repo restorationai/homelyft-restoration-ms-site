@@ -89,4 +89,4 @@ A restoration contractor can also communicate directly with your insurance carri
 
 ---
 
-If you're sorting through a water loss right now and trying to figure out what's covered and what comes next, the team at HomeLyft Restoration MS works with homeowners across the Gulfport area through the entire process, from initial drying through the rebuild. Call **+1 (228) 284-5200** to talk through what you're dealing with.
+If you're sorting through a water loss right now and trying to figure out what's covered and what comes next, the team at HomeLyft Restoration Gulfport works with homeowners across the Gulfport area through the entire process, from initial drying through the rebuild. Call **+1 (228) 284-5200** to talk through what you're dealing with.

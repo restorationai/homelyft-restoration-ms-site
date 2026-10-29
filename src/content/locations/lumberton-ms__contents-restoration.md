@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in Lumberton, MS | HomeLyft Restoration MS"
+title: "Contents Restoration and Storage in Lumberton, MS | HomeLyft Restoration Gulfport"
 h1: "Contents Restoration and Storage in Lumberton"
 meta_description: "Contents restoration and storage in Lumberton, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "contents restoration and storage lumberton"
@@ -38,7 +38,7 @@ Once the home is cleared and rebuilt, contents are returned, unwrapped, and plac
 
 ## Reaching Lumberton from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport and serves Lumberton and the surrounding Lamar County area. The drive up U.S. Highway 98 is a straightforward route that keeps our team connected to this part of the state. When you call to schedule, we coordinate arrival around your availability and the urgency of the situation, prompt scheduling helps prevent further deterioration of belongings still inside a damaged space. If contents are already at risk from ongoing moisture or odor exposure, let us know when you call (+12282845200) so we can prioritize accordingly.
+HomeLyft Restoration Gulfport is based in Gulfport and serves Lumberton and the surrounding Lamar County area. The drive up U.S. Highway 98 is a straightforward route that keeps our team connected to this part of the state. When you call to schedule, we coordinate arrival around your availability and the urgency of the situation, prompt scheduling helps prevent further deterioration of belongings still inside a damaged space. If contents are already at risk from ongoing moisture or odor exposure, let us know when you call (+12282845200) so we can prioritize accordingly.
 
 ## Local Note: What Lumberton's Climate Does to Stored Belongings
 
@@ -48,4 +48,4 @@ One pattern that comes up repeatedly in Lamar County jobs: homeowners who store 
 
 Contents losses are often the most contested part of a property insurance claim because adjusters want documentation and homeowners rarely have it. Our itemized inventory, with photographs, condition notes, and replacement-cost references, gives your adjuster the paper trail needed to process the claim accurately. We work with most major carriers and can bill directly in many cases, reducing the out-of-pocket burden while the claim is being processed. If your policy includes additional living expenses or off-site storage coverage, we can help you understand how that applies to the pack-out and storage portion of the job.
 
-When you're ready to move forward, call HomeLyft Restoration MS at +12282845200. We'll walk through what's affected, explain what's realistically restorable, and get your belongings into safe, climate-controlled storage while your Lumberton home is brought back to livable condition.
+When you're ready to move forward, call HomeLyft Restoration Gulfport at +12282845200. We'll walk through what's affected, explain what's realistically restorable, and get your belongings into safe, climate-controlled storage while your Lumberton home is brought back to livable condition.

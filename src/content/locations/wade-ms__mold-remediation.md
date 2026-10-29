@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Wade, MS | HomeLyft Restoration MS"
+title: "Mold Remediation in Wade, MS | HomeLyft Restoration Gulfport"
 h1: "Mold Remediation in Wade"
 meta_description: "Mold remediation in Wade, MS. IICRC-certified, insurance billing accepted. Call +12282845200."
 primary_keyword: "mold remediation wade"
@@ -36,7 +36,7 @@ Affected materials, drywall, insulation, subflooring, wood framing, are removed 
 
 ## Reaching Wade from Gulfport
 
-HomeLyft Restoration MS is based in Gulfport, and our crews travel regularly to Forrest County for water damage and mold work. Wade is accessible via US-49 North, and we schedule site visits and remediation starts to minimize the impact of that drive on your project timeline. When you call to describe the situation, we'll give you an honest estimate of when a crew can be on-site, and we won't pad that number. Prompt scheduling matters because every additional day of elevated humidity in a contained space extends the remediation scope.
+HomeLyft Restoration Gulfport is based in Gulfport, and our crews travel regularly to Forrest County for water damage and mold work. Wade is accessible via US-49 North, and we schedule site visits and remediation starts to minimize the impact of that drive on your project timeline. When you call to describe the situation, we'll give you an honest estimate of when a crew can be on-site, and we won't pad that number. Prompt scheduling matters because every additional day of elevated humidity in a contained space extends the remediation scope.
 
 ## Wade Insurance & HOA Coordination
 
@@ -48,4 +48,4 @@ If your property is part of a homeowners association, some HOA governing documen
 
 One pattern we've seen repeatedly in the Wade area: homes with older pier-and-beam construction often have crawl spaces that were retrofitted with plastic sheeting years ago, but that sheeting has since torn, shifted, or been punctured by pest activity. Homeowners assume the vapor barrier is doing its job because it's "there", but a compromised barrier in Forrest County's wet season is nearly as ineffective as no barrier at all. Before we close out any mold job in a pier-and-beam home here, we inspect the crawl space condition and flag barrier issues in our report, even when the crawl space itself wasn't the primary mold site.
 
-If you're dealing with visible mold growth, a persistent musty odor, or a recent water event in your Wade home, the right move is an inspection before the colony spreads further. Call HomeLyft Restoration MS at (228) 284-5200 to schedule an assessment, the sooner the moisture source is identified, the smaller the remediation scope.
+If you're dealing with visible mold growth, a persistent musty odor, or a recent water event in your Wade home, the right move is an inspection before the colony spreads further. Call HomeLyft Restoration Gulfport at (228) 284-5200 to schedule an assessment, the sooner the moisture source is identified, the smaller the remediation scope.
