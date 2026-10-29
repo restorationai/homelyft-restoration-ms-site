@@ -61,6 +61,25 @@ const services = pinnedServices.length
   <TrustStrip />
   <InsuranceBanner />
 
+  {/* Terry's Biloxi Lighthouse print ad, shown as-is and linked to the
+      contact page (client asked 2026-10-29: "Yes. Thanks." to a homepage
+      banner near the top linking to contact). */}
+  <section class="bg-white py-10 px-4">
+    <a href="/contact/" class="block max-w-2xl mx-auto rounded-lg overflow-hidden shadow-lg ring-1 ring-black/5 transition hover:shadow-xl">
+      <img
+        src="/images/biloxi-lighthouse-ad.webp"
+        srcset="/images/biloxi-lighthouse-ad-480w.webp 480w, /images/biloxi-lighthouse-ad-768w.webp 768w, /images/biloxi-lighthouse-ad-1200w.webp 1200w"
+        sizes="(min-width: 672px) 672px, 100vw"
+        width="1200"
+        height="1532"
+        loading="lazy"
+        decoding="async"
+        alt="HomeLyft Restoration print ad: Biloxi Lighthouse, Coastal Mississippi. This is OUR Home, preserving our heritage. The HomeLyft team is honored to be working with the City of Biloxi to restore the historic Biloxi Lighthouse back to its original condition."
+        class="w-full h-auto"
+      />
+    </a>
+  </section>
+
   {/* Proof section (Santino 2026-10-03): earns "best {trade} company in
       {city}" with the real rating, licenses, certifications and reviews.
       Replaces ReviewsStrip on the homepage (same rating + snippets job). */}
