@@ -19,7 +19,7 @@ When water soaks through your drywall, smoke odor settles into every surface, or
 
 ## Services we handle
 
-**Water damage restoration**, Whether a pipe burst overnight or a slow leak finally gave out under the sink, standing water can reach the subfloor and wall cavities within hours. We extract, dry, and document everything to IICRC S500 standards.
+**Water damage restoration**, Whether a pipe burst overnight or a slow leak finally gave out under the sink, standing water can reach the subfloor and wall cavities within hours. We extract, dry, and document everything to IICRC S500 standards. Choosing a [water damage restoration company](/services/water-damage-restoration/) is easier when you know the process, so we lay it out step by step.
 
 **Fire and smoke damage restoration**, Smoke residue is acidic and keeps corroding surfaces long after the flames are out. We address soot, odor, and structural char, not just what's visibly burned.
 
