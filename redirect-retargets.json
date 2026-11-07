@@ -1,0 +1,176 @@
+{
+ "/service-areas/agricola-ms/water-cleanup": {
+  "planned": "/service-areas/agricola-ms/emergency-water-removal/",
+  "now": "/service-areas/agricola-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/benndale-ms/water-cleanup": {
+  "planned": "/service-areas/benndale-ms/emergency-water-removal/",
+  "now": "/service-areas/benndale-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/big-point-ms/water-cleanup": {
+  "planned": "/service-areas/big-point-ms/emergency-water-removal/",
+  "now": "/service-areas/big-point-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/eastabuchie-ms/water-cleanup": {
+  "planned": "/service-areas/eastabuchie-ms/emergency-water-removal/",
+  "now": "/service-areas/eastabuchie-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/ellisville-ms/water-cleanup": {
+  "planned": "/service-areas/ellisville-ms/emergency-water-removal/",
+  "now": "/service-areas/ellisville-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/escatawpa-ms/water-cleanup": {
+  "planned": "/service-areas/escatawpa-ms/emergency-water-removal/",
+  "now": "/service-areas/escatawpa-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/hattiesburg-ms/water-cleanup": {
+  "planned": "/service-areas/hattiesburg-ms/emergency-water-removal/",
+  "now": "/service-areas/hattiesburg-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/helena-ms/water-cleanup": {
+  "planned": "/service-areas/helena-ms/emergency-water-removal/",
+  "now": "/service-areas/helena-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/hide-a-way-lake-ms/water-cleanup": {
+  "planned": "/service-areas/hide-a-way-lake-ms/emergency-water-removal/",
+  "now": "/service-areas/hide-a-way-lake-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/hurley-ms/water-cleanup": {
+  "planned": "/service-areas/hurley-ms/emergency-water-removal/",
+  "now": "/service-areas/hurley-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/latimer-ms/water-cleanup": {
+  "planned": "/service-areas/latimer-ms/emergency-water-removal/",
+  "now": "/service-areas/latimer-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/laurel-ms/water-cleanup": {
+  "planned": "/service-areas/laurel-ms/emergency-water-removal/",
+  "now": "/service-areas/laurel-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/leakesville-ms/water-cleanup": {
+  "planned": "/service-areas/leakesville-ms/emergency-water-removal/",
+  "now": "/service-areas/leakesville-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lucedale-ms/water-cleanup": {
+  "planned": "/service-areas/lucedale-ms/emergency-water-removal/",
+  "now": "/service-areas/lucedale-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lumberton-ms/water-cleanup": {
+  "planned": "/service-areas/lumberton-ms/emergency-water-removal/",
+  "now": "/service-areas/lumberton-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lyman-ms/water-cleanup": {
+  "planned": "/service-areas/lyman-ms/emergency-water-removal/",
+  "now": "/service-areas/lyman-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/mclain-ms/water-cleanup": {
+  "planned": "/service-areas/mclain-ms/emergency-water-removal/",
+  "now": "/service-areas/mclain-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/moselle-ms/water-cleanup": {
+  "planned": "/service-areas/moselle-ms/emergency-water-removal/",
+  "now": "/service-areas/moselle-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/ovett-ms/water-cleanup": {
+  "planned": "/service-areas/ovett-ms/emergency-water-removal/",
+  "now": "/service-areas/ovett-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/petal-ms/water-cleanup": {
+  "planned": "/service-areas/petal-ms/emergency-water-removal/",
+  "now": "/service-areas/petal-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/picayune-ms/water-cleanup": {
+  "planned": "/service-areas/picayune-ms/emergency-water-removal/",
+  "now": "/service-areas/picayune-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/poplarville-ms/water-cleanup": {
+  "planned": "/service-areas/poplarville-ms/emergency-water-removal/",
+  "now": "/service-areas/poplarville-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/rawls-springs-ms/water-cleanup": {
+  "planned": "/service-areas/rawls-springs-ms/emergency-water-removal/",
+  "now": "/service-areas/rawls-springs-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/sandersville-ms/water-cleanup": {
+  "planned": "/service-areas/sandersville-ms/emergency-water-removal/",
+  "now": "/service-areas/sandersville-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/saucier-ms/water-cleanup": {
+  "planned": "/service-areas/saucier-ms/emergency-water-removal/",
+  "now": "/service-areas/saucier-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/state-line-ms/water-cleanup": {
+  "planned": "/service-areas/state-line-ms/emergency-water-removal/",
+  "now": "/service-areas/state-line-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/vancleave-ms/water-cleanup": {
+  "planned": "/service-areas/vancleave-ms/emergency-water-removal/",
+  "now": "/service-areas/vancleave-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/wade-ms/water-cleanup": {
+  "planned": "/service-areas/wade-ms/emergency-water-removal/",
+  "now": "/service-areas/wade-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/wiggins-ms/water-cleanup": {
+  "planned": "/service-areas/wiggins-ms/emergency-water-removal/",
+  "now": "/service-areas/wiggins-ms/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ }
+}
