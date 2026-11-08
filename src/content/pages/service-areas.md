@@ -1,6 +1,6 @@
 ---
 archetype: "service-areas-hub"
-title: "Service Areas | HomeLyft Restoration Gulfport Restoration"
+title: "Service Areas | HomeLyft Restoration Gulfport"
 h1: "Areas We Serve"
 meta_description: "HomeLyft Restoration Gulfport provides restoration services across Gulfport and the surrounding region. Find your city."
 primary_keyword: "homelyft restoration ms service areas"
