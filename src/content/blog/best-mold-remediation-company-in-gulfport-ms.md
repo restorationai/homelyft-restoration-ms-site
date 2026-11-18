@@ -54,7 +54,7 @@ Restoration 1 is a smaller national restoration franchise that has expanded into
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| HomeLyft Restoration Gulfport | 5.0 | 73 | Yes | Yes |
+| HomeLyft Restoration Gulfport | 5.0 | 74 | Yes | Yes |
 | Servpro (local franchise) | Not listed | Not listed | Not listed | Not listed |
 | Paul Davis (local franchise) | Not listed | Not listed | Not listed | Not listed |
 | Restoration 1 (local franchise) | Not listed | Not listed | Not listed | Not listed |

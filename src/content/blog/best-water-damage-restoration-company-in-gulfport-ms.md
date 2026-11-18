@@ -99,11 +99,11 @@ For a deeper look at what separates good restoration companies from bad ones, se
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| HomeLyft Restoration Gulfport | 5.0 | - | Yes | Yes (WRT, ASD, AMRT, FSRT) |
-| EnviroTech Services, LLC | 5.0 | 65 | - | - |
-| AFS Foundation & Waterproofing Specialists Gulfport | 5.0 | 53 | - | - |
-| PuroClean of Ocean Springs | 4.8 | 42 | - | - |
-| 1-800 WATER DAMAGE of the Mississippi Gulf Coast | 5.0 | 11 | - | - |
+| HomeLyft Restoration Gulfport | 5.0 | 74 | Yes | Yes (WRT, ASD, AMRT, FSRT) |
+| EnviroTech Services, LLC | 5.0 | 65 | Not listed | Not listed |
+| AFS Foundation & Waterproofing Specialists Gulfport | 5.0 | 53 | Not listed | Not listed |
+| PuroClean of Ocean Springs | 4.8 | 42 | Not listed | Not listed |
+| 1-800 WATER DAMAGE of the Mississippi Gulf Coast | 5.0 | 11 | Not listed | Not listed |
 
 *HomeLyft Restoration Gulfport Google review count is not reflected above. 24/7 and IICRC status for competitors is not confirmed and marked accordingly.*
 
